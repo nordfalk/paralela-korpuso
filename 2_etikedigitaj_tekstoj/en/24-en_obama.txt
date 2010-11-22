@@ -1,0 +1,3073 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<book id=24-en_obama.txt>
+
+<s id="47848" source="24-en_obama.txt">
+President=Barack=Obama's 	[President=Barack=Obama] <complex> <Proper> <heur> N S GEN @>N  #1->3
+inaugural 	[inaugural] ADJ POS @>N  #2->3
+address 	[address] <act-s> <S:14> <comp2> <def> <nhead> N S NOM @NPHR  #3->0
+</s>
+
+
+<s id="47849" source="24-en_obama.txt">
+My 	[I] <poss> <det> PERS 1S GEN @>N  #1->3
+fellow 	[fellow] <DA:fyr> <H> <comp1> <S:12> <def> <first> N S NOM @>N  #2->3
+citizens 	[citizen] <DA:medborger> <H> <second> <S:7> <comp2> <def> <nhead> N P NOM @NPHR  #3->0
+$:  #4->0
+</s>
+
+
+<s id="47850" source="24-en_obama.txt">
+I 	[I] PERS 1S NOM @SUBJ>  #1->2
+stand 	[stand] <DA:stå> <va+LOC> <v.contact> <vq> <mv> V PR -3S @FS-STA  #2->0
+here 	[here] <DA:her> <aloc> <advl-close> ADV @<ADVL  #3->2
+today 	[today] <DA:i=dag> <atemp> <advl-close> ADV @<ADVL  #4->2
+humbled 	[humble] <DA:ydmyge> V PCP2 STA @<SC  #5->2
+by 	[by] <DA:per> PRP @<ADVL @A<  #6->2
+the 	[the] <def> ART S/P @>N  #7->8
+task 	[task] <DA:opgave> <act> <S:8> <def> <nhead> N S NOM @P<  #8->6
+before 	[before] <DA:inden> <np-close> PRP @N<  #9->8
+us 	[we] PERS 1P ACC @P<  #10->9
+$, #11->0
+grateful 	[grateful] <DA:taknemmelig> ADJ POS @<PRED @PRED>  #12->2
+for 	[for] <DA:for> PRP @A<  #13->12
+the 	[the] <def> ART S/P @>N  #14->15
+trust 	[trust] <DA:tillid> <f-psych> <HHorg> <S:22> <def> <nhead> N S NOM @P<  #15->13
+you 	[you] <clb> PERS 2S/P NOM @SUBJ>  #16->17
+have 	[have] <DA:have> <v.contact> <aux> <np-close> V PR -3S @FS-N<  #17->15
+bestowed 	[bestow] <DA:tildele> <acc-ellipsis> <mv> V PCP2 AKT @ICL-AUX<  #18->17
+$, #19->0
+mindful 	[mindful] ADJ POS @<PRED  #20->18
+of 	[of] <DA:af> PRP @A<  #21->20
+the 	[the] <def> ART S/P @>N  #22->24
+sacrifices 	[sacrifice] <DA:offer> <act> <event> <S:2> <def> N P NOM @>N  #23->24
+borne 	[borne] <heur> <def> <nhead> N S NOM @P<  #24->21
+by 	[by] <DA:per> <np-close> PRP @N<  #25->24
+our 	[we] <poss> <det> PERS GEN 1P @>N  #26->27
+ancestors 	[ancestors] <def> <nhead> N P NOM @P<  #27->25
+$. #28->0
+</s>
+
+<s id="47851" source="24-en_obama.txt">
+I 	[I] PERS 1S NOM @SUBJ>  #1->2
+thank 	[thank] <DA:takke> <vq> <mv> V PR -3S @FS-STA  #2->0
+President=Bush 	[President=Bush] <complex> <hum> <Proper> <nhead> N S GEN @<ACC  #3->2
+for 	[for] <DA:for> PRP @<PIV  #4->2
+his 	[he] <poss> <det> PERS MASC 3S GEN @>N  #5->6
+service 	[service] <DA:tjeneste> <act> <cc-h> <HHorg> <S:82> <def> <nhead> N S NOM @P<  #6->4
+to 	[to] <DA:til> PRP @<ADVL  #7->2
+our 	[we] <poss> <det> PERS GEN 1P @>N  #8->9
+nation 	[nation] <cjt-head> <DA:nation> <HH> <S:11> <def> <nhead> N S NOM @P<  #9->7
+$, #10->0
+as=well=as 	[as=well=as] <complex> <co-fin> KC @CO  #11->9
+the 	[the] <def> ART S/P @>N  #12->13
+generosity 	[generosity] <cjt> <DA:gavmildhed> <act> <f-psych> <def> <nhead> N S NOM @P<  #13->9
+and 	[and] <DA:og> <co-prparg> KC @CO  #14->9
+cooperation 	[cooperation] <cjt> <act> <S:3> <nhead> N S NOM @P<  #15->9
+he 	[he] PERS MASC 3S NOM @SUBJ>  #16->17
+has 	[have] <cjt> <DA:have> <v.contact> <aux> <np-close> V PR 3S @FS-N<  #17->9
+shown 	[show] <DA:vise> <vq> <v-cog> <acc-ellipsis> <mv> V PCP2 AKT @ICL-AUX<  #18->17
+throughout 	[throughout] <advl-close> PRP @<ADVL  #19->18
+this 	[this] <dem> DET S @>N  #20->21
+transition 	[transition] <DA:transition> <act> <sem-l> <ss> <event> <S:2> <def> <nhead> N S NOM @P<  #21->19
+$. #22->0
+</s>
+
+<s id="47852" source="24-en_obama.txt">
+Forty-four 	[forty-four] <*> <card> NUM P @>N  #1->2
+Americans 	[American] <DA:amerikaner> <ling> <Hnat> <H> <def> <nhead> N P NOM @SUBJ>  #2->3
+have 	[have] <DA:have> <v.contact> <aux> V PR -3S @FS-STA  #3->0
+now 	[now] <DA:nu> <atemp> <advl-close> ADV @<ADVL  #4->5
+taken 	[take] <DA:tage> <v.contact> <mv> V PCP2 AKT @ICL-AUX<  #5->3
+the 	[the] <def> ART S/P @>N  #6->8
+presidential 	[presidential] <DA:præsidentiel> <jpert> ADJ POS @>N  #7->8
+oath 	[oath] <DA:ed> <sem-r> <ss> <def> <nhead> N S NOM @<ACC  #8->5
+$. #9->0
+</s>
+
+<s id="47853" source="24-en_obama.txt">
+The 	[the] <def> ART S/P @>N  #1->2
+words 	[word] <DA:ord> <ac-cat> <act-s> <+s> <S:40> <def> <nhead> N P NOM @SUBJ> 	[Word] <sem-r> <Hmyth> <def> N P NOM @SUBJ>  #2->3
+have 	[have] <DA:have> <v.contact> <aux> V PR -3S @FS-STA  #3->0
+been 	[be] <DA:være> <aux> V PCP2 AKT @ICL-AUX<  #4->3
+spoken 	[speak] <DA:tale> <speak> <mv> V PCP2 PAS @ICL-AUX<  #5->4
+during 	[during] <DA:under> <advl-close> PRP @<ADVL  #6->5
+rising 	[rising] <DA:højnelse> <act> <event> <comp1> N S NOM @>N  #7->8
+tides 	[tide] <event> <S:9> <comp2> <nhead> N P NOM @P<  #8->6
+of 	[of] <DA:af> <np-close> PRP @N<  #9->8
+prosperity 	[prosperity] <cjt-head> <DA:velstand> <sick> N S NOM @P<  #10->9
+and 	[and] <DA:og> KC @CO  #11->10
+the 	[the] <def> ART S/P @>N  #12->14
+still 	[still] <DA:stadigvæk> <atemp> <advl-close> ADV @<ADVL  #13->5
+waters 	[waters] <cjt> <DA:vandmasser> <cm-liq> <def> <nhead> N S NOM @P<  #14->10
+of 	[of] <DA:af> <np-close> PRP @N<  #15->14
+peace 	[peace] <DA:fred> <ss> <f-psych> <sick> <S:6> N S NOM @P<  #16->15
+$. #17->0
+</s>
+
+<s id="47854" source="24-en_obama.txt">
+Yet 	[yet] <DA:endnu> <atemp> ADV @ADVL>  #1->7
+$, #2->0
+every=so=often 	[every=so=often] <complex> ADV @ADVL>  #3->7
+the 	[the] <def> ART S/P @>N  #4->5
+oath 	[oath] <DA:ed> <sem-r> <ss> <def> <nhead> N S NOM @SUBJ>  #5->6
+is 	[be] <DA:være> <aux> V PR 3S @FS-STA  #6->0
+taken 	[take] <DA:tage> <v.contact> <mv> V PCP2 PAS @ICL-AUX<  #7->6
+amidst 	[amidst] <advl-close> PRP @<ADVL  #8->7
+gathering 	[gather] <DA:samle> <vq> <v.contact> <mv> V PCP1 @ICL-P<  #9->8
+clouds 	[cloud] <cjt-head> <DA:sky> <wea-c> <ac> <S:21> N P NOM @<ACC  #10->9
+and 	[and] <DA:og> <co-acc> KC @CO  #11->10
+raging 	[rage] <DA:rase> V PCP1 @>N  #12->13
+storms 	[storm] <cjt> <DA:storm> <act> <wea-wind> <S:11> N P NOM @<ACC  #13->10
+$. #14->0
+</s>
+
+<s id="47855" source="24-en_obama.txt">
+At 	[at] <DA:ved> <pp-temp> PRP @ADVL>  #1->7
+these 	[this] <dem> DET P @>N  #2->3
+moments 	[moment] <DA:øjeblik> <ac-cat> <ac> <temp> <S:7> <def> <nhead> N P NOM @P<  #3->1
+$, #4->0
+America 	[America] <Proper> <Lcountry> <nhead> N S NOM @SUBJ>  #5->6
+has 	[have] <DA:have> <v.contact> <aux> V PR 3S @FS-STA  #6->0
+carried 	[carry] <cjt-head> <DA:transportere> <v.contact> <vta+DIR> <mv> V PCP2 AKT @ICL-AUX<  #7->6
+on 	[on] <DA:frembåren> ADV @MV<  #8->7
+not 	[not] <DA:ikke> ADV @>P  #9->11
+simply 	[simply] <DA:ganske=enkelt> <advl-close> ADV @<ADVL  #10->7
+because=of 	[because=of] <complex> <DA:grundet> <advl-close> PRP @<ADVL  #11->7
+the 	[the] <def> ART S/P @>N  #12->13
+skill 	[skill] <cjt-head> <DA:færdighed> <f-psych> <S:5> <def> <nhead> N S NOM @P<  #13->11
+or 	[or] <DA:eller> <co-prparg> KC @CO  #14->13
+vision 	[vision] <cjt> <DA:vision> <f-psych> <ac-cat> <event> <S:5> <nhead> N S NOM @P<  #15->13
+of 	[of] <DA:af> <np-close> PRP @N<  #16->15
+those 	[that] <dem> INDP P @P<  #17->16
+in 	[in] <DA:i> <advl-close> PRP @<ADVL  #18->7
+high 	[high] <DA:høj> ADJ POS @>N  #19->20
+office 	[office] <DA:lokale> <act> <build> <HHorg> <HHinst> <second> <S:59> <nhead> N S NOM @P<  #20->18
+$, #21->0
+but 	[but] <DA:men> <co-fin> KC @CO  #22->7
+because 	[because] <clb> <DA:for> KS @SUB  #23->27
+we 	[we] <cjt-head> PERS 1P NOM @SUBJ>  #24->27
+the 	[the] <def> ART S/P @>N  #25->26
+people 	[people] <cjt> <H> <def> <nhead> N P NOM @SUBJ>  #26->24
+have 	[have] <cjt> <DA:have> <v.contact> <aux> V PR -3S @FS-<ADVL  #27->7
+remained 	[remain] <DA:forblive> <mv> V PCP2 AKT @ICL-AUX<  #28->27
+faithful 	[faithful] <cjt-head> <DA:tro> <accurate> ADJ POS @<SC  #29->28
+to 	[to] <DA:til> PRP @A<  #30->29
+the 	[the] <def> ART S/P @>N  #31->32
+ideals 	[ideal] <DA:ideal> <sem-c> <S:3> <def> <nhead> N P NOM @P<  #32->30
+of 	[of] <DA:af> <np-close> PRP @N<  #33->32
+our 	[we] <poss> <det> PERS GEN 1P @>N  #34->35
+forebears 	[forebear] <DA:forfader> <Hfam> <def> <nhead> N P NOM @P<  #35->33
+$, #36->0
+and 	[and] <DA:og> <co-sc> KC @CO  #37->29
+true 	[true] <cjt> <DA:egentlig> <accurate> <actual> <ante> ADJ POS @<SC  #38->29
+to 	[to] <DA:til> PRP @A<  #39->38
+our 	[we] <poss> <det> PERS GEN 1P @SUBJ>  #40->41
+founding 	[found] <DA:stifte> <mv> V PCP1 @>N  #41->0
+documents 	[document] <DA:dokument> <sem-w> <ac-sign> <sem-r> <sem> <S:11> <def> N P NOM @<ACC  #42->41
+$. #43->0
+</s>
+
+<s id="47856" source="24-en_obama.txt">
+So 	[so] <DA:så> <aquant> ADV @ADVL>  #1->4
+it 	[it] PERS NEU 3S NOM @SUBJ>  #2->3
+has 	[have] <DA:have> <v.contact> <aux> V PR 3S @FS-STA  #3->0
+been 	[be] <DA:være> <mv> V PCP2 AKT @ICL-AUX<  #4->3
+$. #5->0
+</s>
+
+<s id="47857" source="24-en_obama.txt">
+So 	[so] <DA:så> <aquant> ADV @ADVL>  #1->4
+it 	[it] PERS NEU 3S NOM @SUBJ>  #2->3
+must 	[must] <aux> V PR @FS-STA  #3->0
+be 	[be] <DA:være> <mv> V INF @ICL-AUX<  #4->3
+with 	[with] <DA:med> <pp-temp> PRP @<SC  #5->4
+this 	[this] <dem> DET S @>N  #6->7
+generation 	[generation] <DA:generation> <act> <HH> <HHnat> <per> <S:4> <def> <nhead> N S NOM @P<  #7->5
+of 	[of] <DA:af> <np-close> PRP @N<  #8->7
+Americans 	[American] <DA:amerikaner> <ling> <Hnat> <H> N P NOM @P<  #9->8
+$. #10->0
+</s>
+
+<s id="47858" source="24-en_obama.txt">
+That 	[that] <clb> KS @SUB  #1->3
+we 	[we] PERS 1P NOM @SUBJ>  #2->3
+are 	[be] <DA:være> <mv> V PR -1/3S @FS-SUBJ>  #3->9
+in 	[in] <DA:i> PRP @<SA  #4->3
+the 	[the] <def> ART S/P @>N  #5->6
+midst 	[midst] <L> <def> <nhead> N S NOM @P<  #6->4
+of 	[of] <DA:af> <np-close> PRP @N<  #7->6
+crisis 	[crisis] <DA:krise> <event> <S:17> <nhead> N S NOM @P<  #8->7
+is 	[be] <DA:være> <mv> V PR 3S @FS-STA  #9->0
+now 	[now] <DA:nu> <atemp> <advl-close> ADV @<ADVL  #10->9
+well-understood 	[well-understood] <hyphenadded> ADJ POS @<SC  #11->9
+$. #12->0
+</s>
+
+<s id="47859" source="24-en_obama.txt">
+Our 	[we] <poss> <det> PERS GEN 1P @>N  #1->2
+nation 	[nation] <DA:nation> <HH> <S:11> <def> <nhead> N S NOM @SUBJ>  #2->3
+is 	[be] <DA:være> <mv> V PR 3S @FS-STA  #3->0
+at 	[at] <DA:ved> <pp-temp> PRP @<SA  #4->3
+war 	[war] <DA:krig> <activity> <per> <S:33> N S NOM @P<  #5->4
+$, #6->0
+against 	[against] <insertion> <DA:imod> PRP @<ADVL  #7->3
+a 	[a] <indef> ART S @>N  #8->10
+far-reaching 	[far-reaching] <DA:vidtrækkende> ADJ POS @>N  #9->10
+network 	[network] <DA:netværk> <build> <S:10> <nhead> N S NOM @P<  #10->7
+of 	[of] <DA:af> <np-close> PRP @N<  #11->10
+violence 	[violence] <cjt-head> <DA:vold> <act> <am> <S:4> N S NOM @P<  #12->11
+and 	[and] <DA:og> <co-prparg> KC @CO  #13->12
+hatred 	[hatred] <cjt> <DA:had> <f-psych> <S:3> N S NOM @P<  #14->12
+$. #15->0
+</s>
+
+<s id="47860" source="24-en_obama.txt">
+Our 	[we] <poss> <det> PERS GEN 1P @>N  #1->2
+economy 	[economy] <DA:sparsommelighed> <act> <f-psych> <S:18> <def> <nhead> N S NOM @SUBJ>  #2->3
+is 	[be] <DA:være> <mv> V PR 3S @FS-STA  #3->0
+badly 	[badly] <DA:dårligt> <ADJ:bad+ly> ADV @>A  #4->5
+weakened 	[weakened] <cjt-head> <DA:svækket> <weak> ADJ POS @<SC 	[weaken] <DA:svække> V PCP2 STA @<SC  #5->3
+$, #6->0
+a 	[a] <indef> ART S @>N  #7->8
+consequence 	[consequence] <cjt> <DA:følge> <event> <ac> <nhead> N S NOM @<SC  #8->5
+of 	[of] <DA:af> <np-close> PRP @N<  #9->8
+greed 	[greed] <cjt-head> <DA:grådighed> <f-psych> N S NOM @P<  #10->9
+and 	[and] <DA:og> <co-prparg> KC @CO  #11->10
+irresponsibility 	[irresponsibility] <cjt> <DA:uansvarlighed> <nhead> N S NOM @P<  #12->10
+on 	[on] <cjt-head> <DA:på> PRP @<ADVL  #13->3
+the 	[the] <def> ART S/P @>N  #14->15
+part 	[part] <DA:del> <S:38> <def> <nhead> N S NOM @P<  #15->13
+of 	[of] <DA:af> <np-close> PRP @N<  #16->15
+some 	[some] <quant> DET S/P @P<  #17->16
+$, #18->0
+but 	[but] <DA:men> <clb?> <co-advl> KC @CO  #19->13
+also 	[also] <cjt> <DA:også> <setop> ADV @<ADVL  #20->13
+our 	[we] <poss> <det> PERS GEN 1P @>N  #21->23
+collective 	[collective] <DA:kollektiv> <joint> ADJ POS @>N  #22->23
+failure 	[failure] <cjt> <DA:fiasko> <event> <second> <S:12> <def> <nhead> N S NOM @<SC  #23->5
+to 	[to] <DA:at> INFM @INFM  #24->25
+make 	[make] <cjt-head> <DA:lave> <v.contact> <mv> <np-close> V INF @ICL-N<  #25->23
+hard 	[hard] <DA:hård> <ambitious> <ante> ADJ POS @>N  #26->27
+choices 	[choice] <DA:valg> <act> <ac-cat> <S:4> <nhead> N P NOM @<ACC  #27->25
+and 	[and] <DA:og> <co-inf> KC @CO  #28->25
+prepare 	[prepare] <cjt> <DA:forberede> <mv> <np-close> V INF @ICL-N<  #29->25
+the 	[the] <def> ART S/P @>N  #30->31
+nation 	[nation] <DA:nation> <HH> <S:11> <def> <nhead> N S NOM @<ACC  #31->29
+for 	[for] <DA:for> <pp-temp> <advl-icl> PRP @<ADVL  #32->29
+a 	[a] <indef> ART S @>N  #33->35
+new 	[new] <DA:ny> ADJ POS @>N  #34->35
+age 	[age] <DA:new=age> <per> <S:43> <comp2> <nhead> N S NOM @P<  #35->32
+$. #36->0
+</s>
+
+<s id="47861" source="24-en_obama.txt">
+Homes 	[home] <DA:hjem> <build> <Lh> <S:27> <nhead> N P NOM @SUBJ>  #1->2
+have 	[have] <DA:have> <v.contact> <aux> V PR -3S @FS-STA  #2->0
+been 	[be] <DA:være> <aux> V PCP2 AKT @ICL-AUX<  #3->2
+lost 	[lose] <DA:miste> <v.contact> <mv> V PCP2 PAS @ICL-AUX<  #4->3
+$; #5->0
+</s>
+
+<s id="47862" source="24-en_obama.txt">
+jobs 	[job] <DA:opgave> <act> <Lh> <cc-h> <sem> <sick> <S:24> <nhead> N P NOM @SUBJ>  #1->2
+shed 	[shed] <DA:kaste> <v.contact> <mv> V IMPF @FS-STA  #2->0
+$; #3->0
+</s>
+
+<s id="47863" source="24-en_obama.txt">
+businesses 	[business] <DA:forretning> <act> <f-psych> <ac-cat> <HH> <HHorg> <HHnat> <S:41> <nhead> N P NOM @SUBJ>  #1->2
+shuttered 	[shutter] <v.contact> <mv> V PCP2 PAS @ICL-UTT  #2->0
+$. #3->0
+</s>
+
+<s id="47864" source="24-en_obama.txt">
+Our 	[we] <poss> <det> PERS GEN 1P @>N  #1->3
+health 	[health] <DA:sundhed> <sick> <comp1> <S:6> <def> N S NOM @>N  #2->3
+care 	[care] <act> <S:26> <comp2> <def> <nhead> N S NOM @SUBJ>  #3->4
+is 	[be] <DA:være> <mv> V PR 3S @FS-STA  #4->0
+too 	[too] <DA:også> ADV @>A  #5->6
+costly 	[costly] <DA:bekostelig> ADJ POS @<SC  #6->4
+$; #7->0
+</s>
+
+<s id="47865" source="24-en_obama.txt">
+our 	[we] <poss> <det> PERS GEN 1P @>N  #1->2
+schools 	[school] <DA:skole> <build> <ac-cat> <HH> <HHorg> <per> <S:92> <def> <nhead> N P NOM @SUBJ>  #2->3
+fail 	[fail] <DA:svigte> <mv> V PR -3S @FS-STA  #3->0
+too 	[too] <DA:også> <advl-close> ADV @<ADVL  #4->3
+many 	[many] <quant> INDP ABS P @<ACC  #5->3
+$; #6->0
+</s>
+
+<s id="47866" source="24-en_obama.txt">
+and 	[and] <topkc> <DA:og> KC @CO  #1->4
+each 	[each] <quant> DET S @>N  #2->3
+day 	[day] <DA:dag> <dur> <per> <S:85> <def> <nhead> N S NOM @SUBJ>  #3->4
+brings 	[bring] <DA:bringe> <v.contact> <vta+DIR> <mv> V PR 3S @FS-STA  #4->0
+further 	[further] DET S @>N  #5->6
+evidence 	[evidence] <DA:bevismateriale> <ac-cat> <ac-sign> <S:5> <nhead> N S NOM @<ACC  #6->4
+that 	[that] <clb> KS @SUB  #7->13
+the 	[the] <def> ART S/P @>N  #8->9
+ways 	[way] <DA:måde> <Lpath> <ac> <S:6> <def> <nhead> N P NOM @SUBJ>  #9->13
+we 	[we] <clb> PERS 1P NOM @SUBJ>  #10->11
+use 	[use] <DA:bruge> <mv> <np-close> V PR -3S @FS-N<  #11->9
+energy 	[energy] <DA:energi> <f-q> <ac> <f-phys-h> <second> <S:28> <nhead> N S NOM @<DAT  #12->11
+strengthen 	[strengthen] <DA:styrke> <mv> V IMP @FS-<ACC  #13->4
+our 	[we] <poss> <det> PERS GEN 1P @>N  #14->15
+adversaries 	[adversary] <DA:modspiller> <H> <def> <nhead> N P NOM @<ACC  #15->13
+and 	[and] <DA:og> <co-fin> KC @CO  #16->15
+threaten 	[threaten] <DA:true> <vq> <mv> <np-close> V IMP @FS-N<  #17->15
+our 	[we] <poss> <det> PERS GEN 1P @>N  #18->19
+planet 	[planet] <DA:planet> <Lstar> <H> <S:7> <def> <nhead> N S NOM @<ACC  #19->17
+$. #20->0
+</s>
+
+<s id="47867" source="24-en_obama.txt">
+These 	[this] <dem> INDP P @SUBJ>  #1->2
+are 	[be] <DA:være> <mv> V PR -1/3S @FS-STA  #2->0
+the 	[the] <def> ART S/P @>N  #3->4
+indicators 	[indicator] <DA:indikator> <tool> <ac-cat> <ac-sign> <S:7> <def> <nhead> N P NOM @<SC  #4->2
+of 	[of] <DA:af> <np-close> PRP @N<  #5->4
+crisis 	[crisis] <DA:krise> <event> <S:17> N S NOM @P<  #6->5
+$, #7->0
+subject 	[subject] <np-close> ADJ POS @N<PRED  #8->6
+to 	[to] <DA:undergivet> PRP @A<  #9->8
+data 	[datum] <cjt-head> <sem> N P NOM @P<  #10->9
+and 	[and] <DA:og> <co-prparg> KC @CO  #11->10
+statistics 	[statistics] <cjt> <DA:statistik> <domain> <S:10> N S NOM @P<  #12->10
+$. #13->0
+</s>
+
+<s id="47868" source="24-en_obama.txt">
+Less 	[little] <aquant> ADV COM @>A  #1->2
+measurable 	[measurable] <cjt-head> <DA:målbar> ADJ POS @PRED> @>N  #2->7
+but 	[but] <DA:men> <co-prenom> KC @CO  #3->2
+no 	[no] <quant> DET S/P @>A  #4->6
+less 	[little] <aquant> ADV COM @>A  #5->6
+profound 	[profound] <DA:dybsindig> ADJ POS @PRED>  #6->7
+is 	[be] <cjt-head> <DA:være> <mv> V PR 3S @FS-STA  #7->0
+a 	[a] <cjt> <indef> ART S @>N  #8->2
+sapping 	[sapping] <pcp1> <nhead> N S NOM @<SC  #9->7
+of 	[of] <DA:af> <np-close> PRP @N<  #10->9
+confidence 	[confidence] <DA:tiltro> <f-psych> <ac-cat> <sick> <nhead> N S NOM @P<  #11->10
+across 	[across] <DA:hen=over> <np-close> PRP @N<  #12->11
+our 	[we] <poss> <det> PERS GEN 1P @>N  #13->14
+land 	[land] <DA:jordtilliggende> <civ> <L> <S:13> <def> <nhead> N S NOM @P<  #14->12
+$--  #15->0
+a 	[a] <clb> <indef> ART S @>N  #16->18
+nagging 	[nagging] <clb> ADJ POS @>N  #17->18
+fear 	[fear] <DA:frygt> <f-psych> <second> <S:2> <def> <nhead> N S NOM @SUBJ>  #18->0
+that 	[that] <clb> KS @SUB  #19->22
+America's 	[America] <Proper> <Lcountry> N S GEN @>N  #20->21
+decline 	[decline] <DA:tilbagegang> <Ltop> <def> <nhead> N S NOM @SUBJ>  #21->22
+is 	[be] <DA:være> <mv> <np-close> V PR 3S @FS-N<  #22->18
+inevitable 	[inevitable] <DA:selvfølgelig> ADJ POS @<SC  #23->22
+$, #24->0
+and 	[and] <DA:og> <clb?> <co-fin> KC @CO  #25->7
+that 	[that] <clb> KS @SUB  #26->29
+the 	[the] <def> ART S/P @>N  #27->28
+next-generation 	[next-generation] <hyphenadded> ADJ POS @SUBJ>  #28->29
+must 	[must] <cjt> <aux> V PR @FS-<SC  #29->7
+lower 	[lower] <DA:sænke> <v.contact> <mv> V INF @ICL-AUX<  #30->29
+its 	[it] <poss> <det> PERS NEU 3S GEN @>N  #31->32
+sights 	[sights] <def> <nhead> N P NOM @<ACC  #32->30
+$. #33->0
+</s>
+
+<s id="47869" source="24-en_obama.txt">
+Today 	[today] <DA:i=dag> <atemp> ADV @ADVL>  #1->3
+I 	[I] PERS 1S NOM @SUBJ>  #2->3
+say 	[say] <DA:sige> <vq> <v-cog> <speak> <mv> V PR -3S @FS-STA  #3->0
+to 	[to] <DA:til> <advl-close> PRP @<ADVL  #4->3
+you 	[you] PERS 2S/P ACC @P<  #5->4
+that 	[that] <clb> KS @SUB  #6->11
+the 	[the] <def> ART S/P @>N  #7->8
+challenges 	[challenge] <DA:udfordring> <sem-r> <act-s> <def> <nhead> N P NOM @SUBJ>  #8->11
+we 	[we] <clb> PERS 1P NOM @SUBJ>  #9->10
+face 	[face] <DA:konfrontere> <v.contact> <mv> <np-close> V PR -3S @FS-N<  #10->8
+are 	[be] <DA:være> <mv> V PR -1/3S @FS-<ACC  #11->3
+real 	[real] <DA:faktisk> <actual> ADJ POS @<SC  #12->11
+$. #13->0
+</s>
+
+<s id="47870" source="24-en_obama.txt">
+They 	[they] PERS 3P NOM @SUBJ>  #1->2
+are 	[be] <cjt-head> <DA:være> <mv> V PR -1/3S @FS-STA  #2->0
+serious 	[serious] <DA:alvorlig> <jpsych> <gb2> ADJ POS @<SC  #3->2
+and 	[and] <DA:og> <co-fin> KC @CO  #4->2
+they 	[they] PERS 3P NOM @SUBJ>  #5->6
+are 	[be] <cjt> <DA:være> <mv> V PR -1/3S @FS-STA  #6->2
+many 	[many] <quant> INDP ABS P @<SC  #7->6
+$. #8->0
+</s>
+
+<s id="47871" source="24-en_obama.txt">
+They 	[they] PERS 3P NOM @SUBJ>  #1->2
+will 	[will] <aux> V PR @FS-STA  #2->0
+not 	[not] <DA:ikke> <advl-close> ADV @<ADVL  #3->5
+be 	[be] <DA:være> <aux> V INF @ICL-AUX<  #4->2
+met 	[meet] <DA:møde> <v.contact> <not> <mv> V PCP2 PAS @ICL-AUX<  #5->4
+easily 	[easily] <cjt-head> <DA:sagtens> <ADJ:eas+ly> <advl-close> ADV @<ADVL  #6->5
+or 	[or] <DA:eller> <co-advl> KC @CO  #7->6
+in 	[in] <cjt> <DA:i> <pp-temp> <advl-close> PRP @<ADVL  #8->6
+a 	[a] <indef> ART S @>N  #9->11
+short 	[short] <DA:kort> ADJ POS @>N  #10->11
+span 	[span] <DA:spændvidde> <act> <build> <unit> <ac-cat> <per> <S:2> <nhead> N S NOM @P<  #11->8
+of 	[of] <DA:af> <pp-temp> <np-close> PRP @N<  #12->11
+time 	[time] <DA:tid> <ac-cat> <temp> <per> <num+> <S:113> N S NOM @P<  #13->12
+$. #14->0
+</s>
+
+<s id="47872" source="24-en_obama.txt">
+But 	[but] <DA:men> KC @CO  #1->10
+know 	[know] <cjt-head> <DA:vide> <v.contact> <v-cog> <mv> <nosubj> V PR -3S @FS-STA  #2->0
+this 	[this] <dem> INDP S @<ACC  #3->2
+$, #4->0
+America 	[America] <Proper> <Lcountry> N S NOM @APP  #5->3
+$--  #6->0
+they 	[they] PERS 3P NOM @SUBJ>  #7->8
+will 	[will] <cjt> <aux> V PR @FS-STA  #8->2
+be 	[be] <DA:være> <aux> V INF @ICL-AUX<  #9->8
+met 	[meet] <DA:møde> <v.contact> <mv> V PCP2 PAS @ICL-AUX<  #10->9
+$. #11->0
+</s>
+
+<s id="47873" source="24-en_obama.txt">
+On 	[on] <DA:på> <pp-temp> PRP @ADVL>  #1->6
+this 	[this] <dem> DET S @>N  #2->3
+day 	[day] <DA:dag> <dur> <per> <S:85> <def> <nhead> N S NOM @P<  #3->1
+$, #4->0
+we 	[we] PERS 1P NOM @SUBJ>  #5->6
+gather 	[gather] <DA:samle> <vq> <v.contact> <mv> V PR -3S @FS-STA  #6->0
+because 	[because] <clb> <DA:for> KS @SUB  #7->9
+we 	[we] PERS 1P NOM @SUBJ>  #8->9
+have 	[have] <DA:have> <v.contact> <mv> V PR -3S @FS-<ADVL  #9->6
+chosen 	[chosen] <DA:udvalgt> ADJ POS @>N  #10->11
+hope 	[hope] <cjt-head> <DA:håb> <f-psych> <H> <nhead> N S NOM @<ACC  #11->9
+over 	[over] <DA:over> <advl-fs> PRP @<ADVL  #12->9
+fear 	[fear] <DA:frygt> <f-psych> <S:2> N S NOM @P<  #13->12
+$, #14->0
+unity 	[unity] <cjt> <DA:enhed> <ac-cat> <nhead> N S NOM @<ACC @P<  #15->11
+of 	[of] <DA:af> <np-close> PRP @N<  #16->15
+purpose 	[purpose] <DA:øjemed> <f-psych> <S:3> <nhead> N S NOM @P<  #17->16
+over 	[over] <DA:over> <advl-fs> PRP @<ADVL  #18->9
+conflict 	[conflict] <cjt-head> <DA:konflikt> <act> <act-s> <f-psych> <S:12> N S NOM @P<  #19->18
+and 	[and] <DA:og> <co-prparg> KC @CO  #20->19
+discord 	[discord] <cjt> <DA:disharmoni> <act> <f-phys> <act-s> <sick> N S NOM @P<  #21->19
+$. #22->0
+</s>
+
+<s id="47874" source="24-en_obama.txt">
+On 	[on] <DA:på> <pp-temp> PRP @ADVL>  #1->6
+this 	[this] <dem> DET S @>N  #2->3
+day 	[day] <DA:dag> <dur> <per> <S:85> <def> <nhead> N S NOM @P<  #3->1
+$, #4->0
+we 	[we] PERS 1P NOM @SUBJ>  #5->6
+come 	[come] <DA:komme> <move> <va+DIR> <ve> <va+INF> <v.contact> <mv> V PR -3S @FS-STA  #6->0
+to 	[to] <DA:at> INFM @INFM  #7->8
+proclaim 	[proclaim] <DA:forkynde> <vq> <mv> V INF @ICL-<ADVL  #8->6
+an 	[a] ART S @>N  #9->10
+end 	[end] <cjt-head> <DA:ende> <event> <Ltip> <temp> <S:30> <nhead> N S NOM @<ACC  #10->8
+to 	[to] <DA:til> <advl-icl> PRP @<ADVL  #11->8
+the 	[the] <def> ART S/P @>N  #12->14
+petty 	[petty] <DA:smålig> <junior> ADJ POS @>N  #13->14
+grievances 	[grievance] <cjt-head> <DA:klagemål> <act-s> <ss> <f-psych> <def> <nhead> N P NOM @P<  #14->11
+and 	[and] <DA:og> <co-prparg> KC @CO  #15->14
+false 	[false] <DA:falsk> ADJ POS @>N  #16->17
+promises 	[promise] <cjt> <DA:løfte> <act-s> <S:2> <nhead> N P NOM @P<  #17->14
+$, #18->0
+the 	[the] <def> ART S/P @>N  #19->20
+recriminations 	[recrimination] <cjt> <DA:modbeskyldning> <ss> <def> <nhead> N P NOM @P<  #20->14
+and 	[and] <DA:og> <co-prparg> KC @CO  #21->14
+worn-out 	[worn-out] <hyphenadded> <DA:udtjent> ADJ POS @>N 	[worn=out] <complex> <hyphenalternative> <DA:ødelagt> ADJ POS @>N  #22->23
+dogmas 	[dogma] <cjt> <DA:dogme> <sem-c> <nhead> N P NOM @P<  #23->14
+$, #24->0
+that 	[that] <cjt> <dem> INDP S @<ACC  #25->10
+for 	[for] <DA:for> <advl-icl> PRP @<ADVL  #26->8
+far 	[far] <DA:langt> <aloc> ADV @>A  #27->28
+too 	[too] <DA:alt=for> <comp2> ADV @>A  #28->29
+long 	[long] <DA:længe> ADV @ADVL>  #29->31
+have 	[have] <DA:have> <v.contact> <aux> V PR -3S @FS-P<  #30->26
+strangled 	[strangle] <DA:kværke> <v.contact> <mv> V PCP2 AKT @ICL-AUX<  #31->30
+our 	[we] <poss> <det> PERS GEN 1P @>N  #32->33
+politics 	[politics] <DA:politik> <act> <domain> <ac-cat> <S:31> <def> <nhead> N S NOM @<ACC  #33->31
+$. #34->0
+</s>
+
+<s id="47875" source="24-en_obama.txt">
+We 	[we] PERS 1P NOM @SUBJ>  #1->2
+remain 	[remain] <cjt-head> <DA:forblive> <mv> V PR -3S @FS-STA  #2->0
+a 	[a] <indef> ART S @>N  #3->5
+young 	[young] <DA:ung> <jbio> ADJ POS @>N  #4->5
+nation 	[nation] <DA:nation> <HH> <S:11> <nhead> N S NOM @<SC  #5->2
+$, #6->0
+but 	[but] <DA:men> <clb?> <co-fin> KC @CO  #7->2
+in 	[in] <DA:i> PRP @ADVL>  #8->17
+the 	[the] <def> ART S/P @>N  #9->10
+words 	[word] <DA:ord> <ac-cat> <act-s> <+s> <S:40> <def> <nhead> N P NOM @P< 	[Word] <sem-r> <Hmyth> <def> N P NOM @P<  #10->8
+of 	[of] <DA:af> <np-close> PRP @N<  #11->10
+scripture 	[scripture] <DA:religion> <sem-r> N S NOM @P<  #12->11
+$, #13->0
+the 	[the] <def> ART S/P @>N  #14->15
+time 	[time] <DA:tid> <ac-cat> <temp> <per> <num+> <S:113> <def> <nhead> N S NOM @SUBJ>  #15->16
+has 	[have] <cjt> <DA:have> <v.contact> <aux> V PR 3S @FS-STA  #16->2
+come 	[come] <DA:komme> <move> <va+DIR> <ve> <va+INF> <v.contact> <mv> V PCP2 AKT @ICL-AUX<  #17->16
+to 	[to] <DA:at> INFM @INFM  #18->19
+set 	[set] <DA:sætte> <v.contact> <vta+LOC> <mv> <np-close> V INF @ICL-N<  #19->15
+aside 	[aside] <DA:tilside> <adir> <advl-close> ADV @<ADVL  #20->19
+childish 	[childish] <DA:barnlig> <jpsych> ADJ POS @>N  #21->22
+things 	[thing] <DA:ting-1> <act> <cc-h> <ac-cat> <f-psych> <ss> <event> <S:7> <nhead> N P NOM @<ACC  #22->19
+$. #23->0
+</s>
+
+<s id="47876" source="24-en_obama.txt">
+The 	[the] <def> ART S/P @>N  #1->2
+time 	[time] <DA:tid> <ac-cat> <temp> <per> <num+> <S:113> <def> <nhead> N S NOM @SUBJ>  #2->3
+has 	[have] <DA:have> <v.contact> <aux> V PR 3S @FS-STA  #3->0
+come 	[come] <DA:komme> <move> <va+DIR> <ve> <va+INF> <v.contact> <mv> V PCP2 AKT @ICL-AUX<  #4->3
+to 	[to] <DA:at> INFM @INFM  #5->6
+reaffirm 	[reaffirm] <vq> <mv> <np-close> V INF @ICL-N<  #6->2
+our 	[we] <poss> <det> PERS GEN 1P @>N  #7->9
+enduring 	[endure] <DA:udstå> <mv> V PCP1 @>N  #8->0
+spirit 	[spirit] <DA:oplagthed> <an> <sem-r> <H> <Hmyth> <sick> <second> <S:29> <def> N S NOM @<ACC  #9->8
+$; #10->0
+</s>
+
+<s id="47877" source="24-en_obama.txt">
+to 	[to] <DA:at> INFM @INFM  #1->2
+choose 	[choose] <DA:vælge> <mv> V INF @ICL-UTT  #2->0
+our 	[we] <poss> <det> PERS GEN 1P @>N  #3->5
+better 	[good] ADJ COM @>N  #4->5
+history 	[history] <DA:historie> <domain> <per> <second> <S:29> <def> <nhead> N S NOM @<ACC  #5->2
+$; #6->0
+</s>
+
+<s id="47878" source="24-en_obama.txt">
+to 	[to] <DA:at> INFM @INFM  #1->2
+carry 	[carry] <DA:transportere> <v.contact> <vta+DIR> <mv> V INF @ICL-SUBJ>  #2->12
+forward 	[forward] <S:2> <DA:fremad> <adir> <advl-close> ADV @<ADVL  #3->2
+that 	[that] <dem> DET S @>N  #4->6
+precious 	[precious] <DA:dyrebar> <valuable> ADJ POS @>N  #5->6
+gift 	[gift] <cjt-head> <DA:gave> <act> <f-psych> <S:9> <def> <nhead> N S NOM @<ACC  #6->2
+$, #7->0
+that 	[that] <dem> DET S @>N  #8->10
+noble 	[noble] <DA:ædel> ADJ POS @>N  #9->10
+idea 	[idea] <cjt> <DA:idé> <f-psych> <sem-c> <sem-l> <second> <S:6> <def> <nhead> N S NOM @<ACC  #10->6
+$, #11->0
+passed 	[pass] <predco> <cjt-head> <DA:passere> <move> <v.contact> <mv> V IMPF @FS-STA  #12->0
+on 	[on] <DA:på> ADV @MV<  #13->12
+from 	[from] <DA:fra> <pp-temp> <advl-close> PRP @<ADVL  #14->12
+generation 	[generation] <DA:generation> <act> <HH> <HHnat> <per> <S:4> <nhead> N S NOM @P<  #15->14
+to 	[to] <DA:til> <pp-temp> PRP @P<<  #16->12
+generation 	[generation] <DA:generation> <act> <HH> <HHnat> <per> <S:4> N S NOM @P<  #17->16
+$:  #18->0
+the 	[the] <clb> <def> ART S/P @>N  #19->21
+God-given 	[god-given] <clb> ADJ POS @>N  #20->21
+promise 	[promise] <DA:løfte> <act-s> <S:2> <def> <nhead> N S NOM @SUBJ> @<ACC  #21->24
+that 	[that] <clb> KS @SUB  #22->24
+all 	[all] <quant> INDP S/P @PRED>  #23->24
+are 	[be] <DA:være> <mv> <np-close> V PR -1/3S @FS-N<  #24->17
+equal 	[equal] <DA:lige> ADJ POS @<SC  #25->24
+$, #26->0
+all 	[all] <quant> INDP S/P @PRED>  #27->28
+are 	[be] <DA:være> <mv> <np-close> V PR -1/3S @FS-N<  #28->25
+free 	[free] <DA:fri> <second> <S:22> ADJ POS @<SC  #29->28
+and 	[and] <DA:og> <co-fin> KC @CO  #30->12
+all 	[all] <quant> INDP S/P @PRED>  #31->32
+deserve 	[deserve] <nosubj> <cjt> <DA:fortjene> <mv> <np-close> V PR -3S @FS-STA @FS-N<  #32->12
+a 	[a] <indef> ART S @>N  #33->34
+chance 	[chance] <DA:chance> <ac> <S:5> <nhead> N S NOM @<ACC  #34->32
+to 	[to] <DA:at> INFM @INFM  #35->36
+pursue 	[pursue] <DA:forfølge> <v.contact> <mv> <np-close> V INF @ICL-N<  #36->34
+their 	[they] <poss> <det> PERS 3P GEN @>N  #37->39
+full 	[full] <DA:fuld> <ample> <S:2> ADJ POS @>N  #38->39
+measure 	[measure] <DA:tiltag> <act-d> <f-q> <ac-sign> <sem-r> <S:28> <def> <nhead> N S NOM @<ACC  #39->36
+of 	[of] <DA:af> <np-close> PRP @N<  #40->39
+happiness 	[happiness] <DA:lykke> <f-psych> N S NOM @P<  #41->40
+$. #42->0
+</s>
+
+<s id="47879" source="24-en_obama.txt">
+In 	[in] <DA:i> PRP @ADVL>  #1->10
+reaffirming 	[reaffirm] <vq> <mv> V PCP1 @ICL-P<  #2->1
+the 	[the] <def> ART S/P @>N  #3->4
+greatness 	[greatness] <DA:format> <f-q> <def> <nhead> N S NOM @<ACC  #4->2
+of 	[of] <DA:af> <np-close> PRP @N<  #5->4
+our 	[we] <poss> <det> PERS GEN 1P @>N  #6->7
+nation 	[nation] <DA:nation> <HH> <S:11> <def> <nhead> N S NOM @P<  #7->5
+$, #8->0
+we 	[we] PERS 1P NOM @SUBJ>  #9->10
+understand 	[understand] <DA:forstå> <vq> <mv> V PR -3S @FS-STA  #10->0
+that 	[that] <clb> KS @SUB  #11->13
+greatness 	[greatness] <DA:format> <f-q> <def> <nhead> N S NOM @SUBJ>  #12->13
+is 	[be] <DA:være> <mv> V PR 3S @FS-<ACC  #13->10
+never 	[never] <DA:aldrig> <atemp> <advl-close> ADV @<ADVL  #14->13
+a 	[a] <indef> ART S @>N  #15->0
+given 	[given] <prp-stray> PRP @<ADVL  #16->13
+$. #17->0
+</s>
+
+<s id="47880" source="24-en_obama.txt">
+It 	[it] PERS NEU 3S NOM @SUBJ>  #1->2
+must 	[must] <aux> V PR @FS-STA  #2->0
+be 	[be] <DA:være> <aux> V INF @ICL-AUX<  #3->2
+earned 	[earn] <DA:tjene> <mv> V PCP2 PAS @ICL-AUX<  #4->3
+$. #5->0
+</s>
+
+<s id="47881" source="24-en_obama.txt">
+Our 	[we] <poss> <det> PERS GEN 1P @>N  #1->2
+journey 	[journey] <DA:rejse> <act-move> <S:13> <def> <nhead> N S NOM @SUBJ>  #2->3
+has 	[have] <DA:have> <v.contact> <aux> V PR 3S @FS-STA  #3->0
+never 	[never] <DA:aldrig> <atemp> <advl-close> ADV @<ADVL  #4->5
+been 	[be] <DA:være> <not> <mv> V PCP2 AKT @ICL-AUX<  #5->3
+one 	[one] <card> NUM S @<SC  #6->5
+of 	[of] <DA:af> <np-close> PRP @N<  #7->6
+shortcuts 	[shortcut] <cjt-head> <Lpath> N P NOM @P<  #8->7
+or 	[or] <DA:eller> <co-prparg> KC @CO  #9->8
+settling 	[settling] <cjt> <DA:afregning> <event> <nhead> N S NOM @P<  #10->8
+for 	[for] <DA:for> PRP @<ADVL  #11->5
+less 	[little] <quant> INDP COM S @P<  #12->11
+$. #13->0
+</s>
+
+<s id="47882" source="24-en_obama.txt">
+It 	[it] PERS NEU 3S NOM @F-SUBJ>  #1->2
+has 	[have] <predco> <cjt-head> <DA:have> <v.contact> <aux> V PR 3S @FS-STA  #2->0
+not 	[not] <DA:ikke> <advl-close> ADV @<ADVL  #3->4
+been 	[be] <DA:være> <not> <mv> V PCP2 AKT @ICL-AUX<  #4->2
+the 	[the] <def> ART S/P @>N  #5->6
+path 	[path] <DA:sti> <act> <Lpath> <cc> <S:20> <def> <nhead> N S NOM @<SC  #6->4
+for 	[for] <DA:for> PRP @<ADVL  #7->4
+the 	[the] <def> ART S/P @>N  #8->9
+faint-hearted 	[faint-hearted] <DA:forknyt> ADJ POS @P<  #9->7
+$--  #10->0
+for 	[for] <DA:for> PRP @<ADVL  #11->4
+those 	[that] <dem> INDP P @P<  #12->11
+who 	[who] <clb> <rel> INDP S/P @SUBJ>  #13->14
+prefer 	[prefer] <DA:foretrække> <mv> <np-close> V PR -3S @FS-N<  #14->12
+leisure 	[leisure] <DA:frihed> <act> <per> <nhead> N S NOM @<ACC  #15->14
+over 	[over] <DA:over> <advl-fs> PRP @<ADVL  #16->14
+work 	[work] <DA:arbejde> <act> <Lh> <cc-h> <sem> <S:103> N S NOM @P<  #17->16
+$, #18->0
+or 	[or] <DA:eller> <co-fin> KC @CO  #19->2
+seek 	[seek] <nosubj> <cjt> <real-subj> <DA:gå> <v.contact> <mv> V PR -3S @FS-<SUBJ  #20->2
+only 	[only] <DA:kun> <ADJ:on+ly> ADV @>N  #21->23
+the 	[the] <def> ART S/P @>N  #22->23
+pleasures 	[pleasure] <DA:glæde> <act> <ac-cat> <f-psych> <S:3> <def> <nhead> N P NOM @<ACC  #23->20
+of 	[of] <DA:af> <np-close> PRP @N<  #24->23
+riches 	[riches] <cjt-head> N P NOM @P<  #25->24
+and 	[and] <DA:og> <co-prparg> KC @CO  #26->25
+fame 	[fame] <cjt> <DA:ry> N S NOM @P<  #27->25
+$. #28->0
+</s>
+
+<s id="47883" source="24-en_obama.txt">
+Rather 	[rather] <DA:hellere> ADV @ADVL>  #1->5
+$, #2->0
+it 	[it] PERS NEU 3S NOM @SUBJ>  #3->4
+has 	[have] <predco> <cjt-head> <DA:have> <v.contact> <aux> V PR 3S @FS-STA  #4->0
+been 	[be] <DA:være> <mv> V PCP2 AKT @ICL-AUX<  #5->4
+the 	[the] <def> ART S/P @>N  #6->7
+risk-takers 	[risk-takers] <cjt-head> <def> <nhead> N S NOM @<SC  #7->5
+$, #8->0
+the 	[the] <def> ART S/P @>N  #9->10
+doers 	[doer] <cjt> <H> <def> <nhead> N P NOM @<SC  #10->7
+$, #11->0
+the 	[the] <def> ART S/P @>N  #12->13
+makers 	[maker] <DA:skaber> <HHorg> <H> <S:51> <def> <nhead> N P NOM @APP  #13->10
+of 	[of] <DA:af> <np-close> PRP @N<  #14->13
+things 	[thing] <DA:ting-1> <act> <cc-h> <ac-cat> <f-psych> <ss> <event> <S:7> N P NOM @P<  #15->14
+$--  #16->0
+some 	[some] <cjt> <quant> DET S/P @<SC  #17->7
+celebrated 	[celebrate] <nosubj> <cjt> <DA:fejre> <mv> V IMPF @FS-STA  #18->4
+but 	[but] <DA:men> KC @CO  #19->7
+more 	[much] <aquant> ADV COM @>A  #20->21
+often 	[often] <DA:oftere> <atemp> <comp2> <advl-close> ADV @<ADVL  #21->18
+men 	[man] <cjt-head> <clb> <H> N P NOM @SUBJ> @<ACC  #22->25
+and 	[and] <DA:og> <co-subj> KC @CO  #23->22
+women 	[woman] <cjt> <H> <nhead> N P NOM @SUBJ>  #24->22
+obscure 	[obscure] <cjt> <DA:tilsløre> <acc-ellipsis> <mv> <np-close> V PR -3S @FS-STA @FS-N<  #25->4
+in 	[in] <DA:i> <advl-close> PRP @<ADVL  #26->25
+their 	[they] <poss> <det> PERS 3P GEN @>N  #27->28
+labor 	[labor] <act> <HHorg> <HHnat> <def> <nhead> N S NOM @P<  #28->26
+$, #29->0
+who 	[who] <clb> <rel> INDP S/P @SUBJ>  #30->31
+have 	[have] <DA:have> <v.contact> <aux> <np-close> V PR -3S @FS-N<  #31->28
+carried 	[carry] <DA:transportere> <v.contact> <vta+DIR> <mv> V PCP2 AKT @ICL-AUX<  #32->31
+us 	[we] PERS 1P ACC @<ACC  #33->32
+up 	[up] <DA:op=ad> PRP @<ADVL  #34->32
+the 	[the] <def> ART S/P @>N  #35->39
+long 	[long] <DA:lang> <S:6> ADJ POS @>N  #36->39
+$, #37->0
+rugged 	[rugged] <DA:barsk> ADJ POS @>N  #38->39
+path 	[path] <DA:sti> <act> <Lpath> <cc> <S:20> <nhead> N S NOM @P<  #39->34
+towards 	[towards] <DA:henad> <np-close> PRP @N<  #40->39
+prosperity 	[prosperity] <cjt-head> <DA:velstand> <sick> N S NOM @P<  #41->40
+and 	[and] <DA:og> <co-prparg> KC @CO  #42->41
+freedom 	[freedom] <cjt> <DA:frihed> <am> <f-right> <S:2> N S NOM @P<  #43->41
+$. #44->0
+</s>
+
+<s id="47884" source="24-en_obama.txt">
+For 	[for] <DA:for> PRP @ADVL>  #1->5
+us 	[we] PERS 1P ACC @P<  #2->1
+$, #3->0
+they 	[they] PERS 3P NOM @SUBJ>  #4->5
+packed 	[pack] <predco> <cjt-head> <DA:pakke> <v.contact> <mv> V IMPF @FS-STA  #5->0
+up 	[up] <DA:op> <adir> ADV @MV<  #6->5
+their 	[they] <poss> <det> PERS 3P GEN @>N  #7->10
+few 	[few] <quant> DET ABS P @>N  #8->10
+worldly 	[worldly] <DA:dennesidig> ADJ POS @>N  #9->10
+possessions 	[possessions] <comp2> <def> <nhead> N P NOM @<ACC 	[possession] <DA:besiddelse> <act> <f-psych> <sick> <S:4> <def> N P NOM @<ACC  #10->5
+and 	[and] <DA:og> <co-fin> KC @CO  #11->5
+traveled 	[travel] <nosubj> <cjt> <DA:rejse-1> <move> <mv> V IMPF @FS-STA  #12->5
+across 	[across] <DA:hen=over> <advl-close> PRP @<ADVL  #13->12
+oceans 	[ocean] <DA:ocean> <Lwater> <amount> <nhead> N P NOM @P<  #14->13
+in 	[in] <DA:i> <advl-close> PRP @<ADVL  #15->12
+search 	[search] <DA:søgen> <act> <ac-cat> <S:3> <nhead> N S NOM @P<  #16->15
+of 	[of] <DA:af> <pp-temp> <np-close> PRP @N<  #17->16
+a 	[a] <indef> ART S @>N  #18->20
+new 	[new] <DA:ny> ADJ POS @>N  #19->20
+life 	[life] <DA:liv> <per> <S:64> <nhead> N S NOM @P<  #20->17
+$. #21->0
+</s>
+
+<s id="47885" source="24-en_obama.txt">
+For 	[for] <DA:for> PRP @ADVL>  #1->5
+us 	[we] PERS 1P ACC @P<  #2->1
+$, #3->0
+they 	[they] PERS 3P NOM @SUBJ>  #4->5
+toiled 	[toil] <predco> <cjt-head> <DA:slide> <mv> V IMPF @FS-STA  #5->0
+in 	[in] <DA:i> <advl-close> PRP @<ADVL  #6->5
+sweatshops 	[sweatshop] <Lh> N P NOM @P<  #7->6
+and 	[and] <DA:og> <co-fin> KC @CO  #8->5
+settled 	[settle] <nosubj> <cjt> <DA:bosætte> <v.contact> <mv> V IMPF @FS-STA  #9->5
+the 	[the] <def> ART S/P @>N  #10->11
+West 	[West] <Proper> <HH> <Lregion> <comp2> <nhead> N S NOM @<ACC  #11->9
+$; #12->0
+</s>
+
+<s id="47886" source="24-en_obama.txt">
+endured 	[endure] <nosubj> <cjt-head> <DA:udstå> <mv> <nosubj> V IMPF @FS-STA  #1->0
+the 	[the] <def> ART S/P @>N  #2->3
+lash 	[lash] <DA:piskeslag> <act> <tool> <def> <nhead> N S NOM @<ACC  #3->1
+of 	[of] <DA:af> <np-close> PRP @N<  #4->3
+the 	[the] <def> ART S/P @>N  #5->6
+whip 	[whip] <DA:pisk> <act> <tool> <Hprof> <S:5> <def> <nhead> N S NOM @P<  #6->4
+and 	[and] <DA:og> <co-fin> KC @CO  #7->1
+plowed 	[plow] <nosubj> <cjt> <DA:pløje> <mv> V IMPF @FS-STA  #8->1
+the 	[the] <def> ART S/P @>N  #9->11
+hard 	[hard] <DA:hård> <ambitious> <ante> ADJ POS @>N  #10->11
+earth 	[earth] <DA:jorden> <cc-h> <f-psych> <cc> <mat> <S:8> <def> <nhead> N S NOM @<ACC  #11->8
+$. #12->0
+</s>
+
+<s id="47887" source="24-en_obama.txt">
+For 	[for] <DA:for> PRP @ADVL>  #1->5
+us 	[we] PERS 1P ACC @P<  #2->1
+$, #3->0
+they 	[they] PERS 3P NOM @SUBJ>  #4->5
+fought 	[fight] <vpheadcjt> <DA:kæmpe> <mv> V IMPF @FS-STA  #5->0
+and 	[and] <DA:og> <co-vp> <co-fin> KC @CO  #6->5
+died 	[die] <vpcjt> <cjt> <DA:dø> <v.contact> <ve> <mv> V IMPF @FS-STA  #7->5
+$, #8->0
+in 	[in] <DA:in> ADJ POS @>N  #9->10
+places 	[place] <DA:in-sted> <act> <ac-h> <ss> <sem-l> <event> <Lh> <Lregion> <L> <sick> <S:47> <comp2> <np-close> <nhead> N P NOM @N<PRED  #10->4
+like 	[like] <DA:som> <np-close> PRP @N<  #11->10
+Concord 	[Concord] <cjt-head> <act> <Proper> <Ltown> N S NOM @P<  #12->11
+and 	[and] <DA:og> <co-prparg> KC @CO  #13->12
+Gettysburg 	[Gettysburg] <cjt> <act> N S NOM @P<  #14->12
+$; #15->0
+</s>
+
+<s id="47888" source="24-en_obama.txt">
+Normandy 	[Normandy] <cjt-head> <Proper> <Lregion> N S NOM @NPHR  #1->0
+and 	[and] <DA:og> <co-nphr> KC @CO  #2->1
+Khe=Sahn 	[Khe=Sahn] <cjt> <complex> <Proper> <heur> N S NOM @NPHR  #3->1
+$. #4->0
+</s>
+
+<s id="47889" source="24-en_obama.txt">
+Time=and=again 	[time=and=again] <complex> ADV @ADVL>  #1->6
+these 	[this] <dem> DET P @>N  #2->3
+men 	[man] <cjt-head> <H> <def> <nhead> N P NOM @SUBJ>  #3->6
+and 	[and] <DA:og> <co-subj> KC @CO  #4->3
+women 	[woman] <cjt> <H> <nhead> N P NOM @SUBJ>  #5->3
+struggled 	[struggle] <predco> <predco> <predco> <cjt-head> <DA:kæmpe> <v.contact> <mv> V IMPF @FS-STA  #6->0
+and 	[and] <DA:og> <co-fin> KC @CO  #7->6
+sacrificed 	[sacrifice] <nosubj> <cjt> <DA:ofre> <v.contact> <mv> V IMPF @FS-STA  #8->6
+and 	[and] <DA:og> <co-fin> KC @CO  #9->6
+worked 	[work] <nosubj> <cjt> <DA:arbejde> <v.contact> <mv> V IMPF @FS-STA  #10->6
+till 	[till] <DA:til> <advl-close> PRP @<ADVL  #11->10
+their 	[they] <poss> <det> PERS 3P GEN @>N  #12->13
+hands 	[hand] <DA:hand> <anmov> <S:33> <def> <nhead> N P NOM @P<  #13->11
+were 	[be] <nosubj> <cjt> <DA:være> <mv> V IMPF -1/3S @FS-STA  #14->6
+raw 	[raw] <DA:rå> <ante> ADJ POS @<SC  #15->14
+so=that 	[so=that] <clb> <complex> KS @SUB  #16->18
+we 	[we] PERS 1P NOM @SUBJ>  #17->18
+might 	[may] <aux> V IMPF @FS-<ADVL  #18->14
+live 	[live] <DA:leve> <mv> V INF @ICL-AUX<  #19->18
+a 	[a] <indef> ART S @>N  #20->22
+better 	[good] ADJ COM @>N  #21->22
+life 	[life] <DA:liv> <per> <second> <S:64> <nhead> N S NOM @<ACC  #22->19
+$. #23->0
+</s>
+
+<s id="47890" source="24-en_obama.txt">
+They 	[they] PERS 3P NOM @SUBJ>  #1->2
+saw 	[see] <DA:se> <vq> <v.contact> <mv> V IMPF @FS-STA  #2->0
+America 	[America] <Proper> <Lcountry> <nhead> N S NOM @<ACC  #3->2
+as 	[as] PRP @<OC  #4->2
+bigger 	[big] <DA:stor> <ample> <ante> ADJ COM @P<  #5->4
+than 	[than] <DA:end> PRP @KOMP<  #6->5
+the 	[the] <def> ART S/P @>N  #7->8
+sum 	[sum] <DA:sum> <cc-h> <ac-cat> <S:10> <def> <nhead> N S NOM @P<  #8->6
+of 	[of] <DA:af> <np-close> PRP @N<  #9->8
+our 	[we] <poss> <det> PERS GEN 1P @>N  #10->12
+individual 	[individual] <DA:individuel> ADJ POS @>N  #11->12
+ambitions 	[ambition] <DA:ambition> <f-psych> <def> <nhead> N P NOM @P<  #12->9
+$; #13->0
+</s>
+
+<s id="47891" source="24-en_obama.txt">
+greater 	[great] <DA:strygende> ADV COM @ADVL  #1->0
+than 	[than] <DA:end> PRP @KOMP<  #2->1
+all 	[all] <quant> DET P @>N  #3->5
+the 	[the] <def> ART S/P @>N  #4->5
+differences 	[difference] <DA:forskel> <ac-cat> <S:13> <def> <nhead> N P NOM @P<  #5->2
+of 	[of] <DA:af> <pp-temp> <np-close> PRP @N<  #6->5
+birth 	[birth] <cjt-head> <DA:fødsel> <event> <H> <ac-cat> <temp> <S:9> N S NOM @P<  #7->6
+or 	[or] <DA:eller> <co-prparg> KC @CO  #8->7
+wealth 	[wealth] <cjt> <DA:fylde> <f-q> <sick> <S:2> N S NOM @P<  #9->7
+or 	[or] <DA:eller> <co-prparg> KC @CO  #10->7
+faction 	[faction] <cjt> <DA:faktion> <HH> N S NOM @P<  #11->7
+$. #12->0
+</s>
+
+<s id="47892" source="24-en_obama.txt">
+This 	[this] <dem> INDP S @SUBJ>  #1->2
+is 	[be] <DA:være> <mv> V PR 3S @FS-STA  #2->0
+the 	[the] <def> ART S/P @>N  #3->4
+journey 	[journey] <DA:rejse> <act-move> <S:13> <def> <nhead> N S NOM @<SC  #4->2
+we 	[we] <clb> PERS 1P NOM @SUBJ>  #5->6
+continue 	[continue] <DA:fortsætte> <acc-ellipsis> <mv> <np-close> V PR -3S @FS-N<  #6->4
+today 	[today] <DA:i=dag> <atemp> <advl-close> ADV @<ADVL  #7->6
+$. #8->0
+</s>
+
+<s id="47893" source="24-en_obama.txt">
+We 	[we] PERS 1P NOM @SUBJ>  #1->2
+remain 	[remain] <DA:forblive> <mv> V PR -3S @FS-STA  #2->0
+the 	[the] <def> ART S/P @>N  #3->8
+most 	[much] <aquant> ADV SUP @>A  #4->5
+prosperous 	[prosperous] <DA:holden> ADJ POS @>N  #5->8
+$, #6->0
+powerful 	[powerful] <DA:kraftig> ADJ POS @>N  #7->8
+nation 	[nation] <DA:nation> <HH> <S:11> <nhead> N S NOM @<SC  #8->2
+on 	[on] <DA:på> <np-close> PRP @N<  #9->8
+Earth 	[Earth] <L> <Lstar> <Proper> N S NOM @P<  #10->9
+$. #11->0
+</s>
+
+<s id="47894" source="24-en_obama.txt">
+Our 	[we] <poss> <det> PERS GEN 1P @>N  #1->2
+workers 	[worker] <DA:arbejder> <Aent> <H> <S:57> <def> <nhead> N P NOM @SUBJ>  #2->3
+are 	[be] <DA:være> <mv> V PR -1/3S @FS-STA  #3->0
+no 	[no] <quant> DET S/P @>A  #4->6
+less 	[little] <aquant> ADV COM @>A  #5->6
+productive 	[productive] <DA:produktiv> <amentiferous> ADJ POS @<SC  #6->3
+than 	[than] <DA:end> PRP @KOMP<  #7->5
+when 	[when] <clb> <rel> <atemp> ADV @ADVL>  #8->11
+this 	[this] <dem> DET S @>N  #9->10
+crisis 	[crisis] <DA:krise> <event> <S:17> <def> <nhead> N S NOM @SUBJ>  #10->11
+began 	[begin] <DA:begynde> <mv> V IMPF @FS-<ADVL  #11->3
+$. #12->0
+</s>
+
+<s id="47895" source="24-en_obama.txt">
+Our 	[we] <poss> <det> PERS GEN 1P @>N  #1->2
+minds 	[mind] <DA:ånd> <f-psych> <ac-cat> <Hprof> <S:10> <def> <nhead> N P NOM @SUBJ>  #2->3
+are 	[be] <DA:være> <mv> V PR -1/3S @FS-STA  #3->0
+no 	[no] <quant> DET S/P @>A  #4->6
+less 	[little] <aquant> ADV COM @>A  #5->6
+inventive 	[inventive] <cjt-head> <DA:opfindsom> ADJ POS @<SC  #6->3
+$, #7->0
+our 	[we] <poss> <det> PERS GEN 1P @>N  #8->9
+goods 	[goods] <cjt> <cc-h> <S:38> <def> <nhead> N P NOM @<SC  #9->6
+and 	[and] <DA:og> <co-sc> KC @CO  #10->6
+services 	[service] <cjt> <DA:tjeneste> <act> <cc-h> <HHorg> <S:82> <nhead> N P NOM @<SC  #11->6
+no 	[no] <quant> DET S/P @>N  #12->14
+less 	[little] <aquant> ADV COM @>A  #13->14
+needed 	[need] <cjt> <DA:have=brug=for> V PCP2 STA @<SC  #14->6
+than 	[than] <clb> <DA:end> KS @SUB  #15->17
+they 	[they] PERS 3P NOM @SUBJ>  #16->17
+were 	[be] <DA:være> <mv> V IMPF -1/3S @FS-KOMP<  #17->13
+last 	[last] <DA:sidst> <num-ord> ADJ POS @>N  #18->19
+week 	[week] <DA:uge> <per> <dur> <S:10> <nhead> N S NOM @<SC  #19->17
+or 	[or] <DA:eller> KC @CO  #20->19
+last 	[last] <DA:sidst> <num-ord> ADJ POS @>N  #21->22
+month 	[month] <DA:f.=m.> <ac-cat> <per> <dur> <S:16> <comp2> <advl-fs> <nhead> N S NOM @<ADVL  #22->17
+or 	[or] <DA:eller> KC @CO  #23->22
+last 	[last] <DA:sidst> <num-ord> ADJ POS @>N  #24->25
+year 	[year] <DA:år> <per> <dur> <S:42> <advl-fs> <nhead> N S NOM @<ADVL  #25->17
+$. #26->0
+</s>
+
+<s id="47896" source="24-en_obama.txt">
+Our 	[we] <poss> <det> PERS GEN 1P @>N  #1->2
+capacity 	[capacity] <DA:kapacitet> <f-psych> <f-q> <S:21> <def> <nhead> N S NOM @SUBJ>  #2->3
+remains 	[remain] <DA:forblive> <mv> V PR 3S @FS-STA  #3->0
+undiminished 	[undiminished] <DA:usvækket> ADJ POS @<SC  #4->3
+$. #5->0
+</s>
+
+<s id="47897" source="24-en_obama.txt">
+But 	[but] <DA:men> KC @CO  #1->22
+our 	[we] <poss> <det> PERS GEN 1P @>N  #2->3
+time 	[time] <DA:tid> <ac-cat> <temp> <per> <num+> <S:113> <def> <nhead> N S NOM @NPHR  #3->0
+of 	[of] <DA:af> <np-close> PRP @N<  #4->3
+standing 	[stand] <DA:stå> <va+LOC> <v.contact> <vq> <mv> V PCP1 @ICL-P<  #5->4
+pat 	[pat] <DA:klap-2> <act> <event> <second> <S:2> N S NOM @<ACC  #6->5
+$, #7->0
+of 	[of] <DA:af> PRP @ADVL>  #8->0
+protecting 	[protect] <cjt-head> <DA:beskytte> <mv> V PCP1 @ICL-P<  #9->8
+narrow 	[narrow] <DA:smal> <close-minded> ADJ POS @>N  #10->11
+interests 	[interest] <DA:interesse> <f-psych> <S:21> <nhead> N P NOM @<ACC  #11->9
+and 	[and] <DA:og> <co-pcp1> KC @CO @co-vp  #12->9
+putting 	[put] <cjt> <DA:stille> <v.contact> <vta+LOC> <mv> V PCP1 @ICL-P<  #13->9
+off 	[off] <DA:af> ADV @MV<  #14->13
+unpleasant 	[unpleasant] <DA:ubehagelig> <acerb> ADJ POS @>N  #15->16
+decisions 	[decision] <DA:beslutning> <act-c> <S:10> <nhead> N P NOM @<ACC  #16->13
+$--  #17->0
+that 	[that] <clb> KS @SUB  #18->20
+time 	[time] <DA:dennegang> <ac-cat> <temp> <per> <num+> <S:113> <def> <nhead> N S NOM @SUBJ>  #19->20
+has 	[have] <DA:have> <v.contact> <aux> <np-close> V PR 3S @FS-N<  #20->16
+surely 	[surely] <DA:da> <ADJ:sure+ly> <advl-close> ADV @<ADVL  #21->22
+passed 	[pass] <DA:passere> <move> <v.contact> <mv> V PCP2 AKT @ICL-AUX<  #22->20
+$. #23->0
+</s>
+
+<s id="47898" source="24-en_obama.txt">
+Starting 	[start] <DA:starte> <mv> V PCP1 @ICL-ADVL>  #1->6
+today 	[today] <DA:i=dag> <atemp> <advl-close> ADV @<ADVL  #2->1
+$, #3->0
+we 	[we] PERS 1P NOM @SUBJ>  #4->5
+must 	[must] <aux> V PR @FS-STA  #5->0
+pick 	[pick] <cjt-head> <DA:tage> <v.contact> <mv> V INF @ICL-AUX<  #6->5
+ourselves 	[we] <cjt-head> <refl> PERS 1P ACC @<ACC  #7->6
+up 	[up] <DA:op> <adir> ADV @<ADVL  #8->6
+$, #9->0
+dust 	[dust] <cjt> <DA:støv> <cm> <S:10> <nhead> N S NOM @<ACC  #10->7
+ourselves 	[we] DET P @<PRED  #11->6
+off 	[off] <DA:af> ADV @<ADVL  #12->6
+$, #13->0
+and 	[and] <DA:og> <co-inf> KC @CO  #14->6
+begin 	[begin] <cjt> <DA:begynde> <mv> V INF @ICL-AUX<  #15->6
+again 	[again] <DA:igen> <atemp> <advl-close> ADV @<ADVL  #16->15
+the 	[the] <def> ART S/P @>N  #17->18
+work 	[work] <DA:arbejde> <act> <Lh> <cc-h> <sem> <S:103> <def> <nhead> N S NOM @<ACC  #18->15
+of 	[of] <DA:af> <np-close> PRP @N<  #19->18
+remaking 	[remaking] <pcp1> ADJ POS @>N  #20->21
+America 	[America] <Proper> <Lcountry> <nhead> N S NOM @P<  #21->19
+$. #22->0
+</s>
+
+<s id="47899" source="24-en_obama.txt">
+For 	[for] <DA:for> PRP @ADVL>  #1->4
+everywhere 	[everywhere] <DA:overalt> <aloc> ADV @ADVL>  #2->4
+we 	[we] PERS 1P NOM @SUBJ>  #3->4
+look 	[look] <DA:kigge> <v.contact> <mv> V PR -3S @FS-STA  #4->0
+$, #5->0
+there 	[there] ADV @F-SUBJ>  #6->7
+is 	[be] <DA:være> <mv> V PR 3S @FS-P<  #7->1
+work 	[work] <DA:arbejde> <act> <Lh> <cc-h> <sem> <S:103> N S NOM @<SC  #8->7
+to 	[to] <DA:at> INFM @INFM  #9->10
+be 	[be] <DA:være> <aux> <np-close> V INF @ICL-N<  #10->8
+done 	[do] <DA:gøre> <v.contact> <mv> V PCP2 PAS @ICL-AUX<  #11->10
+$. #12->0
+</s>
+
+<s id="47900" source="24-en_obama.txt">
+The 	[the] <def> ART S/P @>N  #1->2
+state 	[state] <DA:stand> <civ <S:45> <def> <nhead> N S NOM @SUBJ>  #2->6
+of 	[of] <DA:af> <np-close> PRP @N<  #3->2
+the 	[the] <def> ART S/P @>N  #4->5
+economy 	[economy] <DA:sparsommelighed> <act> <f-psych> <S:18> <def> <nhead> N S NOM @P<  #5->3
+calls 	[call] <cjt-head> <DA:kalde> <vq> <v.contact> <mv> V PR 3S @FS-STA  #6->0
+for 	[for] <DA:for> PRP @<PIV  #7->6
+action 	[action] <DA:handling> <act> <sem-r> <S:27> N S NOM @P<  #8->7
+$, #9->0
+bold 	[bold] <cjt-head> <DA:modig> <np-close> ADJ POS @N<PRED @>N  #10->15
+and 	[and] <DA:og> <co-prenom> KC @CO  #11->10
+swift 	[swift] <cjt> <DA:rap> <np-close> ADJ POS @N<PRED @>N  #12->10
+$, #13->0
+and 	[and] <DA:og> <clb?> <co-fin> KC @CO  #14->6
+we 	[we] PERS 1P NOM @SUBJ>  #15->16
+will 	[will] <cjt> <aux> V PR @FS-STA  #16->6
+act 	[act] <DA:handle> <mv> V INF @ICL-AUX<  #17->16
+$--  #18->0
+not 	[not] <DA:ikke> ADV @>A  #19->20
+only 	[only] <DA:kun> <ADJ:on+ly> <advl-close> ADV @<ADVL  #20->17
+to 	[to] <DA:at> INFM @INFM  #21->22
+create 	[create] <DA:skabe> <not> <mv> V INF @ICL-<ADVL  #22->17
+new 	[new] <DA:ny> ADJ POS @>N  #23->24
+jobs 	[job] <DA:opgave> <act> <Lh> <cc-h> <sem> <sick> <S:24> <nhead> N P NOM @<DAT  #24->22
+$, #25->0
+but 	[but] <DA:men> <clb?> <co-inf> KC @CO  #26->6
+to 	[to] <DA:at> INFM @INFM  #27->28
+lay 	[lay] <cjt> <DA:lægge> <v.contact> <mv> V INF @ICL-<ACC  #28->6
+a 	[a] <indef> ART S @>N  #29->31
+new 	[new] <DA:ny> ADJ POS @>N  #30->31
+foundation 	[foundation] <DA:grundlag> <act> <cloH> <build> <ac-cat> <HHorg> <S:4> <nhead> N S NOM @<ACC  #31->28
+for 	[for] <DA:for> <np-close> PRP @N<  #32->31
+growth 	[growth] <DA:vækst> <event> <cc> <sick> <S:14> N S NOM @P<  #33->32
+$. #34->0
+</s>
+
+<s id="47901" source="24-en_obama.txt">
+We 	[we] PERS 1P NOM @SUBJ>  #1->2
+will 	[will] <aux> V PR @FS-STA  #2->0
+build 	[build] <DA:bygge> <mv> V INF @ICL-AUX<  #3->2
+the 	[the] <def> ART S/P @>N  #4->5
+roads 	[road] <cjt-head> <DA:vej> <act> <Lpath> <S:36> <def> <nhead> N P NOM @<ACC  #5->3
+and 	[and] <DA:og> <co-acc> KC @CO  #6->5
+bridges 	[bridge] <cjt> <DA:bro> <act> <tool> <build> <cc-part> <Lsurf> <an> <S:27> N P NOM @<ACC  #7->5
+$, #8->0
+the 	[the] <clb> <def> ART S/P @>N  #9->11
+electric 	[electric] <clb> <DA:elektrisk> <jpert> ADJ POS @>N  #10->11
+grids 	[grid] <cjt-head> <DA:rist> <tool> <build> <S:5> <def> <nhead> N P NOM @SUBJ>  #11->20
+and 	[and] <DA:og> <co-subj> KC @CO  #12->11
+digital 	[digital] <DA:digital> <jpert> ADJ POS @>N  #13->14
+lines 	[line] <cjt> <DA:række> <cc-cord> <S:184> <nhead> N P NOM @SUBJ>  #14->11
+that 	[that] <clb> <rel> INDP S/P @SUBJ>  #15->16
+feed 	[feed] <cjt-head> <DA:føde> <mv> <np-close> V PR -3S @FS-N<  #16->14
+our 	[we] <poss> <det> PERS GEN 1P @>N  #17->18
+commerce 	[commerce] <DA:handel> <act> <ss> <def> <nhead> N S NOM @<ACC  #18->16
+and 	[and] <DA:og> <co-fin> KC @CO  #19->16
+bind 	[bind] <cjt> <DA:binde> <v.contact> <mv> <np-close> V PR -3S @FS-N<  #20->16
+us 	[we] PERS 1P ACC @<ACC  #21->20
+together 	[together] <DA:sammen> ADV @<ADVL  #22->20
+$. #23->0
+</s>
+
+<s id="47902" source="24-en_obama.txt">
+We 	[we] PERS 1P NOM @SUBJ>  #1->2
+will 	[will] <aux> V PR @FS-STA  #2->0
+restore 	[restore] <cjt-head> <DA:reparere> <mv> V INF @ICL-AUX<  #3->2
+science 	[science] <DA:videnskab> <f-psych> <domain> <S:42> <nhead> N S NOM @<ACC  #4->3
+to 	[to] <DA:til> PRP @<PIV  #5->3
+its 	[it] <poss> <det> PERS NEU 3S GEN @>N  #6->8
+rightful 	[rightful] <DA:retmæssig> <ante> <just> ADJ POS @>N  #7->8
+place 	[place] <DA:sted> <act> <ac-h> <ss> <sem-l> <event> <Lh> <Lregion> <L> <sick> <S:47> <def> <nhead> N S NOM @P<  #8->5
+$, #9->0
+and 	[and] <DA:og> <co-inf> KC @CO  #10->3
+wield 	[wield] <cjt> <DA:håndtere> <v.contact> <mv> V INF @ICL-AUX<  #11->3
+technology's 	[technology] <DA:teknik> <act> <domain> <S:14> N S GEN @>N  #12->13
+wonders 	[wonder] <DA:under> <f-psych> <event> <S:2> <def> <nhead> N P NOM @<ACC  #13->11
+to 	[to] <DA:at> INFM @INFM  #14->15
+raise 	[raise] <DA:løfte> <mv> V INF @ICL-<ADVL  #15->11
+health 	[health] <DA:sundhed> <sick> <comp1> <S:6> <nhead> N S NOM @>N  #16->17
+care's 	[care] <act> <S:26> <comp2> N S GEN @>N  #17->18
+quality 	[quality] <DA:kvalitet> <f-q> <f-phys> <f-psych> <S:16> <def> <nhead> N S NOM @<ACC  #18->15
+and 	[and] <DA:og> <co-inf> KC @CO  #19->3
+lower 	[lower] <cjt> <DA:sænke> <v.contact> <mv> V INF @ICL-AUX<  #20->3
+its 	[it] <poss> <det> PERS NEU 3S GEN @>N  #21->22
+cost 	[cost] <DA:omkostning> <amount> <S:28> <def> <nhead> N S NOM @<ACC  #22->20
+$. #23->0
+</s>
+
+<s id="47903" source="24-en_obama.txt">
+We 	[we] PERS 1P NOM @SUBJ>  #1->2
+will 	[will] <aux> V PR @FS-STA  #2->0
+harness 	[harness] <cjt-head> <v.contact> <mv> V INF @ICL-AUX<  #3->2
+the 	[the] <def> ART S/P @>N  #4->5
+sun 	[sun] <cjt-head> <DA:sol> <Lstar> <am> <S:7> <def> <nhead> N S NOM @<ACC  #5->3
+and 	[and] <DA:og> <co-acc> KC @CO  #6->5
+the 	[the] <def> ART S/P @>N  #7->8
+winds 	[wind] <cjt> <DA:vind> <act> <tool-mus> <sem-r> <ss> <ac> <S:28> <def> <nhead> N P NOM @<ACC  #8->5
+and 	[and] <DA:og> <co-acc> KC @CO  #9->5
+the 	[the] <def> ART S/P @>N  #10->11
+soil 	[soil] <cjt> <DA:jordbund> <cc> <sick> <mat> <S:28> <def> <nhead> N S NOM @<ACC  #11->5
+to 	[to] <DA:at> INFM @INFM  #12->13
+fuel 	[fuel] <mv> V INF @ICL-<ADVL  #13->3
+our 	[we] <poss> <det> PERS GEN 1P @>N  #14->15
+cars 	[car] <DA:bil> <Lh> <Vground> <S:90> <def> <nhead> N P NOM @<ACC  #15->13
+and 	[and] <DA:og> <co-inf> KC @CO  #16->3
+run 	[run] <cjt> <DA:løbe> <move> <va+DIR> <vta+DIR> <mv> V INF @ICL-AUX<  #17->3
+our 	[we] <poss> <det> PERS GEN 1P @>N  #18->19
+factories 	[factory] <DA:fabrik> <build> <S:44> <def> <nhead> N P NOM @<ACC  #19->17
+$. #20->0
+</s>
+
+<s id="47904" source="24-en_obama.txt">
+And 	[and] <topkc> <DA:og> KC @CO  #1->3
+we 	[we] PERS 1P NOM @SUBJ>  #2->3
+will 	[will] <aux> V PR @FS-STA  #3->0
+transform 	[transform] <DA:forvandle> <mv> V INF @ICL-AUX<  #4->3
+our 	[we] <poss> <det> PERS GEN 1P @>N  #5->6
+schools 	[school] <cjt-head> <DA:skole> <build> <ac-cat> <HH> <HHorg> <per> <S:92> <def> <nhead> N P NOM @<ACC  #6->4
+and 	[and] <DA:og> <co-acc> KC @CO  #7->6
+colleges 	[college] <cjt> <DA:college> <build> <HH> <HHorg> <S:13> N P NOM @<ACC  #8->6
+and 	[and] <DA:og> <co-acc> KC @CO  #9->6
+universities 	[university] <cjt> <DA:universitet> <build> <HH> <HHorg> <S:3> N P NOM @<ACC  #10->6
+to 	[to] <DA:at> INFM @INFM  #11->12
+meet 	[meet] <DA:møde> <v.contact> <mv> V INF @ICL-<ADVL  #12->4
+the 	[the] <def> ART S/P @>N  #13->14
+demands 	[demand] <DA:krav> <act-s> <ac-cat> <sem-r> <am> <S:5> <def> <nhead> N P NOM @<ACC  #14->12
+of 	[of] <DA:af> <pp-temp> <np-close> PRP @N<  #15->14
+a 	[a] <indef> ART S @>N  #16->18
+new 	[new] <DA:ny> ADJ POS @>N  #17->18
+age 	[age] <DA:alder> <per> <S:43> <nhead> N S NOM @P<  #18->15
+$. #19->0
+</s>
+
+<s id="47905" source="24-en_obama.txt">
+All 	[all] <quant> DET S/P @>N  #1->2
+this 	[this] <dem> INDP S @ACC>  #2->0
+we 	[we] <clb> PERS 1P NOM @SUBJ>  #3->4
+can 	[can] <aux> <np-close> V PR @FS-N<  #4->2
+do 	[do] <DA:gøre> <v.contact> <mv> V INF @ICL-AUX<  #5->4
+$. #6->0
+</s>
+
+<s id="47906" source="24-en_obama.txt">
+And 	[and] <topkc> <DA:og> KC @CO  #1->3
+all 	[all] <quant> DET S/P @>N  #2->3
+this 	[this] <dem> INDP S @NPHR  #3->6
+we 	[we] PERS 1P NOM @SUBJ>  #4->5
+will 	[will] <aux> V PR @FS-STA  #5->0
+do 	[do] <DA:gøre> <v.contact> <mv> V INF @ICL-AUX<  #6->5
+$. #7->0
+</s>
+
+<s id="47907" source="24-en_obama.txt">
+Now 	[now] <DA:nu> <atemp> ADV @ADVL>  #1->4
+$, #2->0
+there 	[there] ADV @F-SUBJ>  #3->4
+are 	[be] <DA:være> <mv> V PR -1/3S @FS-STA  #4->0
+some 	[some] <quant> DET S/P @<SC  #5->4
+who 	[who] <clb> <interr> INDP S/P @SUBJ> 	[who] <clb> <rel> INDP S/P  #6->7
+question 	[question] <real-subj> <DA:betvivle> <mv> <np-close> V PR -3S @FS-<SUBJ @FS-N<  #7->4
+the 	[the] <def> ART S/P @>N  #8->9
+scale 	[scale] <DA:målestok> <A> <tool> <Lsurf> <sem-r> <cc-part> <anbo> <ac-cat> <S:33> <def> <nhead> N S NOM @<ACC  #9->7
+of 	[of] <DA:af> <np-close> PRP @N<  #10->9
+our 	[we] <poss> <det> PERS GEN 1P @>N  #11->12
+ambitions 	[ambition] <DA:ambition> <f-psych> <def> <nhead> N P NOM @P<  #12->10
+$--  #13->0
+who 	[who] <clb> <rel> INDP S/P @SUBJ>  #14->15
+suggest 	[suggest] <DA:foreslå> <vq> <v-cog> <mv> <np-close> V PR -3S @FS-N<  #15->12
+that 	[that] <clb> KS @SUB  #16->19
+our 	[we] <poss> <det> PERS GEN 1P @>N  #17->18
+system 	[system] <DA:system> <cc-h> <an> <f-psych> <ac-cat> <S:229> <def> <nhead> N S NOM @SUBJ>  #18->19
+can_ 	[can] <sam-> <aux> V PR @FS-<ACC  #19->15
+_not 	[not] <-sam> <advl-close> ADV @<ADVL  #20->21
+tolerate 	[tolerate] <DA:tåle> <not> <mv> V INF @ICL-AUX<  #21->19
+too 	[too] <DA:også> ADV @>A  #22->23
+many 	[many] <quant> DET ABS P @>N  #23->25
+big 	[big] <DA:stor> <ample> <ante> ADJ POS @>N  #24->25
+plans 	[plan] <DA:projekt> <sem-c> <S:63> <nhead> N P NOM @<ACC  #25->21
+$. #26->0
+</s>
+
+<s id="47908" source="24-en_obama.txt">
+Their 	[they] <poss> <det> PERS 3P GEN @>N  #1->2
+memories 	[memory] <DA:minde> <tool> <ac-cat> <f-psych> <domain> <S:14> <def> <nhead> N P NOM @SUBJ>  #2->3
+are 	[be] <DA:være> <mv> V PR -1/3S @FS-STA  #3->0
+short 	[short] <DA:kort> ADJ POS @<SC  #4->3
+$. #5->0
+</s>
+
+<s id="47909" source="24-en_obama.txt">
+For 	[for] <clb> <DA:for> PRP @ADVL>  #1->4
+they 	[they] PERS 3P NOM @SUBJ>  #2->3
+have 	[have] <DA:have> <v.contact> <aux> V PR -3S @FS-STA  #3->0
+forgotten 	[forget] <DA:glemme> <v-cog> <mv> V PCP2 AKT @ICL-AUX<  #4->3
+what 	[what] <interr> INDP S/P @P<  #5->1
+this 	[this] <dem> DET S @>N  #6->7
+country 	[country] <DA:land> <Lcountry> <S:48> <def> <nhead> N S NOM @SUBJ>  #7->8
+has 	[have] <DA:have> <v.contact> <aux> V PR 3S @FS-<ACC  #8->4
+already 	[already] <DA:allerede> <atemp> <advl-close> ADV @<ADVL  #9->10
+done 	[do] <DA:gøre> <v.contact> <mv> V PCP2 AKT @ICL-AUX<  #10->8
+$; #11->0
+</s>
+
+<s id="47910" source="24-en_obama.txt">
+what 	[what] <clb> <rel> INDP S/P @SUBJ>  #1->2
+free 	[free] <quote> <DA:befri> <v.contact> <mv> V PR -3S @FS-SUBJ> @FS-ACC> @FS-ADVL>  #2->6
+men 	[man] <H> N P NOM @<ACC  #3->2
+and 	[and] <nofirstcjt> <DA:og> <co-fin> KC @CO  #4->6
+women 	[woman] <H> <nhead> N P NOM @SUBJ>  #5->6
+can 	[can] <aux> V PR @FS-STA  #6->0
+achieve 	[achieve] <DA:opnå> <mv> V INF @ICL-AUX<  #7->6
+when 	[when] <clb> <rel> <atemp> ADV @ADVL>  #8->10
+imagination 	[imagination] <DA:fantasi> <f-psych> <ac-cat> <nhead> N S NOM @SUBJ>  #9->10
+is 	[be] <DA:være> <mv> V PR 3S @FS-<ADVL  #10->7
+joined 	[joined] <cjt-head> <DA:koblet> ADJ POS @>N  #11->14
+to 	[to] <DA:til> <co-prenom> KC @CO  #12->11
+common 	[common] <cjt> <DA:almen> ADJ POS @>N  #13->11
+purpose 	[purpose] <cjt-head> <DA:øjemed> <f-psych> <second> <S:3> <nhead> N S NOM @<SC  #14->10
+$, #15->0
+and 	[and] <insertion> <DA:og> <co-sc> KC @CO  #16->14
+necessity 	[necessity] <cjt> <DA:nødvendighed> <ac> <S:2> <nhead> N S NOM @<SC  #17->14
+to 	[to] <DA:til> <advl-fs> PRP @<ADVL  #18->10
+courage 	[courage] <DA:mod> <f-psych> N S NOM @P<  #19->18
+$. #20->0
+</s>
+
+<s id="47911" source="24-en_obama.txt">
+What 	[what] <clb> <interr> INDP S/P @ACC>> 	[what] <clb> <rel> INDP S/P  #1->6
+the 	[the] <def> ART S/P @>N  #2->3
+cynics 	[cynic] <DA:kyniker> <H> <def> <nhead> N P NOM @SUBJ>  #3->4
+fail 	[fail] <predco> <cjt-head> <DA:svigte> <vch> <mv> V PR -3S @FS-STA  #4->0
+to 	[to] <DA:at> INFM @INFM  #5->6
+understand 	[understand] <DA:forstå> <vq> <mv> V INF @ICL-<ACC  #6->4
+is 	[be] <nosubj> <cjt> <DA:være> <mv> V PR 3S @FS-STA  #7->4
+that 	[that] <clb> KS @SUB  #8->11
+the 	[the] <def> ART S/P @>N  #9->10
+ground 	[ground] <DA:grund> <Lsurf> <cc-h> <Lh> <f-psych> <cc> <ac-cat> <mat> <S:32> <def> <nhead> N S NOM @SUBJ>  #10->11
+has 	[have] <DA:have> <v.contact> <aux> V PR 3S @FS-<SC  #11->7
+shifted 	[shift] <DA:flytte> <mv> V PCP2 AKT @ICL-AUX<  #12->11
+beneath 	[beneath] <advl-close> PRP @<ADVL  #13->12
+them 	[they] PERS 3P ACC @P<  #14->13
+$--  #15->0
+that 	[that] <clb> KS @SUB  #16->29
+the 	[the] <def> ART S/P @>N  #17->20
+stale 	[stale] <DA:overgemt> ADJ POS @>N  #18->20
+political 	[political] <DA:politisk> <jpert> <S:12> ADJ POS @>N  #19->20
+arguments 	[argument] <DA:argument> <ac-cat> <ac-sign> <ss> <act-s> <sem-r> <S:8> <def> <nhead> N P NOM @SUBJ>  #20->29
+that 	[that] <clb> <rel> INDP S/P @SUBJ>  #21->22
+have 	[have] <DA:have> <v.contact> <aux> <np-close> V PR -3S @FS-N<  #22->20
+consumed 	[consume] <DA:fortære> <v.contact> <mv> V PCP2 AKT @ICL-AUX<  #23->22
+us 	[we] PERS 1P ACC @<DAT  #24->23
+for 	[for] <DA:for> PRP @<ADVL  #25->23
+so 	[so] <DA:så> <aquant> ADV @>A  #26->27
+long 	[long] <DA:farvel> <S:6> ADJ POS @>N  #27->0
+no=longer 	[no=longer] <DA:ikke=længere> <atemp> ADV @<ADVL  #28->23
+apply 	[apply] <DA:ansøge> <v.contact> <mv> V PR -3S @FS-<ACC  #29->12
+$. #30->0
+</s>
+
+<s id="47912" source="24-en_obama.txt">
+The 	[the] <clb> <def> ART S/P @>N  #1->2
+question 	[question] <DA:spørgsmål> <sem-r> <act-s> <ac-cat> <S:15> <def> <nhead> N S NOM @SUBJ>  #2->6
+we 	[we] <clb> PERS 1P NOM @SUBJ>  #3->4
+ask 	[ask] <DA:spørge> <vq> <acc-ellipsis> <mv> <np-close> V PR -3S @FS-N<  #4->2
+today 	[today] <DA:i=dag> <atemp> <advl-close> ADV @<ADVL  #5->4
+is 	[be] <cjt-head> <DA:være> <mv> V PR 3S @FS-STA  #6->0
+not 	[not] <DA:ikke> <advl-close> ADV @<ADVL  #7->6
+whether 	[whether] <clb> <DA:om> KS @SUB  #8->11
+our 	[we] <poss> <det> PERS GEN 1P @>N  #9->10
+government 	[government] <DA:regering> <act> <domain> <HHorg> <HH> <S:18> <def> <nhead> N S NOM @SUBJ>  #10->11
+is 	[be] <cjt-head> <DA:være> <mv> V PR 3S @FS-<SC  #11->6
+too 	[too] <DA:også> ADV @>A  #12->13
+big 	[big] <cjt-head> <DA:stor> <ample> <ante> ADJ POS @<SC  #13->4
+or 	[or] <DA:eller> <co-sc> KC @CO  #14->13
+too 	[too] <DA:også> ADV @>A  #15->16
+small 	[small] <cjt> <DA:lille> <ante> ADJ POS @<SC  #16->13
+$, #17->0
+but 	[but] <DA:men> <co-fin> KC @CO  #18->11
+whether 	[whether] <clb> <DA:om> KS @SUB  #19->21
+it 	[it] PERS NEU 3S NOM @SUBJ>  #20->21
+works 	[work] <cjt> <DA:arbejde> <v.contact> <mv> V PR 3S @FS-<SC  #21->11
+$--  #22->0
+whether 	[whether] <clb> <DA:om> KS @SUB  #23->25
+it 	[it] PERS NEU 3S NOM @SUBJ>  #24->25
+helps 	[help] <cjt> <DA:hjælpe> <mv> V PR 3S @FS-STA  #25->6
+families 	[family] <DA:familie> <HHorg> <HH> <HHinst> <Hfam> <second> <S:213> <nhead> N P NOM @<SUBJ  #26->25
+find 	[find] <DA:finde> <vq> <mv> V INF @ICL-<OA  #27->25
+jobs 	[job] <DA:opgave> <act> <Lh> <cc-h> <sem> <sick> <S:24> <nhead> N P NOM @<ACC  #28->27
+at 	[at] <DA:ved> <advl-fs> PRP @<ADVL  #29->27
+a 	[a] <indef> ART S @>N  #30->32
+decent 	[decent] <DA:ordentlig> ADJ POS @>N  #31->32
+wage 	[wage] <DA:løn> <S:9> <nhead> N S NOM @P<  #32->29
+$, #33->0
+care 	[care] <clb> <DA:omsorg> <act> <f-psych> <S:26> <nhead> N S NOM @SUBJ> @<OC  #34->27
+they 	[they] <clb> PERS 3P NOM @SUBJ>  #35->36
+can 	[can] <aux> <np-close> V PR @FS-N<  #36->34
+afford 	[afford] <DA:afse> <acc-ellipsis> <mv> V INF @ICL-AUX<  #37->36
+$, #38->0
+a 	[a] <indef> ART S @>N  #39->40
+retirement 	[retirement] <DA:otium> <act> <np-close> <nhead> N S NOM @N<PRED  #40->32
+that 	[that] <clb> <rel> INDP S NOM @SUBJ>  #41->42
+is 	[be] <aux> <np-close> V PR 3S @FS-N<  #42->40
+dignified 	[dignify] <DA:ære> <mv> V PCP2 PAS @ICL-AUX<  #43->42
+$. #44->0
+</s>
+
+<s id="47913" source="24-en_obama.txt">
+Where 	[where] <clb> <rel> <aloc> ADV @ADVL>  #1->4
+the 	[the] <def> ART S/P @>N  #2->3
+answer 	[answer] <DA:svar> <act-s> <ss> <S:3> <def> <nhead> N S NOM @SUBJ>  #3->4
+is 	[be] <DA:være> <mv> V PR 3S @FS-ADVL>  #4->8
+yes 	[yes] IN @ADVL>  #5->8
+$, #6->0
+we 	[we] PERS 1P NOM @SUBJ>  #7->8
+intend 	[intend] <DA:tilsigte> <vq> <mv> V PR -3S @FS-STA  #8->0
+to 	[to] <DA:at> INFM @INFM  #9->10
+move 	[move] <DA:flytte> <move> <va+DIR> <vta+DIR> <mv> V INF @ICL-<ACC  #10->8
+forward 	[forward] <DA:fremad> <adir> ADV @<SA  #11->10
+$. #12->0
+</s>
+
+<s id="47914" source="24-en_obama.txt">
+Where 	[where] <clb> <rel> <aloc> ADV @ADVL>  #1->4
+the 	[the] <def> ART S/P @>N  #2->3
+answer 	[answer] <DA:svar> <act-s> <ss> <S:3> <def> <nhead> N S NOM @SUBJ>  #3->4
+is 	[be] <DA:være> <mv> V PR 3S @FS-ADVL>  #4->9
+no 	[no] <quant> DET S/P @<SC  #5->4
+$, #6->0
+programs 	[program] <DA:program> <act> <domain> <sem-r> <ac-cat> <sem-w> <sem> <ss> <S:71> <nhead> N P NOM @SUBJ>  #7->8
+will 	[will] <aux> V PR @FS-STA  #8->0
+end 	[end] <DA:slutte> <mv> V INF @ICL-AUX<  #9->8
+$. #10->0
+</s>
+
+<s id="47915" source="24-en_obama.txt">
+And 	[and] <DA:og> <co-nphr> KC @CO  #1->10
+those 	[that] <cjt> <dem> INDP P @NPHR  #2->10
+of 	[of] <DA:af> <np-close> PRP @N<  #3->2
+us 	[we] PERS 1P ACC @P<  #4->3
+who 	[who] <clb> <interr> INDP S/P @SUBJ> 	[who] <clb> <rel> INDP S/P  #5->6
+manage 	[manage] <DA:mestre> <mv> V PR -3S @FS-SUBJ>  #6->10
+the 	[the] <def> ART S/P @>N  #7->8
+public's 	[public] <DA:offentligheden> <HH> <HHnat> <S:5> <comp2> <def> N S GEN @>N  #8->9
+dollars 	[dollar] <DA:dollar> <ac-sign> <cur> <S:21> <def> <nhead> N P NOM @<ACC  #9->6
+will 	[will] <predco> <cjt-head> <aux> V PR @FS-STA  #10->0
+be 	[be] <DA:være> <aux> V INF @ICL-AUX<  #11->10
+held 	[hold] <DA:holde> <v.contact> <vq> <mv> V PCP2 PAS @ICL-AUX<  #12->11
+to 	[to] <DA:at> INFM @INFM  #13->14
+account 	[account] <DA:redegøre> <mv> V INF @ICL-<ADVL  #14->12
+$--  #15->0
+to 	[to] <DA:at> INFM @INFM  #16->17
+spend 	[spend] <DA:tilbringe> <mv> V INF @ICL-SUBJ> @ICL-<ACC @ICL-<ADVL  #17->14
+wisely 	[wisely] <ADJ:wise+ly> <advl-close> ADV @<ADVL  #18->17
+$, #19->0
+reform 	[reform] <cjt-head> <DA:reform> <act> <S:14> N S NOM @<ACC  #20->17
+bad 	[bad] <DA:dårlig> <jqual> ADJ POS @>N  #21->22
+habits 	[habit] <cjt> <f-h> <S:6> <comp2> <nhead> N P NOM @<ACC  #22->20
+$, #23->0
+and 	[and] <DA:og> <co-fin> KC @CO  #24->10
+do 	[do] <nosubj> <cjt> <DA:gøre> <v.contact> <mv> V PR -3S @FS-STA  #25->10
+our 	[we] <poss> <det> PERS GEN 1P @>N  #26->27
+business 	[business] <DA:forretning> <act> <f-psych> <ac-cat> <HH> <HHorg> <HHnat> <S:41> <def> <nhead> N S NOM @<ACC  #27->25
+in 	[in] <DA:i> PRP @<ADVL  #28->25
+the 	[the] <def> ART S/P @>N  #29->30
+light 	[light] <DA:lys> <percep-w> <S:57> <def> <nhead> N S NOM @P<  #30->28
+of 	[of] <DA:af> <pp-temp> <np-close> PRP @N<  #31->30
+day 	[day] <DA:dag> <dur> <per> <S:85> N S NOM @P<  #32->31
+$--  #33->0
+because 	[because] <clb> <DA:for> KS @SUB  #34->37
+only 	[only] <DA:kun> <ADJ:on+ly> ADV @>A  #35->36
+then 	[then] <DA:da> <atemp> ADV @ADVL>  #36->39
+can 	[can] <cjt> <aux> V PR @FS-STA  #37->10
+we 	[we] PERS 1P NOM @<SUBJ  #38->37
+restore 	[restore] <DA:reparere> <mv> V INF @ICL-AUX<  #39->37
+the 	[the] <def> ART S/P @>N  #40->42
+vital 	[vital] <DA:afgørende> <jpert> ADJ POS @>N  #41->42
+trust 	[trust] <DA:tillid> <f-psych> <HHorg> <second> <S:22> <def> <nhead> N S NOM @<ACC  #42->39
+between 	[between] <DA:mellem> <advl-fs> PRP @<ADVL  #43->39
+a 	[a] <indef> ART S @>N  #44->45
+people 	[people] <cjt-head> <H> <nhead> N P NOM @P< 	[people] <HH> N S NOM @P<  #45->43
+and 	[and] <DA:og> <co-prparg> KC @CO  #46->45
+their 	[they] <poss> <det> PERS 3P GEN @>N  #47->48
+government 	[government] <cjt> <DA:regering> <act> <domain> <HHorg> <HH> <S:18> <def> <nhead> N S NOM @P<  #48->45
+$. #49->0
+</s>
+
+<s id="47916" source="24-en_obama.txt">
+Nor 	[nor] <topkc> <DA:eller> KC @CO  #1->2
+is 	[be] <DA:være> <mv> V PR 3S @FS-STA  #2->0
+the 	[the] <def> ART S/P @>N  #3->4
+question 	[question] <DA:spørgsmål> <sem-r> <act-s> <ac-cat> <S:15> <def> <nhead> N S NOM @<SUBJ  #4->2
+before 	[before] <DA:inden> <np-close> PRP @N<  #5->4
+us 	[we] PERS 1P ACC @P<  #6->5
+whether 	[whether] <clb> <DA:om> KS @SUB  #7->10
+the 	[the] <def> ART S/P @>N  #8->9
+market 	[market] <DA:marked> <HHorg> <Lh> <S:43> <def> <nhead> N S NOM @SUBJ>  #9->10
+is 	[be] <DA:være> <mv> V PR 3S @FS-<SC  #10->2
+a 	[a] <indef> ART S @>N  #11->12
+force 	[force] <DA:opbud> <act> <f-q> <HHorg> <HH> <HHinst> <H> <ac> <S:49> <nhead> N S NOM @<SC  #12->10
+for 	[for] <DA:for> <advl-fs> PRP @<ADVL  #13->10
+good 	[good] <DA:god> <jqual> ADJ POS @>N  #14->16
+or 	[or] <DA:eller> KC @CO  #15->13
+ill 	[ill] <DA:syg> ADJ POS @P<  #16->13
+$. #17->0
+</s>
+
+<s id="47917" source="24-en_obama.txt">
+Its 	[it] <poss> <det> PERS NEU 3S GEN @>N  #1->2
+power 	[power] <DA:magt> <f-soc> <f-psych> <f-q> <S:71> <def> <nhead> N S NOM @SUBJ>  #2->4
+to 	[to] <DA:at> INFM @INFM  #3->4
+generate 	[generate] <cjt-head> <DA:generere> <mv> <np-close> V INF @ICL-N<  #4->1
+wealth 	[wealth] <DA:fylde> <f-q> <sick> <S:2> N S NOM @<ACC  #5->4
+and 	[and] <DA:og> <co-inf> KC @CO  #6->4
+expand 	[expand] <cjt> <DA:udvide> <mv> <np-close> V INF @ICL-N<  #7->4
+freedom 	[freedom] <DA:frihed> <am> <f-right> <S:2> <nhead> N S NOM @<ACC  #8->7
+is 	[be] <cjt-head> <DA:være> <mv> V PR 3S @FS-STA  #9->0
+unmatched 	[unmatched] ADJ POS @<SC  #10->9
+$, #11->0
+but 	[but] <DA:men> <clb?> <co-fin> KC @CO  #12->9
+this 	[this] <dem> DET S @>N  #13->14
+crisis 	[crisis] <DA:krise> <event> <S:17> <def> <nhead> N S NOM @SUBJ>  #14->15
+has 	[have] <cjt> <DA:have> <v.contact> <aux> V PR 3S @FS-STA  #15->9
+reminded 	[remind] <DA:minde> <v-cog> <mv> V PCP2 AKT @ICL-AUX<  #16->15
+us 	[we] PERS 1P ACC @<ACC  #17->16
+that 	[that] <clb> <dem> INDP S @SUBJ>  #18->0
+without 	[without] <DA:uden> <np-close> PRP @N<  #19->18
+a 	[a] <indef> ART S @>N  #20->22
+watchful 	[watchful] <DA:agtpågivende> ADJ POS @>N  #21->22
+eye 	[eye] <DA:øje> <Lhole> <anorg> <f-psych> <ac-cat> <L> <S:21> <nhead> N S NOM @P<  #22->19
+$, #23->0
+the 	[the] <clb> <def> ART S/P @>N  #24->25
+market 	[market] <DA:marked> <HHorg> <Lh> <S:43> <def> <nhead> N S NOM @SUBJ>  #25->26
+can 	[can] <aux> <np-close> V PR @FS-N<  #26->22
+spin 	[spin] <DA:spinde> <move> <v.contact> <acc-ellipsis> <mv> V INF @ICL-AUX<  #27->26
+out=of 	[out=of] <complex> <DA:ude=af> <advl-close> PRP @<ADVL  #28->27
+control 	[control] <DA:kontrol> <act> <f-psych> <S:50> N S NOM @P<  #29->28
+$--  #30->0
+and 	[and] <DA:og> <co-fin> KC @CO  #31->9
+that 	[that] <clb> KS @SUB  #32->35
+a 	[a] <indef> ART S @>N  #33->34
+nation 	[nation] <DA:nation> <HH> <S:11> <def> <nhead> N S NOM @SUBJ>  #34->35
+can_ 	[can] <cjt> <sam-> <aux> V PR @FS-<ACC  #35->9
+_not 	[not] <-sam> <advl-close> ADV @<ADVL  #36->37
+prosper 	[prosper] <DA:trives> <not> <mv> V INF @ICL-AUX<  #37->35
+long 	[long] <DA:længe> <advl-close> ADV @<ADVL  #38->37
+when 	[when] <clb> <rel> <atemp> ADV @ADVL>  #39->41
+it 	[it] PERS NEU 3S NOM @SUBJ>  #40->41
+favors 	[favor] <DA:favor> <mv> V PR 3S @FS-<ADVL  #41->37
+only 	[only] <DA:kun> <ADJ:on+ly> ADV @>N  #42->44
+the 	[the] <def> ART S/P @>N  #43->44
+prosperous 	[prosperous] <DA:holden> ADJ POS @<ACC  #44->41
+$. #45->0
+</s>
+
+<s id="47918" source="24-en_obama.txt">
+The 	[the] <def> ART S/P @>N  #1->2
+success 	[success] <DA:succes> <act> <event> <H> <sick> <S:3> <def> <nhead> N S NOM @SUBJ>  #2->6
+of 	[of] <DA:af> <np-close> PRP @N<  #3->2
+our 	[we] <poss> <det> PERS GEN 1P @>N  #4->5
+economy 	[economy] <DA:sparsommelighed> <act> <f-psych> <S:18> <def> <nhead> N S NOM @P<  #5->3
+has 	[have] <DA:have> <v.contact> <aux> V PR 3S @FS-STA  #6->0
+always 	[always] <DA:altid> <atemp> <advl-close> ADV @<ADVL  #7->8
+depended 	[depend] <DA:afhænge> <mv> V PCP2 AKT @ICL-AUX<  #8->6
+not 	[not] <DA:ikke> ADV @>P  #9->11
+just 	[just] <DA:lige> <atemp> ADV @>P  #10->11
+on 	[on] <DA:på> PRP @<PIV  #11->8
+the 	[the] <def> ART S/P @>N  #12->13
+size 	[size] <DA:størrelse> <f-q> <mat> <S:14> <def> <nhead> N S NOM @P<  #13->11
+of 	[of] <DA:af> <np-close> PRP @N<  #14->13
+our 	[we] <poss> <det> PERS GEN 1P @>N  #15->18
+gross 	[gross] <DA:grov> ADJ POS @>N  #16->18
+domestic 	[domestic] <DA:domestisk> <jpert> ADJ POS @>N  #17->18
+product 	[product] <DA:vare> <cc-h> <ac-cat> <ac> <mat> <second> <S:40> <def> <nhead> N S NOM @P<  #18->14
+$, #19->0
+but 	[but] <insertion> <DA:men> KC @CO  #20->18
+on 	[on] <DA:på> PRP @<ADVL  #21->8
+the 	[the] <def> ART S/P @>N  #22->23
+reach 	[reach] <DA:rækkevidde> <act> <f-q> <f-psych> <Ltip> <def> <nhead> N S NOM @P<  #23->21
+of 	[of] <DA:af> <np-close> PRP @N<  #24->23
+our 	[we] <poss> <det> PERS GEN 1P @>N  #25->26
+prosperity 	[prosperity] <DA:velstand> <sick> <def> <nhead> N S NOM @P<  #26->24
+$; #27->0
+</s>
+
+<s id="47919" source="24-en_obama.txt">
+on 	[on] <DA:på> PRP @ADVL>  #1->5
+our 	[we] <poss> <det> PERS GEN 1P @>N  #2->3
+ability 	[ability] <DA:evne> <f-h> <S:9> <def> <nhead> N S NOM @P<  #3->1
+to 	[to] <DA:at> INFM @INFM  #4->5
+extend 	[extend] <DA:udvide> <v.contact> <mv> <np-close> V INF @ICL-N<  #5->2
+opportunity 	[opportunity] <DA:chance> <S:7> <nhead> N S NOM @<ACC  #6->5
+to 	[to] <DA:til> PRP @<PIV  #7->5
+every 	[every] <quant> DET S @>N  #8->10
+willing 	[willing] <DA:villig> ADJ POS @>N  #9->10
+heart 	[heart] <DA:hjerte> <sem-r> <ac-cat> <anorg> <f-psych> <food> <L> <second> <S:10> <def> <nhead> N S NOM @P<  #10->7
+$--  #11->0
+not 	[not] <DA:ikke> ADV @>P  #12->13
+out=of 	[out=of] <complex> <DA:ude=af> <advl-icl> PRP @<ADVL  #13->5
+charity 	[charity] <DA:velgørenhed> <act> <f-psych> <HHorg> <Bflo> N S NOM @P<  #14->13
+$, #15->0
+but 	[but] <DA:men> KC @CO  #16->14
+because 	[because] <clb> <DA:for> KS @SUB  #17->19
+it 	[it] PERS NEU 3S NOM @SUBJ>  #18->19
+is 	[be] <DA:være> <mv> V PR 3S @FS-<ADVL  #19->5
+the 	[the] <def> ART S/P @>N  #20->22
+surest 	[sure] <DA:sikker> <jpsych> ADJ SUP @>N  #21->22
+route 	[route] <DA:rute> <Lpath> <S:14> <def> <nhead> N S NOM @<SC  #22->19
+to 	[to] <DA:til> <advl-fs> PRP @<ADVL  #23->19
+our 	[we] <poss> <det> PERS GEN 1P @>N  #24->26
+common 	[common] <DA:almen> ADJ POS @>N  #25->26
+good 	[good] <comp2> <def> <nhead> N S NOM @P<  #26->23
+$. #27->0
+</s>
+
+<s id="47920" source="24-en_obama.txt">
+As=for 	[as=for] <complex> PRP @ADVL>  #1->7
+our 	[we] <poss> <det> PERS GEN 1P @>N  #2->4
+common 	[common] <DA:almen> ADJ POS @>N  #3->4
+defense 	[defense] <DA:forsvar> <act> <build> <act-s> <ss> <HHorg> <HHinst> <second> <S:6> <def> <nhead> N S NOM @P<  #4->1
+$, #5->0
+we 	[we] PERS 1P NOM @SUBJ>  #6->7
+reject 	[reject] <DA:forkaste> <vq> <mv> V PR -3S @FS-STA  #7->0
+as 	[as] <advl-close> PRP @<ADVL  #8->7
+false 	[false] <DA:falsk> ADJ POS @>N  #9->11
+the 	[the] <def> ART S/P @>N  #10->11
+choice 	[choice] <DA:valg> <act> <ac-cat> <S:4> <def> <nhead> N S NOM @P<  #11->8
+between 	[between] <DA:mellem> <np-close> PRP @N<  #12->11
+our 	[we] <poss> <det> PERS GEN 1P @>N  #13->14
+safety 	[safety] <cjt-head> <DA:sikkerhed> <act> <tool> <L> <S:7> <def> <nhead> N S NOM @P<  #14->12
+and 	[and] <DA:og> <co-prparg> KC @CO  #15->14
+our 	[we] <poss> <det> PERS GEN 1P @>N  #16->17
+ideals 	[ideal] <cjt> <DA:ideal> <sem-c> <S:3> <def> <nhead> N P NOM @P<  #17->14
+$. #18->0
+</s>
+
+<s id="47921" source="24-en_obama.txt">
+Our 	[we] <poss> <det> PERS GEN 1P @>N  #1->3
+founding 	[founding] <DA:stiftelse> <act> <def> <comp1> N S NOM @>N  #2->3
+fathers 	[father] <Hprof> <S:8> <comp2> <def> <nhead> N P NOM @SUBJ>  #3->13
+$, #4->0
+faced 	[face] <DA:konfrontere> <v.contact> <mv> <np-close> V PCP2 PAS @ICL-N<  #5->3
+with 	[with] <DA:med> PRP @<PIV  #6->5
+perils 	[peril] <DA:fare> <nhead> N P NOM @P<  #7->6
+we 	[we] <clb> PERS 1P NOM @SUBJ>  #8->9
+can 	[can] <aux> <np-close> V PR @FS-N<  #9->7
+scarcely 	[scarcely] <DA:knap> <aquant> <ADJ:scarce+ly> <advl-close> ADV @<ADVL  #10->11
+imagine 	[imagine] <cle> <DA:tænke> <v-cog> <mv> V INF @ICL-AUX<  #11->9
+$, #12->0
+drafted 	[draft] <DA:koncipere> <mv> V IMPF @FS-STA  #13->0
+a 	[a] <indef> ART S @>N  #14->15
+charter 	[charter] <DA:charter> <sem-r> <ss> <S:4> <nhead> N S NOM @<ACC  #15->13
+to 	[to] <DA:at> INFM @INFM  #16->17
+assure 	[assure] <DA:forsikre> <vq> <v-cog> <mv> V INF @ICL-<ADVL  #17->13
+the 	[the] <def> ART S/P @>N  #18->19
+rule 	[rule] <cjt-head> <DA:regel> <conv> <S:36> <def> <nhead> N S NOM @<ACC  #19->17
+of 	[of] <DA:af> <np-close> PRP @N<  #20->19
+law 	[law] <DA:lov> <conv> <domain> <sem-c> <HHorg> <S:71> N S NOM @P<  #21->20
+and 	[and] <DA:og> <co-prparg> KC @CO  #22->19
+the 	[the] <def> ART S/P @>N  #23->24
+rights 	[right] <cjt> <DA:ret> <f-soc> <f-right> <S:26> <def> <nhead> N P NOM @<ACC @P<  #24->19
+of 	[of] <DA:af> <np-close> PRP @N<  #25->24
+man 	[man] <DA:mand> <H> <Hbio> <S:120> N S NOM @P<  #26->25
+$, #27->0
+a 	[a] <indef> ART S @>N  #28->29
+charter 	[charter] <cjt> <DA:charter> <sem-r> <ss> <S:4> <nhead> N S NOM @<ACC  #29->19
+expanded 	[expand] <DA:udvide> <mv> <np-close> V PCP2 PAS @ICL-N<  #30->29
+by 	[by] <DA:per> <advl-close> <pass> PRP @<ADVL  #31->30
+the 	[the] <def> ART S/P @>N  #32->33
+blood 	[blood] <DA:blod> <act> <cm-liq> <HHnat> <HH> <H> <S:11> <def> <nhead> N S NOM @P<  #33->31
+of 	[of] <DA:af> <pp-temp> <np-close> PRP @N<  #34->33
+generations 	[generation] <DA:generation> <act> <HH> <HHnat> <per> <S:4> N P NOM @P<  #35->34
+$. #36->0
+</s>
+
+<s id="47922" source="24-en_obama.txt">
+Those 	[that] <clb> <dem> INDP P @SUBJ>  #1->0
+ideals 	[ideal] <clb> <DA:ideal> <sem-c> <S:3> <def> N P NOM @SUBJ>  #2->4
+still 	[still] <DA:stadigvæk> <atemp> ADV @ADVL>  #3->4
+light 	[light] <DA:tænde> <mv> <np-close> V PR -3S @FS-N<  #4->1
+the 	[the] <def> ART S/P @>N  #5->6
+world 	[world] <DA:verden> <HH> <Lstar> <S:23> <def> <nhead> N S NOM @<ACC  #6->4
+$, #7->0
+and 	[and] <nofirstcjt> <DA:og> <clb?> <co-fin> KC @CO  #8->10
+we 	[we] PERS 1P NOM @SUBJ>  #9->10
+will 	[will] <aux> V PR @FS-STA  #10->0
+not 	[not] <DA:ikke> <advl-close> ADV @<ADVL  #11->12
+give 	[give] <DA:give> <v.contact> <not> <mv> V INF @ICL-AUX<  #12->10
+them 	[they] PERS 3P ACC @<ACC  #13->12
+up 	[up] <DA:op> <adir> ADV @<ADVL  #14->12
+for 	[for] <DA:for> PRP @<ADVL  #15->12
+expedience's 	[expedience] N S GEN @>N  #16->17
+sake 	[sake] <DA:skyld> <f-psych> <drink> <def> <nhead> N S NOM @P<  #17->15
+$. #18->0
+</s>
+
+<s id="47923" source="24-en_obama.txt">
+And 	[and] <nofirstcjt> <DA:og> KC @CO  #1->57
+so 	[so] <DA:så> <aquant> ADV @ADVL>  #2->57
+to 	[to] <DA:til> PRP @ADVL>  #3->57
+all 	[all] <quant> DET P @>N  #4->6
+other 	[other] DET P @>N  #5->6
+peoples 	[people] <cjt-head> <DA:folk> <HH> <S:48> <def> <nhead> N P NOM @P<  #6->3
+and 	[and] <DA:og> <co-prparg> KC @CO  #7->6
+governments 	[government] <cjt> <DA:regering> <act> <domain> <HHorg> <HH> <S:18> <nhead> N P NOM @P<  #8->6
+who 	[who] <clb> <rel> INDP S/P @SUBJ> @ACC>  #9->10
+are 	[be] <DA:være> <aux> <np-close> V PR -1/3S @FS-N<  #10->8
+watching 	[watch] <DA:iagttage> <mv> V PCP1 @ICL-AUX<  #11->10
+today 	[today] <DA:i=dag> <atemp> <advl-close> ADV @<ADVL  #12->11
+$, #13->0
+from 	[from] <DA:fra> <advl-close> PRP @<ADVL  #14->11
+the 	[the] <def> ART S/P @>N  #15->17
+grandest 	[grand] <DA:storartet> ADJ SUP @>N  #16->17
+capitals 	[capital] <DA:hovedstad> <S:61> <def> <nhead> N P NOM @P<  #17->14
+to 	[to] <DA:til> PRP @P<<  #18->11
+the 	[the] <def> ART S/P @>N  #19->21
+small 	[small] <DA:lille> <ante> ADJ POS @>N  #20->21
+village 	[village] <DA:landsby> <civ> <second> <S:4> <def> <nhead> N S NOM @P<  #21->18
+where 	[where] <clb> <rel> <aloc> ADV @ADVL>  #22->26
+my 	[I] <poss> <det> PERS 1S GEN @>N  #23->24
+father 	[father] <DA:far> <Htitle> <Hprof> <Hfam> <S:8> <def> <nhead> N S NOM @SUBJ>  #24->25
+was 	[be] <DA:være> <aux> <np-close> V IMPF 1/3S @FS-N<  #25->21
+born 	[bear] <DA:bære> <v.contact> <mv> V PCP2 PAS @ICL-AUX<  #26->25
+$:  #27->0
+know 	[know] <DA:vide> <v.contact> <v-cog> <mv> V INF @TOP  #28->46
+that 	[that] <clb> KS @SUB  #29->31
+America 	[America] <Proper> <Lcountry> <nhead> N S NOM @SUBJ>  #30->31
+is 	[be] <DA:være> <mv> V PR 3S @FS-<ACC  #31->28
+a 	[a] <indef> ART S @>N  #32->33
+friend 	[friend] <DA:ven> <H> <S:13> <nhead> N S NOM @<SC 	[Friend] <Hideo> N S NOM @<SC  #33->31
+of 	[of] <DA:af> <np-close> PRP @N<  #34->33
+each 	[each] <quant> DET S @>N  #35->36
+nation 	[nation] <DA:nation> <HH> <S:11> <def> <nhead> N S NOM @P<  #36->34
+and 	[and] <DA:og> <co-prparg> KC @CO  #37->44
+every 	[every] <quant> DET S @>N  #38->39
+man 	[man] <cjt-head> <cjt> <DA:mand> <H> <Hbio> <S:120> <def> <nhead> N S NOM @SUBJ> @P<  #39->57
+$, #40->0
+woman 	[woman] <DA:kvinde> <H> <Hbio> <fem> <S:36> <np-close> N S NOM @N<PRED  #41->39
+$, #42->0
+and 	[and] <DA:og> <co-fin-long> KC @CO  #43->57
+child 	[child] <cjt-head> <DA:barn> <H> <Hfam> <S:31> <nhead> N S NOM @SUBJ>  #44->39
+who 	[who] <clb> <rel> INDP S/P @SUBJ>  #45->46
+seeks 	[seek] <DA:gå> <v.contact> <mv> <np-close> V PR 3S @FS-N<  #46->44
+a 	[a] <indef> ART S @>N  #47->48
+future 	[future] <DA:fremtid> <ac-cat> <temp> <nhead> N S NOM @<ACC  #48->46
+of 	[of] <DA:af> <np-close> PRP @<PIV @N<  #49->46
+peace 	[peace] <cjt-head> <DA:fred> <ss> <f-psych> <sick> <S:6> N S NOM @P<  #50->49
+and 	[and] <DA:og> <co-prparg> KC @CO  #51->50
+dignity 	[dignity] <cjt> <cle> <DA:værdighed> <S:3> N S NOM @P<  #52->50
+$, #53->0
+and 	[and] <DA:og> <clb?> KC @CO  #54->45
+that 	[that] <dem> INDP S @<ACC @P<  #55->31
+we 	[we] <cjt> PERS 1P NOM @SUBJ>  #56->44
+are 	[be] <cjt-head> <DA:være> <mv> V PR -1/3S @FS-STA  #57->0
+ready 	[ready] <DA:parat> ADJ POS @<SC  #58->57
+to 	[to] <DA:at> INFM @INFM  #59->60
+lead 	[lead] <DA:føre> <vta+DIR> <mv> V INF @ICL-A<  #60->58
+once=more 	[once=more] <DA:atter> <atemp> <advl-close> ADV @<ADVL  #61->60
+$. #62->0
+</s>
+
+<s id="47924" source="24-en_obama.txt">
+Recall 	[recall] <DA:tilbagekaldelse> <act> <ac-cat> <nhead> N S NOM @NPHR  #1->0
+that 	[that] <clb> <rel> INDP S/P @ACC>  #2->5
+earlier 	[early] <DA:tidlig> ADJ COM @>N  #3->4
+generations 	[generation] <DA:generation> <act> <HH> <HHnat> <per> <S:4> <def> <nhead> N P NOM @SUBJ>  #4->5
+faced 	[face] <DA:konfrontere> <v.contact> <mv> <np-close> V IMPF @FS-N<  #5->1
+down 	[down] <DA:ned=ad> <advl-close> PRP @<ADVL  #6->5
+fascism 	[fascism] <cjt-head> <DA:fascisme> N S NOM @P<  #7->6
+and 	[and] <DA:og> <co-prparg> KC @CO  #8->7
+communism 	[communism] <cjt> <DA:kommunisme> <S:3> N S NOM @P<  #9->7
+not 	[not] <DA:ikke> ADV @>P  #10->12
+just 	[just] <DA:lige> <atemp> ADV @>P  #11->12
+with 	[with] <DA:med> <advl-close> PRP @<ADVL  #12->5
+missiles 	[missile] <cjt-head> <DA:missil> <Vair> <tool-shoot> <S:7> N P NOM @P<  #13->12
+and 	[and] <DA:og> <co-prparg> KC @CO  #14->13
+tanks 	[tank] <cjt> <DA:tank> <con> <Lh> <Vground> <amount> <S:17> N P NOM @P<  #15->13
+$, #16->0
+but 	[but] <DA:men> KC @CO  #17->13
+with 	[with] <DA:med> PRP @ADVL>  #18->22
+sturdy 	[sturdy] <DA:robust> ADJ POS @>N  #19->20
+alliances 	[alliance] <DA:alliance> <act> <ss> <HHorg> <ac-cat> <S:4> <nhead> N P NOM @P<  #20->18
+and 	[and] <DA:og> KC @CO  #21->20
+enduring 	[endure] <DA:udstå> <mv> V PCP1 @ICL-N<PRED  #22->15
+convictions 	[conviction] <DA:overbevisning> <act> <second> <S:3> N P NOM @<ACC  #23->22
+$. #24->0
+</s>
+
+<s id="47925" source="24-en_obama.txt">
+They 	[they] PERS 3P NOM @SUBJ>  #1->2
+understood 	[understand] <DA:forstå> <vq> <mv> V IMPF @FS-STA  #2->0
+that 	[that] <clb> KS @SUB  #3->7
+our 	[we] <poss> <det> PERS GEN 1P @>N  #4->5
+power 	[power] <DA:magt> <f-soc> <f-psych> <f-q> <S:71> <def> <nhead> N S NOM @SUBJ>  #5->7
+alone 	[alone] ADV @ADVL>  #6->9
+can_ 	[can] <predco> <cjt-head> <sam-> <aux> V PR @FS-<ACC  #7->2
+_not 	[not] <-sam> <advl-close> ADV @<ADVL  #8->9
+protect 	[protect] <cjt-head> <DA:beskytte> <not> <mv> V INF @ICL-AUX<  #9->7
+us 	[we] <cjt-head> PERS 1P ACC @<ACC  #10->9
+$, #11->0
+nor 	[nor] <DA:eller> <co-acc> KC @CO  #12->10
+does 	[do] <nosubj> <cjt> <DA:gøre> <v.contact> <mc-not> V PR 3S @FS-<ACC  #13->7
+it 	[it] <cjt> PERS NEU 3S ACC @<ACC  #14->10
+entitle 	[entitle] <cjt> <DA:berettige> <mv> V INF @ICL-AUX<  #15->9
+us 	[we] PERS 1P ACC @<ACC  #16->15
+to 	[to] <DA:at> INFM @INFM  #17->18
+do 	[do] <DA:kommers> <v.contact> <mv> V INF @ICL-<ADVL  #18->15
+as 	[as] <advl-close> PRP @<ADVL  #19->18
+we 	[we] PERS 1P NOM @P<  #20->19
+please 	[please] <DA:hvis=du=vil=være=så=venlig> <advl-close> ADV @<ADVL  #21->18
+$. #22->0
+</s>
+
+<s id="47926" source="24-en_obama.txt">
+Instead 	[instead] <DA:i=stedet> ADV @ADVL>  #1->4
+$, #2->0
+they 	[they] PERS 3P NOM @SUBJ>  #3->4
+knew 	[know] <DA:vide> <v.contact> <v-cog> <mv> V IMPF @FS-STA  #4->0
+that 	[that] <clb> KS @SUB  #5->8
+our 	[we] <poss> <det> PERS GEN 1P @>N  #6->7
+power 	[power] <DA:magt> <f-soc> <f-psych> <f-q> <S:71> <def> <nhead> N S NOM @SUBJ>  #7->8
+grows 	[grow] <DA:vokse> <mv> V PR 3S @FS-<ACC  #8->4
+through 	[through] <DA:gennem> <advl-close> PRP @<ADVL  #9->8
+its 	[it] <poss> <det> PERS NEU 3S GEN @>N  #10->12
+prudent 	[prudent] <DA:forsynlig> ADJ POS @>N  #11->12
+use 	[use] <DA:brug-1> <act> <f-right> <S:11> <def> <nhead> N S NOM @P<  #12->9
+$; #13->0
+</s>
+
+<s id="47927" source="24-en_obama.txt">
+our 	[we] <poss> <det> PERS GEN 1P @>N  #1->2
+security 	[security] <DA:garanti> <f-psych> <HHinst> <S:13> <def> <nhead> N S NOM @SUBJ>  #2->3
+emanates 	[emanate] <DA:emanere> <mv> V PR 3S @FS-STA  #3->0
+from 	[from] <DA:fra> PRP @<PIV  #4->3
+the 	[the] <def> ART S/P @>N  #5->6
+justness 	[justness] <f-psych> <def> <nhead> N S NOM @P<  #6->4
+of 	[of] <DA:af> <np-close> PRP @N<  #7->6
+our 	[we] <poss> <det> PERS GEN 1P @>N  #8->9
+cause 	[cause] <DA:anledning> <act> <ss> <event> <S:6> <def> <nhead> N S NOM @P<  #9->7
+$, #10->0
+the 	[the] <def> ART S/P @>N  #11->12
+force 	[force] <DA:opbud> <act> <f-q> <HHorg> <HH> <HHinst> <H> <ac> <S:49> <def> <nhead> N S NOM @APP @P<  #12->9
+of 	[of] <DA:af> <np-close> PRP @N<  #13->12
+our 	[we] <poss> <det> PERS GEN 1P @>N  #14->15
+example 	[example] <DA:eksempel> <act> <ac-cat> <sem-r> <event> <S:5> <def> <nhead> N S NOM @P<  #15->13
+$, #16->0
+the 	[the] <def> ART S/P @>N  #17->19
+tempering 	[tempering] <pcp1> ADJ POS @>N  #18->19
+qualities 	[quality] <DA:kvalitet> <f-q> <f-phys> <f-psych> <second> <S:16> <def> <nhead> N P NOM @APP @P<  #19->15
+of 	[of] <DA:af> <np-close> PRP @N<  #20->19
+humility 	[humility] <cjt-head> <DA:ydmyghed> <f-psych> N S NOM @P<  #21->20
+and 	[and] <DA:og> <co-prparg> KC @CO  #22->21
+restraint 	[restraint] <cjt> <DA:hæmning> <act> <tool> <f-psych> <S:2> N S NOM @P<  #23->21
+$. #24->0
+</s>
+
+<s id="47928" source="24-en_obama.txt">
+We 	[we] PERS 1P NOM @SUBJ>  #1->2
+are 	[be] <DA:være> <mv> V PR -1/3S @FS-STA  #2->0
+the 	[the] <def> ART S/P @>N  #3->4
+keepers 	[keeper] <DA:vogter> <H> <S:13> <def> <nhead> N P NOM @<SC  #4->2
+of 	[of] <DA:af> <np-close> PRP @N<  #5->4
+this 	[this] <dem> DET S @>N  #6->7
+legacy 	[legacy] <DA:arv> <def> <nhead> N S NOM @P<  #7->5
+$. #8->0
+</s>
+
+<s id="47929" source="24-en_obama.txt">
+Guided 	[guide] <DA:guide> <v.contact> <mv> V PCP2 PAS @ICL-PRED> @ICL-ADVL>  #1->9
+by 	[by] <DA:per> <advl-close> <pass> PRP @<ADVL  #2->1
+these 	[this] <dem> DET P @>N  #3->4
+principles 	[principle] <DA:princip> <ac-h> <conv> <sem-c> <sem-r> <S:22> <def> <nhead> N P NOM @P<  #4->2
+once=more 	[once=more] <DA:atter> <atemp> <advl-close> ADV @<ADVL  #5->1
+$, #6->0
+we 	[we] PERS 1P NOM @SUBJ>  #7->8
+can 	[can] <aux> V PR @FS-STA  #8->0
+meet 	[meet] <DA:møde> <v.contact> <mv> V INF @ICL-AUX<  #9->8
+those 	[that] <dem> DET P @>N  #10->12
+new 	[new] <DA:ny> ADJ POS @>N  #11->12
+threats 	[threat] <DA:trussel> <act-s <+against> <S:4> <def> <nhead> N P NOM @<ACC  #12->9
+that 	[that] <clb> <rel> INDP S/P @SUBJ>  #13->14
+demand 	[demand] <DA:kræve> <v-cog> <mv> <np-close> V PR -3S @FS-N<  #14->12
+even 	[even] <DA:endda> <setop> ADV @>A  #15->16
+greater 	[great] <DA:stor> ADJ COM @>N  #16->17
+effort 	[effort] <cjt-head> <DA:indsats> <act-d> <S:4> N S NOM @<ACC  #17->14
+$--  #18->0
+even 	[even] <DA:endda> <setop> ADV @>A  #19->20
+greater 	[great] <DA:stor> ADJ COM @>N  #20->21
+cooperation 	[cooperation] <cjt> <act> <S:3> N S NOM @<ACC  #21->17
+and 	[and] <DA:og> KC @CO  #22->17
+understanding 	[understand] <DA:forstå> <vq> <mv> V PCP1 @ICL-N<PRED  #23->21
+between 	[between] <DA:mellem> <advl-close> PRP @<ADVL  #24->23
+nations 	[nation] <DA:nation> <HH> <S:11> N P NOM @P<  #25->24
+$. #26->0
+</s>
+
+<s id="47930" source="24-en_obama.txt">
+We 	[we] PERS 1P NOM @SUBJ>  #1->2
+will 	[will] <aux> V PR @FS-STA  #2->0
+begin 	[begin] <DA:begynde> <vch> <mv> V INF @ICL-AUX<  #3->2
+to 	[to] <DA:at> INFM @INFM  #4->6
+responsibly 	[responsibly] <ADJ:responsibl~E+ly> ADV @ADVL>  #5->6
+leave 	[leave] <cjt-head> <DA:forlade> <move> <mv> V INF @ICL-<ACC  #6->3
+Iraq 	[Iraq] <Proper> <Lcountry> <nhead> N S NOM @<ACC  #7->6
+to 	[to] <DA:til> <advl-icl> PRP @<ADVL  #8->6
+its 	[it] <poss> <det> PERS NEU 3S GEN @>N  #9->10
+people 	[people] <H> <def> <nhead> N P NOM @P<  #10->8
+$, #11->0
+and 	[and] <DA:og> <co-inf> KC @CO  #12->6
+forge 	[forge] <cjt> <DA:smede> <mv> V INF @ICL-<ACC  #13->6
+a 	[a] <indef> ART S @>N  #14->16
+hard-earned 	[hard-earned] <DA:velfortjent> ADJ POS @>N  #15->16
+peace 	[peace] <DA:fred> <ss> <f-psych> <sick> <S:6> <nhead> N S NOM @<ACC  #16->13
+in 	[in] <DA:i> <advl-icl> PRP @<ADVL  #17->13
+Afghanistan 	[Afghanistan] <Proper> <Lcountry> N S NOM @P<  #18->17
+$. #19->0
+</s>
+
+<s id="47931" source="24-en_obama.txt">
+With 	[with] <DA:med> PRP @ADVL>  #1->10
+old 	[old] <DA:gammel> <jbio> <S:4> ADJ POS @>N  #2->3
+friends 	[friend] <cjt-head> <DA:ven> <H> <second> <S:13> <nhead> N P NOM @P< 	[Friend] <Hideo> N P NOM @P<  #3->1
+and 	[and] <DA:og> <co-prparg> KC @CO  #4->3
+former 	[former] <DA:forhenværende> <ante> ADJ POS @>N  #5->6
+foes 	[foe] <cjt> <H> <nhead> N P NOM @P<  #6->3
+$, #7->0
+we 	[we] PERS 1P NOM @SUBJ>  #8->9
+will 	[will] <aux> V PR @FS-STA  #9->0
+work 	[work] <DA:arbejde> <v.contact> <mv> V INF @ICL-AUX<  #10->9
+tirelessly 	[tireless] <DA:utrættelig> <advl-close> ADV @<ADVL  #11->10
+to 	[to] <DA:at> INFM @INFM  #12->13
+lessen 	[lessen] <cjt-head> <DA:mindske> <mv> V INF @ICL-<ACC  #13->10
+the 	[the] <def> ART S/P @>N  #14->16
+nuclear 	[nuclear] <DA:nuklear> <jpert> ADJ POS @>N  #15->16
+threat 	[threat] <DA:trussel> <act-s <+against> <S:4> <def> <nhead> N S NOM @<ACC  #16->13
+$, #17->0
+and 	[and] <DA:og> <clb?> <co-inf> KC @CO  #18->13
+roll 	[roll] <cjt> <DA:rulle> <move> <v.contact> <mv> V INF @ICL-<ACC  #19->13
+back 	[back] <S:17> <DA:tilbage> <adir> <advl-close> ADV @<ADVL  #20->19
+the 	[the] <def> ART S/P @>N  #21->22
+specter 	[specter] <Hmyth> <def> <nhead> N S NOM @<ACC  #22->19
+of 	[of] <DA:af> <np-close> PRP @N<  #23->22
+a 	[a] <indef> ART S @>N  #24->26
+warming 	[warming] ADJ POS @>N  #25->26
+planet 	[planet] <DA:planet> <Lstar> <H> <second> <S:7> <nhead> N S NOM @P<  #26->23
+$. #27->0
+</s>
+
+<s id="47932" source="24-en_obama.txt">
+We 	[we] PERS 1P NOM @SUBJ>  #1->2
+will 	[will] <cjt-head> <mc-not> <aux> <quote> V PR @FS-ACC>  #2->36
+not 	[not] <DA:ikke> <advl-close> ADV @<ADVL  #3->4
+apologize 	[apologize] <DA:undskylde> <not> <mv> V INF @ICL-AUX<  #4->2
+for 	[for] <DA:for> PRP @<PIV  #5->4
+our 	[we] <poss> <det> PERS GEN 1P @>N  #6->7
+way 	[way] <DA:måde> <Lpath> <ac> <S:6> <def> <nhead> N S NOM @P<  #7->5
+of 	[of] <DA:af> <pp-temp> PRP @<ADVL  #8->4
+life 	[life] <DA:liv> <per> <S:64> N S NOM @P<  #9->8
+$, #10->0
+nor 	[nor] <DA:eller> <co-fin> KC @CO  #11->2
+will 	[will] <cjt> <aux> <quote> V PR @FS-ACC>  #12->2
+we 	[we] PERS 1P NOM @<SUBJ  #13->12
+waver 	[waver] <DA:vakle> <mv> V INF @ICL-AUX<  #14->12
+in 	[in] <cjt-head> <DA:i> <advl-close> PRP @<ADVL  #15->14
+its 	[it] <poss> <det> PERS NEU 3S GEN @>N  #16->17
+defense 	[defense] <DA:forsvar> <act> <build> <act-s> <ss> <HHorg> <HHinst> <S:6> <def> <nhead> N S NOM @P<  #17->15
+$, #18->0
+and 	[and] <DA:og> <co-advl> KC @CO  #19->15
+for 	[for] <cjt> <DA:for> <advl-close> PRP @<ADVL  #20->15
+those 	[that] <dem> INDP P @P<  #21->20
+who 	[who] <clb> <interr> INDP S/P @SUBJ> 	[who] <clb> <rel> INDP S/P  #22->23
+seek 	[seek] <DA:gå> <v.contact> <mv> <quote> V PR -3S @FS-ACC>  #23->14
+to 	[to] <DA:at> INFM @INFM  #24->25
+advance 	[advance] <DA:avancere> <move> <mv> V INF @ICL-<ACC  #25->23
+their 	[they] <poss> <det> PERS 3P GEN @>N  #26->27
+aims 	[aim] <DA:sigte> <act> <f-psych> <L> <S:3> <def> <nhead> N P NOM @<ACC  #27->25
+by 	[by] <DA:per> <advl-icl> PRP @<ADVL  #28->25
+inducing 	[induce] <cjt-head> <DA:inducere> <mv> V PCP1 @ICL-P<  #29->28
+terror 	[terror] <DA:skræk> <f-psych> <H> <second> <S:2> N S NOM @<ACC  #30->29
+and 	[and] <DA:og> <co-pcp1> KC @CO @co-vp  #31->29
+slaughtering 	[slaughter] <cjt> <DA:slagte> <v.contact> <mv> V PCP1 @ICL-P<  #32->29
+innocents 	[innocent] N P NOM @<ACC  #33->32
+$, #34->0
+we 	[we] PERS 1P NOM @SUBJ>  #35->36
+say 	[say] <DA:sige> <vq> <v-cog> <speak> <mv> V PR -3S @FS-STA  #36->0
+to 	[to] <DA:til> <advl-close> PRP @<ADVL  #37->36
+you 	[you] PERS 2S/P ACC @P<  #38->37
+now 	[now] <DA:nu> <atemp> <advl-close> ADV @<ADVL  #39->36
+that 	[that] <clb> KS @SUB  #40->43
+our 	[we] <poss> <det> PERS GEN 1P @>N  #41->42
+spirit 	[spirit] <DA:oplagthed> <an> <sem-r> <H> <Hmyth> <sick> <S:29> <def> <nhead> N S NOM @SUBJ>  #42->43
+is 	[be] <predco> <cjt-head> <DA:være> <mv> V PR 3S @FS-<ACC  #43->36
+stronger 	[strong] <DA:stærk> <S:3> ADJ COM @<SC  #44->43
+and 	[and] <DA:og> <co-fin> KC @CO  #45->43
+can_ 	[can] <nosubj> <cjt> <sam-> <aux> V PR @FS-<ACC  #46->43
+_not 	[not] <-sam> <advl-close> ADV @<ADVL  #47->49
+be 	[be] <DA:være> <aux> V INF @ICL-AUX<  #48->46
+broken 	[break] <DA:brække> <v.contact> <ve> <not> <mv> V PCP2 PAS @ICL-AUX<  #49->48
+$; #50->0
+</s>
+
+<s id="47933" source="24-en_obama.txt">
+you 	[you] PERS 2S/P NOM @SUBJ>  #1->2
+can_ 	[can] <cjt-head> <sam-> <aux> V PR @FS-STA  #2->0
+_not 	[not] <-sam> <advl-close> ADV @<ADVL  #3->4
+outlast 	[outlast] <not> <mv> V INF @ICL-AUX<  #4->2
+us 	[we] PERS 1P ACC @<ACC  #5->4
+$, #6->0
+and 	[and] <DA:og> <clb?> <co-fin> KC @CO  #7->2
+we 	[we] PERS 1P NOM @SUBJ>  #8->9
+will 	[will] <cjt> <aux> V PR @FS-STA  #9->2
+defeat 	[defeat] <DA:besejre> <mv> V INF @ICL-AUX<  #10->9
+you 	[you] PERS 2S/P ACC @<ACC  #11->10
+$. #12->0
+</s>
+
+<s id="47934" source="24-en_obama.txt">
+For 	[for] <DA:for> PRP @ADVL>  #1->3
+we 	[we] PERS 1P NOM @SUBJ>  #2->3
+know 	[know] <DA:vide> <v.contact> <v-cog> <mv> V PR -3S @FS-STA  #3->0
+that 	[that] <clb> KS @SUB  #4->8
+our 	[we] <poss> <det> PERS GEN 1P @>N  #5->7
+patchwork 	[patchwork] <DA:patchwork> <cloH> <cc-h> <def> <first> N S NOM @>N  #6->7
+heritage 	[heritage] <DA:arv> <act> <ac-h> <second> <S:3> <def> <nhead> N S NOM @SUBJ>  #7->8
+is 	[be] <DA:være> <mv> V PR 3S @FS-<ACC  #8->3
+a 	[a] <indef> ART S @>N  #9->10
+strength 	[strength] <DA:kraft> <f-q> <sick> <S:8> <nhead> N S NOM @<SC  #10->8
+$, #11->0
+not 	[not] <DA:ikke> ADV @<ADVL  #12->8
+a 	[a] <indef> ART S @>N  #13->14
+weakness 	[weakness] <DA:svaghed> <f-psych> <sick> <nhead> N S NOM @P<  #14->1
+$. #15->0
+</s>
+
+<s id="47935" source="24-en_obama.txt">
+We 	[we] PERS 1P NOM @SUBJ>  #1->2
+are 	[be] <DA:være> <mv> V PR -1/3S @FS-STA  #2->0
+a 	[a] <indef> ART S @>N  #3->4
+nation 	[nation] <DA:nation> <HH> <S:11> <nhead> N S NOM @<SC  #4->2
+of 	[of] <DA:af> <np-close> PRP @N<  #5->4
+Christians 	[Christian] <cjt-head> <DA:kristen> <Hideo> N P NOM @P<  #6->5
+and 	[and] <DA:og> <co-prparg> KC @CO  #7->6
+Muslims 	[Muslim] <cjt> <DA:muhamedaner> <Hideo> N P NOM @P<  #8->6
+$, #9->0
+Jews 	[jew] <cjt> N P NOM @P<  #10->6
+and 	[and] <DA:og> <co-prparg> KC @CO  #11->6
+Hindus 	[Hindu] <cjt> <DA:hindu> <Hnat> <Hideo> N P NOM @P<  #12->6
+$--  #13->0
+and 	[and] <insertion> <DA:og> <co-prparg> KC @CO  #14->6
+non-believers 	[non-believer] <cjt> <Hideo> N P NOM @P<  #15->6
+$. #16->0
+</s>
+
+<s id="47936" source="24-en_obama.txt">
+We 	[we] PERS 1P NOM @SUBJ>  #1->2
+are 	[be] <DA:være> <mv> V PR -1/3S @FS-STA  #2->0
+shaped 	[shape] <DA:forme> V PCP2 STA @<SC  #3->2
+by 	[by] <DA:per> PRP @A<  #4->3
+every 	[every] <quant> DET S @>N  #5->6
+language 	[language] <cjt-head> <DA:sprog> <f-psych> <ac-cat> <sem-r> <S:125> <def> <nhead> N S NOM @P<  #6->4
+and 	[and] <DA:og> <co-prparg> KC @CO  #7->6
+culture 	[culture] <cjt> <DA:kultur> <act> <ac-cat> <HH> <S:32> N S NOM @P<  #8->6
+$, #9->0
+drawn 	[draw] <insertion> <DA:trække> <v.contact> <mv> V PCP2 PAS @ICL-N<PRED  #10->8
+from 	[from] <DA:fra> <pp-temp> <advl-close> PRP @<ADVL  #11->10
+every 	[every] <quant> DET S @>N  #12->13
+end 	[end] <DA:ende> <event> <Ltip> <temp> <S:30> <def> <nhead> N S NOM @P<  #13->11
+of 	[of] <DA:af> <np-close> PRP @N<  #14->13
+this 	[this] <dem> DET S @>N  #15->16
+Earth 	[Earth] <L> <Lstar> <Proper> <nhead> N S NOM @P<  #16->14
+$; #17->0
+</s>
+
+<s id="47937" source="24-en_obama.txt">
+and 	[and] <topkc> <DA:og> KC @CO  #1->27
+because 	[because] <clb> <DA:for> KS @SUB  #2->4
+we 	[we] PERS 1P NOM @SUBJ>  #3->4
+have 	[have] <DA:have> <v.contact> <aux> V PR -3S @FS-ADVL>  #4->31
+tasted 	[taste] <cjt-head> <DA:smage> <mv> V PCP2 AKT @ICL-AUX<  #5->4
+the 	[the] <def> ART S/P @>N  #6->8
+bitter 	[bitter] <DA:bitter> <jpsych> ADJ POS @>N  #7->8
+swill 	[swill] <food> <def> <nhead> N S NOM @<ACC  #8->5
+of 	[of] <DA:af> <np-close> PRP @<PIV @N<  #9->5
+civil 	[civil] <DA:borgerlig> <jpert> ADJ POS @>N  #10->11
+war 	[war] <cjt-head> <act> <S:33> <comp2> <nhead> N S NOM @P<  #11->9
+and 	[and] <DA:og> <co-prparg> KC @CO  #12->11
+segregation 	[segregation] <cjt> <DA:segregation> <act> <S:2> N S NOM @P<  #13->11
+$, #14->0
+and 	[and] <DA:og> <co-pcp2> KC @CO  #15->5
+emerged 	[emerge] <cjt> <DA:dukke=op> <mv> V PCP2 AKT @ICL-AUX<  #16->5
+from 	[from] <DA:fra> <pp-temp> PRP @<PIV  #17->16
+that 	[that] <dem> DET S @>N  #18->20
+dark 	[dark] <DA:mørk> <Acheronian> ADJ POS @>N  #19->20
+chapter 	[chapter] <DA:kapitel> <sem-r> <event> <HH> <HHorg> <per> <def> <nhead> N S NOM @P<  #20->17
+stronger 	[strong] <cjt-head> <DA:stærk> <second> <S:3> ADJ COM @<SC  #21->16
+and 	[and] <DA:og> <co-sc> KC @CO  #22->21
+more 	[much] <aquant> ADV COM @>A  #23->24
+united 	[united] <cjt> <DA:forenet> <joint> <gb2> ADJ POS @<SC  #24->21
+$, #25->0
+we 	[we] PERS 1P NOM @SUBJ>  #26->27
+can_ 	[can] <sam-> <aux> V PR @FS-STA  #27->0
+_not 	[not] <-sam> <advl-close> ADV @<ADVL  #28->31
+help 	[help] <DA:hjælpe> <aux> V INF @ICL-AUX<  #29->27
+but 	[but] <DA:dog> <advl-close> ADV @<ADVL  #30->31
+believe 	[believe] <DA:tro> <v-cog> <not> <mv> V INF @ICL-AUX<  #31->29
+that 	[that] <clb> KS @SUB  #32->36
+the 	[the] <def> ART S/P @>N  #33->35
+old 	[old] <DA:gammel> <jbio> <S:4> ADJ POS @>N  #34->35
+hatreds 	[hatred] <DA:had> <f-psych> <second> <S:3> <def> <nhead> N P NOM @SUBJ>  #35->36
+shall 	[shall] <mc-not> <aux> V PR @FS-<ACC  #36->31
+someday 	[someday] <atemp> <advl-close> ADV @<ADVL  #37->38
+pass 	[pass] <DA:passere> <move> <v.contact> <mv> V INF @ICL-AUX<  #38->36
+$; #39->0
+</s>
+
+<s id="47938" source="24-en_obama.txt">
+that 	[that] <cjt-head> <dem> INDP S @SUBJ>  #1->6
+the 	[the] <def> ART S/P @>N  #2->3
+lines 	[line] <cjt> <DA:række> <cc-cord> <S:184> <def> <nhead> N P NOM @SUBJ>  #3->1
+of 	[of] <DA:af> <np-close> PRP @N<  #4->3
+tribe 	[tribe] <DA:stamme> <HH> <HHinst> <S:2> <nhead> N S NOM @P<  #5->4
+shall 	[shall] <aux> V PR @FS-STA  #6->0
+soon 	[soon] <DA:snart> <atemp> <advl-close> ADV @<ADVL  #7->8
+dissolve 	[dissolve] <DA:opløse> <mv> V INF @ICL-AUX<  #8->6
+$; #9->0
+</s>
+
+<s id="47939" source="24-en_obama.txt">
+that 	[that] <sub-long> <clb> KS @SUB  #1->5
+as 	[as] <clb> KS @SUB  #2->5
+the 	[the] <def> ART S/P @>N  #3->4
+world 	[world] <DA:verden> <HH> <Lstar> <S:23> <def> <nhead> N S NOM @SUBJ>  #4->5
+grows 	[grow] <DA:vokse> <mv> V PR 3S @FS-ADVL>  #5->12
+smaller 	[small] <DA:lille> <ante> ADJ COM @<SC  #6->5
+$, #7->0
+our 	[we] <poss> <det> PERS GEN 1P @>N  #8->10
+common 	[common] <DA:almen> ADJ POS @>N  #9->10
+humanity 	[humanity] <DA:menneskeheden> <def> <nhead> N S NOM @SUBJ>  #10->11
+shall 	[shall] <aux> V PR @FS-STA  #11->0
+reveal 	[reveal] <DA:afsløre> <vq> <v-cog> <mv> V INF @ICL-AUX<  #12->11
+itself 	[it] <refl> PERS NEU 3S ACC @<ACC  #13->12
+$; #14->0
+</s>
+
+<s id="47940" source="24-en_obama.txt">
+and 	[and] <topkc> <DA:og> KC @CO  #1->4
+that 	[that] <dem> DET S @>N  #2->3
+America 	[America] <Proper> <Lcountry> <nhead> N S NOM @SUBJ>  #3->4
+must 	[must] <aux> V PR @FS-STA  #4->0
+play 	[play] <DA:spille> <v.contact> <mv> V INF @ICL-AUX<  #5->4
+its 	[it] <poss> <det> PERS NEU 3S GEN @>N  #6->7
+role 	[role] <DA:rolle> <act> <sem-c> <S:13> <def> <nhead> N S NOM @<ACC  #7->5
+in 	[in] <DA:i> <pp-temp> <np-close> PRP @N<  #8->7
+ushering 	[usher] <mv> V PCP1 @ICL-P<  #9->8
+in 	[in] <DA:i> <pp-temp> <advl-close> PRP @<ADVL  #10->9
+a 	[a] <indef> ART S @>N  #11->13
+new 	[new] <DA:ny> ADJ POS @>N  #12->13
+era 	[era] <DA:tidsalder> <per> <S:7> <nhead> N S NOM @P<  #13->10
+of 	[of] <DA:af> <np-close> PRP @N<  #14->13
+peace 	[peace] <DA:fred> <ss> <f-psych> <sick> <S:6> N S NOM @P<  #15->14
+$. #16->0
+</s>
+
+<s id="47941" source="24-en_obama.txt">
+To 	[to] <DA:til> PRP @ADVL>  #1->7
+the 	[the] <def> ART S/P @>N  #2->4
+Muslim 	[Muslim] <DA:muhamedansk> <jideo> ADJ POS @>N  #3->4
+world 	[world] <DA:verden> <HH> <Lstar> <second> <S:23> <def> <nhead> N S NOM @P<  #4->1
+$, #5->0
+we 	[we] PERS 1P NOM @SUBJ>  #6->7
+seek 	[seek] <DA:gå> <v.contact> <mv> V PR -3S @FS-STA  #7->0
+a 	[a] <indef> ART S @>N  #8->10
+new 	[new] <DA:ny> ADJ POS @>N  #9->10
+way 	[way] <DA:måde> <Lpath> <ac> <S:6> <first> <nhead> N S NOM @<ACC  #10->7
+forward 	[forward] <DA:fremad> <adir> ADV @<ADVL  #11->7
+$, #12->0
+based 	[base] <insertion> <DA:basere> <mv> V PCP2 PAS @ICL-<PRED  #13->7
+on 	[on] <DA:på> PRP @<PIV  #14->13
+mutual 	[mutual] <DA:indbyrdes> ADJ POS @>N  #15->16
+interest 	[interest] <cjt-head> <DA:interesse> <f-psych> <S:21> <nhead> N S NOM @P<  #16->14
+and 	[and] <DA:og> <co-prparg> KC @CO  #17->16
+mutual 	[mutual] <DA:indbyrdes> ADJ POS @>N  #18->19
+respect 	[respect] <cjt> <DA:respekt> <act> <ac-cat> <f-psych> <nhead> N S NOM @P<  #19->16
+$. #20->0
+</s>
+
+<s id="47942" source="24-en_obama.txt">
+To 	[to] <DA:til> PRP @ADVL>  #1->14
+those 	[that] <dem> DET P @>N  #2->3
+leaders 	[leader] <DA:leder> <cc-h> <H> <S:54> <def> <nhead> N P NOM @P<  #3->1
+around 	[around] <DA:omkring> <np-close> PRP @N<  #4->3
+the 	[the] <def> ART S/P @>N  #5->6
+globe 	[globe] <DA:kugle> <cc-h> <Lstar> <S:4> <def> <nhead> N S NOM @P<  #6->4
+who 	[who] <clb> <rel> INDP S/P @SUBJ>  #7->8
+seek 	[seek] <DA:gå> <v.contact> <mv> <np-close> V PR -3S @FS-N<  #8->6
+to 	[to] <DA:at> INFM @INFM  #9->10
+sow 	[sow] <DA:så> <v.contact> <mv> V INF @ICL-<ACC  #10->8
+conflict 	[conflict] <DA:konflikt> <act> <act-s> <f-psych> <second> <S:12> N S NOM @<ACC  #11->10
+$, #12->0
+or 	[or] <DA:eller> <co-fin> KC @CO  #13->22
+blame 	[blame] <nosubj> <cjt> <DA:beskylde> <mv> V PR -3S @FS-SUBJ>  #14->22
+their 	[they] <poss> <det> PERS 3P GEN @>N  #15->16
+society's 	[society] <DA:samfund> <HHorg> <HHnat> <HH> <S:43> <def> N S GEN @>N  #16->17
+ills 	[ill] <heur> <def> <nhead> N P NOM @<ACC  #17->14
+on 	[on] <DA:på> PRP @<ADVL  #18->14
+the 	[the] <def> ART S/P @>N  #19->20
+West 	[West] <cle> <Proper> <HH> <Lregion> <comp2> <nhead> N S NOM @P<  #20->18
+$--  #21->0
+know 	[know] <predco> <cjt-head> <DA:vide> <v.contact> <v-cog> <mv> V PR -3S @FS-STA  #22->0
+that 	[that] <clb> KS @SUB  #23->26
+your 	[you] <poss> <det> PERS 2S/P GEN @>N  #24->25
+people 	[people] <HH> <def> <nhead> N S NOM @SUBJ>  #25->26
+will 	[will] <aux> V PR @FS-<ACC  #26->22
+judge 	[judge] <DA:dømme> <vq> <mv> V INF @ICL-AUX<  #27->26
+you 	[you] PERS 2S/P ACC @<ACC  #28->27
+on 	[on] <DA:på> <advl-fs> PRP @<ADVL  #29->27
+what 	[what] <clb> <rel> INDP S/P @ACC>  #30->33
+you 	[you] PERS 2S/P NOM @SUBJ>  #31->32
+can 	[can] <aux> V PR @FS-P<  #32->29
+build 	[build] <DA:bygge> <mv> V INF @ICL-AUX<  #33->32
+$, #34->0
+not 	[not] <DA:ikke> <advl-close> ADV @<ADVL  #35->33
+what 	[what] <clb> <interr> INDP S/P @ACC>  #36->38
+you 	[you] PERS 2S/P NOM @SUBJ>  #37->38
+destroy 	[destroy] <DA:ødelægge> <v.contact> <mv> V PR -3S @FS-<ACC  #38->33
+$. #39->0
+</s>
+
+<s id="47943" source="24-en_obama.txt">
+To 	[to] <DA:til> PRP @ADVL>  #1->17
+those 	[that] <dem> INDP P @P<  #2->1
+who 	[who] <clb> <interr> INDP S/P @SUBJ> 	[who] <clb> <rel> INDP S/P  #3->4
+cling 	[cling] <DA:klynge> <v.contact> <mv> V PR -3S @FS-SUBJ>  #4->17
+to 	[to] <DA:omklamre> PRP @<PIV  #5->4
+power 	[power] <DA:magt> <f-soc> <f-psych> <f-q> <S:71> <nhead> N S NOM @P<  #6->5
+through 	[through] <DA:gennem> <advl-fs> PRP @<ADVL  #7->4
+corruption 	[corruption] <cjt-head> <DA:korruption> <act> <f-psych> <sick> N S NOM @P<  #8->7
+and 	[and] <DA:og> <co-prparg> KC @CO  #9->8
+deceit 	[deceit] <cjt> <DA:svig> <act> <f-psych> <ss> N S NOM @P<  #10->8
+and 	[and] <DA:og> <co-prparg> KC @CO  #11->8
+the 	[the] <def> ART S/P @>N  #12->13
+silencing 	[silencing] <cjt> <DA:støjdæmpning> <act> <def> <nhead> N S NOM @P<  #13->8
+of 	[of] <DA:af> <np-close> PRP @N<  #14->13
+dissent 	[dissent] <cle> <DA:dissens> <act-s> N S NOM @P<  #15->14
+$, #16->0
+know 	[know] <DA:vide> <v.contact> <v-cog> <mv> V PR -3S @FS-STA  #17->0
+that 	[that] <clb> KS @SUB  #18->20
+you 	[you] PERS 2S/P NOM @SUBJ>  #19->20
+are 	[be] <DA:være> <mv> V PR -1/3S @FS-<ACC  #20->17
+on 	[on] <DA:på> PRP @<SA  #21->20
+the 	[the] <def> ART S/P @>N  #22->24
+wrong 	[wrong] <DA:forkert> ADJ POS @>N  #23->24
+side 	[side] <DA:vrang> <Lsurf> <HH> <second> <S:43> <comp2> <def> <nhead> N S NOM @P<  #24->21
+of 	[of] <DA:af> <pp-temp> <np-close> PRP @N<  #25->24
+history 	[history] <DA:historie> <domain> <per> <S:29> N S NOM @P<  #26->25
+$; #27->0
+</s>
+
+<s id="47944" source="24-en_obama.txt">
+but 	[but] <topkc> <DA:men> KC @CO  #1->4
+that 	[that] <cjt-head> <dem> INDP S @SUBJ>  #2->4
+we 	[we] <cjt> PERS 1P NOM @SUBJ>  #3->2
+will 	[will] <aux> V PR @FS-STA  #4->0
+extend 	[extend] <DA:udvide> <v.contact> <mv> V INF @ICL-AUX<  #5->4
+a 	[a] <indef> ART S @>N  #6->7
+hand 	[hand] <DA:hand> <anmov> <S:33> <nhead> N S NOM @<ACC  #7->5
+if 	[if] <clb> <DA:hvis> KS @SUB  #8->10
+you 	[you] PERS 2S/P NOM @SUBJ>  #9->10
+are 	[be] <DA:være> <mv> V PR -1/3S @FS-<ADVL  #10->5
+willing 	[willing] <DA:villig> ADJ POS @<SC  #11->10
+to 	[to] <DA:at> INFM @INFM  #12->13
+unclench 	[unclench] <mv> V INF @ICL-A<  #13->11
+your 	[you] <poss> <det> PERS 2S/P GEN @>N  #14->15
+fist 	[fist] <DA:næve> <an> <S:2> <def> <nhead> N S NOM @<ACC  #15->13
+$. #16->0
+</s>
+
+<s id="47945" source="24-en_obama.txt">
+To 	[to] <DA:til> PRP @ADVL>  #1->9
+the 	[the] <def> ART S/P @>N  #2->3
+people 	[people] <H> <def> <nhead> N P NOM @P<  #3->1
+of 	[of] <DA:af> <np-close> PRP @N<  #4->3
+poor 	[poor] <DA:ringe> ADJ POS @>N  #5->6
+nations 	[nation] <DA:nation> <HH> <second> <S:11> <nhead> N P NOM @P<  #6->4
+$, #7->0
+we 	[we] PERS 1P NOM @SUBJ>  #8->9
+pledge 	[pledge] <predco> <cjt-head> <DA:love> <vq> <mv> V PR -3S @FS-STA  #9->0
+to 	[to] <DA:at> INFM @INFM  #10->11
+work 	[work] <DA:arbejde> <v.contact> <mv> V INF @ICL-<ACC  #11->9
+alongside 	[alongside] <DA:langskibs> <advl-close> ADV @<ADVL  #12->11
+you 	[you] PERS 2S/P NOM @<ACC 	[you] PERS 2S/P ACC @<ACC  #13->11
+to 	[to] <DA:at> INFM @INFM  #14->15
+make 	[make] <DA:lave> <v.contact> <mv> V INF @ICL-SUBJ> @ICL-<ADVL  #15->11
+your 	[you] <poss> <det> PERS 2S/P GEN @>N  #16->17
+farms 	[farm] <cjt-head> <DA:gård> <Lh> <S:31> <def> <aci-subj> N P NOM @<ACC  #17->15
+flourish 	[flourish] <cjt> <DA:touche> <ac-cat> <sem-l> <sem-w> <def> <nhead> N S NOM @<ACC  #18->17
+and 	[and] <DA:og> <co-fin> KC @CO  #19->9
+let 	[let] <nosubj> <cjt> <DA:lade-1> <mv> V PR -3S @FS-STA  #20->9
+clean 	[clean] <DA:ren> <antiseptic> ADJ POS @>N  #21->23
+waters 	[waters] <DA:vandmasser> <cm-liq> <first> N S NOM @>N  #22->23
+flow 	[flow] <DA:strømmen> <act> <event> <ac-cat> <second> <S:12> <nhead> N S NOM @<ACC  #23->20
+$; #24->0
+</s>
+
+<s id="47946" source="24-en_obama.txt">
+to 	[to] <DA:at> INFM @INFM  #1->2
+nourish 	[nourish] <DA:ernære> <mv> V INF @ICL-UTT  #2->0
+starved 	[starve] <DA:sulte> V PCP2 STA @>N  #3->4
+bodies 	[body] <DA:krop> <build> <an> <sem-r> <HH> <cc> <S:45> <nhead> N P NOM @<ACC  #4->2
+and 	[and] <nofirstcjt> <DA:og> <co-inf> KC @CO  #5->6
+feed 	[feed] <DA:føde> <mv> V INF @ICL-UTT  #6->0
+hungry 	[hungry] <DA:sulten> ADJ POS @>N  #7->8
+minds 	[mind] <DA:ånd> <f-psych> <ac-cat> <Hprof> <S:10> <nhead> N P NOM @<ACC  #8->6
+$. #9->0
+</s>
+
+<s id="47947" source="24-en_obama.txt">
+And 	[and] <nofirstcjt> <DA:og> <co-fin-long> KC @CO  #1->13
+to 	[to] <DA:til> PRP @ADVL>  #2->13
+those 	[that] <dem> INDP P @P<  #3->2
+nations 	[nation] <cjt-head> <DA:nation> <HH> <S:11> <def> <nhead> N P NOM @SUBJ>  #4->13
+like 	[like] <DA:som> <np-close> PRP @N<  #5->4
+ours 	[we] <poss> <indp> PERS 1P GEN @P<  #6->5
+that 	[that] <clb> <rel> INDP S/P @SUBJ>  #7->8
+enjoy 	[enjoy] <DA:nyde> <mv> <np-close> V PR -3S @FS-N<  #8->6
+relative 	[relative] <DA:forholdsvis> ADJ POS @>N  #9->10
+plenty 	[plenty] <DA:rigelighed> <f-q> <amount> <nhead> N S NOM @<ACC  #10->8
+$, #11->0
+we 	[we] <cjt> PERS 1P NOM @SUBJ>  #12->4
+say 	[say] <DA:sige> <vq> <v-cog> <speak> <mv> V PR -3S @FS-STA  #13->0
+we 	[we] PERS 1P NOM @SUBJ>  #14->15
+can 	[can] <aux> V PR @FS-<ACC  #15->13
+no=longer 	[no=longer] <DA:ikke=længere> <atemp> <advl-close> ADV @<ADVL  #16->17
+afford 	[afford] <DA:afse> <mv> V INF @ICL-AUX<  #17->15
+indifference 	[indifference] <DA:ligegyldighed> <f-psych> <nhead> N S NOM @<ACC  #18->17
+to 	[to] <DA:til> PRP @<ADVL  #19->17
+suffering 	[suffering] <DA:lidelse> <f-psych> <sick> <nhead> N S NOM @P<  #20->19
+outside 	[outside] <DA:uden=for> PRP @<ADVL  #21->17
+our 	[we] <poss> <det> PERS GEN 1P @>N  #22->23
+borders 	[border] <DA:bort> <cc-cloth> <Ltip> <S:7> <def> <nhead> N P NOM @P<  #23->21
+$; #24->0
+</s>
+
+<s id="47948" source="24-en_obama.txt">
+nor 	[nor] <topkc> <DA:eller> KC @CO  #1->2
+can 	[can] <aux> V PR @FS-STA  #2->0
+we 	[we] PERS 1P NOM @<SUBJ  #3->2
+consume 	[consume] <DA:fortære> <v.contact> <mv> V INF @ICL-AUX<  #4->2
+the 	[the] <def> ART S/P @>N  #5->6
+world's 	[world] <DA:verden> <HH> <Lstar> <S:23> <def> N S GEN @>N  #6->7
+resources 	[resource] <DA:ressource> <f-psych> <S:7> <def> <nhead> N P NOM @<ACC  #7->4
+without 	[without] <DA:uden> <np-close> PRP @N<  #8->7
+regard 	[regard] <DA:henseende> <act> <ac-cat> <sem-r> <f-psych> N S NOM @P<  #9->8
+to 	[to] <DA:at> INFM @INFM  #10->11
+effect 	[effect] <DA:afslutte> <mv> V INF @ICL-<ADVL  #11->4
+$. #12->0
+</s>
+
+<s id="47949" source="24-en_obama.txt">
+For 	[for] <DA:for> PRP @ADVL>  #1->5
+the 	[the] <def> ART S/P @>N  #2->3
+world 	[world] <DA:verden> <HH> <Lstar> <S:23> <def> <nhead> N S NOM @P<  #3->1
+has 	[have] <cjt-head> <DA:have> <v.contact> <aux> V PR 3S @FS-STA  #4->0
+changed 	[change] <DA:ændre> <mv> V PCP2 AKT @ICL-AUX<  #5->4
+$, #6->0
+and 	[and] <DA:og> <clb?> <co-fin> KC @CO  #7->4
+we 	[we] PERS 1P NOM @SUBJ>  #8->9
+must 	[must] <cjt> <aux> V PR @FS-STA  #9->4
+change 	[change] <DA:ændre> <mv> V INF @ICL-AUX<  #10->9
+with 	[with] <DA:med> <advl-close> PRP @<ADVL  #11->10
+it 	[it] PERS NEU 3S ACC @P<  #12->11
+$. #13->0
+</s>
+
+<s id="47950" source="24-en_obama.txt">
+As 	[as] <clb> KS @SUB  #1->3
+we 	[we] PERS 1P NOM @SUBJ>  #2->3
+consider 	[consider] <DA:overveje> <v-cog> <mv> V PR -3S @FS-ADVL>  #3->12
+the 	[the] <def> ART S/P @>N  #4->5
+road 	[road] <DA:vej> <act> <Lpath> <S:36> <def> <nhead> N S NOM @<ACC  #5->3
+that 	[that] <clb> <rel> INDP S/P @SUBJ>  #6->7
+unfolds 	[unfold] <DA:udfolde> <v.contact> <mv> <np-close> V PR 3S @FS-N<  #7->5
+before 	[before] <DA:inden> <advl-close> PRP @<ADVL  #8->7
+us 	[we] PERS 1P ACC @P<  #9->8
+$, #10->0
+we 	[we] PERS 1P NOM @SUBJ>  #11->12
+remember 	[remember] <DA:huske> <vq> <v-cog> <mv> V PR -3S @FS-STA  #12->0
+with 	[with] <DA:med> <advl-close> PRP @<ADVL  #13->12
+humble 	[humble] <DA:ydmyg> ADJ POS @>N  #14->15
+gratitude 	[gratitude] <cjt-head> <DA:taknemmelighed> <f-psych> <nhead> N S NOM @P<  #15->13
+those 	[that] <dem> DET P @>N  #16->18
+brave 	[brave] <DA:modig> ADJ POS @>N  #17->18
+Americans 	[American] <DA:amerikaner> <ling> <Hnat> <H> <def> <nhead> N P NOM @<ACC  #18->12
+who 	[who] <cjt> <interr> INDP S/P @P<  #19->15
+$, #20->0
+at 	[at] <insertion> <DA:ved> <pp-temp> PRP @AS<  #21->0
+this 	[this] <dem> DET S @>N  #22->24
+very 	[very] <DA:blot> <ante> <actual> ADJ POS @>N  #23->24
+hour 	[hour] <DA:time> <dur> <per> <S:25> <def> <nhead> N S NOM @P<  #24->21
+$, #25->0
+patrol 	[patrol] <DA:patrulje> <act> <HHorg> <HHinst> <S:6> <np-close> N S NOM @N<PRED @P<  #26->24
+far-off 	[far-off] ADJ POS @>N 	[far-off] ADJ POS @>N  #27->28
+deserts 	[desert] <cjt-head> <DA:øde> <Lregion> <S:2> <nhead> N P NOM @APP @P<  #28->26
+and 	[and] <DA:og> <co-prparg> KC @CO  #29->28
+distant 	[distant] <DA:fjern> ADJ POS @>N  #30->31
+mountains 	[mountain] <cjt> <DA:bjerg> <Lmountain> <S:4> <nhead> <np-list> N P NOM @APP @P<  #31->28
+$. #32->0
+</s>
+
+<s id="47951" source="24-en_obama.txt">
+They 	[they] PERS 3P NOM @SUBJ>  #1->2
+have 	[have] <DA:have> <v.contact> <mv> V PR -3S @FS-STA  #2->0
+something 	[something] INDP S NOM @<ACC  #3->2
+to 	[to] <DA:at> INFM @INFM  #4->5
+tell 	[tell] <DA:fortælle> <vq> <v-cog> <mv> <np-close> V INF @ICL-N<  #5->3
+us 	[we] PERS 1P ACC @<ACC  #6->5
+today 	[today] <DA:i=dag> <atemp> <advl-icl> ADV @<ADVL  #7->5
+$, #8->0
+just 	[just] <DA:lige> <atemp> ADV @>P  #9->10
+as 	[as] <advl-icl> PRP @<ADVL  #10->5
+the 	[the] <def> ART S/P @>N  #11->13
+fallen 	[fallen] <DA:falden> ADJ POS @>N  #12->13
+heroes 	[hero] <H> <def> <nhead> N P NOM @P<  #13->10
+who 	[who] <clb> <rel> INDP S/P @SUBJ>  #14->15
+lie 	[lie] <DA:ligge> <vq> <v.contact> <speak> <ve> <mv> <np-close> V PR -3S @FS-N<  #15->13
+in 	[in] <DA:i> <advl-close> PRP @<ADVL  #16->15
+Arlington 	[Arlington] <Proper> <heur> N S NOM @>N  #17->18
+whisper 	[whisper] <DA:hvisken> <ss> <event> <nhead> N S NOM @P<  #18->16
+through 	[through] <DA:gennem> <pp-temp> <advl-close> PRP @<ADVL  #19->15
+the 	[the] <def> ART S/P @>N  #20->21
+ages 	[age] <DA:alder> <per> <S:43> <def> <nhead> N P NOM @P<  #21->19
+$. #22->0
+</s>
+
+<s id="47952" source="24-en_obama.txt">
+We 	[we] PERS 1P NOM @SUBJ>  #1->2
+honor 	[honor] <DA:ære> <vq> <mv> V PR -3S @FS-STA  #2->0
+them 	[they] PERS 3P ACC @<ACC  #3->2
+not 	[not] <DA:ikke> ADV @>A  #4->5
+only 	[only] <DA:kun> <ADJ:on+ly> ADV @>S  #5->6
+because 	[because] <clb> <DA:for> KS @SUB  #6->8
+they 	[they] PERS 3P NOM @SUBJ>  #7->8
+are 	[be] <cjt-head> <DA:være> <mv> V PR -1/3S @FS-<ADVL  #8->2
+guardians 	[guardian] <DA:opbevarer> <H> <nhead> N P NOM @<SC  #9->8
+of 	[of] <DA:af> <pp-temp> <np-close> PRP @N<  #10->9
+our 	[we] <poss> <det> PERS GEN 1P @>N  #11->12
+liberty 	[liberty] <DA:frihedsgode> <act> <per> <S:5> <def> <nhead> N S NOM @P<  #12->10
+$, #13->0
+but 	[but] <DA:men> <co-fin> KC @CO  #14->8
+because 	[because] <clb> <DA:for> KS @SUB  #15->17
+they 	[they] PERS 3P NOM @SUBJ>  #16->17
+embody 	[embody] <cjt> <DA:legemliggøre> <mv> V PR -3S @FS-<ADVL  #17->8
+the 	[the] <def> ART S/P @>N  #18->19
+spirit 	[spirit] <DA:oplagthed> <an> <sem-r> <H> <Hmyth> <sick> <S:29> <def> <nhead> N S NOM @<ACC  #19->17
+of 	[of] <DA:af> <np-close> PRP @N<  #20->19
+service 	[service] <DA:tjeneste> <act> <cc-h> <HHorg> <S:82> N S NOM @P<  #21->20
+$; #22->0
+</s>
+
+<s id="47953" source="24-en_obama.txt">
+a 	[a] <indef> ART S @>N  #1->2
+willingness 	[willingness] <DA:villighed> <f-psych> <nhead> N S NOM @NPHR  #2->0
+to 	[to] <DA:at> INFM @INFM  #3->4
+find 	[find] <DA:finde> <vq> <mv> <np-close> V INF @ICL-N<  #4->2
+meaning 	[meaning] <DA:megetsigende> ADJ POS @<OC  #5->4
+in 	[in] <DA:i> <advl-icl> PRP @<ADVL  #6->4
+something 	[something] INDP S NOM @P<  #7->6
+greater 	[great] <DA:strygende> <advl-icl> ADV COM @<ADVL  #8->4
+than 	[than] <DA:end> PRP @KOMP<  #9->8
+themselves 	[they] <refl> PERS 3P ACC @P<  #10->9
+$. #11->0
+</s>
+
+<s id="47954" source="24-en_obama.txt">
+And 	[and] <topkc> <DA:og> KC @CO  #1->17
+yet 	[yet] <DA:endnu> <atemp> ADV @ADVL>  #2->17
+$, #3->0
+at 	[at] <DA:ved> <pp-temp> PRP @ADVL>  #4->17
+this 	[this] <dem> DET S @>N  #5->6
+moment 	[moment] <DA:øjeblik> <ac-cat> <ac> <temp> <S:7> <def> <nhead> N S NOM @P<  #6->4
+$--  #7->0
+a 	[a] <indef> ART S @>N  #8->9
+moment 	[moment] <DA:øjeblik> <ac-cat> <ac> <temp> <S:7> <def> <nhead> N S NOM @ADVL>  #9->17
+that 	[that] <clb> <rel> INDP S/P @SUBJ>  #10->11
+will 	[will] <insertion> <aux> <np-close> V PR @FS-N<  #11->9
+define 	[define] <DA:definere> <mv> V INF @ICL-AUX<  #12->11
+a 	[a] <indef> ART S @>N  #13->14
+generation 	[generation] <DA:generation> <act> <HH> <HHnat> <per> <S:4> <nhead> N S NOM @<ACC  #14->12
+$--  #15->0
+it 	[it] PERS NEU 3S NOM @SUBJ>  #16->17
+is 	[be] <DA:være> <mv> V PR 3S @FS-STA  #17->0
+precisely 	[precisely] <DA:nøjagtig> <ADJ:precise+ly> <advl-close> ADV @<ADVL  #18->17
+this 	[this] <dem> DET S @>N  #19->20
+spirit 	[spirit] <DA:oplagthed> <an> <sem-r> <H> <Hmyth> <sick> <S:29> <def> <nhead> N S NOM @<SC  #20->17
+that 	[that] <clb> <rel> INDP S/P @SUBJ>  #21->22
+must 	[must] <aux> <np-close> V PR @FS-N<  #22->20
+inhabit 	[inhabit] <DA:bebo> <mv> V INF @ICL-AUX<  #23->22
+us 	[we] PERS 1P ACC @<ACC  #24->23
+all 	[all] <quant> DET S/P @<SC  #25->23
+$. #26->0
+</s>
+
+<s id="47955" source="24-en_obama.txt">
+For 	[for] <DA:for> PRP @ADVL>  #1->7
+as 	[as] <aquant> ADV @>A  #2->14
+much 	[much] <quant> INDP @P<  #3->1
+as 	[as] PRP @KOMP<  #4->2
+government 	[government] <DA:regering> <act> <domain> <HHorg> <HH> <S:18> <nhead> N S NOM @P<  #5->4
+can 	[can] <nosubj> <cjt-head> <aux> V PR @FS-STA  #6->0
+do 	[do] <DA:gøre> <v.contact> <mv> V INF @ICL-AUX<  #7->6
+and 	[and] <DA:og> <co-fin> KC @CO  #8->6
+must 	[must] <nosubj> <cjt> <aux> V PR @FS-STA  #9->6
+do 	[do] <DA:gøre> <v.contact> <mv> V INF @ICL-AUX<  #10->9
+$, #11->0
+it 	[it] PERS NEU 3S NOM @SUBJ>  #12->13
+is 	[be] <cjt> <DA:være> <mv> V PR 3S @FS-STA  #13->6
+ultimately 	[ultimate] <DA:endelig> <advl-close> ADV @<ADVL  #14->13
+the 	[the] <def> ART S/P @>N  #15->16
+faith 	[faith] <cjt-head> <DA:tro> <act> <HHorg> <S:4> <def> <nhead> N S NOM @<SC  #16->13
+and 	[and] <DA:og> <co-sc> KC @CO  #17->16
+determination 	[determination] <cjt> <DA:målbevidsthed> <f-psych> <nhead> N S NOM @<SC  #18->16
+of 	[of] <DA:af> <np-close> PRP @N<  #19->18
+the 	[the] <def> ART S/P @>N  #20->22
+American 	[American] <DA:amerikansk> <jnat> ADJ POS @>N  #21->22
+people 	[people] <H> <def> <nhead> N P NOM @P<  #22->19
+upon 	[upon] <np-close> PRP @N<  #23->22
+which 	[which] <rel> INDP S/P @P<  #24->23
+this 	[this] <dem> DET S @>N  #25->26
+nation 	[nation] <DA:nation> <HH> <S:11> <def> <nhead> N S NOM @SUBJ>  #26->27
+relies 	[relie] <mv> <np-close> V PR 3S @FS-N<  #27->22
+$. #28->0
+</s>
+
+<s id="47956" source="24-en_obama.txt">
+It 	[it] PERS NEU 3S NOM @F-SUBJ>  #1->2
+is 	[be] <cjt-head> <DA:være> <mv> V PR 3S @FS-STA  #2->0
+the 	[the] <def> ART S/P @>N  #3->4
+kindness 	[kindness] <DA:velvilje> <act-d> <f-psych> <def> <nhead> N S NOM @<SC  #4->2
+to 	[to] <DA:at> INFM @INFM  #5->6
+take 	[take] <real-subj> <DA:tage> <v.contact> <mv> V INF @ICL-<SUBJ  #6->2
+in 	[in] <DA:overskue> <adir> ADV @MV<  #7->6
+a 	[a] <indef> ART S @>N  #8->9
+stranger 	[stranger] <DA:uvedkommende> <H> <nhead> N S NOM @<ACC  #9->6
+when 	[when] <clb> <rel> <atemp> ADV @ADVL>  #10->13
+the 	[the] <def> ART S/P @>N  #11->12
+levees 	[levee] <tool-part> <def> <nhead> N P NOM @SUBJ>  #12->13
+break 	[break] <DA:brække> <v.contact> <ve> <mv> V PR -3S @FS-<ADVL  #13->6
+$, #14->0
+the 	[the] <clb> <def> ART S/P @>N  #15->16
+selflessness 	[selflessness] <DA:uegennytte> <act> <f-psych> <def> <nhead> N S NOM @SUBJ> @<ACC  #16->26
+of 	[of] <DA:af> <np-close> PRP @N<  #17->16
+workers 	[worker] <DA:arbejder> <Aent> <H> <S:57> <nhead> N P NOM @P<  #18->17
+who 	[who] <clb> <rel> INDP S/P @SUBJ> @ACC>  #19->20
+would 	[will] <aux> <np-close> V IMPF @FS-N<  #20->18
+rather 	[rather] <DA:hellere> <advl-close> ADV @<ADVL  #21->22
+cut 	[cut] <DA:skære> <v.contact> <mv> V INF @ICL-AUX<  #22->20
+their 	[they] <poss> <det> PERS 3P GEN @>N  #23->24
+hours 	[hour] <DA:time> <dur> <per> <S:25> <def> <advl-close> <nhead> N P NOM @<ADVL  #24->22
+than 	[than] <DA:end> <pp-temp> <prp-stray> PRP @<ADVL  #25->22
+see 	[see] <cjt> <DA:se> <vq> <v.contact> <mv> V PR -3S @FS-STA  #26->2
+a 	[a] <indef> ART S @>N  #27->28
+friend 	[friend] <DA:ven> <H> <S:13> <nhead> N S NOM @<ACC 	[Friend] <Hideo> N S NOM @<ACC  #28->26
+lose 	[lose] <DA:miste> <v.contact> <mv> V INF @ICL-<OA  #29->26
+their 	[they] <poss> <det> PERS 3P GEN @>N  #30->31
+job 	[job] <DA:opgave> <act> <Lh> <cc-h> <sem> <sick> <S:24> <def> <nhead> N S NOM @<ACC  #31->29
+which 	[which] <clb> <rel> INDP S/P @SUBJ>  #32->33
+sees 	[see] <DA:se> <vq> <v.contact> <mv> <np-close> V PR 3S @FS-N<  #33->31
+us 	[we] PERS 1P ACC @<ACC  #34->33
+through 	[through] <DA:gennem> <pp-temp> <advl-fs> PRP @<ADVL  #35->33
+our 	[we] <poss> <det> PERS GEN 1P @>N  #36->38
+darkest 	[dark] <DA:mørk> <Acheronian> ADJ SUP @>N  #37->38
+hours 	[hour] <DA:time> <dur> <per> <S:25> <def> <nhead> N P NOM @P<  #38->35
+$. #39->0
+</s>
+
+<s id="47957" source="24-en_obama.txt">
+It 	[it] PERS NEU 3S NOM @F-SUBJ>  #1->2
+is 	[be] <DA:være> <mv> V PR 3S @FS-STA  #2->0
+the 	[the] <def> ART S/P @>N  #3->4
+firefighter's 	[firefighter] <DA:brandmand> <def> N S GEN @>N  #4->5
+courage 	[courage] <real-subj> <DA:mod> <f-psych> <def> <nhead> N S NOM @<SUBJ  #5->2
+to 	[to] <DA:at> INFM @INFM  #6->7
+storm 	[storm] <DA:storme> <v.contact> <mv> <np-close> V INF @ICL-N<  #7->5
+a 	[a] <indef> ART S @>N  #8->9
+stairway 	[stairway] <DA:trappeopgang> <Lpath> <nhead> N S NOM @<ACC  #9->7
+filled 	[fill] <DA:fylde> <v.contact> <mv> <np-close> V PCP2 PAS @ICL-N<  #10->9
+with 	[with] <DA:med> PRP @<PIV  #11->10
+smoke 	[smoke] <DA:os> <act> <rem> <ac-sign> <ac> <S:10> N S NOM @P<  #12->11
+$, #13->0
+but 	[but] <DA:men> <clb?> KC @CO  #14->12
+also 	[also] <DA:også> <setop> ADV @<ADVL  #15->10
+a 	[a] <indef> ART S @>N  #16->17
+parent's 	[parent] <DA:forælder> <Hfam> <S:6> N S GEN @>N  #17->18
+willingness 	[willingness] <DA:villighed> <f-psych> <def> <nhead> N S NOM @<DAT  #18->10
+to 	[to] <DA:at> INFM @INFM  #19->20
+nurture 	[nurture] <mv> <np-close> V INF @ICL-N<  #20->7
+a 	[a] <indef> ART S @>N  #21->22
+child 	[child] <DA:barn> <H> <Hfam> <S:31> <nhead> N S NOM @<ACC  #22->20
+$, #23->0
+that 	[that] <clb> <rel> INDP S/P @SUBJ>  #24->26
+finally 	[finally] <DA:endelig> <ADJ:final+ly> ADV @ADVL>  #25->26
+decides 	[decide] <DA:beslutte> <v-cog> <mv> <np-close> V PR 3S @FS-N<  #26->22
+our 	[we] <poss> <det> PERS GEN 1P @>N  #27->28
+fate 	[fate] <DA:skæbne> <event> <def> <nhead> N S NOM @<ACC  #28->26
+$. #29->0
+</s>
+
+<s id="47958" source="24-en_obama.txt">
+Our 	[we] <poss> <det> PERS GEN 1P @>N  #1->2
+challenges 	[challenge] <DA:udfordring> <sem-r> <act-s> <def> <nhead> N P NOM @SUBJ>  #2->3
+may 	[may] <aux> V PR @FS-STA  #3->0
+be 	[be] <DA:være> <mv> V INF @ICL-AUX<  #4->3
+new 	[new] <DA:ny> ADJ POS @<SC  #5->4
+$. #6->0
+</s>
+
+<s id="47959" source="24-en_obama.txt">
+The 	[the] <clb> <def> ART S/P @>N  #1->2
+instruments 	[instrument] <cjt-head> <DA:instrument> <act> <tool> <sem-r> <Hprof> <S:32> <def> <nhead> N P NOM @SUBJ>  #2->8
+with 	[with] <DA:med> <np-close> PRP @N<  #3->2
+which 	[which] <rel> INDP S/P @P<  #4->3
+we 	[we] PERS 1P NOM @SUBJ>  #5->6
+meet 	[meet] <cjt> <DA:møde> <v.contact> <mv> <np-close> V PR -3S @FS-SUBJ> @FS-N<  #6->2
+them 	[they] PERS 3P ACC @<ACC  #7->6
+may 	[may] <aux> V PR @FS-STA  #8->0
+be 	[be] <DA:være> <mv> V INF @ICL-AUX<  #9->8
+new 	[new] <DA:ny> ADJ POS @<SC  #10->9
+$. #11->0
+</s>
+
+<s id="47960" source="24-en_obama.txt">
+But 	[but] <topkc> <DA:men> KC @CO  #1->30
+those 	[that] <dem> DET P @>N  #2->3
+values 	[value] <cjt-head> <DA:værdi> <f-phys> <ac-cat> <per> <S:53> <def> <nhead> N P NOM @SUBJ>  #3->8
+upon 	[upon] <np-close> PRP @N<  #4->3
+which 	[which] <cjt-head> <rel> INDP S/P @P<  #5->4
+our 	[we] <poss> <det> PERS GEN 1P @>N  #6->7
+success 	[success] <cjt> <DA:succes> <act> <event> <H> <sick> <S:3> <def> <nhead> N S NOM @SUBJ>  #7->3
+depends 	[depend] <cjt-head> <DA:afhænge> <mv> <np-close> V PR 3S @FS-SUBJ> @FS-N<  #8->30
+$--  #9->0
+hard 	[hard] <DA:hård> <ambitious> <ante> ADJ POS @>N  #10->11
+work 	[work] <cjt> <S:103> <comp2> <nhead> N S NOM @P<  #11->5
+and 	[and] <DA:og> <co-prparg> KC @CO  #12->5
+honesty 	[honesty] <cjt> <DA:ærlighed> <f-psych> <Bflo> N S NOM @P<  #13->5
+$, #14->0
+courage 	[courage] <cjt> <DA:mod> <f-psych> N S NOM @P<  #15->5
+and 	[and] <DA:og> <co-prparg> KC @CO  #16->5
+fair 	[fair] <DA:fair> <ante> <antimonopoly> ADJ POS @>N  #17->18
+play 	[play] <cjt> <DA:fairplay> <act> <sem-r> <sem-w> <event> <ac-cat> <S:44> <comp2> <nhead> N S NOM @P<  #18->5
+$, #19->0
+tolerance 	[tolerance] <cjt> <DA:tolerance> <act> <f-psych> N S NOM @P<  #20->5
+and 	[and] <DA:og> <co-prparg> KC @CO  #21->5
+curiosity 	[curiosity] <cjt> <DA:nysgerrighed> <cc-h> <f-psych> N S NOM @P<  #22->5
+$, #23->0
+loyalty 	[loyalty] <cjt> <DA:loyalitet> <f-psych> N S NOM @P<  #24->5
+and 	[and] <DA:og> <co-prparg> KC @CO  #25->5
+patriotism 	[patriotism] <cjt> <DA:patriotisme> <f-psych> N S NOM @P<  #26->5
+$--  #27->0
+these 	[this] <dem> DET P @>N  #28->29
+things 	[thing] <cjt> <DA:ting-1> <act> <cc-h> <ac-cat> <f-psych> <ss> <event> <S:7> <def> <nhead> N P NOM @SUBJ>  #29->8
+are 	[be] <DA:være> <mv> V PR -1/3S @FS-STA  #30->0
+old 	[old] <DA:gammel> <second> <jbio> <S:4> <gb2> ADJ POS @<SC  #31->30
+$. #32->0
+</s>
+
+<s id="47961" source="24-en_obama.txt">
+These 	[this] <dem> DET P @>N  #1->2
+things 	[thing] <DA:ting-1> <act> <cc-h> <ac-cat> <f-psych> <ss> <event> <S:7> <def> <nhead> N P NOM @SUBJ>  #2->3
+are 	[be] <DA:være> <mv> V PR -1/3S @FS-STA  #3->0
+true 	[true] <DA:egentlig> <accurate> <actual> <ante> ADJ POS @<SC  #4->3
+$. #5->0
+</s>
+
+<s id="47962" source="24-en_obama.txt">
+They 	[they] PERS 3P NOM @SUBJ>  #1->2
+have 	[have] <DA:have> <v.contact> <aux> V PR -3S @FS-STA  #2->0
+been 	[be] <DA:være> <mv> V PCP2 AKT @ICL-AUX<  #3->2
+the 	[the] <def> ART S/P @>N  #4->6
+quiet 	[quiet] <DA:stille> ADJ POS @>N  #5->6
+force 	[force] <DA:opbud> <act> <f-q> <HHorg> <HH> <HHinst> <H> <ac> <S:49> <def> <nhead> N S NOM @<SC  #6->3
+of 	[of] <DA:af> <np-close> PRP @N<  #7->6
+progress 	[progress] <DA:fremgang> <act> <event> <nhead> N S NOM @P<  #8->7
+throughout 	[throughout] <pp-temp> <np-close> PRP @N<  #9->8
+our 	[we] <poss> <det> PERS GEN 1P @>N  #10->11
+history 	[history] <DA:historie> <domain> <per> <S:29> <def> <nhead> N S NOM @P<  #11->9
+$. #12->0
+</s>
+
+<s id="47963" source="24-en_obama.txt">
+What 	[what] <clb> <rel> INDP S/P @SUBJ>  #1->2
+is 	[be] <DA:være> <aux> V PR 3S @FS-SUBJ>  #2->5
+demanded 	[demand] <DA:kræve> <v-cog> <mv> V PCP2 PAS @ICL-AUX<  #3->2
+then 	[then] <DA:da> <atemp> <advl-close> ADV @<ADVL  #4->3
+is 	[be] <DA:være> <mv> V PR 3S @FS-STA  #5->0
+a 	[a] <indef> ART S @>N  #6->7
+return 	[return] <DA:retur> <act> <tool> <sem-r> <act-s> <event> <S:10> <nhead> N S NOM @<SC  #7->5
+to 	[to] <DA:til> PRP @<ADVL  #8->5
+these 	[this] <dem> DET P @>N  #9->10
+truths 	[truth] <DA:sandhed> <ac-cat> <ss> <S:2> <def> <nhead> N P NOM @P<  #10->8
+$. #11->0
+</s>
+
+<s id="47964" source="24-en_obama.txt">
+What 	[what] <clb> <rel> INDP S/P @SUBJ>  #1->2
+is 	[be] <DA:være> <mv> V PR 3S @FS-SUBJ>  #2->7
+required 	[required] <DA:påkrævet> ADJ POS @<SC  #3->2
+of 	[of] <DA:af> <advl-fs> PRP @<ADVL  #4->2
+us 	[we] PERS 1P ACC @P<  #5->4
+now 	[now] <DA:nu> <atemp> <advl-fs> ADV @<ADVL  #6->2
+is 	[be] <DA:være> <mv> V PR 3S @FS-STA  #7->0
+a 	[a] <indef> ART S @>N  #8->10
+new 	[new] <DA:ny> ADJ POS @>N  #9->10
+era 	[era] <DA:tidsalder> <per> <S:7> <nhead> N S NOM @<SC  #10->7
+of 	[of] <DA:af> <np-close> PRP @N<  #11->10
+responsibility 	[responsibility] <DA:ansvar> <act> <S:6> N S NOM @P<  #12->11
+$--  #13->0
+a 	[a] <indef> ART S @>N  #14->15
+recognition 	[recognition] <insertion> <DA:genkendelse> <act> <ac-cat> <sem-r> <S:3> <np-close> <nhead> N S NOM @N<PRED  #15->12
+$, #16->0
+on 	[on] <DA:på> PRP @<ADVL  #17->7
+the 	[the] <def> ART S/P @>N  #18->19
+part 	[part] <DA:del> <S:38> <def> <nhead> N S NOM @P<  #19->17
+of 	[of] <DA:af> <np-close> PRP @N<  #20->19
+every 	[every] <quant> DET S/P @>N  #21->22
+American 	[American] <DA:amerikansk> <jnat> <gb2> <nhead> ADJ POS @P<  #22->20
+$, #23->0
+that 	[that] <clb> KS @SUB  #24->26
+we 	[we] PERS 1P NOM @SUBJ>  #25->26
+have 	[have] <predco> <cjt-head> <DA:have> <v.contact> <mv> <np-close> V PR -3S @FS-N<  #26->22
+duties 	[duties] <S:2> <nhead> N P NOM @<ACC  #27->26
+to 	[to] <DA:til> <advl-fs> PRP @<ADVL  #28->26
+ourselves 	[we] <refl> PERS 1P ACC @P<  #29->28
+$, #30->0
+our 	[we] <poss> <det> PERS GEN 1P @>N  #31->32
+nation 	[nation] <DA:nation> <HH> <S:11> <def> <nhead> N S NOM @APP  #32->29
+$, #33->0
+and 	[and] <DA:og> <clb?> <co-fin> KC @CO  #34->26
+the 	[the] <def> ART S/P @>N  #35->36
+world 	[world] <gap> <DA:verden> <HH> <Lstar> <S:23> <def> <nhead> N S NOM @SUBJ> @P<  #36->25
+$, #37->0
+duties 	[duties] <gap> <clb> <S:2> <nhead> N P NOM @SUBJ> @<SC  #38->10
+that 	[that] <gap> <clb> <dem> INDP S @SUBJ> @<SC  #39->38
+we 	[we] <clb> PERS 1P NOM @SUBJ>  #40->41
+do 	[do] <cjt> <DA:gøre> <v.contact> <aux> <np-close> V PR -3S @FS-N<  #41->26
+not 	[not] <DA:ikke> ADV @>A  #42->43
+grudgingly 	[grudging] <DA:modstræbende> <advl-close> ADV @<ADVL  #43->44
+accept 	[accept] <DA:acceptere> <vq> <not> <mv> V INF @ICL-AUX<  #44->41
+but 	[but] <DA:men> <co-fin> KC @CO  #45->26
+rather 	[rather] <DA:hellere> ADV @ADVL>  #46->47
+seize 	[seize] <nosubj> <cjt> <DA:konfiskere> <v.contact> <not> <mv> <np-close> V PR -3S @FS-N<  #47->26
+gladly 	[gladly] <DA:gerne> <ADJ:glad+ly> <advl-close> ADV @<ADVL  #48->47
+$, #49->0
+firm 	[firm] <DA:virksomhed> <S:23> <nhead> N S NOM @<ACC  #50->47
+in 	[in] <DA:i> PRP @<ADVL  #51->47
+the 	[the] <def> ART S/P @>N  #52->53
+knowledge 	[knowledge] <DA:viden> <S:16> <def> <nhead> N S NOM @P<  #53->51
+that 	[that] <clb> KS @SUB  #54->56
+there 	[there] ADV @F-SUBJ>  #55->56
+is 	[be] <DA:være> <mc-not> <mv> V PR 3S @FS-<ACC  #56->44
+nothing 	[nothing] <real-subj> <quant> INDP S NOM @<SUBJ  #57->56
+so 	[so] <DA:så> <aquant> <advl-fs> ADV @<ADVL  #58->56
+satisfying 	[satisfy] <DA:tilfredsstille> <mv> V PCP1 @ICL-<ADVL  #59->56
+to 	[to] <DA:til> <advl-close> PRP @<ADVL  #60->59
+the 	[the] <def> ART S/P @>N  #61->62
+spirit 	[spirit] <DA:oplagthed> <an> <sem-r> <H> <Hmyth> <sick> <S:29> <def> <nhead> N S NOM @P<  #62->60
+$, #63->0
+so 	[so] <DA:så> <aquant> <advl-close> ADV @<ADVL  #64->59
+defining 	[defining] <nhead> N S NOM @<ACC  #65->59
+of 	[of] <DA:af> <np-close> PRP @N<  #66->65
+our 	[we] <poss> <det> PERS GEN 1P @>N  #67->68
+character 	[character] <DA:original> <sem-c> <f-psych> <sem-r> <ac-sign> <Hmyth> <S:28> <+s> <def> <nhead> N S NOM @P<  #68->66
+$, #69->0
+than 	[than] <DA:end> PRP @ADVL>  #70->0
+giving 	[give] <DA:give> <v.contact> <mv> V PCP1 @ICL-P<  #71->70
+our 	[we] <poss> <det> PERS GEN 1P @>N  #72->73
+all 	[all] <quant> DET S/P @<ACC  #73->71
+to 	[to] <DA:til> <advl-fs> PRP @<ADVL  #74->71
+a 	[a] <indef> ART S @>N  #75->77
+difficult 	[difficult] <DA:svær> <ambitious> ADJ POS @>N  #76->77
+task 	[task] <DA:opgave> <act> <S:8> <nhead> N S NOM @P<  #77->74
+$. #78->0
+</s>
+
+<s id="47965" source="24-en_obama.txt">
+This 	[this] <dem> INDP S @SUBJ>  #1->2
+is 	[be] <DA:være> <mv> V PR 3S @FS-STA  #2->0
+the 	[the] <def> ART S/P @>N  #3->4
+price 	[price] <cjt-head> <DA:pris> <sem-r> <S:61> <def> <nhead> N S NOM @<SC  #4->2
+and 	[and] <DA:og> <co-sc> KC @CO  #5->4
+the 	[the] <def> ART S/P @>N  #6->7
+promise 	[promise] <cjt> <DA:løfte> <act-s> <S:2> <def> <nhead> N S NOM @<SC  #7->4
+of 	[of] <DA:af> <np-close> PRP @N<  #8->7
+citizenship 	[citizenship] <DA:statsborgerskab> <S:2> N S NOM @P<  #9->8
+$. #10->0
+</s>
+
+<s id="47966" source="24-en_obama.txt">
+This 	[this] <dem> INDP S @SUBJ>  #1->2
+is 	[be] <DA:være> <mv> V PR 3S @FS-STA  #2->0
+the 	[the] <def> ART S/P @>N  #3->4
+source 	[source] <cjt-head> <DA:kilde> <sem-r> <Lwater> <H> <S:14> <def> <nhead> N S NOM @<SC  #4->2
+of 	[of] <DA:af> <np-close> PRP @N<  #5->4
+our 	[we] <poss> <det> PERS GEN 1P @>N  #6->7
+confidence 	[confidence] <DA:tiltro> <f-psych> <ac-cat> <sick> <def> <nhead> N S NOM @P<  #7->5
+$--  #8->0
+the 	[the] <def> ART S/P @>N  #9->10
+knowledge 	[knowledge] <cjt> <DA:viden> <S:16> <def> <nhead> N S NOM @<SC  #10->4
+that 	[that] <clb> KS @SUB  #11->13
+God 	[God] <DA:vorherre> <Hmyth> <Proper> <nhead> N S NOM @SUBJ>  #12->13
+calls 	[call] <DA:kalde> <vq> <v.contact> <mv> <np-close> V PR 3S @FS-N<  #13->10
+on 	[on] <DA:på> PRP @<PIV  #14->13
+us 	[we] PERS 1P ACC @P<  #15->14
+to 	[to] <DA:at> INFM @INFM  #16->17
+shape 	[shape] <DA:forme> <mv> V INF @ICL-<ACC @ICL-<ADVL  #17->13
+an 	[a] ART S @>N  #18->20
+uncertain 	[uncertain] <DA:usikker> <ambiguous> <ambivalent> <variable> ADJ POS @>N  #19->20
+destiny 	[destiny] <DA:fatum> <event> <S:2> <nhead> N S NOM @<ACC  #20->17
+$. #21->0
+</s>
+
+<s id="47967" source="24-en_obama.txt">
+This 	[this] <dem> INDP S @SUBJ>  #1->2
+is 	[be] <cjt-head> <DA:være> <mv> V PR 3S @FS-STA  #2->0
+the 	[the] <def> ART S/P @>N  #3->4
+meaning 	[meaning] <cjt-head> <DA:betydning> <sem-c> <S:5> <def> <nhead> N S NOM @<SC  #4->2
+of 	[of] <DA:af> <pp-temp> <np-close> PRP @N<  #5->4
+our 	[we] <poss> <det> PERS GEN 1P @>N  #6->7
+liberty 	[liberty] <DA:frihedsgode> <act> <per> <S:5> <def> <nhead> N S NOM @P<  #7->5
+and 	[and] <DA:og> <co-sc> KC @CO  #8->4
+our 	[we] <poss> <det> PERS GEN 1P @>N  #9->10
+creed 	[creed] <cjt> <DA:konfession> <sem-c> <def> <nhead> N S NOM @<SC  #10->4
+$--  #11->0
+why 	[why] <clb> <interr> ADV @ADVL>  #12->25
+men 	[man] <cjt-head> <H> N P NOM @SUBJ>  #13->24
+and 	[and] <DA:og> <co-subj> KC @CO  #14->13
+women 	[woman] <cjt-head> <cjt> <H> N P NOM @SUBJ>  #15->13
+and 	[and] <DA:og> <co-subj> KC @CO  #16->13
+children 	[child] <cjt-head> <cjt> <H> <nhead> N P NOM @SUBJ>  #17->15
+of 	[of] <DA:af> <np-close> PRP @N<  #18->17
+every 	[every] <quant> DET S @>N  #19->20
+race 	[race] <DA:løb> <act> <occ> <HH> <S:60> <def> <nhead> N S NOM @P<  #20->18
+and 	[and] <DA:og> <co-prparg> KC @CO  #21->13
+every 	[every] <quant> DET S @>N  #22->23
+faith 	[faith] <cjt> <DA:tro> <act> <HHorg> <S:4> <def> <nhead> N S NOM @SUBJ> @P<  #23->13
+can 	[can] <cjt-head> <aux> <np-close> V PR @FS-N<  #24->20
+join 	[join] <DA:forbinde> <v.contact> <mv> V INF @ICL-AUX<  #25->24
+in 	[in] <DA:i> <advl-close> PRP @<ADVL  #26->25
+celebration 	[celebration] <DA:fejring> <act> <event> <S:3> <nhead> N S NOM @P<  #27->26
+across 	[across] <DA:hen=over> <advl-close> PRP @<ADVL  #28->25
+this 	[this] <dem> DET S @>N  #29->31
+magnificent 	[magnificent] <DA:herlig> ADJ POS @>N  #30->31
+mall 	[mall] <build> <Lpath> <def> <nhead> N S NOM @P<  #31->28
+$, #32->0
+and 	[and] <DA:og> <co-fin> KC @CO  #33->24
+why 	[why] <clb> <interr> ADV @ADVL>  #34->54
+a 	[a] <indef> ART S @>N  #35->36
+man 	[man] <DA:mand> <H> <Hbio> <S:120> <nhead> N S NOM @SUBJ>  #36->52
+whose 	[who] <clb> <rel> DET S GEN @>N  #37->38
+father 	[father] <DA:far> <Htitle> <Hprof> <Hfam> <S:8> <def> <nhead> N S NOM @SUBJ>  #38->43
+less=than 	[less=than] <complex> <DA:under> <aquant> ADV @>A  #39->40
+sixty 	[sixty] <fr:77> <f:200> <b:200> <DA:tres> <card> NUM P @>N  #40->41
+years 	[year] <DA:år> <per> <dur> <S:42> <def> N P NOM @>A  #41->42
+ago 	[ago] ADV @ADVL>  #42->47
+might 	[may] <cjt> <aux> <np-close> V IMPF @FS-N<  #43->24
+not 	[not] <DA:ikke> <advl-close> ADV @<ADVL  #44->47
+have 	[have] <DA:have> <v.contact> <aux> V INF @ICL-AUX<  #45->43
+been 	[be] <DA:være> <aux> V PCP2 AKT @ICL-AUX<  #46->45
+served 	[serve] <DA:tjene> <not> <mv> V PCP2 PAS @ICL-AUX<  #47->46
+at 	[at] <DA:ved> <advl-close> PRP @<ADVL  #48->47
+a 	[a] <indef> ART S @>N  #49->51
+local 	[local] <DA:lokal> <jpert> ADJ POS @>N  #50->51
+restaurant 	[restaurant] <DA:restaurant> <build> <second> <S:6> <nhead> N S NOM @P<  #51->48
+can 	[can] <cjt> <aux> V PR @FS-STA  #52->2
+now 	[now] <DA:nu> <atemp> <advl-close> ADV @<ADVL  #53->54
+stand 	[stand] <DA:stå> <va+LOC> <v.contact> <vq> <not> <mv> V INF @ICL-AUX<  #54->52
+before 	[before] <DA:før> <atemp> <advl-close> ADV @<ADVL  #55->54
+you 	[you] PERS 2S/P ACC @<ACC @<SC 	[you] PERS 2S/P NOM @<ACC  #56->54
+to 	[to] <DA:at> INFM @INFM  #57->58
+take 	[take] <DA:tage> <v.contact> <not> <mv> V INF @ICL-<ADVL  #58->54
+a 	[a] <indef> ART S @>N  #59->62
+most 	[much] <aquant> ADV SUP @>A  #60->61
+sacred 	[sacred] <DA:hellig> ADJ POS @>N  #61->62
+oath 	[oath] <DA:ed> <sem-r> <ss> <nhead> N S NOM @<ACC  #62->58
+$. #63->0
+</s>
+
+<s id="47968" source="24-en_obama.txt">
+So 	[so] <DA:så> <aquant> ADV @ADVL>  #1->0
+let 	[let] <DA:lade-1> <mv> V IMP @FS-COM  #2->0
+us 	[we] PERS 1P ACC @<ACC  #3->2
+mark 	[mark] <DA:markere> <v.contact> <mv> V INF @ICL-<OA  #4->2
+this 	[this] <dem> DET S @>N  #5->6
+day 	[day] <DA:dag> <dur> <per> <S:85> <def> <nhead> N S NOM @<ACC  #6->4
+with 	[with] <DA:med> PRP @<ADVL  #7->4
+remembrance 	[remembrance] <DA:erindring> <ac-cat> <sem-r> N S NOM @P<  #8->7
+$, #9->0
+of 	[of] <DA:af> PRP @<ADVL  #10->4
+who 	[who] <clb> <rel> INDP S/P @SC> 	[who] <clb> <interr> INDP S/P  #11->13
+we 	[we] PERS 1P NOM @SUBJ>  #12->13
+are 	[be] <cjt-head> <DA:være> <mv> V PR -1/3S @FS-P<  #13->10
+and 	[and] <DA:og> <co-fin> KC @CO  #14->13
+how 	[how] <clb> <interr> <aquant> ADV @>A  #15->16
+far 	[far] <DA:langt> <aloc> ADV @ADVL>  #16->19
+we 	[we] PERS 1P NOM @SUBJ>  #17->18
+have 	[have] <cjt> <DA:have> <v.contact> <aux> V PR -3S @FS-P<  #18->13
+traveled 	[travel] <DA:rejse-1> <move> <mv> V PCP2 AKT @ICL-AUX<  #19->18
+$. #20->0
+</s>
+
+<s id="47969" source="24-en_obama.txt">
+In 	[in] <DA:i> <pp-temp> PRP @ADVL>  #1->0
+the 	[the] <def> ART S/P @>N  #2->3
+year 	[year] <DA:år> <per> <dur> <S:42> <def> <nhead> N S NOM @P<  #3->1
+of 	[of] <DA:af> <pp-temp> <np-close> PRP @N<  #4->3
+America's 	[America] <Proper> <Lcountry> N S GEN @>N  #5->6
+birth 	[birth] <DA:fødsel> <event> <H> <ac-cat> <temp> <S:9> <def> <nhead> N S NOM @P<  #6->4
+$, #7->0
+in 	[in] <DA:i> PRP @ADVL>  #8->0
+the 	[the] <def> ART S/P @>N  #9->10
+coldest 	[cold] <DA:kold> <acold> ADJ SUP @P<  #10->8
+of 	[of] <DA:af> <pp-temp> <np-close> PRP @N<  #11->10
+months 	[month] <DA:måned> <ac-cat> <per> <dur> <S:16> N P NOM @P<  #12->11
+$, #13->0
+a 	[a] <indef> ART S @>N  #14->16
+small 	[small] <DA:lille> <ante> ADJ POS @>N  #15->16
+band 	[band] <DA:band> <tool> <cc-cloth> <HHorg> <AA> <second> <S:33> <np-close> <nhead> N S NOM @N<PRED @P<  #16->12
+of 	[of] <DA:af> <np-close> PRP @N<  #17->16
+patriots 	[patriot] <DA:frihedskæmper> <H> <nhead> N P NOM @P<  #18->17
+huddled 	[huddle] <DA:krybe=sammen> <mv> <np-close> V PCP2 PAS @ICL-N<  #19->18
+by 	[by] <DA:per> <advl-close> <pass> PRP @<ADVL  #20->19
+dying 	[dying] <DA:hendøende> <ante> ADJ POS @>N 	[dye] <DA:indfarve> V PCP1 @>N  #21->22
+campfires 	[campfire] <DA:lejrbål> <event> <nhead> N P NOM @P<  #22->20
+on 	[on] <DA:på> <advl-close> PRP @<ADVL  #23->19
+the 	[the] <def> ART S/P @>N  #24->25
+shores 	[shore] <DA:bred> <cc-part> <Ltop> <def> <nhead> N P NOM @P<  #25->23
+of 	[of] <DA:af> <np-close> PRP @N<  #26->25
+an 	[a] ART S @>N  #27->29
+icy 	[icy] <DA:iskold> ADJ POS @>N  #28->29
+river 	[river] <DA:flod> <Lwater> <second> <S:3> <nhead> N S NOM @P<  #29->26
+$. #30->0
+</s>
+
+<s id="47970" source="24-en_obama.txt">
+The 	[the] <def> ART S/P @>N  #1->2
+capital 	[capital] <DA:hovedstad> <S:61> <def> <nhead> N S NOM @SUBJ>  #2->3
+was 	[be] <DA:være> <aux> V IMPF 1/3S @FS-STA  #3->0
+abandoned 	[abandon] <DA:skrinlægge> <mv> V PCP2 PAS @ICL-AUX<  #4->3
+$. #5->0
+</s>
+
+<s id="47971" source="24-en_obama.txt">
+The 	[the] <def> ART S/P @>N  #1->2
+enemy 	[enemy] <DA:fjende> <HHnat> <HHinst> <H> <S:4> <def> <nhead> N S NOM @SUBJ>  #2->3
+was 	[be] <DA:være> <aux> V IMPF 1/3S @FS-STA  #3->0
+advancing 	[advance] <DA:avancere> <move> <mv> V PCP1 @ICL-AUX<  #4->3
+$. #5->0
+</s>
+
+<s id="47972" source="24-en_obama.txt">
+The 	[the] <def> ART S/P @>N  #1->2
+snow 	[snow] <DA:sne> <rem> <ac> <cm> <S:7> <def> <nhead> N S NOM @SUBJ>  #2->3
+was 	[be] <DA:være> <aux> V IMPF 1/3S @FS-STA  #3->0
+stained 	[stain] <DA:klatte> <v.contact> <mv> V PCP2 PAS @ICL-AUX<  #4->3
+with 	[with] <DA:med> <advl-close> PRP @<ADVL  #5->4
+blood 	[blood] <DA:blod> <act> <cm-liq> <HHnat> <HH> <H> <S:11> N S NOM @P<  #6->5
+$. #7->0
+</s>
+
+<s id="47973" source="24-en_obama.txt">
+At 	[at] <DA:ved> <pp-temp> PRP @ADVL>  #1->0
+a 	[a] <indef> ART S @>N  #2->3
+moment 	[moment] <DA:øjeblik> <ac-cat> <ac> <temp> <S:7> <nhead> N S NOM @P<  #3->1
+when 	[when] <clb> <rel> <atemp> ADV @ADVL>  #4->10
+the 	[the] <def> ART S/P @>N  #5->6
+outcome 	[outcome] <DA:udfald> <event> <def> <nhead> N S NOM @SUBJ>  #6->10
+of 	[of] <DA:af> <np-close> PRP @N<  #7->6
+our 	[we] <poss> <det> PERS GEN 1P @>N  #8->9
+revolution 	[revolution] <DA:revolution> <act> <event> <S:8> <def> <nhead> N S NOM @P<  #9->7
+was 	[be] <DA:være> <mv> <np-close> V IMPF 1/3S @FS-N<  #10->3
+most 	[much] <quant> INDP SUP S @<SC  #11->10
+in 	[in] <DA:i> <advl-fs> PRP @<ADVL  #12->10
+doubt 	[doubt] <DA:tvivl> <f-psych> N S NOM @P<  #13->12
+$, #14->0
+the 	[the] <clb> <def> ART S/P @>N  #15->16
+father 	[father] <DA:far> <Htitle> <Hprof> <Hfam> <S:8> <def> <nhead> N S NOM @SUBJ> @<SC  #16->20
+of 	[of] <DA:af> <np-close> PRP @N<  #17->16
+our 	[we] <poss> <det> PERS GEN 1P @>N  #18->19
+nation 	[nation] <DA:nation> <HH> <S:11> <def> <nhead> N S NOM @P<  #19->17
+ordered 	[order] <cjt-head> <DA:bestille> <vq> <mv> <np-close> V IMPF @FS-<ADVL @FS-N< @FS-STA  #20->10
+these 	[this] <dem> DET P @>N  #21->22
+words 	[word] <DA:ord> <ac-cat> <act-s> <+s> <S:40> <def> <nhead> N P NOM @<ACC 	[Word] <sem-r> <Hmyth> <def> N P NOM @<ACC  #22->20
+be 	[be] <cjt> <DA:være> <aux> V IMP @FS-N< @FS-COM  #23->20
+read 	[read] <DA:læse> <vq> <speak> <mv> V PCP2 PAS @ICL-AUX<  #24->23
+to 	[to] <DA:til> <advl-close> PRP @<ADVL  #25->24
+the 	[the] <def> ART S/P @>N  #26->27
+people 	[people] <H> <def> <nhead> N P NOM @P<  #27->25
+$:  #28->0
+</s>
+
+
+<s id="47974" source="24-en_obama.txt">
+$"  #1->0
+Let 	[let] <DA:lade-1> <mv> V IMP @FS-COM  #2->0
+it 	[it] PERS NEU 3S ACC @<ACC  #3->2
+be 	[be] <DA:være> <aux> V INF @ICL-<OA  #4->2
+told 	[tell] <DA:fortælle> <vq> <v-cog> <mv> V PCP2 PAS @ICL-AUX<  #5->4
+to 	[to] <DA:til> PRP @<PIV  #6->5
+the 	[the] <def> ART S/P @>N  #7->9
+future 	[future] <DA:fremtidig> <jpert> ADJ POS @>N  #8->9
+world 	[world] <DA:verden> <HH> <Lstar> <second> <S:23> <def> <nhead> N S NOM @P<  #9->6
+$. #10->0
+$. #11->0
+$. #12->0
+</s>
+
+<s id="47975" source="24-en_obama.txt">
+that 	[that] <dem> INDP S @NPHR  #1->0
+in 	[in] <DA:i> PRP @ADVL  #2->1
+the 	[the] <def> ART S/P @>N  #3->4
+depth 	[depth] <DA:dybde> <f-q> <f-psych> <L> <def> <nhead> N S NOM @P<  #4->2
+of 	[of] <DA:af> <pp-temp> <np-close> PRP @N<  #5->4
+winter 	[winter] <DA:vinter> <per> <S:3> N S NOM @P<  #6->5
+$, #7->0
+when 	[when] <clb> <rel> <atemp> ADV @ADVL>  #8->15
+nothing 	[nothing] <cjt-head> <quant> INDP S NOM @SUBJ>  #9->14
+but 	[but] <DA:men> <co-subj> KC @CO  #10->9
+hope 	[hope] <cjt-head> <cjt> <DA:håb> <f-psych> <H> N S NOM @SUBJ>  #11->9
+and 	[and] <DA:og> <co-subj> KC @CO  #12->9
+virtue 	[virtue] <cjt> <DA:dyd> <f-psych> <S:5> <nhead> N S NOM @SUBJ>  #13->9
+could 	[can] <aux> <np-close> V IMPF @FS-N<  #14->6
+survive 	[survive] <DA:overleve> <mv> V INF @ICL-AUX<  #15->14
+$. #16->0
+$. #17->0
+$. #18->0
+</s>
+
+<s id="47976" source="24-en_obama.txt">
+that 	[that] <clb> KS @SUB  #1->8
+the 	[the] <def> ART S/P @>N  #2->3
+city 	[city] <cjt-head> <DA:storby> <Lh> <civ> <S:13> <def> <nhead> N S NOM @SUBJ>  #3->14
+and 	[and] <DA:og> <co-subj> KC @CO  #4->3
+the 	[the] <def> ART S/P @>N  #5->6
+country 	[country] <cjt> <DA:land> <Lcountry> <S:48> <def> <nhead> N S NOM @SUBJ>  #6->3
+$, #7->0
+alarmed 	[alarm] <DA:forurolige> <mv> <np-close> V PCP2 PAS @ICL-N<  #8->6
+at 	[at] <DA:ved> <advl-close> PRP @<ADVL  #9->8
+one 	[one] <card> NUM S @>N  #10->12
+common 	[common] <DA:almen> ADJ POS @>N  #11->12
+danger 	[danger] <DA:fare> <act> <L> <second> <S:2> <def> <nhead> N S NOM @P<  #12->9
+$, #13->0
+came 	[come] <DA:komme> <move> <va+DIR> <ve> <va+INF> <v.contact> <mv> V IMPF @FS-STA  #14->0
+forth 	[forth] <DA:frem> <advl-close> ADV @<ADVL  #15->14
+to 	[to] <DA:at> INFM @INFM  #16->17
+meet 	[meet] <DA:møde> <v.contact> <mv> V INF @ICL-<ADVL  #17->14
+$( #18->0
+it 	[it] PERS NEU 3S NOM @SUBJ>  #19->0
+$) #20->0
+$. #21->0
+</s>
+
+<s id="47977" source="24-en_obama.txt">
+$"  #1->0
+</s>
+
+
+<s id="47978" source="24-en_obama.txt">
+America 	[America] <Proper> <Lcountry> N S NOM @SUBJ>  #1->18
+$, #2->0
+in 	[in] <DA:i> <np-close> PRP @N<PRED  #3->1
+the 	[the] <def> ART S/P @>N  #4->5
+face 	[face] <DA:ansigt> <Lsurf> <an> <S:18> <def> <nhead> N S NOM @P<  #5->3
+of 	[of] <DA:af> <np-close> PRP @N<  #6->5
+our 	[we] <poss> <det> PERS GEN 1P @>N  #7->9
+common 	[common] <DA:almen> ADJ POS @>N  #8->9
+dangers 	[danger] <DA:fare> <act> <L> <second> <S:2> <def> <nhead> N P NOM @P<  #9->6
+$, #10->0
+in 	[in] <DA:i> <pp-temp> <np-close> PRP @N<PRED  #11->9
+this 	[this] <dem> DET S @>N  #12->13
+winter 	[winter] <DA:vinter> <per> <S:3> <def> <nhead> N S NOM @P<  #13->11
+of 	[of] <DA:af> <np-close> PRP @N<  #14->13
+our 	[we] <poss> <det> PERS GEN 1P @>N  #15->16
+hardship 	[hardship] <DA:strabads> <event> <sick> <def> <nhead> N S NOM @P<  #16->14
+$, #17->0
+let 	[let] <DA:lade-1> <mv> V IMPF @FS-COM 	[let] <DA:lade-1> <mv> V PR -3S @FS-COM 	[let] <DA:lade-1> <mv> V IMP  #18->0
+us 	[we] PERS 1P ACC @<ACC  #19->18
+remember 	[remember] <DA:huske> <vq> <v-cog> <mv> V INF @ICL-<OA  #20->18
+these 	[this] <dem> DET P @>N  #21->23
+timeless 	[timeless] <DA:tidløs> ADJ POS @>N  #22->23
+words 	[word] <DA:ord> <ac-cat> <act-s> <+s> <S:40> <def> <nhead> N P NOM @<ACC 	[Word] <sem-r> <Hmyth> <def> N P NOM @<ACC  #23->20
+$. #24->0
+</s>
+
+<s id="47979" source="24-en_obama.txt">
+With 	[with] <DA:med> PRP @ADVL>  #1->6
+hope 	[hope] <cjt-head> <DA:håb> <f-psych> <H> N S NOM @P<  #2->1
+and 	[and] <DA:og> <co-prparg> KC @CO  #3->2
+virtue 	[virtue] <cjt> <DA:dyd> <f-psych> <S:5> N S NOM @P<  #4->2
+$, #5->0
+let 	[let] <DA:lade-1> <mv> V IMPF @FS-COM 	[let] <DA:lade-1> <mv> V PR -3S @FS-COM 	[let] <DA:lade-1> <mv> V IMP  #6->0
+us 	[we] PERS 1P ACC @<ACC  #7->6
+brave 	[brave] <cjt-head> <mv> V INF @ICL-<OA  #8->6
+once=more 	[once=more] <DA:atter> <atemp> <advl-close> ADV @<ADVL  #9->8
+the 	[the] <def> ART S/P @>N  #10->12
+icy 	[icy] <DA:iskold> ADJ POS @>N  #11->12
+currents 	[current] <DA:strøm> <second> <S:16> <def> <nhead> N P NOM @<ACC  #12->8
+$, #13->0
+and 	[and] <DA:og> <co-inf> KC @CO  #14->8
+endure 	[endure] <cjt> <DA:udstå> <mv> V INF @ICL-<OA  #15->8
+what 	[what] <clb> <interr> DET P @>N  #16->17
+storms 	[storm] <DA:storm> <act> <wea-wind> <S:11> <nhead> N P NOM @<ACC  #17->15
+may 	[may] <aux> V PR @FS-STA  #18->0
+come 	[come] <DA:komme> <move> <va+DIR> <ve> <va+INF> <v.contact> <mv> V INF @ICL-AUX<  #19->18
+$. #20->0
+</s>
+
+<s id="47980" source="24-en_obama.txt">
+Let 	[let] <DA:lade-1> <mv> <nosubj> V IMPF @FS-STA  #1->0
+it 	[it] PERS NEU 3S ACC @<ACC  #2->1
+be 	[be] <DA:være> <aux> V INF @ICL-<OA  #3->1
+said 	[say] <DA:sige> <vq> <v-cog> <speak> <mv> V PCP2 PAS @ICL-AUX<  #4->3
+by 	[by] <DA:per> <advl-close> <pass> PRP @<ADVL  #5->4
+our 	[we] <poss> <det> PERS GEN 1P @>N  #6->7
+children's 	[child] <H> <def> N P GEN @>N  #7->8
+children 	[child] <H> <def> <nhead> N P NOM @P<  #8->5
+that 	[that] <clb> <rel> INDP S/P @SUBJ>  #9->13
+when 	[when] <clb> <rel> <atemp> ADV @ADVL>  #10->13
+we 	[we] PERS 1P NOM @SUBJ>  #11->12
+were 	[be] <DA:være> <aux> V IMPF -1/3S @FS-ADVL>  #12->15
+tested 	[test] <DA:teste> <mv> V PCP2 PAS @ICL-AUX<  #13->12
+we 	[we] PERS 1P NOM @SUBJ>  #14->15
+refused 	[refuse] <DA:afvise> <mv> V IMPF @FS-<ACC  #15->4
+to 	[to] <DA:at> INFM @INFM  #16->17
+let 	[let] <DA:lade-1> <mv> V INF @ICL-<ACC  #17->15
+this 	[this] <dem> DET S @>N  #18->20
+journey 	[journey] <DA:rejse> <act-move> <S:13> <def> <first> N S NOM @>N  #19->20
+end 	[end] <DA:ende> <event> <Ltip> <temp> <second> <S:30> <def> <nhead> N S NOM @<ACC  #20->17
+$, #21->0
+that 	[that] <clb> KS @SUB  #22->24
+we 	[we] PERS 1P NOM @SUBJ>  #23->24
+did 	[do] <cjt-head> <DA:gøre> <v.contact> <aux> <np-close> V IMPF @FS-N<  #24->20
+not 	[not] <DA:ikke> <advl-close> ADV @<ADVL  #25->26
+turn 	[turn] <cjt-head> <DA:vende> <v.contact> <not> <mv> V INF @ICL-AUX<  #26->24
+back 	[back] <DA:tilbage> <adir> <advl-close> ADV @<ADVL  #27->26
+nor 	[nor] <DA:eller> <co-fin> KC @CO  #28->24
+did 	[do] <cjt> <DA:gøre> <v.contact> <np-close> V IMPF @FS-N<  #29->24
+we 	[we] PERS 1P NOM @<SUBJ  #30->29
+falter 	[falter] <cjt> <DA:tøve> <not> <mv> V INF @ICL-AUX<  #31->26
+$; #32->0
+</s>
+
+<s id="47981" source="24-en_obama.txt">
+and 	[and] <topkc> <DA:og> KC @CO  #1->15
+with 	[with] <DA:med> PRP @SUB  #2->4
+eyes 	[eye] <DA:øje> <Lhole> <anorg> <f-psych> <ac-cat> <L> <S:21> <nhead> N P NOM @SUBJ>  #3->4
+fixed 	[fix] <DA:fastsætte> <vq> <v.contact> <mv> V PCP2 PAS @ICL-ADVL>  #4->15
+on 	[on] <DA:på> <advl-close> PRP @<ADVL  #5->4
+the 	[the] <def> ART S/P @>N  #6->7
+horizon 	[horizon] <cjt-head> <DA:horisont> <f-q> <L> <S:8> <def> N S NOM @P<  #7->5
+and 	[and] <DA:og> <co-prparg> KC @CO  #8->7
+God's 	[God] <DA:vorherre> <Hmyth> <Proper> N S GEN @>N  #9->10
+grace 	[grace] <cjt> <DA:ynde> <f-phys-h> <f-psych> <act-s> <def> <nhead> N S NOM @P<  #10->7
+upon 	[upon] <advl-close> PRP @<ADVL  #11->4
+us 	[we] PERS 1P ACC @P<  #12->11
+$, #13->0
+we 	[we] PERS 1P NOM @SUBJ>  #14->15
+carried 	[carry] <predco> <cjt-head> <DA:transportere> <v.contact> <vta+DIR> <mv> V IMPF @FS-STA  #15->0
+forth 	[forth] <DA:frem> <advl-close> ADV @<ADVL  #16->15
+that 	[that] <dem> DET S @>N  #17->19
+great 	[great] <DA:stor> ADJ POS @>N  #18->19
+gift 	[gift] <DA:gave> <act> <f-psych> <S:9> <def> <nhead> N S NOM @<ACC  #19->15
+of 	[of] <DA:af> <np-close> PRP @N<  #20->19
+freedom 	[freedom] <DA:frihed> <am> <f-right> <S:2> N S NOM @P<  #21->20
+and 	[and] <DA:og> <co-fin> KC @CO  #22->15
+delivered 	[deliver] <nosubj> <cjt> <DA:levere> <v.contact> <mv> V IMPF @FS-STA  #23->15
+it 	[it] PERS NEU 3S ACC @<ACC  #24->23
+safely 	[safely] <DA:trygt> <ADJ:safe+ly> ADV @<ADVL  #25->23
+to 	[to] <DA:til> <pp-temp> PRP @<PIV  #26->23
+future 	[future] <DA:fremtidig> <jpert> ADJ POS @>N  #27->28
+generations 	[generation] <DA:generation> <act> <HH> <HHnat> <per> <second> <S:4> <nhead> N P NOM @P<  #28->26
+$. #29->0
+</s>
+</book>

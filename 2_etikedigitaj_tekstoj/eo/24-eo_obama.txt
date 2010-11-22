@@ -1,0 +1,2930 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<book id=24-eo obama.txt>
+</s>
+
+<s id="41112" source="24-eo obama.txt">
+Inauxgura	 [inauxgura] <*> ADJ S NOM @>N #1->2 
+parolado	 [parolado] <act-s> <sem-l> N S NOM @NPHR #2->0 
+de	 [de] PRP @N< #3->2 
+Barack=Obama	 [Barack=Obama] <*> PROP S NOM @P< #4->3 
+</s>
+
+<s id="41113" source="24-eo obama.txt">
+Miaj	 [mia] <*> <poss> PRON DET P NOM @>N #1->2 
+kuncivitanoj	 [kuncivitano] <Hprof> N P NOM @VOK #2->0 
+$, #3->0 
+mi	 [mi] PRON PERS 1S NOM @SUBJ> #4->5 
+staras	 [stari] <ve> <mv> V PR VFIN @FS-STA #5->0 
+antaux	 [antaux] <atemp> PRP @<ADVL #6->5 
+vi	 [vi] PRON PERS 2S/P NOM @P< #7->6 
+hodiaux	 [hodiaux] <atemp> ADV @<ADVL #8->5 
+$, #9->0 
+humiligita	 [humiligi] <mv> V PCP PAS IMPF ADJ S NOM @ICL-N< #10->0 
+pro	 [pro] PRP @<ADVL #11->10 
+la	 [la] ART @>N #12->13 
+tasko	 [tasko] <ac> <sem> N S NOM @P< #13->11 
+antaux	 [antaux] <atemp> PRP @<ADVL #14->10 
+ni	 [ni] PRON PERS 1P NOM @P< #15->14 
+$, #16->0 
+dankema	 [dankema] <Du> <Dsoc/Dpsych> ADJ S NOM @P< @N<PRED #17->15 
+pro	 [pro] PRP @<ADVL #18->10 
+la	 [la] ART @>N #19->20 
+fido	 [fido] <f-psych> N S NOM @P< #20->18 
+donita	 [doni] <mv> V PCP PAS IMPF ADJ S NOM @ICL-N< #21->20 
+de	 [de] PRP @<ADVL #22->21 
+vi	 [vi] PRON PERS 2S/P NOM @P< #23->22 
+$, #24->0 
+konscia	 [konscia] <Dpsych> ADJ S NOM @P< @N<PRED #25->23 
+pri	 [pri] PRP @A< #26->25 
+la	 [la] ART @>N #27->28 
+oferoj	 [ofero] <act> N P NOM @P< #28->26 
+de	 [de] PRP @N< #29->28 
+niaj	 [nia] <poss> PRON DET P NOM @>N #30->31 
+antauxuloj	 [antauxulo] <H> N P NOM @P< #31->29 
+$. #32->0 
+</s>
+
+<s id="41114" source="24-eo obama.txt">
+Mi	 [mi] <clb> <*> PRON PERS 1S NOM @SUBJ> #1->2 
+dankas	 [danki] <mv> V PR VFIN @FS-STA #2->0 
+al	 [al] <cjt-first> PRP @<PIV #3->2 
+Prezidento=Bush	 [Prezidento=Bush] <*> PROP S NOM @P< #4->3 
+pro	 [pro] <cjt> PRP @<PIV #5->2 
+lia	 [lia] <poss> PRON DET S NOM @>N #6->7 
+servo	 [servo] <act> <act-d> N S NOM @P< #7->5 
+al	 [al] PRP @<ADVL #8->2 
+nia	 [mia] <poss> PRON DET S NOM @>N #9->10 
+lando	 [lando] <cjt-first> <Lciv> N S NOM @P< #10->8 
+$, #11->0 
+$[ #12->0 
+aplauxdo	 [aplauxdo] <cjt> N S NOM @P< #13->8 
+$] #14->0 
+kaj	 [kaj] KC @CO #15->16 
+pro	 [pro] <cjt> PRP @<PIV #16->2 
+la	 [la] ART @>N #17->18 
+donacemo	 [donacemo] <cjt-first> <N:donac+emo> <f-psych> N S NOM @P< #18->16 
+kaj	 [kaj] KC @CO #19->20 
+kunlaboremo	 [kunlaboremo] <cjt> <N:kunlabor+emo> <f-psych> N S NOM @P< #20->16 
+$, #21->0 
+kion	 [kio] <rel> PRON INDP S ACC @ACC> #22->24 
+li	 [li] PRON PERS 3S M NOM @SUBJ> #23->24 
+montris	 [montri] <vq> <mv> V IMPF VFIN @FS-N< #24->20 
+dum	 [dum] PRP @<ADVL #25->24 
+cxi=tiu	 [cxi=tiu] <dem> PRON DET S NOM @>N #26->27 
+transdono	 [transdono] <act> N S NOM @P< #27->25 
+$. #28->0 
+</s>
+
+<s id="41115" source="24-eo obama.txt">
+Kvardek=kvar	 [kvardek=kvar] <clb> <*> <card> NUM P @>N #1->2 
+Usonanoj	 [usonano] <*> <Hnat> N P NOM @SUBJ> #2->4 
+jam	 [jam] <atemp> ADV @ADVL> #3->4 
+jxuris	 [jxuri] <vH&> <vq> <mv> V IMPF VFIN @FS-STA #4->0 
+kiel	 [kiel] <kp> PRP @<ADVL #5->4 
+prezidanto	 [prezidanto] <Hprof> N S NOM @P< #6->5 
+$. #7->0 
+</s>
+
+<s id="41116" source="24-eo obama.txt">
+La	 [la] <clb> <*> ART @>N #1->2 
+vortoj	 [vorto] <ac> <+s> N P NOM @SUBJ> #2->4 
+estis	 [esti] <va+LOC> <aux> V IMPF VFIN @FS-STA #3->0 
+parolitaj	 [paroli] <vH&> <mv> V PCP PAS IMPF ADJ P NOM @ICL-AUX< #4->3 
+kaj	 [kaj] KC @CO #5->6 
+dum	 [dum] PRP @<ADVL #6->4 
+levigxantaj	 [levigxi] <ve> V PCP AKT PR ADJ P NOM @>N #7->8 
+tajdoj	 [tajdo] <Lwater> N P NOM @P< #8->6 
+de	 [de] PRP @N< #9->8 
+prospero	 [prospero] <f-psych> <process> <sit> N S NOM @P< #10->9 
+$, #11->0 
+kaj	 [kaj] KC @CO #12->13 
+dum	 [dum] PRP @<ADVL #13->4 
+la	 [la] ART @>N #14->16 
+trankvilaj	 [trankvila] <Du> <Dpsych> ADJ P NOM @>N #15->16 
+akvoj	 [akvo] <cm-liq> N P NOM @P< #16->13 
+de	 [de] PRP @N< #17->16 
+paco	 [paco] <sit> N S NOM @P< #18->17 
+$. #19->0 
+</s>
+
+<s id="41117" source="24-eo obama.txt">
+Tamen	 [tamen] <*> <kc> ADV @ADVL> #1->7 
+de	 [de] PRP @ADVL> #2->7 
+tempo	 [tempo] <temp> <ac-cat> N S NOM @P< #3->2 
+al	 [al] PRP @N< #4->3 
+tempo	 [tempo] <temp> <ac-cat> N S NOM @P< #5->4 
+oni	 [oni] PRON PERS 3S NOM @SUBJ> #6->7 
+diras	 [diri] <vH&> <vq> <mv> V PR VFIN @FS-STA #7->0 
+la	 [la] ART @>N #8->9 
+jxuron	 [jxuro] N S ACC @<ACC #9->7 
+inter	 [inter] PRP @<ADVL #10->7 
+kunigxantaj	 [kunigxi] <va+LOC> V PCP AKT PR ADJ P NOM @>N #11->12 
+nuboj	 [nubo] <cjt-first> <wea-c> N P NOM @P< #12->10 
+kaj	 [kaj] KC @CO #13->15 
+furiozaj	 [furioza] <cond> <Dpsych> ADJ P NOM @>N #14->15 
+tempestoj	 [tempesto] <cjt> <wea-c> <wea-wind> N P NOM @P< #15->10 
+$. #16->0 
+</s>
+
+<s id="41118" source="24-eo obama.txt">
+Dum	 [dum] <*> PRP @A< #1->0 
+tiaj	 [tia] <Dem> <Du> <dem> PRON DET P NOM @>N #2->3 
+momentoj	 [momento] <cjt-first> <ac> <temp> <per> N P NOM @P< #3->1 
+$, #4->0 
+Usono	 [Usono] <cjt> <*> <Lciv> PROP S NOM @P< #5->1 
+persistis--ne	 [persistis--ne] <amod> <setop> ADV @ADVL> #6->23 
+nur	 [nur] <setop> ADV @>P #7->8 
+pro	 [pro] PRP @N<PRED #8->5 
+lerteco	 [lerteco] <cjt-first> <am> N S NOM @P< #9->8 
+aux	 [aux] KC @CO #10->11 
+vizio	 [vizio] <cjt> <sem-c> N S NOM @P< #11->8 
+de	 [de] PRP @N< #12->11 
+altranguloj	 [altrangulo] <AF:ul> <H> N P NOM @P< #13->12 
+$, #14->0 
+sed	 [sed] KC @CO #15->32 
+cxar	 [cxar] KS @SUB #16->23 
+ni	 [ni] <cjt-first> PRON PERS 1P NOM @SUBJ> #17->23 
+la	 [la] ART @>N #18->19 
+usonpopolo	 [usonpopolo] <cjt> <PROP:uson+popolo> <HH> N S NOM @SUBJ> #19->23 
+{	 [{] #20->0 
+1	 [1] <cjt> <card> <cif> NUM S @SUBJ> #21->23 
+}	 [}] #22->0 
+restis	 [resti] <ve> <mv> V IMPF VFIN @FS-ADVL> #23->0 
+fidelaj	 [fidela] <Du> ADJ P NOM @<SC #24->23 
+al	 [al] PRP @A< #25->24 
+la	 [la] ART @>N #26->27 
+idealoj	 [idealo] <ac> N P NOM @P< #27->25 
+de	 [de] PRP @N< #28->27 
+niaj	 [nia] <poss> PRON DET P NOM @>N #29->30 
+antauxuloj	 [antauxulo] <H> N P NOM @P< #30->28 
+$, #31->0 
+kaj	 [kaj] KC @CO #32->33 
+lojalaj	 [lojala] <Du> ADJ P NOM @N< #33->30 
+al	 [al] PRP @<ADVL #34->23 
+niaj	 [nia] <poss> PRON DET P NOM @>N #35->37 
+fundamentaj	 [fundamenta] <Du> ADJ P NOM @>N #36->37 
+dokumentoj	 [dokumento] <sem-r> N P NOM @P< #37->34 
+$. #38->0 
+</s>
+
+<s id="41119" source="24-eo obama.txt">
+Tiel	 [tiel] <*> <dem> ADV @ADVL> #1->2 
+estis	 [esti] <va+LOC> <mv> V IMPF VFIN @FS-STA #2->0 
+$; #3->0 
+</s>
+
+<s id="41120" source="24-eo obama.txt">
+tiel	 [tiel] <dem> ADV @ADVL> #1->3 
+devos	 [devi] <aux> V FUT VFIN @FS-STA #2->0 
+esti	 [esti] <va+LOC> <mv> V INF @ICL-AUX< #3->2 
+kun	 [kun] PRP @<SA #4->3 
+cxi=tiu	 [cxi=tiu] <dem> PRON DET S NOM @>N #5->6 
+generacio	 [generacio] <per> <HH> N S NOM @P< #6->4 
+de	 [de] PRP @N< #7->6 
+usonanoj	 [usonano] <Hnat> N P NOM @P< #8->7 
+$. #9->0 
+</s>
+
+<s id="41121" source="24-eo obama.txt">
+Ni	 [ni] <clb> <*> PRON PERS 1P NOM @SUBJ> #1->3 
+bone	 [bone] ADV @ADVL> #2->3 
+komprenas	 [kompreni] <vq> <mv> V PR VFIN @FS-STA #3->0 
+$, #4->0 
+ke	 [ke] KS @SUB #5->7 
+ni	 [ni] PRON PERS 1P NOM @SUBJ> #6->7 
+estas	 [esti] <va+LOC> <mv> V PR VFIN @FS-<ACC #7->3 
+en	 [en] PRP @<SA #8->7 
+la	 [la] ART @>N #9->10 
+mezo	 [mezo] <L> <ac> N S NOM @P< #10->8 
+de	 [de] PRP @N< #11->10 
+krizo	 [krizo] <sit> N S NOM @P< #12->11 
+$. #13->0 
+</s>
+
+<s id="41122" source="24-eo obama.txt">
+Nia	 [mia] <clb> <*> <poss> PRON DET S NOM @>N #1->2 
+nacio	 [nacio] <HH> N S NOM @SUBJ> #2->3 
+militas	 [militi] <mv> V PR VFIN @FS-STA #3->0 
+kontraux	 [kontraux] PRP @<ADVL #4->3 
+vasta	 [vasta] <Du> ADJ S NOM @>N #5->6 
+reto	 [reto] <cc-h> <Ltrap> <ac> N S NOM @P< #6->4 
+de	 [de] PRP @N< #7->6 
+perforto	 [perforto] <cjt-first> <act-d> <am> N S NOM @P< #8->7 
+kaj	 [kaj] KC @CO #9->10 
+malamo	 [malamo] <cjt> N S NOM @P< #10->7 
+$. #11->0 
+</s>
+
+<s id="41123" source="24-eo obama.txt">
+Nia	 [mia] <clb> <*> <poss> PRON DET S NOM @>N #1->2 
+ekonomio	 [ekonomio] <domain> N S NOM @SUBJ> #2->4 
+severe	 [severe] <Dsoc/Dpsych> ADV @ADVL> #3->4 
+malfortigxis	 [malfortigxi] <mv> V IMPF VFIN @FS-STA #4->0 
+$, #5->0 
+rezulto	 [rezulto] <ac> N S NOM @N<PRED #6->0 
+de	 [de] PRP @N< #7->6 
+avaro	 [avaro] <cjt-first> <AF:ar> <Dpsych/Dsoc> N S NOM @P< #8->7 
+kaj	 [kaj] KC @CO #9->10 
+malrespondeco	 [malrespondeco] <cjt> <AF:mal> <am> N S NOM @P< #10->7 
+de	 [de] PRP @N< #11->10 
+iuj	 [iu] <quant> PRON DET P NOM @P< #12->11 
+$, #13->0 
+sed	 [sed] KC @CO #14->25 
+ankaux	 [ankaux] <setop> ADV @>P #15->16 
+pro	 [pro] PRP @<ADVL #16->4 
+nia	 [mia] <poss> PRON DET S NOM @>N #17->19 
+kolektiva	 [kolektiva] <Du> ADJ S NOM @>N #18->19 
+malsukceso	 [malsukceso] <am> <ac> N S NOM @P< #19->16 
+fari	 [fari] <mv> V INF @ICL-N< #20->19 
+malfacilajn	 [malfacila] <Diffi> <Du> ADJ P ACC @>N #21->22 
+elektojn	 [elekto] <act> <occ> N P ACC @<ACC #22->20 
+$, #23->0 
+kaj	 [kaj] KC @CO #24->25 
+prepari	 [prepari] <vH> <mv> V INF @ICL-STA @ICL-N< #25->22 
+la	 [la] ART @>N #26->27 
+nacion	 [nacio] <HH> N S ACC @<ACC #27->25 
+por	 [por] <aquant> PRP @<ADVL #28->25 
+nova	 [nova] <Du> ADJ S NOM @>N #29->30 
+epoko	 [epoko] <temp> <per> N S NOM @P< #30->28 
+$. #31->0 
+</s>
+
+<s id="41124" source="24-eo obama.txt">
+Hejmoj	 [hejmo] <clb> <*> <Lh> <inst> <dir> N P NOM @SUBJ> #1->2 
+perdigxis	 [perdigxi] <cjt-first> <mv> V IMPF VFIN @FS-STA #2->0 
+$, #3->0 
+laborpostenoj	 [laborposteno] <N:labor+posteno> N P NOM @SUBJ> #4->5 
+malaperis	 [malaperi] <cjt> <ve> <mv> V IMPF VFIN @FS-STA #5->0 
+$, #6->0 
+negocoj	 [negoco] <act> N P NOM @SUBJ> #7->8 
+fermigxis	 [fermigxi] <cjt> <mv> V IMPF VFIN @FS-STA #8->0 
+$. #9->0 
+</s>
+
+<s id="41125" source="24-eo obama.txt">
+Nia	 [mia] <clb> <*> <poss> PRON DET S NOM @>N #1->3 
+sanitara	 [sanitara] <Dmed> ADJ S NOM @>N #2->3 
+servo	 [servo] <act> <act-d> N S NOM @SUBJ> #3->5 
+tro	 [tro] <aquant> ADV @ADVL> #4->5 
+kostas	 [kosti] <cjt-first> <mv> V PR VFIN @FS-STA #5->0 
+$, #6->0 
+niaj	 [nia] <poss> PRON DET P NOM @>N #7->8 
+lernejoj	 [lernejo] <inst> N P NOM @SUBJ> #8->9 
+malhelpas	 [malhelpi] <cjt> <mv> V PR VFIN @FS-STA #9->0 
+tro	 [tro] <aquant> ADV @<ADVL #10->9 
+multajn--kaj	 [multajn--kaj] <clb> KC @CO #11->15 
+cxiu	 [cxiu] <quant> PRON DET S NOM @>N #12->13 
+tago	 [tago] <temp> N S NOM @SUBJ> #13->15 
+plue	 [plue] <atemp> ADV @ADVL> #14->15 
+montras	 [montri] <cjt> <vq> <mv> V PR VFIN @FS-STA #15->0 
+$, #16->0 
+ke	 [ke] KS @SUB #17->22 
+niaj	 [nia] <poss> PRON DET P NOM @>N #18->19 
+manieroj	 [maniero] <ac> <ac-cat> <am> N P NOM @SUBJ> #19->22 
+uzi	 [uzi] <mv> V INF @ICL-N< #20->13 
+energion	 [energio] <am> N S ACC @<ACC #21->20 
+fortigas	 [fortigi] <cjt-first> <mv> V PR VFIN @FS-<ACC #22->20 
+niajn	 [nia] <poss> PRON DET P ACC @>N #23->24 
+malamikojn	 [malamiko] <Hprof> <H> N P ACC @<ACC #24->22 
+kaj	 [kaj] <clb> KC @CO #25->26 
+endangxerigas	 [endangxerigi] <cjt> <mv> V PR VFIN @FS-<ACC #26->20 
+nian	 [nia] <poss> PRON DET S ACC @>N #27->28 
+planedon	 [planedo] <Lstar> N S ACC @<ACC #28->26 
+$. #29->0 
+</s>
+
+<s id="41126" source="24-eo obama.txt">
+Jen	 [jen] <*> ADV @ADVL #1->0 
+la	 [la] ART @>N #2->3 
+indikoj	 [indiko] <act> N P NOM @NPHR #3->1 
+de	 [de] PRP @N< #4->3 
+krizo	 [krizo] <sit> N S NOM @P< #5->4 
+$, #6->0 
+laux	 [laux] PRP @N<PRED #7->5 
+datumoj	 [datumo] <cjt-first> <ac> N P NOM @P< #8->7 
+kaj	 [kaj] KC @CO #9->10 
+statistikoj	 [statistiko] <cjt> <domain> N P NOM @P< #10->7 
+$. #11->0 
+</s>
+
+<s id="41127" source="24-eo obama.txt">
+Malpli	 [malpli] <*> <aquant> ADV @>A #1->2 
+mezurebla	 [mezurebla] <Du> ADJ S NOM @SC> #2->9 
+$, #3->0 
+sed	 [sed] KC @CO #4->7 
+ne	 [ne] <amod> <setop> ADV @>A #5->6 
+malpli	 [malpli] <aquant> ADV @>A #6->7 
+profunda	 [profunda] <Du> ADJ S NOM @N< #7->2 
+$, #8->0 
+estas	 [esti] <va+LOC> <mv> V PR VFIN @FS-STA #9->0 
+la	 [la] ART @>N #10->11 
+perdado	 [perdado] <AF:ad> <activity> <process> N S NOM @<SUBJ #11->9 
+de	 [de] PRP @N< #12->11 
+memfido	 [memfido] <f-psych> N S NOM @P< #13->12 
+tra	 [tra] PRP @<ADVL #14->9 
+nia	 [mia] <poss> PRON DET S NOM @>N #15->16 
+lando	 [lando] <Lciv> N S NOM @P< #16->14 
+$; #17->0 
+</s>
+
+<s id="41128" source="24-eo obama.txt">
+obstina	 [obstina] <Du> ADJ S NOM @>N #1->2 
+timo	 [timo] <cjt-first> N S NOM @SUBJ> #2->9 
+$, #3->0 
+ke	 [ke] KS @SUB #4->9 
+la	 [la] ART @>N #5->6 
+velkado	 [velkado] <cjt> <AF:ad> <activity> <process> N S NOM @SUBJ> #6->9 
+de	 [de] PRP @N< #7->6 
+Usono	 [Usono] <*> <Lciv> PROP S NOM @P< #8->7 
+estas	 [esti] <va+LOC> <mv> V PR VFIN @FS-N< #9->0 
+neevitebla	 [neevitebla] <Du> ADJ S NOM @<SC #10->9 
+$, #11->0 
+ke	 [ke] KS @SUB #12->16 
+la	 [la] ART @>N #13->15 
+sekva	 [sekva] ADJ S NOM @>N #14->15 
+generacio	 [generacio] <per> <HH> N S NOM @SUBJ> #15->17 
+devas	 [devi] <aux> V PR VFIN @FS-N< #16->0 
+malaltigi	 [malaltigi] <mv> V INF @ICL-AUX< #17->16 
+siajn	 [sia] <refl> <poss> PRON DET P ACC @>N #18->19 
+celojn	 [celo] <ac> N P ACC @<ACC #19->17 
+$. #20->0 
+</s>
+
+<s id="41129" source="24-eo obama.txt">
+Hodiaux	 [hodiaux] <clb> <*> <atemp> ADV @ADVL> #1->3 
+mi	 [mi] PRON PERS 1S NOM @SUBJ> #2->3 
+diras	 [diri] <vH&> <vq> <mv> V PR VFIN @FS-STA #3->0 
+al	 [al] PRP @<PIV #4->3 
+vi	 [vi] PRON PERS 2S/P NOM @P< #5->4 
+$, #6->0 
+ke	 [ke] KS @SUB #7->10 
+la	 [la] ART @>N #8->9 
+defioj	 [defio] <act> N P NOM @SUBJ> #9->10 
+estas	 [esti] <va+LOC> <mv> V PR VFIN @FS-<ACC #10->3 
+realaj	 [reala] <Du> ADJ P NOM @<SC #11->10 
+$. #12->0 
+</s>
+
+<s id="41130" source="24-eo obama.txt">
+Ili	 [ili] <clb> <*> PRON PERS 3P NOM @SUBJ> #1->2 
+estas	 [esti] <va+LOC> <mv> V PR VFIN @FS-STA #2->0 
+seriozaj	 [serioza] <cjt-first> <Du> <Dpsych> ADJ P NOM @<SC #3->2 
+kaj	 [kaj] KC @CO #4->5 
+multaj	 [multa] <cjt> <Degree> <Du> ADJ P NOM @<SC #5->2 
+$. #6->0 
+</s>
+
+<s id="41131" source="24-eo obama.txt">
+Ili	 [ili] <clb> <*> PRON PERS 3P NOM @SUBJ> #1->4 
+ne	 [ne] <amod> <setop> ADV @ADVL> #2->4 
+estos	 [esti] <va+LOC> <aux> V FUT VFIN @FS-STA #3->0 
+superitaj	 [superi] <mv> V PCP PAS IMPF ADJ P NOM @ICL-AUX< #4->3 
+facile	 [facile] ADV @<ADVL #5->4 
+aux	 [aux] KC @CO #6->7 
+dum	 [dum] PRP @<ADVL #7->4 
+mallonga	 [mallonga] <Du> ADJ S NOM @>N #8->9 
+tempo	 [tempo] <temp> <ac-cat> N S NOM @P< #9->7 
+$, #10->0 
+tamen	 [tamen] <kc> ADV @ADVL> #11->12 
+sciu	 [scii] <vH&> <vq> <mv> V VOL VFIN @FS-COM #12->0 
+cxi=tion	 [cxi=tio] <dem> PRON INDP S ACC @<ACC #13->12 
+$, #14->0 
+Usono	 [Usono] <*> <Lciv> PROP S NOM @APP #15->13 
+$: #16->0 
+Ili	 [ili] <clb> <*> PRON PERS 3P NOM @SUBJ> #17->19 
+estos	 [esti] <va+LOC> <aux> V FUT VFIN @FS-N< #18->0 
+superitaj	 [superi] <mv> V PCP PAS IMPF ADJ P NOM @ICL-AUX< #19->18 
+$! #20->0 
+</s>
+
+<s id="41132" source="24-eo obama.txt">
+$[ #1->0 
+aplauxda	 [aplauxda] ADJ S NOM @>N #2->3 
+pauxzo	 [pauxzo] <temp> <per> N S NOM @NPHR #3->0 
+$] #4->0 
+</s>
+
+<s id="41133" source="24-eo obama.txt">
+Cxi-tage	 [Cxi-tage] <*> ADV @ADVL> #1->4 
+$, #2->0 
+ni	 [ni] PRON PERS 1P NOM @SUBJ> #3->4 
+kunigxas	 [kunigxi] <va+LOC> <mv> V PR VFIN @FS-STA #4->0 
+cxar	 [cxar] KS @SUB #5->7 
+ni	 [ni] PRON PERS 1P NOM @SUBJ> #6->7 
+elektis	 [elekti] <mv> V IMPF VFIN @FS-<ADVL #7->4 
+esperon	 [espero] <f-psych> N S ACC @<ACC #8->7 
+super	 [super] PRP @<PIV #9->7 
+timo	 [timo] N S NOM @P< #10->9 
+$, #11->0 
+unuecon	 [unueco] <AF:ec> N S ACC @N<PRED @<ACC #12->10 
+de	 [de] PRP @N< #13->12 
+celo	 [celo] <ac> N S NOM @P< #14->13 
+super	 [super] PRP @N< #15->14 
+konflikto	 [konflikto] <cjt-first> <sit> N S NOM @P< #16->15 
+kaj	 [kaj] KC @CO #17->18 
+malakordo	 [malakordo] <cjt> <sit> N S NOM @P< #18->15 
+$. #19->0 
+</s>
+
+<s id="41134" source="24-eo obama.txt">
+Cxi-tage	 [Cxi-tage] <*> ADV @ADVL> #1->4 
+$, #2->0 
+ni	 [ni] PRON PERS 1P NOM @SUBJ> #3->4 
+venas	 [veni] <ve> <va+DIR> <mv> V PR VFIN @FS-STA #4->0 
+por	 [por] <aquant> PRP @<ADVL #5->4 
+deklari	 [deklari] <vH&> <vq> <mv> V INF @ICL-P< #6->5 
+finon	 [fino] <gen-subj> <temp> <event> N S ACC @<ACC #7->6 
+de	 [de] PRP @N< #8->7 
+la	 [la] ART @>N #9->11 
+etanimaj	 [etanima] <ADJ:et+anima> <Drel> ADJ P NOM @>N #10->11 
+plendoj	 [plendo] <cjt-first> <act> <act-s> <am> N P NOM @P< #11->8 
+kaj	 [kaj] KC @CO #12->14 
+falsaj	 [falsa] <Du> ADJ P NOM @>N #13->14 
+promesoj	 [promeso] <cjt> <act-s> <ss> N P NOM @P< #14->8 
+$, #15->0 
+la	 [la] ART @>N #16->17 
+kontrauxriprocxoj	 [kontrauxriprocxo] <cjt> <PRP:kontraux+riprocxo> <act-s> N P NOM @P< #17->8 
+$, #18->0 
+kaj	 [kaj] KC @CO #19->20 
+eluzitaj	 [eluzita] ADJ P NOM @>N #20->21 
+dogmoj	 [dogmo] <cjt> <ac> <ac-cat> N P NOM @P< #21->8 
+kiuj	 [kiu] <rel> PRON DET P NOM @SUBJ> #22->26 
+dum	 [dum] PRP @N<PRED #23->22 
+tro	 [tro] <aquant> ADV @>A #24->25 
+longe	 [longe] <atemp> ADV @ADVL> #25->26 
+strangolis	 [strangoli] <mv> V IMPF VFIN @FS-N< #26->21 
+niajn	 [nia] <poss> PRON DET P ACC @>N #27->28 
+politikojn	 [politiko] <domain> N P ACC @<ACC #28->26 
+$. #29->0 
+</s>
+
+<s id="41135" source="24-eo obama.txt">
+Ni	 [ni] <clb> <*> PRON PERS 1P NOM @SUBJ> #1->2 
+restas	 [resti] <ve> <mv> V PR VFIN @FS-STA #2->0 
+juna	 [juna] <age> <Du> ADJ S NOM @>N #3->4 
+nacio	 [nacio] <HH> N S NOM @<SC #4->2 
+$. #5->0 
+</s>
+
+<s id="41136" source="24-eo obama.txt">
+Sed	 [sed] <*> KC @CO #1->10 
+laux	 [laux] PRP @ADVL> #2->10 
+la	 [la] ART @>N #3->5 
+bibliaj	 [biblia] <Drel> ADJ P NOM @>N #4->5 
+vortoj	 [vorto] <ac> <+s> N P NOM @P< #5->2 
+$, #6->0 
+{	 [{] #7->0 
+2	 [2] <card> <cif> NUM P @>N #8->12 
+}	 [}] #9->0 
+venas	 [veni] <ve> <va+DIR> <mv> V PR VFIN @FS-STA #10->0 
+la	 [la] ART @>N #11->12 
+tempo	 [tempo] <temp> <ac-cat> N S NOM @<SUBJ #12->10 
+por	 [por] <aquant> PRP @N< #13->12 
+forigi	 [forigi] <mv> V INF @ICL-P< #14->13 
+infanajxojn	 [infanajxo] <am> N P ACC @<ACC #15->14 
+$. #16->0 
+</s>
+
+<s id="41137" source="24-eo obama.txt">
+Venas	 [veni] <cjt-first> <*> <ve> <va+DIR> <mv> V PR VFIN @FS-STA #1->0 
+la	 [la] ART @>N #2->3 
+tempo	 [tempo] <temp> <ac-cat> N S NOM @<SUBJ #3->1 
+por	 [por] <aquant> PRP @N< #4->3 
+reaserti	 [reaserti] <AF:re> <vq> <mv> V INF @ICL-P< #5->4 
+nian	 [nia] <poss> PRON DET S ACC @>N #6->8 
+dauxran	 [dauxra] <Du> ADJ S ACC @>N #7->8 
+spiriton	 [spirito] <Hmyth> N S ACC @<ACC #8->5 
+$, #9->0 
+elekti	 [elekti] <mv> V INF @ICL-SUBJ> @ICL-P< #10->15 
+pli	 [pli] <aquant> ADV @>A #11->12 
+bonan	 [bona] <Du> ADJ S ACC @>N #12->13 
+historion	 [historio] <sem> <ac> N S ACC @<ACC #13->10 
+$, #14->0 
+antauxenigi	 [antauxenigi] <mv> V INF @ICL-SUBJ> @ICL-P< #15->23 
+tiun	 [tiu] <dem> PRON DET S ACC @>N #16->18 
+karegan	 [karega] <ADJ:kar+ega> <Du> ADJ S ACC @>N #17->18 
+donacon	 [donaco] <cc> <cc-h> N S ACC @<ACC #18->15 
+$, #19->0 
+tiun	 [tiu] <dem> PRON DET S ACC @>N #20->22 
+noblan	 [nobla] <Dsoc> ADJ S ACC @>N #21->22 
+ideon	 [ideo] <sem-c> N S ACC @ACC> #22->36 
+transdonitan	 [transdoni] <mv> V PCP PAS IMPF ADJ S ACC @ICL-N< #23->22 
+de	 [de] PRP @<ADVL #24->23 
+generacio	 [generacio] <per> <HH> N S NOM @P< #25->24 
+al	 [al] PRP @<PIV #26->23 
+generacio	 [generacio] <per> <HH> N S NOM @P< #27->26 
+$, #28->0 
+la	 [la] ART @>N #29->30 
+promeson	 [promeso] <act-s> <ss> N S ACC @ACC> #30->40 
+donitan	 [doni] <mv> V PCP PAS IMPF ADJ S ACC @ICL-N< #31->30 
+de	 [de] PRP @<ADVL #32->31 
+Dio	 [Dio] <*> PROP S NOM @P< #33->32 
+ke	 [ke] KS @SUB #34->36 
+cxiuj	 [cxiu] <quant> PRON DET P NOM @SUBJ> #35->36 
+estas	 [esti] <va+LOC> <mv> V PR VFIN @FS-<ACC #36->31 
+egalaj	 [egala] <Du> ADJ P NOM @<SC #37->36 
+$, #38->0 
+cxiuj	 [cxiu] <quant> PRON DET P NOM @SUBJ> #39->40 
+estas	 [esti] <cjt> <va+LOC> <mv> V PR VFIN @FS-STA #40->0 
+liberaj	 [libera] <Du> ADJ P NOM @<SC #41->40 
+$, #42->0 
+kaj	 [kaj] <clb> KC @CO #43->45 
+cxiuj	 [cxiu] <quant> PRON DET P NOM @SUBJ> #44->45 
+meritas	 [meriti] <cjt> <mv> V PR VFIN @FS-STA #45->0 
+sxancon	 [sxanco] <ac> N S ACC @<ACC #46->45 
+preni	 [preni] <vta+DIR> <mv> V INF @ICL-N< @ICL-<SC #47->45 
+sian	 [sia] <refl> <poss> PRON DET S ACC @>N #48->50 
+plenan	 [plena] <cond> <Dchem> <Du> ADJ S ACC @>N #49->50 
+mezuron	 [mezuro] <ac> N S ACC @<ACC #50->47 
+de	 [de] PRP @N< #51->50 
+felicxo	 [felicxo] <f-psych> N S NOM @P< #52->51 
+$. #53->0 
+</s>
+
+<s id="41138" source="24-eo obama.txt">
+$[ #1->0 
+pli	 [pli] <aquant> ADV @>A #2->3 
+longa	 [longa] <Du> ADJ S NOM @>N #3->5 
+aplauxda	 [aplauxda] ADJ S NOM @>N #4->5 
+pauxzo	 [pauxzo] <temp> <per> N S NOM @NPHR #5->0 
+$] #6->0 
+</s>
+
+<s id="41139" source="24-eo obama.txt">
+Reasertante	 [reaserti] <*> <AF:re> <vq> <mv> V PCP AKT PR ADV @ICL-ADVL> #1->9 
+la	 [la] ART @>N #2->3 
+grandecon	 [grandeco] <f-phys> N S ACC @<ACC #3->1 
+de	 [de] PRP @N< #4->3 
+nia	 [mia] <poss> PRON DET S NOM @>N #5->6 
+nacio	 [nacio] <HH> N S NOM @P< #6->4 
+$, #7->0 
+ni	 [ni] PRON PERS 1P NOM @SUBJ> #8->9 
+komprenas	 [kompreni] <vq> <mv> V PR VFIN @FS-STA #9->0 
+ke	 [ke] KS @SUB #10->13 
+grandeco	 [grandeco] <f-phys> N S NOM @SUBJ> #11->14 
+neniam	 [neniam] <atemp> ADV @ADVL> #12->14 
+estu	 [esti] <va+LOC> <aux> V VOL VFIN @FS-<ACC #13->9 
+supozata	 [supozi] <vq> <mv> V PCP PAS PR ADJ S NOM @ICL-AUX< #14->13 
+$. #15->0 
+</s>
+
+<s id="41140" source="24-eo obama.txt">
+Oni	 [oni] <clb> <*> PRON PERS 3S NOM @SUBJ> #1->3 
+devas	 [devi] <aux> V PR VFIN @FS-STA #2->0 
+gajni	 [gajni] <mv> V INF @ICL-AUX< #3->2 
+gxin	 [gxi] PRON PERS 3S NEU S ACC @<ACC #4->3 
+per	 [per] PRP @<ADVL #5->3 
+faroj	 [faro] <act> N P NOM @P< #6->5 
+$. #7->0 
+</s>
+
+<s id="41141" source="24-eo obama.txt">
+Nia	 [mia] <clb> <*> <poss> PRON DET S NOM @>N #1->2 
+vojagxo	 [vojagxo] <act> N S NOM @SUBJ> #2->4 
+neniam	 [neniam] <atemp> ADV @ADVL> #3->4 
+konsistis	 [konsisti] <mv> V IMPF VFIN @FS-STA #4->0 
+el	 [el] PRP @<PIV #5->4 
+facilaj	 [facila] <Du> ADJ P NOM @>N #6->7 
+vojoj	 [vojo] <cjt-first> <Lpath> <dir> N P NOM @P< #7->5 
+aux	 [aux] KC @CO #8->9 
+kontento	 [kontento] <cjt> <Dpsych> N S NOM @P< #9->5 
+kun	 [kun] PRP @<ADVL #10->4 
+malpli	 [malpli] <aquant> ADV @P< #11->10 
+$. #12->0 
+</s>
+
+<s id="41142" source="24-eo obama.txt">
+Gxi	 [gxi] <clb> <*> PRON PERS 3S NEU S NOM @SUBJ> #1->3 
+ne	 [ne] <amod> <setop> ADV @ADVL> #2->3 
+estis	 [esti] <va+LOC> <mv> V IMPF VFIN @FS-STA #3->0 
+la	 [la] ART @>N #4->5 
+vojo	 [vojo] <Lpath> <dir> N S NOM @<SC #5->3 
+por	 [por] <aquant> PRP @<ADVL #6->3 
+la	 [la] ART @>N #7->8 
+malkuragxaj	 [malkuragxa] <Dpsych/Dsoc> ADJ P NOM @P< #8->6 
+$, #9->0 
+por	 [por] <aquant> PRP @<ADVL #10->3 
+tiuj	 [tiu] <dem> PRON DET P NOM @>N #11->13 
+preferantaj	 [preferi] <cjt-first> <vH&> <mv> V PCP AKT PR ADJ P NOM @ICL-<SC #12->3 
+ripozon	 [ripozo] N S ACC @P< #13->10 
+pli	 [pli] <aquant> ADV @<ACC #14->12 
+ol	 [ol] <kp> PRP @KOMP< #15->14 
+laboron	 [laboro] <ac> N S ACC @P< #16->15 
+$, #17->0 
+aux	 [aux] KC @CO #18->19 
+avarantaj	 [avari] <cjt> <Dpsych/Dsoc> <mv> V PCP AKT PR ADJ P NOM @ICL-<SC #19->3 
+sole	 [sole] <setop> ADV @<ADVL #20->19 
+la	 [la] ART @>N #21->22 
+plezurojn	 [plezuro] <f-psych> N P ACC @<ACC #22->19 
+de	 [de] PRP @N< #23->22 
+ricxoj	 [ricxo] <cjt-first> <Du> <Deco> N P NOM @P< #24->23 
+kaj	 [kaj] KC @CO #25->26 
+famo	 [famo] <cjt> <am> <ac> N S NOM @P< #26->23 
+$. #27->0 
+</s>
+
+<s id="41143" source="24-eo obama.txt">
+Male	 [male] <*> ADV @ADVL> #1->3 
+$, #2->0 
+estis	 [esti] <va+LOC> <mv> V IMPF VFIN @FS-STA #3->0 
+la	 [la] ART @>N #4->5 
+riskantoj	 [riskanto] <H?> N P NOM @<SC #5->3 
+$, #6->0 
+la	 [la] ART @>N #7->8 
+agantoj	 [aganto] N P NOM @APP #8->5 
+$, #9->0 
+la	 [la] ART @>N #10->11 
+farantoj	 [faranto] N P NOM @<SUBJ #11->3 
+de	 [de] PRP @N< #12->11 
+ajxoj--iuj	 [ajxoj--iu] <quant> PRON DET P NOM @>N #13->14 
+famaj	 [fama] <cjt> <cjt-first> <Du> ADJ P NOM @P< #14->12 
+$, #15->0 
+sed	 [sed] KC @CO #16->20 
+pli	 [pli] <aquant> ADV @<ADVL #17->3 
+ofte	 [ofte] <atemp> ADV @<ADVL #18->3 
+viroj	 [viro] <cjt-first> <H> N P NOM @<SUBJ @P< #19->12 
+kaj	 [kaj] KC @CO #20->21 
+virinoj	 [virino] <cjt> <H> N P NOM @<SUBJ @P< #21->12 
+obskuraj	 [obskura] <Du> ADJ P NOM @N< #22->21 
+en	 [en] PRP @<ADVL #23->3 
+sia	 [sia] <refl> <poss> PRON DET S NOM @P< #24->23 
+laboro--kiuj	 [kiu] <rel> PRON DET P NOM @SUBJ> #25->26 
+suprenportis	 [suprenporti] <F:supren+porti> <vta+DIR> <mv> V IMPF VFIN @FS-N< #26->24 
+nin	 [ni] <cjt-first> PRON PERS 1P ACC @<ACC #27->26 
+laux	 [laux] PRP @<ADVL #28->26 
+la	 [la] ART @>N #29->32 
+longa	 [longa] <Du> ADJ S NOM @>N #30->32 
+malfacila	 [malfacila] <Diffi> <Du> ADJ S NOM @>N #31->32 
+vojo	 [vojo] <Lpath> <dir> N S NOM @P< #32->28 
+al	 [al] PRP @N< #33->32 
+prosperon	 [prospero] <f-psych> <process> <sit> N S ACC @P< #34->33 
+kaj	 [kaj] KC @CO #35->36 
+liberon	 [libero] <cjt> <Du> N S ACC @<ACC #36->26 
+$. #37->0 
+</s>
+
+<s id="41144" source="24-eo obama.txt">
+Por	 [por] <*> <aquant> PRP @ADVL> #1->5 
+ni	 [ni] PRON PERS 1P NOM @P< #2->1 
+$, #3->0 
+ili	 [ili] PRON PERS 3P NOM @SUBJ> #4->5 
+pakis	 [paki] <cjt-first> <mv> V IMPF VFIN @FS-STA #5->0 
+siajn	 [sia] <refl> <poss> PRON DET P ACC @>N #6->8 
+malmultajn	 [malmulta] <AF:mal> <Degree> <Du> ADJ P ACC @>N #7->8 
+posedajxojn	 [posedajxo] <ac> <build> N P ACC @<ACC #8->5 
+kaj	 [kaj] <clb> KC @CO #9->10 
+vojagxis	 [vojagxi] <cjt> <va+DIR> <mv> V IMPF VFIN @FS-STA #10->0 
+trans	 [trans] PRP @<ADVL #11->10 
+oceanoj	 [oceano] <Lwater> N P NOM @P< #12->11 
+sercxante	 [sercxi] <mv> V PCP AKT PR ADV @ICL-<ADVL #13->10 
+novan	 [nova] <Du> ADJ S ACC @>N #14->15 
+vivon	 [vivo] <sit> N S ACC @<ACC #15->13 
+$. #16->0 
+</s>
+
+<s id="41145" source="24-eo obama.txt">
+Por	 [por] <*> <aquant> PRP @ADVL> #1->5 
+ni	 [ni] PRON PERS 1P NOM @P< #2->1 
+$, #3->0 
+ili	 [ili] PRON PERS 3P NOM @SUBJ> #4->5 
+laboregis	 [laboregi] <cjt-first> <mv> V IMPF VFIN @FS-STA #5->0 
+en	 [en] PRP @<ADVL #6->5 
+sxvitlaborejoj	 [sxvitlaborejo] <N:sxvit+laborejo> <inst> <Lh> N P NOM @P< #7->6 
+$, #8->0 
+koloniis	 [kolonii] <cjt> <mv> V IMPF VFIN @FS-STA #9->0 
+la	 [la] ART @>N #10->11 
+Okcidenton	 [okcidento] <*> <dir> N S ACC @<ACC #11->9 
+$, #12->0 
+eltenis	 [elteni] <cjt> <mv> V IMPF VFIN @FS-STA #13->0 
+la	 [la] ART @>N #14->15 
+baton	 [bato] <act> <cloH> <sit> N S ACC @<ACC #15->13 
+de	 [de] PRP @N< #16->15 
+la	 [la] ART @>N #17->18 
+vipo	 [vipo] <tool> N S NOM @P< #18->16 
+$, #19->0 
+kaj	 [kaj] <clb> KC @CO #20->21 
+plugis	 [plugi] <cjt> <mv> V IMPF VFIN @FS-STA #21->0 
+la	 [la] ART @>N #22->24 
+malmolan	 [malmola] <Diffi> <prop> <Dpsych> <Du> ADJ S ACC @>N #23->24 
+teron	 [tero] <cc> <cm> <Ltop> <Lsurf> N S ACC @<ACC #24->21 
+$. #25->0 
+</s>
+
+<s id="41146" source="24-eo obama.txt">
+Por	 [por] <*> <aquant> PRP @ADVL> #1->5 
+ni	 [ni] PRON PERS 1P NOM @P< #2->1 
+$, #3->0 
+ili	 [ili] PRON PERS 3P NOM @SUBJ> #4->5 
+batalis	 [batali] <cjt-first> <mv> V IMPF VFIN @FS-STA #5->0 
+kaj	 [kaj] KC @CO #6->7 
+mortis	 [morti] <cjt> <mv> V IMPF VFIN @FS-STA #7->0 
+en	 [en] PRP @<ADVL #8->7 
+lokoj	 [loko] <cjt-first> <L> N P NOM @P< #9->8 
+kiel	 [kiel] <kp> PRP @<ADVL #10->7 
+Concord	 [Concord] <cjt-first> <*> PROP S NOM @P< #11->10 
+kaj	 [kaj] KC @CO #12->13 
+Gettysburg	 [Gettysburg] <cjt> <*> PROP S NOM @P< #13->10 
+$, #14->0 
+Normandy	 [Normandy] <cjt> <*> PROP S NOM @P< #15->8 
+kaj	 [kaj] KC @CO #16->17 
+Khe=Sanh	 [Khe=Sanh] <cjt> <*> PROP S NOM @P< #17->8 
+$. #18->0 
+</s>
+
+<s id="41147" source="24-eo obama.txt">
+{	 [{] #1->0 
+3	 [3] <card> <cif> NUM P @>N #2->0 
+}	 [}] #3->0 
+</s>
+
+<s id="41148" source="24-eo obama.txt">
+Ree	 [ree] <*> <atemp> ADV @ADVL> #1->9 
+kaj	 [kaj] KC @CO #2->7 
+ree	 [ree] <atemp> ADV @ADVL> #3->9 
+$, #4->0 
+tiuj	 [tiu] <dem> PRON DET P NOM @>N #5->6 
+viroj	 [viro] <cjt-first> <H> N P NOM @SUBJ> #6->9 
+kaj	 [kaj] KC @CO #7->8 
+virinoj	 [virino] <cjt> <H> N P NOM @SUBJ> #8->9 
+baraktis	 [barakti] <cjt-first> <mv> V IMPF VFIN @FS-STA #9->0 
+kaj	 [kaj] KC @CO #10->11 
+oferis	 [oferi] <cjt> <mv> V IMPF VFIN @FS-STA #11->0 
+kaj	 [kaj] KC @CO #12->13 
+laboris	 [labori] <cjt> <mv> V IMPF VFIN @FS-STA #13->0 
+gxis	 [gxis] KS @SUB #14->17 
+iliaj	 [ilia] PRON DET P NOM @>N #15->16 
+manoj	 [mano] <anmov> N P NOM @SUBJ> #16->17 
+perdis	 [perdi] <mv> V IMPF VFIN @FS-<ADVL #17->13 
+la	 [la] ART @>N #18->19 
+hauxton	 [hauxto] <anfeat-m> <ac> <percep-w> N S ACC @<ACC #19->17 
+$, #20->0 
+por=ke	 [por=ke] KS @SUB #21->23 
+ni	 [ni] PRON PERS 1P NOM @SUBJ> #22->23 
+havu	 [havi] <mv> V VOL VFIN @FS-<ADVL #23->17 
+pli	 [pli] <aquant> ADV @>A #24->25 
+bonan	 [bona] <Du> ADJ S ACC @>N #25->26 
+vivon	 [vivo] <sit> N S ACC @<ACC #26->23 
+$. #27->0 
+</s>
+
+<s id="41149" source="24-eo obama.txt">
+Ili	 [ili] <clb> <*> PRON PERS 3P NOM @SUBJ> #1->2 
+konsideris	 [konsideri] <vH&> <vq> <mv> V IMPF VFIN @FS-STA #2->0 
+Usonon	 [Usono] <*> <Lciv> PROP S ACC @<ACC #3->2 
+pli	 [pli] <aquant> ADV @>A #4->5 
+granda	 [granda] <Du> ADJ S NOM @<OC #5->2 
+ol	 [ol] <kp> PRP @KOMP< #6->4 
+la	 [la] ART @>N #7->8 
+sumo	 [sumo] <mon-c> <amount> N S NOM @P< #8->6 
+de	 [de] PRP @N< #9->8 
+niaj	 [nia] <poss> PRON DET P NOM @>N #10->12 
+individuaj	 [individua] <Du> ADJ P NOM @>N #11->12 
+ambicioj	 [ambicio] <ac> <f-psych> N P NOM @P< #12->9 
+$, #13->0 
+pli	 [pli] <aquant> ADV @>A #14->15 
+granda	 [granda] <Du> ADJ S NOM @N<PRED #15->8 
+ol	 [ol] <kp> PRP @KOMP< #16->14 
+la	 [la] ART @>N #17->18 
+diferencoj	 [diferenco] <ac> N P NOM @P< #18->16 
+de	 [de] PRP @N< #19->18 
+naskigxo	 [naskigxo] <cjt-first> <gen-subj> <event> N S NOM @P< #20->19 
+aux	 [aux] KC @FOC> #21->23 
+ricxeco	 [ricxeco] <cjt> <ac> <mon> N S NOM @P< #22->19 
+aux	 [aux] KC @CO #23->24 
+frakcio	 [frakcio] <cjt> <unit> <cc-h> <amount> <+s> N S NOM @P< #24->19 
+$. #25->0 
+</s>
+
+<s id="41150" source="24-eo obama.txt">
+Tio=cxi	 [cxi=tio] <clb> <*> <dem> PRON INDP S NOM @SUBJ> #1->2 
+estas	 [esti] <va+LOC> <mv> V PR VFIN @FS-STA #2->0 
+la	 [la] ART @>N #3->4 
+vojagxo	 [vojagxo] <act> N S NOM @<SC #4->2 
+$, #5->0 
+kiun	 [kiu] <rel> PRON DET S ACC @ACC> #6->8 
+ni	 [ni] PRON PERS 1P NOM @SUBJ> #7->8 
+dauxrigas	 [dauxrigi] <mv> V PR VFIN @FS-N< #8->4 
+hodiaux	 [hodiaux] <atemp> ADV @<ADVL #9->8 
+$. #10->0 
+</s>
+
+<s id="41151" source="24-eo obama.txt">
+Ni	 [ni] <clb> <*> PRON PERS 1P NOM @SUBJ> #1->2 
+restas	 [resti] <ve> <mv> V PR VFIN @FS-STA #2->0 
+la	 [la] ART @>N #3->8 
+plej	 [plej] <aquant> ADV @>A #4->5 
+prospera	 [prospera] <cjt-first> ADJ S NOM @>N #5->8 
+$, #6->0 
+potenca	 [potenca] <cjt> <Du> ADJ S NOM @>N #7->8 
+nacio	 [nacio] <HH> N S NOM @<SC #8->2 
+sur	 [sur] PRP @<ADVL #9->2 
+Tero	 [tero] <*> <cc> <cm> <Ltop> <Lsurf> N S NOM @P< #10->9 
+$. #11->0 
+</s>
+
+<s id="41152" source="24-eo obama.txt">
+Niaj	 [nia] <clb> <*> <poss> PRON DET P NOM @>N #1->2 
+laborantoj	 [laboranto] N P NOM @SUBJ> #2->3 
+estas	 [esti] <va+LOC> <mv> V PR VFIN @FS-STA #3->0 
+ne	 [ne] <amod> <setop> ADV @>A #4->5 
+malpli	 [malpli] <aquant> ADV @>A #5->6 
+produktivaj	 [produktiva] <act/degree> ADJ P NOM @<SC #6->3 
+$, #7->0 
+ol	 [ol] <kp> PRP @KOMP< #8->5 
+kiam	 [kiam] KS @SUB #9->12 
+tiu	 [tiu] <dem> PRON DET S NOM @>N #10->11 
+krizo	 [krizo] <sit> N S NOM @SUBJ> #11->12 
+komencigxis	 [komencigxi] <ve> <mv> V IMPF VFIN @FS-P< #12->8 
+$. #13->0 
+</s>
+
+<s id="41153" source="24-eo obama.txt">
+Niaj	 [nia] <clb> <*> <poss> PRON DET P NOM @>N #1->2 
+mensoj	 [menso] <f-psych> <ac> N P NOM @SUBJ> #2->3 
+estas	 [esti] <va+LOC> <mv> V PR VFIN @FS-STA #3->0 
+ne	 [ne] <amod> <setop> ADV @>A #4->5 
+malpli	 [malpli] <aquant> ADV @>A #5->6 
+inventemaj	 [inventema] <Dcog> ADJ P NOM @>N #6->9 
+$, #7->0 
+niaj	 [nia] <poss> PRON DET P NOM @>N #8->9 
+varoj	 [varo] <cjt-first> <cc-h> <ac> N P NOM @<SC #9->3 
+kaj	 [kaj] KC @CO #10->11 
+servoj	 [servo] <cjt> <act> <act-d> N P NOM @<SC #11->3 
+ne	 [ne] <amod> <setop> ADV @>A #12->13 
+malpli	 [malpli] <aquant> ADV @>A #13->14 
+bezonataj	 [bezonata] <Du> ADJ P NOM @N< #14->11 
+ol	 [ol] <kp> PRP @KOMP< #15->13 
+lastsemajne	 [lastsemajne] ADV @P< #16->15 
+$, #17->0 
+aux	 [aux] KC @CO #18->19 
+lastmonate	 [lastmonate] <atemp> ADV @<ADVL #19->3 
+$, #20->0 
+aux	 [aux] KC @CO #21->22 
+lastjare	 [lastjare] ADV @<ADVL #22->3 
+$. #23->0 
+</s>
+
+<s id="41154" source="24-eo obama.txt">
+Nia	 [mia] <clb> <*> <poss> PRON DET S NOM @>N #1->2 
+kapablo	 [kapablo] <f-psych> N S NOM @SUBJ> #2->3 
+restas	 [resti] <ve> <mv> V PR VFIN @FS-STA #3->0 
+nereduktita	 [neredukti] <cjt-first> V PCP PAS IMPF ADJ S NOM @<SC #4->3 
+$, #5->0 
+sed	 [sed] KC @CO #6->8 
+nia	 [mia] <poss> PRON DET S NOM @>N #7->8 
+tempo	 [tempo] <cjt> <temp> <ac-cat> N S NOM @<SC #8->3 
+de	 [de] PRP @N< #9->8 
+kontenta	 [kontenta] <Dpsych> ADJ S NOM @>N #10->11 
+inerto	 [inerto] <Diffi> <Du> N S NOM @P< #11->9 
+$, #12->0 
+de	 [de] PRP @N<PRED #13->11 
+protektado	 [protektado] <AF:ad> <activity> <process> N S NOM @P< #14->13 
+de	 [de] PRP @N< #15->14 
+la	 [la] ART @>N #16->17 
+avantagxoj	 [avantagxo] <ac> N P NOM @P< #17->15 
+de	 [de] PRP @N< #18->17 
+malmultaj	 [malmulta] <AF:mal> <Degree> <Du> ADJ P NOM @P< #19->18 
+$, #20->0 
+kaj	 [kaj] <clb> KC @CO #21->22 
+prokrastado	 [prokrastado] <cjt-first> <AF:ad> <activity> <process> N S NOM @SUBJ> #22->29 
+de	 [de] PRP @N< #23->22 
+malagrablaj	 [malagrabla] <Du> ADJ P NOM @>N #24->26 
+elektoj--tiu	 [elektoj--tiu] <dem> PRON DET S NOM @>N #25->26 
+tempo	 [tempo] <cjt> <temp> <ac-cat> N S NOM @SUBJ> #26->29 
+certe	 [certe] ADV @ADVL> #27->29 
+jam	 [jam] <atemp> ADV @ADVL> #28->29 
+pasis	 [pasi] <ve> <mv> V IMPF VFIN @FS-P< @FS-N< #29->18 
+$. #30->0 
+</s>
+
+<s id="41155" source="24-eo obama.txt">
+Ekde	 [ekde] <*> PRP @ADVL> #1->8 
+hodiaux	 [hodiaux] <atemp> ADV @P< #2->1 
+$, #3->0 
+ni	 [ni] PRON PERS 1P NOM @SUBJ> #4->6 
+devas	 [devi] <aux> V PR VFIN @FS-STA #5->0 
+ekstari	 [ekstari] <mv> V INF @ICL-AUX< #6->5 
+$, #7->0 
+forigi	 [forigi] <mv> V INF @ICL-<ACC #8->6 
+nian	 [nia] <poss> PRON DET S ACC @>N #9->10 
+polvon	 [polvo] <cm> N S ACC @<ACC #10->8 
+$, #11->0 
+kaj	 [kaj] KC @CO #12->13 
+komenci	 [komenci] <mv> V INF @ICL-<SA #13->0 
+la	 [la] ART @>N #14->15 
+laboron	 [laboro] <ac> N S ACC @<ACC #15->13 
+refari	 [refari] <mv> V INF @ICL-AUX< #16->5 
+Usonon	 [Usono] <*> <Lciv> PROP S ACC @<ACC #17->16 
+$. #18->0 
+</s>
+
+<s id="41156" source="24-eo obama.txt">
+$[ #1->0 
+longa	 [longa] <Du> ADJ S NOM @>N #2->4 
+aplauxda	 [aplauxda] ADJ S NOM @>N #3->4 
+pauxzo	 [pauxzo] <temp> <per> N S NOM @NPHR #4->0 
+$] #5->0 
+</s>
+
+<s id="41157" source="24-eo obama.txt">
+Cxar	 [cxar] <*> KS @SUB #1->6 
+cxie	 [cxie] <aloc> ADV @ADVL> #2->6 
+$, #3->0 
+kien	 [kien] <rel> <adir> ADV @ADVL> #4->6 
+ni	 [ni] PRON PERS 1P NOM @SUBJ> #5->6 
+rigardas	 [rigardi] <vH&> <mv> V PR VFIN @FS-ADVL> @FS-SUBJ> #6->0 
+$, #7->0 
+estas	 [esti] <va+LOC> <mv> V PR VFIN @FS-STA #8->0 
+laboro	 [laboro] <ac> N S NOM @<SUBJ @<SC #9->8 
+farinda	 [farinda] <PRP:far+inda> <Du> ADJ S NOM @N< @<SC #10->9 
+$. #11->0 
+</s>
+
+<s id="41158" source="24-eo obama.txt">
+La	 [la] <clb> <*> ART @>N #1->2 
+stato	 [stato] <sit> N S NOM @SUBJ> #2->6 
+de	 [de] PRP @N< #3->2 
+nia	 [mia] <poss> PRON DET S NOM @>N #4->5 
+ekonomio	 [ekonomio] <domain> N S NOM @P< #5->3 
+postulas	 [postuli] <vH&> <vq> <mv> V PR VFIN @FS-STA #6->0 
+agon	 [ago] <cjt-first> N S ACC @<ACC #7->6 
+$, #8->0 
+rezolutan	 [rezoluta] <cjt> <Du> ADJ S ACC @<ACC #9->6 
+kaj	 [kaj] KC @CO #10->11 
+rapidan	 [rapida] <cjt> <Du> ADJ S ACC @<ACC #11->6 
+$. #12->0 
+</s>
+
+<s id="41159" source="24-eo obama.txt">
+Kaj	 [kaj] <clb> <*> KC @CO #1->12 
+ni	 [ni] PRON PERS 1P NOM @SUBJ> #2->3 
+agos	 [agi] <mv> V FUT VFIN @FS-STA #3->0 
+$, #4->0 
+ne	 [ne] <amod> <setop> ADV @<ADVL #5->3 
+nur	 [nur] <setop> ADV @>P #6->7 
+por	 [por] <aquant> PRP @<ADVL #7->3 
+krei	 [krei] <cjt-first> <mv> V INF @ICL-P< #8->7 
+novjan	 [novja] ADJ S ACC @>N #9->10 
+oficojn	 [ofico] N P ACC @<ACC #10->8 
+$, #11->0 
+sed	 [sed] KC @CO #12->14 
+por	 [por] <aquant> PRP @ADVL> #13->14 
+krei	 [krei] <cjt> <mv> V INF @ICL-P< #14->7 
+novan	 [nova] <Du> ADJ S ACC @>N #15->16 
+fundamenton	 [fundamento] <ac> N S ACC @<ACC #16->14 
+por	 [por] <aquant> PRP @N< #17->16 
+kreskado	 [kreskado] <gen-subj> <process> N S NOM @P< #18->17 
+$. #19->0 
+</s>
+
+<s id="41160" source="24-eo obama.txt">
+Ni	 [ni] <clb> <*> PRON PERS 1P NOM @SUBJ> #1->2 
+konstruos	 [konstrui] <mv> V FUT VFIN @FS-STA #2->0 
+la	 [la] ART @>N #3->4 
+stratojn	 [strato] <cjt-first> <Lpath> N P ACC @<ACC #4->2 
+kaj	 [kaj] KC @CO #5->6 
+pontojn	 [ponto] <cjt> <Lh> <build> <Lpath> N P ACC @<ACC #6->2 
+$, #7->0 
+la	 [la] ART @>N #8->10 
+elektrajn	 [elektra] <Dtech> ADJ P ACC @>N #9->10 
+retojn	 [reto] <cjt> <cc-h> <Ltrap> <ac> N P ACC @<ACC #10->2 
+kaj	 [kaj] KC @CO #11->13 
+ciferecajn	 [cifereca] ADJ P ACC @>N #12->13 
+liniojn	 [linio] <cjt> <ac-cat> N P ACC @<ACC #13->2 
+$, #14->0 
+kiuj	 [kiu] <rel> PRON DET P NOM @SUBJ> #15->16 
+nutras	 [nutri] <cjt-first> <mv> V PR VFIN @FS-N< #16->13 
+nian	 [nia] <poss> PRON DET S ACC @>N #17->18 
+komercon	 [komerco] <activity> N S ACC @<ACC #18->16 
+kaj	 [kaj] <clb> KC @CO #19->20 
+ligas	 [ligi] <cjt> <mv> V PR VFIN @FS-N< #20->13 
+nin	 [ni] PRON PERS 1P ACC @<ACC #21->20 
+kune	 [kune] ADV @<ADVL #22->20 
+$. #23->0 
+</s>
+
+<s id="41161" source="24-eo obama.txt">
+Ni	 [ni] <clb> <*> PRON PERS 1P NOM @SUBJ> #1->2 
+restarigos	 [restarigi] <cjt-first> <mv> V FUT VFIN @FS-STA #2->0 
+sciencon	 [scienco] <domain> N S ACC @<ACC #3->2 
+al	 [al] PRP @<PIV #4->2 
+gxia	 [gxia] <poss> PRON DET S NOM @>N #5->7 
+gxusta	 [gxusta] <Du> ADJ S NOM @>N #6->7 
+loko	 [loko] <L> N S NOM @P< #7->4 
+$, #8->0 
+kaj	 [kaj] <clb> KC @CO #9->10 
+utiligos	 [utiligi] <cjt> <mv> V FUT VFIN @FS-STA #10->0 
+mirindajxojn	 [mirindajxo] <Hprof> <cc> <cc-h> N P ACC @<ACC #11->10 
+de	 [de] PRP @N< #12->11 
+tehxnologio	 [tehxnologio] N S NOM @P< #13->12 
+por	 [por] <aquant> PRP @<ADVL #14->10 
+levi	 [levi] <va+DIR> <mv> V INF @ICL-P< #15->14 
+kvaliton	 [kvalito] <ac> N S ACC @<ACC #16->15 
+de	 [de] PRP @N< #17->16 
+sanitara	 [sanitara] <Dmed> ADJ S NOM @>N #18->19 
+servo	 [servo] <act> <act-d> N S NOM @P< #19->17 
+kaj	 [kaj] KC @CO #20->21 
+malaltigi	 [malaltigi] <mv> V INF @ICL-P< #21->17 
+gxian	 [gxia] <poss> PRON DET S ACC @>N #22->23 
+koston	 [kosto] <mon-c> N S ACC @<ACC #23->21 
+$. #24->0 
+</s>
+
+<s id="41162" source="24-eo obama.txt">
+Ni	 [ni] <clb> <*> PRON PERS 1P NOM @SUBJ> #1->2 
+profitos	 [profiti] <mv> V FUT VFIN @FS-STA #2->0 
+la	 [la] ART @>N #3->4 
+sunon	 [suno] <cjt-first> <Lstar> N S ACC @<ACC #4->2 
+kaj	 [kaj] KC @FOC> #5->8 
+la	 [la] ART @>N #6->7 
+ventojn	 [vento] <cjt> <wea-vind> <wea-wind> N P ACC @<ACC #7->2 
+kaj	 [kaj] KC @CO #8->10 
+la	 [la] ART @>N #9->10 
+grundon	 [grundo] <cjt> <Lsurf> N S ACC @<ACC #10->2 
+por	 [por] <aquant> PRP @<ADVL #11->2 
+fueli	 [fueli] <cjt-first> <mv> V INF @ICL-P< #12->11 
+niajn	 [nia] <poss> PRON DET P ACC @>N #13->14 
+auxtojn	 [auxto] <Vground> N P ACC @<ACC #14->12 
+kaj	 [kaj] KC @CO #15->16 
+funkciigi	 [funkciigi] <cjt> <mv> V INF @ICL-P< #16->11 
+niajn	 [nia] <poss> PRON DET P ACC @>N #17->18 
+fabrikojn	 [fabriko] <inst> N P ACC @<ACC #18->16 
+$. #19->0 
+</s>
+
+<s id="41163" source="24-eo obama.txt">
+Kaj	 [kaj] <clb> <*> KC @CO #1->6 
+ni	 [ni] PRON PERS 1P NOM @SUBJ> #2->3 
+reformos	 [reformi] <mv> V FUT VFIN @FS-STA #3->0 
+niajn	 [nia] <poss> PRON DET P ACC @>N #4->5 
+lernejojn	 [lernejo] <cjt-first> <inst> N P ACC @<ACC #5->3 
+kaj	 [kaj] KC @CO #6->7 
+universitatojn	 [universitato] <cjt> <inst> N P ACC @<ACC #7->3 
+por	 [por] <aquant> PRP @<ADVL #8->3 
+plenumi	 [plenumi] <mv> V INF @ICL-P< #9->8 
+la	 [la] ART @>N #10->11 
+postulojn	 [postulo] <act-s> N P ACC @<ACC #11->9 
+de	 [de] PRP @N< #12->11 
+nova	 [nova] <Du> ADJ S NOM @>N #13->14 
+epoko	 [epoko] <temp> <per> N S NOM @P< #14->12 
+$. #15->0 
+</s>
+
+<s id="41164" source="24-eo obama.txt">
+Cxion	 [cxio] <*> <quant> PRON INDP S ACC @ACC> #1->5 
+cxi	 [cxi] ADV @N< #2->1 
+ni	 [ni] PRON PERS 1P NOM @SUBJ> #3->5 
+povas	 [povi] <aux> V PR VFIN @FS-STA #4->0 
+fari	 [fari] <mv> V INF @ICL-AUX< #5->4 
+$. #6->0 
+</s>
+
+<s id="41165" source="24-eo obama.txt">
+Cxion	 [cxio] <*> <quant> PRON INDP S ACC @ACC> #1->4 
+cxi	 [cxi] ADV @N< #2->1 
+ni	 [ni] PRON PERS 1P NOM @SUBJ> #3->4 
+faros	 [fari] <mv> V FUT VFIN @FS-STA #4->0 
+$. #5->0 
+</s>
+
+<s id="41166" source="24-eo obama.txt">
+Nu	 [nu] <*> ADV @ADVL> #1->3 
+$, #2->0 
+estas	 [esti] <va+LOC> <mv> V PR VFIN @FS-STA #3->0 
+iuj	 [iu] <quant> PRON DET P NOM @<SUBJ #4->3 
+$, #5->0 
+kiuj	 [kiu] <rel> PRON DET P NOM @SUBJ> #6->7 
+pridubas	 [pridubi] <vH&> <mv> V PR VFIN @FS-N< #7->4 
+la	 [la] ART @>N #8->9 
+amplekson	 [amplekso] <am> <f-q> N S ACC @<ACC #9->7 
+de	 [de] PRP @N< #10->9 
+niaj	 [nia] <poss> PRON DET P NOM @>N #11->12 
+ambicioj	 [ambicio] <ac> <f-psych> N P NOM @P< #12->10 
+$, #13->0 
+kiuj	 [kiu] <rel> PRON DET P NOM @SUBJ> #14->15 
+sugestas	 [sugesti] <vH&> <vq> <mv> V PR VFIN @FS-N< #15->12 
+ke	 [ke] KS @SUB #16->20 
+nia	 [mia] <poss> PRON DET S NOM @>N #17->18 
+sistemo	 [sistemo] <ac> N S NOM @SUBJ> #18->21 
+ne	 [ne] <amod> <setop> ADV @ADVL> #19->21 
+povas	 [povi] <aux> V PR VFIN @FS-<ACC #20->15 
+elteni	 [elteni] <mv> V INF @ICL-AUX< #21->20 
+tro	 [tro] <aquant> ADV @>A #22->23 
+multajn	 [multa] <Degree> <Du> ADJ P ACC @>N #23->25 
+grandajn	 [granda] <Du> ADJ P ACC @>N #24->25 
+planojn	 [plano] <act> <sem> <sem-c> <ac> N P ACC @<ACC #25->21 
+$. #26->0 
+</s>
+
+<s id="41167" source="24-eo obama.txt">
+Iliaj	 [ilia] <clb> <*> PRON DET P NOM @>N #1->2 
+memoroj	 [memoro] <sem-c> N P NOM @SUBJ> #2->3 
+mallongas	 [mallongi] <AF:mal> <vt>......<Du> <mv> V PR VFIN @FS-STA #3->0 
+$, #4->0 
+cxar	 [cxar] KS @SUB #5->7 
+ili	 [ili] PRON PERS 3P NOM @SUBJ> #6->7 
+forgesis	 [forgesi] <vH&> <vq> <mv> V IMPF VFIN @FS-<ADVL #7->3 
+tion	 [tion] <dem> PRON INDP S ACC @<ACC #8->7 
+$, #9->0 
+kion	 [kio] <rel> PRON INDP S ACC @ACC> #10->14 
+cxi=tiu	 [cxi=tiu] <dem> PRON DET S NOM @>N #11->12 
+lando	 [lando] <Lciv> N S NOM @SUBJ> #12->14 
+jam	 [jam] <atemp> ADV @ADVL> #13->14 
+faris	 [fari] <mv> V IMPF VFIN @FS-N< #14->8 
+$, #15->0 
+kion	 [kio] <rel> PRON INDP S ACC @ACC> #16->22 
+liberaj	 [libera] <Du> ADJ P NOM @>N #17->18 
+viroj	 [viro] <cjt-first> <H> N P NOM @SUBJ> #18->22 
+kaj	 [kaj] KC @CO #19->20 
+virinoj	 [virino] <cjt> <H> N P NOM @SUBJ> #20->22 
+povas	 [povi] <aux> V PR VFIN @FS-N< #21->0 
+atingi	 [atingi] <mv> V INF @ICL-AUX< #22->21 
+kiam	 [kiam] KS @SUB #23->25 
+imago	 [imago] <sem-c> <event> N S NOM @SUBJ> #24->26 
+estas	 [esti] <va+LOC> <aux> V PR VFIN @FS-<ADVL #25->22 
+kunigita	 [kunigi] <mv> V PCP PAS IMPF ADJ S NOM @ICL-AUX< #26->25 
+kun	 [kun] PRP @<ADVL #27->26 
+komuna	 [komuna] <Du> ADJ S NOM @>N #28->29 
+celo	 [celo] <cjt-first> <ac> N S NOM @P< #29->27 
+$, #30->0 
+kaj	 [kaj] KC @CO #31->32 
+neceso	 [neceso] <cjt> <ac> N S NOM @P< #32->27 
+kun	 [kun] PRP @<ADVL #33->26 
+kuragxo	 [kuragxo] <f-psych> N S NOM @P< #34->33 
+$. #35->0 
+</s>
+
+<s id="41168" source="24-eo obama.txt">
+La	 [la] <clb> <*> ART @>N #1->2 
+cinikuloj	 [cinikulo] <H> N P NOM @SUBJ> #2->4 
+ne	 [ne] <amod> <setop> ADV @ADVL> #3->4 
+sukcesas	 [sukcesi] <mv> V PR VFIN @FS-STA #4->0 
+kompreni	 [kompreni] <vq> <mv> V INF @ICL-<ACC #5->4 
+$, #6->0 
+ke	 [ke] KS @SUB #7->10 
+la	 [la] ART @>N #8->9 
+grundo	 [grundo] <Lsurf> N S NOM @SUBJ> #9->10 
+movigxis	 [movigxi] <mv> V IMPF VFIN @FS-<ACC #10->5 
+sub	 [sub] PRP @<ADVL #11->10 
+ili	 [ili] PRON PERS 3P NOM @P< #12->11 
+$, #13->0 
+ke	 [ke] KS @SUB #14->21 
+la	 [la] ART @>N #15->18 
+malfresxaj	 [malfresxa] <age> <Du> ADJ P NOM @>N #16->18 
+politikaj	 [politika] <Dpol> ADJ P NOM @>N #17->18 
+disputoj	 [disputo] <talk> N P NOM @SUBJ> #18->27 
+$, #19->0 
+kiuj	 [kiu] <rel> PRON DET P NOM @SUBJ> #20->21 
+okupis	 [okupi] <mv> V IMPF VFIN @FS-N< #21->0 
+nin	 [ni] PRON PERS 1P ACC @<ACC #22->21 
+tiom	 [tiom] <dem> <aquant> ADV @<ADVL #23->21 
+longe	 [longe] <atemp> ADV @<ADVL #24->21 
+$, #25->0 
+ne=plu	 [ne=plu] <atemp> ADV @ADVL> #26->27 
+validas	 [validi] <mv> V PR VFIN @FS-STA @FS-<ACC @FS-N< #27->21 
+$. #28->0 
+</s>
+
+<s id="41169" source="24-eo obama.txt">
+Nia	 [mia] <clb> <*> <poss> PRON DET S NOM @>N #1->2 
+demando	 [demando] N S NOM @SUBJ> #2->5 
+hodiaux	 [hodiaux] <atemp> ADV @ADVL> #3->5 
+ne	 [ne] <amod> <setop> ADV @ADVL> #4->5 
+estas	 [esti] <cjt-first> <va+LOC> <mv> V PR VFIN @FS-STA #5->0 
+cxu	 [cxu] <interr> ADV @<ADVL #6->5 
+nia	 [mia] <poss> PRON DET S NOM @>N #7->8 
+registaro	 [registaro] <HH> N S NOM @SUBJ> #8->10 
+tro	 [tro] <aquant> ADV @<ADVL #9->5 
+grandas	 [grandi] <Du> <mv> V PR VFIN @FS-<SC @FS-N< #10->5 
+aux	 [aux] KC @CO #11->13 
+tro	 [tro] <aquant> ADV @<ADVL #12->10 
+malgrandas	 [malgrandi] <cjt> <AF:mal> <Du> <mv> V PR VFIN @FS-STA @FS-N< #13->0 
+$, #14->0 
+sed	 [sed] KC @CO #15->20 
+cxu	 [cxu] <interr> ADV @ADVL> #16->20 
+gxi	 [gxi] PRON PERS 3S NEU S NOM @SUBJ> #17->20 
+funkcias--cxu	 [funkcias--cxu] <interr> ADV @ADVL> #18->20 
+gxi	 [gxi] PRON PERS 3S NEU S NOM @ACC> #19->20 
+helpas	 [helpi] <vta+INF> <mv> V PR VFIN @FS-N< #20->0 
+familiojn	 [familio] <HH> N P ACC @<ACC #21->20 
+trovi	 [trovi] <vq> <mv> V INF @ICL-<OA #22->20 
+laboron	 [laboro] <ac> N S ACC @<ACC #23->22 
+kun	 [kun] PRP @N< #24->23 
+deca	 [deca] <Du> ADJ S NOM @>N #25->26 
+salajro	 [salajro] <mon> <mon-c> N S NOM @P< #26->24 
+$, #27->0 
+sanrimedojn	 [sanrimedo] <cjt-first> <N:san+rimedo> <rem> <ac> N P ACC @N<PRED @<ACC #28->26 
+ne	 [ne] <amod> <setop> ADV @>A #29->30 
+tro	 [tro] <aquant> ADV @>A #30->31 
+altkostajn	 [altkosta] <ADJ:alt+kosta> <Deco> ADJ P ACC @N< #31->28 
+$, #32->0 
+emeritigxon	 [emeritigxo] <cjt> <AF:igx> <event> N S ACC @N<PRED @<ACC #33->26 
+dignan	 [digna] <Du> ADJ S ACC @N< #34->33 
+$. #35->0 
+</s>
+
+<s id="41170" source="24-eo obama.txt">
+Kie	 [kie] <*> <rel> <aloc> ADV @ADVL> #1->4 
+la	 [la] ART @>N #2->3 
+respondo	 [respondo] <ss> N S NOM @SUBJ> #3->4 
+estas	 [esti] <va+LOC> <mv> V PR VFIN @FS-ADVL> @FS-SUBJ> #4->0 
+$«
+jes	 [jes]   IN @<SC #5->4 
+$»
+$, #6->0 
+ni	 [ni] PRON PERS 1P NOM @SUBJ> #7->9 
+intencas	 [intenci] <vH&> <aux> V PR VFIN @FS-STA #8->0 
+movi	 [movi] <mv> V INF @ICL-AUX< #9->8 
+antauxen	 [antauxe] <adir> ADV @<ADVL #10->9 
+$. #11->0 
+</s>
+
+<s id="41171" source="24-eo obama.txt">
+Kie	 [kie] <*> <rel> <aloc> ADV @ADVL> #1->4 
+la	 [la] ART @>N #2->3 
+respondo	 [respondo] <ss> N S NOM @SUBJ> #3->4 
+estas	 [esti] <va+LOC> <mv> V PR VFIN @FS-ADVL> @FS-SUBJ> #4->0 
+$«
+ne	 [ne] <amod> <setop>   ADV @<ADVL #5->4 
+$»
+$, #6->0 
+programoj	 [programo] <sem-c> N P NOM @SUBJ> #7->8 
+finigxos	 [finigxi] <mv> V FUT VFIN @FS-STA #8->0 
+$. #9->0 
+</s>
+
+<s id="41172" source="24-eo obama.txt">
+Kaj	 [kaj] <*> KC @CO #1->40 
+tiuj	 [tiu] <dem> PRON DET P NOM @SUBJ> #2->10 
+el	 [el] PRP @N< #3->2 
+ni	 [ni] PRON PERS 1P NOM @P< #4->3 
+kiuj	 [kiu] <rel> PRON DET P NOM @SUBJ> #5->6 
+administras	 [administri] <mv> V PR VFIN @FS-N< #6->2 
+publikajn	 [publika] <Du> <Dinstu> ADJ P ACC @>N #7->8 
+dolarojn	 [dolaro] <cur> N P ACC @<ACC #8->6 
+devos	 [devi] <aux> V FUT VFIN @FS-STA #9->0 
+esti	 [esti] <va+LOC> <mv> V INF @ICL-AUX< #10->9 
+respondecaj	 [respondeca] <Du> ADJ P NOM @<SC #11->10 
+$, #12->0 
+elspezi	 [elspezi] <mv> V INF @ICL-<SUBJ @ICL-SUBJ> @ICL-<ACC @ICL-<SC #13->10 
+sagxe	 [sagxe] <Dcog> ADV @<ADVL #14->13 
+$, #15->0 
+reformi	 [reformi] <mv> V INF @ICL-<SUBJ @ICL-SUBJ> @ICL-<ACC @ICL-<SC #16->13 
+malbonajn	 [malbona] <Du> ADJ P ACC @>N #17->18 
+kutimojn	 [kutimo] <conv> <ac> N P ACC @<ACC #18->16 
+$, #19->0 
+kaj	 [kaj] KC @CO #20->40 
+fari	 [fari] <mv> V INF @ICL-<SA #21->0 
+aferojn	 [afero] <ac> N P ACC @<ACC #22->21 
+en	 [en] PRP @<ADVL #23->21 
+la	 [la] ART @>N #24->25 
+lumo	 [lumo] <percep-w> N S NOM @P< #25->23 
+de	 [de] PRP @N< #26->25 
+tago	 [tago] <temp> N S NOM @P< #27->26 
+$, #28->0 
+cxar	 [cxar] KS @SUB #29->33 
+nur	 [nur] <setop> ADV @>A #30->31 
+tiam	 [tiam] <atemp> <dem> ADV @ADVL> #31->34 
+ni	 [ni] PRON PERS 1P NOM @SUBJ> #32->34 
+povas	 [povi] <aux> V PR VFIN @FS-<ADVL #33->21 
+restarigi	 [restarigi] <mv> V INF @ICL-AUX< #34->33 
+la	 [la] ART @>N #35->37 
+gravegan	 [gravega] <AF:eg> <Dsoc/Dpsych> <Du> ADJ S ACC @>N #36->37 
+fidon	 [fido] <f-psych> N S ACC @<ACC #37->34 
+inter	 [inter] PRP @<ADVL #38->34 
+homoj	 [homo] <cjt-first> <H> N P NOM @P< #39->38 
+kaj	 [kaj] KC @CO #40->42 
+ties	 [ties] <dem> PRON INDP S/P GEN @>N #41->42 
+registaro	 [registaro] <cjt> <HH> N S NOM @P< #42->38 
+$. #43->0 
+</s>
+
+<s id="41173" source="24-eo obama.txt">
+Nek	 [nek] <clb> <*> KC @ADVL> #1->2 
+estas	 [esti] <va+LOC> <mv> V PR VFIN @FS-STA #2->0 
+la	 [la] ART @>N #3->4 
+demando	 [demando] N S NOM @<SC #4->2 
+antaux	 [antaux] <atemp> PRP @<ADVL #5->2 
+ni	 [ni] PRON PERS 1P NOM @P< #6->5 
+cxu	 [cxu] <interr> ADV @ADVL> #7->10 
+la	 [la] ART @>N #8->9 
+merkato	 [merkato] <Lh> <HH> N S NOM @SUBJ> #9->10 
+estas	 [esti] <va+LOC> <mv> V PR VFIN @FS-<SUBJ #10->2 
+forto	 [forto] <ac> <gen-subj> N S NOM @<SC #11->10 
+por	 [por] <aquant> PRP @<PIV #12->10 
+bono	 [bono] <cjt-first> <Du> N S NOM @P< #13->12 
+aux	 [aux] KC @CO #14->15 
+malbono	 [malbono] <cjt> <Du> N S NOM @P< #15->12 
+$. #16->0 
+</s>
+
+<s id="41174" source="24-eo obama.txt">
+Gxia	 [gxia] <clb> <*> <poss> PRON DET S NOM @>N #1->2 
+povo	 [povo] <am> N S NOM @SUBJ> #2->8 
+krei	 [krei] <mv> V INF @ICL-N< #3->2 
+ricxecon	 [ricxeco] <ac> <mon> N S ACC @<ACC #4->3 
+kaj	 [kaj] KC @CO #5->6 
+plivastigi	 [plivastigi] <ADV:pli+vastigi> <mv> V INF @ICL-N< #6->4 
+liberecon	 [libereco] <ac> <am> N S ACC @<ACC #7->6 
+estas	 [esti] <va+LOC> <mv> V PR VFIN @FS-STA #8->0 
+senegala	 [senegala] <Du> ADJ S NOM @<SC #9->8 
+$. #10->0 
+</s>
+
+<s id="41175" source="24-eo obama.txt">
+Sed	 [sed] <clb> <*> KC @CO #1->4 
+cxi=tiu	 [cxi=tiu] <dem> PRON DET S NOM @>N #2->3 
+krizo	 [krizo] <sit> N S NOM @SUBJ> #3->4 
+rememorigis	 [rememorigi] <mv> V IMPF VFIN @FS-STA #4->0 
+nin	 [ni] PRON PERS 1P ACC @<ACC #5->4 
+$, #6->0 
+ke	 [ke] KS @SUB #7->13 
+sen	 [sen] PRP @ADVL> #8->14 
+garda	 [garda] ADJ S NOM @>N #9->10 
+okulo	 [okulo] <anfeat-c> N S NOM @P< #10->8 
+la	 [la] ART @>N #11->12 
+merkato	 [merkato] <Lh> <HH> N S NOM @SUBJ> #12->14 
+povas	 [povi] <aux> V PR VFIN @FS-<ACC #13->4 
+spiraligxi	 [spiraligxi] <AF:igx> <ve> <mv> V INF @ICL-AUX< #14->13 
+preter	 [preter] PRP @<ADVL #15->14 
+regeblo	 [regeblo] N S NOM @P< #16->15 
+$. #17->0 
+</s>
+
+<s id="41176" source="24-eo obama.txt">
+La	 [la] <clb> <*> ART @>N #1->2 
+lando	 [lando] <Lciv> N S NOM @SUBJ> #2->5 
+ne	 [ne] <amod> <setop> ADV @ADVL> #3->5 
+povas	 [povi] <aux> V PR VFIN @FS-STA #4->0 
+prosperi	 [prosperi] <vH&> <mv> V INF @ICL-AUX< #5->4 
+longe	 [longe] <atemp> ADV @<ADVL #6->5 
+kiam	 [kiam] <rel> <atemp> ADV @ADVL> #7->9 
+gxi	 [gxi] PRON PERS 3S NEU S NOM @SUBJ> #8->9 
+favoras	 [favori] <mv> V PR VFIN @FS-N< #9->0 
+nur	 [nur] <setop> ADV @>N #10->12 
+la	 [la] ART @>N #11->12 
+prosperulojn	 [prosperulo] <AF:ul> <H> N P ACC @<ACC #12->9 
+$. #13->0 
+</s>
+
+<s id="41177" source="24-eo obama.txt">
+La	 [la] <clb> <*> ART @>N #1->2 
+sukceso	 [sukceso] <ac> N S NOM @SUBJ> #2->7 
+de	 [de] PRP @N< #3->2 
+nia	 [mia] <poss> PRON DET S NOM @>N #4->5 
+ekonomio	 [ekonomio] <domain> N S NOM @P< #5->3 
+cxiam	 [cxiam] <atemp> ADV @ADVL> #6->7 
+dependis	 [dependi] <mv> V IMPF VFIN @FS-STA #7->0 
+$, #8->0 
+ne	 [ne] <amod> <setop> ADV @<ADVL #9->7 
+nur	 [nur] <setop> ADV @>P #10->11 
+de	 [de] PRP @<ADVL #11->7 
+la	 [la] ART @>N #12->13 
+grandeco	 [grandeco] <f-phys> N S NOM @P< #13->11 
+de	 [de] PRP @N< #14->13 
+nia	 [mia] <poss> PRON DET S NOM @>N #15->18 
+tuta	 [tuta] <Du> ADJ S NOM @>N #16->18 
+enlanda	 [enlanda] <Dgeo> ADJ S NOM @>N #17->18 
+produkto	 [produkto] <cc-h> N S NOM @P< #18->14 
+$, #19->0 
+sed	 [sed] KC @CO #20->21 
+de	 [de] PRP @N< #21->13 
+la	 [la] ART @>N #22->23 
+vasteco	 [vasteco] N S NOM @P< #23->21 
+de	 [de] PRP @N< #24->23 
+nia	 [mia] <poss> PRON DET S NOM @>N #25->26 
+prospero	 [prospero] <f-psych> <process> <sit> N S NOM @P< #26->24 
+$, #27->0 
+en	 [en] PRP @<ADVL #28->7 
+nia	 [mia] <poss> PRON DET S NOM @>N #29->30 
+kapablo	 [kapablo] <f-psych> N S NOM @P< #30->28 
+por	 [por] <aquant> PRP @<ADVL #31->7 
+disponigi	 [disponigi] <mv> V INF @ICL-P< #32->31 
+oportunon	 [oportuno] <Dpsych> N S ACC @<ACC #33->32 
+al	 [al] PRP @<PIV #34->32 
+cxiu	 [cxiu] <quant> PRON DET S NOM @>N #35->36 
+volonta	 [volonta] <Dpsych> ADJ S NOM @P< #36->34 
+koro--ne	 [koro--ne] <amod> <setop> ADV @<ADVL #37->32 
+pro	 [pro] PRP @<ADVL #38->32 
+kompato	 [kompato] <ac> <f-psych> N S NOM @P< #39->38 
+$, #40->0 
+sed	 [sed] KC @CO #41->42 
+cxar	 [cxar] KS @SUB #42->44 
+tio	 [tio] <dem> PRON INDP S NOM @SUBJ> #43->44 
+estas	 [esti] <va+LOC> <mv> V PR VFIN @FS-<ADVL #44->32 
+la	 [la] ART @>N #45->48 
+plej	 [plej] <aquant> ADV @>A #46->47 
+certa	 [certa] <Du> ADJ S NOM @>N #47->48 
+vojo	 [vojo] <Lpath> <dir> N S NOM @<SC #48->44 
+al	 [al] PRP @N< #49->48 
+nia	 [mia] <poss> PRON DET S NOM @>N #50->52 
+komuna	 [komuna] <Du> ADJ S NOM @>N #51->52 
+bono	 [bono] <Du> N S NOM @P< #52->49 
+$. #53->0 
+</s>
+
+<s id="41178" source="24-eo obama.txt">
+$[ #1->0 
+longa	 [longa] <Du> ADJ S NOM @>N #2->4 
+aplauxda	 [aplauxda] ADJ S NOM @>N #3->4 
+pauxzo	 [pauxzo] <temp> <per> N S NOM @NPHR #4->0 
+$] #5->0 
+</s>
+
+<s id="41179" source="24-eo obama.txt">
+Pri	 [pri] <*> PRP @ADVL> #1->7 
+nia	 [mia] <poss> PRON DET S NOM @>N #2->4 
+komuna	 [komuna] <Du> ADJ S NOM @>N #3->4 
+defendo	 [defendo] <act> N S NOM @P< #4->1 
+$, #5->0 
+ni	 [ni] PRON PERS 1P NOM @SUBJ> #6->7 
+malakceptas	 [malakcepti] <vq> <mv> V PR VFIN @FS-STA #7->0 
+kiel	 [kiel] <kp> PRP @<ADVL #8->7 
+malveran	 [malvera] <cjt-first> <Du> ADJ S ACC @P< #9->8 
+la	 [la] ART @>N #10->11 
+elekton	 [elekto] <cjt> <act> <occ> N S ACC @P< #11->8 
+inter	 [inter] PRP @N< #12->11 
+nia	 [mia] <poss> PRON DET S NOM @>N #13->14 
+sekureco	 [sekureco] <cjt-first> <am> <f-psych> N S NOM @P< #14->12 
+kaj	 [kaj] KC @CO #15->17 
+niaj	 [nia] <poss> PRON DET P NOM @>N #16->17 
+idealoj	 [idealo] <cjt> <ac> N P NOM @P< #17->12 
+$. #18->0 
+</s>
+
+<s id="41180" source="24-eo obama.txt">
+Niaj	 [nia] <*> <poss> PRON DET P NOM @>N #1->2 
+prapatroj--	 [prapatroj--] <hyfen> N S NOM @SUBJ> #2->18 
+$[ #3->0 
+aplauxdo	 [aplauxdo] N S NOM @N<PRED #4->2 
+$] #5->0 
+Niaj	 [nia] <*> <poss> PRON DET P NOM @>N #6->7 
+prapatroj	 [prapatro] <Hfam> N P NOM @SUBJ> #7->21 
+$, #8->0 
+alfrontantaj	 [alfronti] <mv> V PCP AKT PR ADJ P NOM @ICL-N< #9->7 
+dangxerojn	 [dangxero] <ac> N P ACC @<ACC #10->9 
+$, #11->0 
+kiujn	 [kiu] <rel> PRON DET P ACC @ACC> #12->16 
+ni	 [ni] PRON PERS 1P NOM @SUBJ> #13->16 
+apenaux	 [apenaux] <ameta> <amod> <aquant> ADV @ADVL> #14->16 
+povas	 [povi] <aux> V PR VFIN @FS-N< #15->10 
+imagi	 [imagi] <vq> <mv> V INF @ICL-AUX< #16->15 
+$, #17->0 
+projektis	 [projekti] <vq> <mv> V IMPF VFIN @FS-STA #18->0 
+cxarton	 [cxarto] <sem-r> N S ACC @<ACC #19->18 
+por	 [por] <aquant> PRP @<PIV #20->18 
+certigi	 [certigi] <mv> V INF @ICL-P< #21->20 
+regon	 [rego] <cjt-first> N S ACC @<ACC #22->21 
+per	 [per] PRP @<PIV #23->21 
+legxo	 [legxo] <conv> <ac> N S NOM @P< #24->23 
+kaj	 [kaj] KC @CO #25->26 
+la	 [la] ART @>N #26->27 
+rajtojn	 [rajto] <cjt> <f-right> N P ACC @<ACC #27->21 
+de	 [de] PRP @N< #28->27 
+la	 [la] ART @>N #29->30 
+homaro--cxarton	 [homaro--cxarto] <sem-r> N S ACC @P< #30->28 
+plivastigitan	 [plivastigi] <ADV:pli+vastigi> <mv> V PCP PAS IMPF ADJ S ACC @ICL-N< #31->30 
+per	 [per] PRP @<ADVL #32->31 
+la	 [la] ART @>N #33->34 
+sango	 [sango] <cm-liq> N S NOM @P< #34->32 
+de	 [de] PRP @N< #35->34 
+generacioj	 [generacio] <per> <HH> N P NOM @P< #36->35 
+$. #37->0 
+</s>
+
+<s id="41181" source="24-eo obama.txt">
+Tiuj	 [tiu] <clb> <*> <dem> PRON DET P NOM @>N #1->2 
+idealoj	 [idealo] <ac> N P NOM @SUBJ> #2->4 
+ankoraux	 [ankoraux] <setop> <atemp> ADV @ADVL> #3->4 
+lumigas	 [lumigi] <cjt-first> <vH&> <mv> V PR VFIN @FS-STA #4->0 
+la	 [la] ART @>N #5->6 
+mondon	 [mondo] <L> N S ACC @<ACC #6->4 
+$, #7->0 
+kaj	 [kaj] <clb> KC @CO #8->11 
+ni	 [ni] PRON PERS 1P NOM @SUBJ> #9->11 
+ne	 [ne] <amod> <setop> ADV @ADVL> #10->11 
+cedos	 [cedi] <cjt> <mv> V FUT VFIN @FS-STA #11->0 
+ilin	 [ili] PRON PERS 3P ACC @<ACC #12->11 
+por	 [por] <aquant> PRP @<ADVL #13->11 
+dumtempa	 [dumtempa] <PRP:dum+tempa> <Du> ADJ S NOM @>N #14->15 
+avantagxo	 [avantagxo] <ac> N S NOM @P< #15->13 
+$. #16->0 
+</s>
+
+<s id="41182" source="24-eo obama.txt">
+$[ #1->0 
+aplauxda	 [aplauxda] ADJ S NOM @>N #2->3 
+pauxzo	 [pauxzo] <temp> <per> N S NOM @NPHR #3->0 
+$] #4->0 
+</s>
+
+<s id="41183" source="24-eo obama.txt">
+Do	 [do] <*> ADV @ADVL> #1->10 
+al	 [al] PRP @ADVL> #2->10 
+cxiuj	 [cxiu] <quant> PRON DET P NOM @>N #3->5 
+aliaj	 [alia] ADJ P NOM @>N #4->5 
+popoloj	 [popolo] <cjt-first> <HH> N P NOM @P< #5->2 
+kaj	 [kaj] KC @CO #6->7 
+registaroj	 [registaro] <cjt> <HH> N P NOM @P< #7->2 
+$, #8->0 
+kiuj	 [kiu] <rel> PRON DET P NOM @SUBJ> #9->10 
+spektas	 [spekti] <mv> V PR VFIN @FS-N< #10->0 
+hodiaux	 [hodiaux] <atemp> ADV @<ADVL #11->10 
+$, #12->0 
+de	 [de] PRP @<ADVL #13->10 
+la	 [la] ART @>N #14->17 
+plej	 [plej] <aquant> ADV @>A #15->16 
+grandaj	 [granda] <Du> ADJ P NOM @>N #16->17 
+cxefurboj	 [cxefurbo] <Lciv> <Lh> N P NOM @P< #17->13 
+$, #18->0 
+al	 [al] PRP @<ADVL #19->10 
+la	 [la] ART @>N #20->22 
+eta	 [eta] <Du> ADJ S NOM @>N #21->22 
+vilagxo	 [vilagxo] <Lciv> N S NOM @P< #22->19 
+$, #23->0 
+kie	 [kie] <rel> <aloc> ADV @ADVL> #24->27 
+mia	 [mia] <poss> PRON DET S NOM @>N #25->26 
+patro	 [patro] <Hfam> N S NOM @SUBJ> #26->27 
+naskigxis	 [naskigxi] <ve> <mv> V IMPF VFIN @FS-N< #27->22 
+$, #28->0 
+sciu	 [scii] <vH&> <vq> <mv> V VOL VFIN @FS-COM #29->0 
+ke	 [ke] KS @SUB #30->32 
+Usono	 [Usono] <*> <Lciv> PROP S NOM @SUBJ> #31->32 
+estas	 [esti] <va+LOC> <mv> V PR VFIN @FS-<ACC #32->29 
+amiko	 [amiko] <H> N S NOM @<SC #33->32 
+de	 [de] PRP @N< #34->33 
+cxiu	 [cxiu] <quant> PRON DET S NOM @>N #35->36 
+nacio	 [nacio] <cjt-first> <HH> N S NOM @P< #36->34 
+$, #37->0 
+kaj	 [kaj] KC @CO #38->48 
+cxiu	 [cxiu] <quant> PRON DET S NOM @>N #39->40 
+viro	 [viro] <cjt> <H> N S NOM @P< #40->34 
+$, #41->0 
+virino	 [virino] <cjt> <H> N S NOM @P< #42->34 
+$, #43->0 
+kaj	 [kaj] KC @CO #44->48 
+infano	 [infano] <cjt> <H> N S NOM @P< #45->34 
+$, #46->0 
+kiu	 [kiu] <rel> PRON DET S NOM @SUBJ> #47->48 
+sercxas	 [sercxi] <mv> V PR VFIN @FS-N< #48->45 
+estontecon	 [estonteco] <per> <temp> <ac-cat> N S ACC @<ACC #49->48 
+de	 [de] PRP @N< #50->49 
+paco	 [paco] <cjt-first> <sit> N S NOM @P< #51->50 
+kaj	 [kaj] KC @CO #52->53 
+digno	 [digno] <cjt> <f-psych> N S NOM @P< #53->50 
+$. #54->0 
+</s>
+
+<s id="41184" source="24-eo obama.txt">
+Kaj	 [kaj] <clb> <*> KC @CO #1->3 
+ni	 [ni] PRON PERS 1P NOM @SUBJ> #2->3 
+estas	 [esti] <va+LOC> <mv> V PR VFIN @FS-STA #3->0 
+pretaj	 [preta] <cond> <Du> ADJ P NOM @<SC #4->3 
+estri	 [estri] <mv> V INF @ICL-<ACC @ICL-<SC #5->3 
+denove	 [denove] <atemp> ADV @<ADVL #6->5 
+$. #7->0 
+</s>
+
+<s id="41185" source="24-eo obama.txt">
+$[ #1->0 
+aplauxda	 [aplauxda] ADJ S NOM @>N #2->3 
+pauxzo	 [pauxzo] <temp> <per> N S NOM @NPHR #3->0 
+$] #4->0 
+</s>
+
+<s id="41186" source="24-eo obama.txt">
+Memoru	 [memori] <*> <vH&> <vq> <mv> V VOL VFIN @FS-COM #1->0 
+$, #2->0 
+ke	 [ke] KS @SUB #3->6 
+antauxaj	 [antauxa] ADJ P NOM @>N #4->5 
+generacioj	 [generacio] <per> <HH> N P NOM @SUBJ> #5->6 
+alfrontis	 [alfronti] <mv> V IMPF VFIN @FS-<ACC #6->1 
+fasxismon	 [fasxismo] <cjt-first> <ism> N S ACC @<ACC #7->6 
+kaj	 [kaj] KC @CO #8->9 
+komunismon	 [komunismo] <cjt> <ism> N S ACC @<ACC #9->6 
+ne	 [ne] <amod> <setop> ADV @<ADVL #10->6 
+nur	 [nur] <setop> ADV @>P #11->12 
+per	 [per] PRP @<ADVL #12->6 
+misiloj	 [misilo] <cjt-first> <cc-h> N P NOM @P< #13->12 
+kaj	 [kaj] KC @CO #14->15 
+tankoj	 [tanko] <cjt> <Vground> <con> N P NOM @P< #15->12 
+$, #16->0 
+sed	 [sed] KC @CO #17->22 
+per	 [per] PRP @<ADVL #18->6 
+la	 [la] ART @>N #19->21 
+fortaj	 [forta] <Dphys> ADJ P NOM @>N #20->21 
+aliancoj	 [alianco] <cjt-first> <act-d> N P NOM @P< #21->18 
+kaj	 [kaj] KC @CO #22->24 
+persistaj	 [persista] <Du> ADJ P NOM @>N #23->24 
+konvinkoj	 [konvinko] <cjt> <sem-c> N P NOM @P< #24->18 
+$. #25->0 
+</s>
+
+<s id="41187" source="24-eo obama.txt">
+Ili	 [ili] <clb> <*> PRON PERS 3P NOM @SUBJ> #1->2 
+komprenis	 [kompreni] <cjt-first> <vq> <mv> V IMPF VFIN @FS-STA #2->0 
+$, #3->0 
+ke	 [ke] KS @SUB #4->9 
+nia	 [mia] <poss> PRON DET S NOM @>N #5->6 
+potenco	 [potenco] <am> <ac> N S NOM @SUBJ> #6->10 
+sola	 [sola] <Du> ADJ S NOM @PRED> #7->10 
+ne	 [ne] <amod> <setop> ADV @ADVL> #8->10 
+povas	 [povi] <aux> V PR VFIN @FS-<ACC #9->2 
+protekti	 [protekti] <mv> V INF @ICL-AUX< #10->9 
+nin	 [ni] PRON PERS 1P ACC @<ACC #11->10 
+$, #12->0 
+nek	 [nek] <clb> KC @CO #13->15 
+gxi	 [gxi] PRON PERS 3S NEU S NOM @SUBJ> #14->15 
+rajtigas	 [rajtigi] <cjt> <mv> V PR VFIN @FS-STA #15->0 
+al	 [al] PRP @<ADVL #16->15 
+ni	 [ni] PRON PERS 1P NOM @P< #17->16 
+konduti	 [konduti] <va+QUAL> <mv> V INF @ICL-<ACC #18->15 
+kiel	 [kiel] <kp> KS @SUB #19->21 
+ni	 [ni] PRON PERS 1P NOM @SUBJ> #20->21 
+volas	 [voli] <vq> <mv> V PR VFIN @FS-<ADVL #21->18 
+$. #22->0 
+</s>
+
+<s id="41188" source="24-eo obama.txt">
+Anstatauxe	 [anstatauxe] <clb> <*> ADV @ADVL> #1->3 
+ili	 [ili] PRON PERS 3P NOM @SUBJ> #2->3 
+sciis	 [scii] <vH&> <vq> <mv> V IMPF VFIN @FS-STA #3->0 
+$, #4->0 
+ke	 [ke] KS @SUB #5->8 
+nia	 [mia] <poss> PRON DET S NOM @>N #6->7 
+potenco	 [potenco] <am> <ac> N S NOM @SUBJ> #7->8 
+kreskas	 [kreski] <ve> <mv> V PR VFIN @FS-<ACC #8->3 
+per	 [per] PRP @<ADVL #9->8 
+gxia	 [gxia] <poss> PRON DET S NOM @>N #10->12 
+prudenta	 [prudenta] <Dcog> <Dpsych/Dsoc> ADJ S NOM @>N #11->12 
+uzo	 [uzo] <gen-obj> <act> N S NOM @P< #12->9 
+$; #13->0 
+</s>
+
+<s id="41189" source="24-eo obama.txt">
+nia	 [mia] <clb> <poss> PRON DET S NOM @>N #1->2 
+sekureco	 [sekureco] <am> <f-psych> N S NOM @SUBJ> #2->3 
+devenas	 [deveni] <mv> V PR VFIN @FS-STA #3->0 
+de	 [de] PRP @<PIV #4->3 
+la	 [la] ART @>N #5->6 
+justeco	 [justeco] <am> N S NOM @P< #6->4 
+de	 [de] PRP @N< #7->6 
+nia	 [mia] <poss> PRON DET S NOM @>N #8->9 
+misio	 [misio] <cjt-first> <act> <sem-c> N S NOM @P< #9->7 
+$, #10->0 
+la	 [la] ART @>N #11->12 
+forto	 [forto] <cjt> <ac> <gen-subj> N S NOM @P< #12->7 
+de	 [de] PRP @N< #13->12 
+nia	 [mia] <poss> PRON DET S NOM @>N #14->15 
+ekzemplo	 [ekzemplo] <cjt-first> <ac> N S NOM @P< #15->13 
+$, #16->0 
+la	 [la] ART @>N #17->19 
+hardantaj	 [hardi] V PCP AKT PR ADJ P NOM @>N #18->19 
+ecoj	 [eco] <cjt> <ac> <gen-subj> N P NOM @P< #19->13 
+de	 [de] PRP @N< #20->19 
+humileco	 [humileco] <cjt-first> <f-psych> N S NOM @P< #21->20 
+kaj	 [kaj] KC @CO #22->23 
+modereco	 [modereco] <cjt> <am> <ac> N S NOM @P< #23->20 
+$. #24->0 
+</s>
+
+<s id="41190" source="24-eo obama.txt">
+Ni	 [ni] <clb> <*> PRON PERS 1P NOM @SUBJ> #1->2 
+estas	 [esti] <va+LOC> <mv> V PR VFIN @FS-STA #2->0 
+la	 [la] ART @>N #3->4 
+konservantoj	 [konservanto] N P NOM @<SC #4->2 
+de	 [de] PRP @N< #5->4 
+cxi=tiu	 [cxi=tiu] <dem> PRON DET S NOM @>N #6->7 
+heredajxo	 [heredajxo] <am> <mon-m> N S NOM @P< #7->5 
+$. #8->0 
+</s>
+
+<s id="41191" source="24-eo obama.txt">
+Gvidataj	 [gvidi] <*> <vta+DIR> <mv> V PCP PAS PR ADJ P NOM @ICL-PRED> #1->15 
+de	 [de] PRP @<ADVL #2->1 
+cxi=tiuj	 [cxi=tiu] <dem> PRON DET P NOM @>N #3->4 
+principoj	 [principo] <sem-c> N P NOM @P< #4->2 
+denove	 [denove] <atemp> ADV @<ADVL #5->1 
+$, #6->0 
+ni	 [ni] PRON PERS 1P NOM @SUBJ> #7->9 
+povas	 [povi] <aux> V PR VFIN @FS-STA #8->0 
+renkonti	 [renkonti] <mv> V INF @ICL-AUX< #9->8 
+cxi=tiujn	 [cxi=tiu] <dem> PRON DET P ACC @>N #10->12 
+novajn	 [nova] <Du> ADJ P ACC @>N #11->12 
+minacojn	 [minaco] <act> <act-s> N P ACC @<ACC #12->9 
+$, #13->0 
+kiuj	 [kiu] <rel> PRON DET P NOM @SUBJ> #14->15 
+postulas	 [postuli] <vH&> <vq> <mv> V PR VFIN @FS-N< #15->12 
+ecx	 [ecx] <ameta> ADV @>A #16->17 
+pli	 [pli] <aquant> ADV @>A #17->18 
+grandan	 [granda] <Du> ADJ S ACC @>N #18->19 
+penon	 [peno] <cjt-first> <act> N S ACC @<ACC #19->15 
+$, #20->0 
+pli	 [pli] <aquant> ADV @>A #21->22 
+grandan	 [granda] <Du> ADJ S ACC @>N #22->23 
+kunlaboron	 [kunlaboro] <activity> N S ACC @APP #23->19 
+$, #24->0 
+kaj	 [kaj] KC @CO #25->26 
+interkomprenon	 [interkompreno] <cjt> <N:interkom+preno> <cc> <sem-w> <cc-h> <ac> N S ACC @<ACC #26->15 
+inter	 [inter] PRP @<ADVL #27->15 
+nacioj	 [nacio] <HH> N P NOM @P< #28->27 
+$. #29->0 
+</s>
+
+<s id="41192" source="24-eo obama.txt">
+Ni	 [ni] <clb> <*> PRON PERS 1P NOM @SUBJ> #1->4 
+komencos	 [komenci] <aux> V FUT VFIN @FS-STA #2->0 
+zorge	 [zorge] ADV @ADVL> #3->4 
+lasi	 [lasi] <vta+DIR> <mv> V INF @ICL-AUX< #4->2 
+Irakon	 [Irako] <*> <Lciv> PROP S ACC @<ACC #5->4 
+al	 [al] PRP @<PIV #6->4 
+gxiaj	 [gxia] <poss> PRON DET P NOM @>N #7->8 
+homoj	 [homo] <H> N P NOM @P< #8->6 
+kaj	 [kaj] KC @CO #9->10 
+forgxi	 [forgxi] <mv> V INF @ICL-AUX< #10->2 
+malfacile	 [malfacile] ADV @>A #11->12 
+gajnitan	 [gajni] V PCP PAS IMPF ADJ S ACC @>N #12->13 
+pacon	 [paco] <sit> N S ACC @<ACC #13->10 
+en	 [en] PRP @<ADVL #14->10 
+Afganujo	 [Afganujo] <*> PROP S NOM @P< #15->14 
+$. #16->0 
+</s>
+
+<s id="41193" source="24-eo obama.txt">
+Kun	 [kun] <*> PRP @ADVL> #1->8 
+malnovaj	 [malnova] <age> <Du> ADJ P NOM @>N #2->3 
+amikoj	 [amiko] <cjt-first> <H> N P NOM @P< #3->1 
+kaj	 [kaj] KC @CO #4->6 
+antauxaj	 [antauxa] ADJ P NOM @>N #5->6 
+malamikoj	 [malamiko] <cjt> <Hprof> <H> N P NOM @P< #6->1 
+ni	 [ni] PRON PERS 1P NOM @SUBJ> #7->8 
+laboros	 [labori] <mv> V FUT VFIN @FS-STA #8->0 
+senripoze	 [senripoze] ADV @<ADVL #9->8 
+por	 [por] <aquant> PRP @<ADVL #10->8 
+malpligrandigi	 [malpligrandigi] <cjt-first> <ADV:malpli+grandigi> <mv> V INF @ICL-P< #11->10 
+la	 [la] ART @>N #12->14 
+atombomban	 [atombomba] ADJ S ACC @>N #13->14 
+minacon	 [minaco] <act> <act-s> N S ACC @<ACC #14->11 
+$, #15->0 
+kaj	 [kaj] KC @CO #16->17 
+forpusxi	 [forpusxi] <cjt> <mv> V INF @ICL-P< #17->10 
+la	 [la] ART @>N #18->20 
+dangxeran	 [dangxera] <Du> ADJ S ACC @>N #19->20 
+fantomon	 [fantomo] <Hmyth> N S ACC @<ACC #20->17 
+de	 [de] PRP @N< #21->20 
+plivarmigxanta	 [plivarmigxi] <ADV:pli+varmigxi> V PCP AKT PR ADJ S NOM @>N #22->23 
+planedo	 [planedo] <Lstar> N S NOM @P< #23->21 
+$. #24->0 
+</s>
+
+<s id="41194" source="24-eo obama.txt">
+Ni	 [ni] <clb> <*> PRON PERS 1P NOM @SUBJ> #1->3 
+nek	 [nek] KC @FOC> #2->9 
+petos	 [peti] <cjt-first> <vq> <mv> V FUT VFIN @FS-STA #3->0 
+pardonon	 [pardono] <act-s> N S ACC @<ACC #4->3 
+pro	 [pro] PRP @<PIV #5->3 
+nia	 [mia] <poss> PRON DET S NOM @>N #6->7 
+vivmaniero	 [vivmaniero] <act-d> N S NOM @P< #7->5 
+$, #8->0 
+nek	 [nek] <clb> KC @ADVL> #9->10 
+sxanceligxos	 [sxanceligxi] <cjt> <mv> V FUT VFIN @FS-STA #10->0 
+pri	 [pri] PRP @<ADVL #11->10 
+gxia	 [gxia] <poss> PRON DET S NOM @>N #12->13 
+defendo	 [defendo] <act> N S NOM @P< #13->11 
+$. #14->0 
+</s>
+
+<s id="41195" source="24-eo obama.txt">
+Kaj	 [kaj] <*> KC @CO #1->12 
+por	 [por] <aquant> PRP @ADVL> #2->6 
+tiuj	 [tiu] <dem> PRON DET P NOM @P< #3->2 
+$, #4->0 
+kiuj	 [kiu] <rel> PRON DET P NOM @SUBJ> #5->6 
+penas	 [peni] <mv> V PR VFIN @FS-N< #6->0 
+antauxenigi	 [antauxenigi] <mv> V INF @ICL-<ACC #7->6 
+siajn	 [sia] <refl> <poss> PRON DET P ACC @>N #8->9 
+celojn	 [celo] <ac> N P ACC @<ACC #9->7 
+per	 [per] PRP @<ADVL #10->7 
+teroro	 [teroro] <cjt-first> <am> <act-d> N S NOM @P< #11->10 
+kaj	 [kaj] KC @CO #12->13 
+bucxado	 [bucxado] <cjt> <AF:ad> <activity> <process> N S NOM @P< #13->10 
+de	 [de] PRP @N< #14->13 
+senkulpuloj	 [senkulpulo] <AF:ul> <H> N P NOM @P< #15->14 
+$, #16->0 
+ni	 [ni] PRON PERS 1P NOM @SUBJ> #17->18 
+diras	 [diri] <cjt-first> <vH&> <vq> <mv> V PR VFIN @FS-STA #18->0 
+al	 [al] PRP @<PIV #19->18 
+vi	 [vi] PRON PERS 2S/P NOM @P< #20->19 
+$, #21->0 
+ke	 [ke] KS @SUB #22->26 
+nia	 [mia] <poss> PRON DET S NOM @>N #23->24 
+spirito	 [spirito] <cjt-first> <Hmyth> N S NOM @SUBJ> #24->26 
+pli	 [pli] <cjt> <aquant> ADV @SUBJ> #25->26 
+fortas	 [forti] <mv> V PR VFIN @FS-<ACC #26->18 
+$, #27->0 
+kaj	 [kaj] <clb> KC @CO #28->31 
+nerompeblas--vi	 [nerompeblas--vi] PRON PERS 2S/P NOM @SUBJ> #29->32 
+ne	 [ne] <amod> <setop> ADV @ADVL> #30->32 
+povas	 [povi] <cjt> <aux> V PR VFIN @FS-STA #31->0 
+postdauxri	 [postdauxri] <PRP:post+dauxri> <va+TEMP> <mv> V INF @ICL-AUX< #32->31 
+nin	 [ni] PRON PERS 1P ACC @<ACC #33->32 
+$, #34->0 
+kaj	 [kaj] <clb> KC @CO #35->37 
+ni	 [ni] PRON PERS 1P NOM @SUBJ> #36->37 
+venkos	 [venki] <cjt> <mv> V FUT VFIN @FS-STA #37->0 
+vin	 [vi] PRON PERS 2S/P ACC @<ACC #38->37 
+$! #39->0 
+</s>
+
+<s id="41196" source="24-eo obama.txt">
+$[ #1->0 
+longa	 [longa] <Du> ADJ S NOM @>N #2->4 
+aplauxda	 [aplauxda] ADJ S NOM @>N #3->4 
+pauxzo	 [pauxzo] <temp> <per> N S NOM @NPHR #4->0 
+$] #5->0 
+</s>
+
+<s id="41197" source="24-eo obama.txt">
+Cxar	 [cxar] <*> KS @SUB #1->3 
+ni	 [ni] PRON PERS 1P NOM @SUBJ> #2->3 
+scias	 [scii] <vH&> <vq> <mv> V PR VFIN @FS-ADVL> #3->0 
+$, #4->0 
+ke	 [ke] KS @SUB #5->9 
+nia	 [mia] <poss> PRON DET S NOM @>N #6->8 
+diversa	 [diversa] <Du> ADJ S NOM @>N #7->8 
+heredajxo	 [heredajxo] <am> <mon-m> N S NOM @SUBJ> #8->9 
+estas	 [esti] <va+LOC> <mv> V PR VFIN @FS-<ACC #9->3 
+forto	 [forto] <ac> <gen-subj> N S NOM @<SC #10->9 
+$, #11->0 
+ne	 [ne] <amod> <setop> ADV @>N #12->13 
+malforto	 [malforto] <AF:mal> <ac> <gen-subj> <Du> N S NOM @N<PRED #13->10 
+$. #14->0 
+</s>
+
+<s id="41198" source="24-eo obama.txt">
+Ni	 [ni] <clb> <*> PRON PERS 1P NOM @SUBJ> #1->2 
+estas	 [esti] <va+LOC> <mv> V PR VFIN @FS-STA #2->0 
+nacio	 [nacio] <HH> N S NOM @<SC #3->2 
+de	 [de] PRP @N< #4->3 
+kristanoj	 [kristano] <cjt-first> <Hideo> N P NOM @P< #5->4 
+kaj	 [kaj] KC @CO #6->7 
+islamanoj	 [islamano] <cjt> <Hideo> N P NOM @P< #7->4 
+$, #8->0 
+judoj	 [judo] <cjt> <Hnat> N P NOM @P< #9->4 
+kaj	 [kaj] KC @CO #10->11 
+hinduoj	 [hinduo] <cjt> <Hideo> N P NOM @P< #11->4 
+$, #12->0 
+kaj	 [kaj] KC @CO #13->14 
+nekredantoj	 [nekredanto] <cjt> <H?> N P NOM @P< #14->4 
+$. #15->0 
+</s>
+
+<s id="41199" source="24-eo obama.txt">
+Ni	 [ni] <clb> <*> PRON PERS 1P NOM @SUBJ> #1->3 
+estas	 [esti] <cjt-first> <va+LOC> <aux> V PR VFIN @FS-STA #2->0 
+formigita	 [formigi] <AF:ig> <mv> V PCP PAS IMPF ADJ S NOM @ICL-AUX< #3->2 
+de	 [de] PRP @<ADVL #4->3 
+cxiu	 [cxiu] <quant> PRON DET S NOM @>N #5->6 
+lingvo	 [lingvo] <cjt-first> <ling> N S NOM @P< #6->4 
+kaj	 [kaj] KC @CO #7->8 
+kulturo	 [kulturo] <cjt> <ac> <conv> N S NOM @P< #8->4 
+$, #9->0 
+tirita	 [tiri] <vta+DIR> <mv> V PCP PAS IMPF ADJ S NOM @ICL-N< #10->8 
+de	 [de] PRP @<ADVL #11->10 
+cxiu	 [cxiu] <quant> PRON DET S NOM @>N #12->13 
+angulo	 [angulo] <L> <dir> <sem-c> <ac> <Ltip> N S NOM @P< #13->11 
+de	 [de] PRP @N< #14->13 
+cxi=tiu	 [cxi=tiu] <dem> PRON DET S NOM @>N #15->16 
+Tero	 [tero] <*> <cc> <cm> <Ltop> <Lsurf> N S NOM @P< #16->14 
+$, #17->0 
+kaj	 [kaj] KC @CO #18->28 
+cxar	 [cxar] KS @SUB #19->21 
+ni	 [ni] PRON PERS 1P NOM @SUBJ> #20->21 
+gustumis	 [gustumi] <mv> V IMPF VFIN @FS-ADVL> @FS-<ADVL #21->10 
+la	 [la] ART @>N #22->24 
+amaran	 [amara] <Du> ADJ S ACC @>N #23->24 
+fecxon	 [fecxo] <cm> N S ACC @<ACC #24->21 
+de	 [de] PRP @N< #25->24 
+civila	 [civila] <Dinstu> ADJ S NOM @>N #26->27 
+milito	 [milito] <cjt-first> <per> <sit> N S NOM @P< #27->25 
+kaj	 [kaj] KC @CO #28->29 
+apartismo	 [apartismo] <cjt> N S NOM @P< #29->25 
+$, #30->0 
+kaj	 [kaj] <clb> KC @CO #31->32 
+eliris	 [eliri] <cjt> <va+DIR> <mv> V IMPF VFIN @FS-STA #32->0 
+de	 [de] PRP @<PIV #33->32 
+tiu	 [tiu] <dem> PRON DET S NOM @>N #34->36 
+malluma	 [malluma] <Du> ADJ S NOM @>N #35->36 
+cxapitro	 [cxapitro] <sem-r> N S NOM @P< #36->33 
+pli	 [pli] <aquant> ADV @>A #37->38 
+fortaj	 [forta] <Dphys> ADJ P NOM @>N @N< #38->42 
+$, #39->0 
+kaj	 [kaj] KC @CO #40->46 
+pli	 [pli] <aquant> ADV @>A #41->42 
+unuigitaj	 [unuigi] V PCP PAS IMPF ADJ P NOM @<SUBJ #42->32 
+$, #43->0 
+ni	 [ni] PRON PERS 1P NOM @SUBJ> #44->46 
+tial	 [tial] <kc> ADV @ADVL> #45->46 
+kredas	 [kredi] <cjt> <vH&> <vq> <mv> V PR VFIN @FS-STA #46->0 
+$, #47->0 
+ke	 [ke] KS @SUB #48->53 
+la	 [la] ART @>N #49->51 
+malnovaj	 [malnova] <age> <Du> ADJ P NOM @>N #50->51 
+malamoj	 [malamo] N P NOM @SUBJ> #51->53 
+iam	 [iam] <atemp> ADV @ADVL> #52->53 
+pasos	 [pasi] <ve> <mv> V FUT VFIN @FS-<ACC #53->46 
+$, #54->0 
+ke	 [ke] KS @SUB #55->61 
+la	 [la] ART @>N #56->57 
+linioj	 [linio] <ac-cat> N P NOM @SUBJ> #57->61 
+de	 [de] PRP @N< #58->57 
+tribo	 [tribo] <HH> N S NOM @P< #59->58 
+baldaux	 [baldaux] <atemp> ADV @ADVL> #60->61 
+solvigxos	 [solvigxi] <mv> V FUT VFIN @FS-<ACC #61->53 
+$; #62->0 
+</s>
+
+<s id="41200" source="24-eo obama.txt">
+ke	 [ke] KS @SUB #1->5 
+dum	 [dum] KS @SUB #2->5 
+la	 [la] ART @>N #3->4 
+mondo	 [mondo] <L> N S NOM @SUBJ> #4->5 
+malgrandigxas	 [malgrandigxi] <AF:igx> <ve> <mv> V PR VFIN @FS-ADVL> #5->0 
+$, #6->0 
+nia	 [mia] <poss> PRON DET S NOM @>N #7->9 
+komuna	 [komuna] <Du> ADJ S NOM @>N #8->9 
+homeco	 [homeco] N S NOM @SUBJ> #9->10 
+aperigos	 [aperigi] <mv> V FUT VFIN @FS-STA #10->0 
+sin	 [si] <refl> PRON PERS 3S M ACC @<ACC #11->10 
+$; #12->0 
+</s>
+
+<s id="41201" source="24-eo obama.txt">
+kaj	 [kaj] KC @CO #1->2 
+ke	 [ke] KS @SUB #2->4 
+Usono	 [Usono] <*> <Lciv> PROP S NOM @SUBJ> #3->4 
+ludu	 [ludi] <mv> V VOL VFIN @FS-ACC> #4->8 
+sian	 [sia] <refl> <poss> PRON DET S ACC @>N #5->6 
+rolon	 [rolo] <ac> N S ACC @<ACC #6->4 
+por	 [por] <aquant> PRP @<ADVL #7->4 
+enkonduki	 [enkonduki] <mv> V INF @ICL-P< #8->0 
+novan	 [nova] <Du> ADJ S ACC @>N #9->10 
+epokon	 [epoko] <temp> <per> N S ACC @<ACC #10->8 
+de	 [de] PRP @N< #11->10 
+paco	 [paco] <sit> N S NOM @P< #12->11 
+$. #13->0 
+</s>
+
+<s id="41202" source="24-eo obama.txt">
+Al	 [al] <*> PRP @ADVL> #1->7 
+la	 [la] ART @>N #2->4 
+islama	 [islama] ADJ S NOM @>N #3->4 
+mondo	 [mondo] <L> N S NOM @P< #4->1 
+$, #5->0 
+ni	 [ni] PRON PERS 1P NOM @SUBJ> #6->7 
+sercxas	 [sercxi] <mv> V PR VFIN @FS-STA #7->0 
+novan	 [nova] <Du> ADJ S ACC @>N #8->9 
+vojon	 [vojo] <Lpath> <dir> N S ACC @<ACC #9->7 
+antauxen	 [antauxe] <adir> ADV @N< #10->9 
+$, #11->0 
+baze	 [baze] ADV @<ADVL #12->7 
+de	 [de] PRP @A< #13->12 
+reciproka	 [reciproka] <Du> ADJ S NOM @>N #14->15 
+intereso	 [intereso] <cjt-first> <f-psych> N S NOM @P< #15->13 
+kaj	 [kaj] KC @CO #16->18 
+reciproka	 [reciproka] <Du> ADJ S NOM @>N #17->18 
+respekto	 [respekto] <cjt> <am> <f-psych> N S NOM @P< #18->13 
+$. #19->0 
+</s>
+
+<s id="41203" source="24-eo obama.txt">
+Al	 [al] <*> PRP @ADVL> #1->10 
+tiuj	 [tiu] <dem> PRON DET P NOM @>N #2->3 
+estroj	 [estro] <Hprof> N P NOM @P< #3->1 
+cxirkaux	 [cxirkaux] PRP @N< #4->3 
+la	 [la] ART @>N #5->6 
+terglobo	 [terglobo] <Lstar> N S NOM @P< #6->4 
+$, #7->0 
+kiuj	 [kiu] <rel> PRON DET P NOM @SUBJ> #8->10 
+klopodas	 [klopodi] <aux> V PR VFIN @FS-N< #9->0 
+semi	 [semi] <mv> V INF @ICL-AUX< #10->9 
+konflikton	 [konflikto] <sit> N S ACC @<ACC #11->10 
+$, #12->0 
+aux	 [aux] KC @CO #13->14 
+kulpigi	 [kulpigi] <vH&> <mv> V INF @ICL-AUX< #14->9 
+pri	 [pri] PRP @<ADVL #15->14 
+siaj	 [sia] <refl> <poss> PRON DET P NOM @>N #16->18 
+sociaj	 [socia] ADJ P NOM @>N #17->18 
+problemoj	 [problemo] <ac> <sem-c> N P NOM @P< #18->15 
+la	 [la] ART @>N #19->20 
+Okcidenton	 [okcidento] <*> <dir> N S ACC @<ACC #20->14 
+$, #21->0 
+sciu	 [scii] <vH&> <vq> <mv> V VOL VFIN @FS-COM #22->0 
+ke	 [ke] KS @SUB #23->26 
+viaj	 [via] <poss> PRON DET P NOM @>N #24->25 
+popoloj	 [popolo] <HH> N P NOM @SUBJ> #25->26 
+jugxos	 [jugxi] <mv> V FUT VFIN @FS-<ACC #26->22 
+vin	 [vi] PRON PERS 2S/P ACC @<ACC #27->26 
+per	 [per] PRP @<ADVL #28->26 
+tio	 [tio] <dem> PRON INDP S NOM @P< #29->28 
+$, #30->0 
+kion	 [kio] <rel> PRON INDP S ACC @ACC> #31->33 
+vi	 [vi] PRON PERS 2S/P NOM @SUBJ> #32->33 
+konstruas	 [konstrui] <mv> V PR VFIN @FS-N< #33->29 
+$, #34->0 
+ne	 [ne] <amod> <setop> ADV @>N #35->36 
+kion	 [kio] <rel> PRON INDP S ACC @ACC> #36->38 
+vi	 [vi] PRON PERS 2S/P NOM @SUBJ> #37->38 
+detruas	 [detrui] <mv> V PR VFIN @FS-N< #38->0 
+$. #39->0 
+</s>
+
+<s id="41204" source="24-eo obama.txt">
+$[ #1->0 
+aplauxda	 [aplauxda] ADJ S NOM @>N #2->3 
+pauxzo	 [pauxzo] <temp> <per> N S NOM @NPHR #3->0 
+$] #4->0 
+</s>
+
+<s id="41205" source="24-eo obama.txt">
+Al	 [al] <*> PRP @ADVL> #1->5 
+tiuj	 [tiu] <dem> PRON DET P NOM @P< #2->1 
+$, #3->0 
+kiuj	 [kiu] <rel> PRON DET P NOM @SUBJ> #4->5 
+tenas	 [teni] <mv> V PR VFIN @FS-N< #5->0 
+potencon	 [potenco] <am> <ac> N S ACC @<ACC #6->5 
+per	 [per] PRP @<PIV #7->5 
+korupto	 [korupto] <cjt-first> <mon-c> <act> <am> N S NOM @P< #8->7 
+kaj	 [kaj] KC @FOC> #9->11 
+trompo	 [trompo] <cjt> N S NOM @P< #10->7 
+kaj	 [kaj] KC @CO #11->12 
+subpremo	 [subpremo] <cjt> N S NOM @P< #12->7 
+de	 [de] PRP @N< #13->12 
+protesto	 [protesto] <ss> N S NOM @P< #14->13 
+$, #15->0 
+sciu	 [scii] <vH&> <vq> <mv> V VOL VFIN @FS-COM #16->0 
+$, #17->0 
+ke	 [ke] KS @SUB #18->20 
+vi	 [vi] PRON PERS 2S/P NOM @SUBJ> #19->20 
+estas	 [esti] <va+LOC> <mv> V PR VFIN @FS-<ACC #20->16 
+sur	 [sur] PRP @<SA #21->20 
+la	 [la] ART @>N #22->24 
+malgxusta	 [malgxusta] <Du> ADJ S NOM @>N #23->24 
+flanko	 [flanko] <Lsurf> <an> <L> <sem-r> <anzo> N S NOM @P< #24->21 
+de	 [de] PRP @N< #25->24 
+historio	 [historio] <sem> <ac> N S NOM @P< #26->25 
+$, #27->0 
+sed	 [sed] <clb> KC @CO #28->30 
+ni	 [ni] PRON PERS 1P NOM @SUBJ> #29->30 
+etendos	 [etendi] <vta+DIR> <mv> V FUT VFIN @FS-STA #30->0 
+manon	 [mano] <anmov> N S ACC @<ACC #31->30 
+se	 [se] KS @SUB #32->34 
+vi	 [vi] PRON PERS 2S/P NOM @SUBJ> #33->34 
+konsentas	 [konsenti] <vH&> <vq> <mv> V PR VFIN @FS-<ADVL #34->30 
+malfermi	 [malfermi] <mv> V INF @ICL-<ACC @ICL-<SC #35->34 
+vian	 [via] <poss> PRON DET S ACC @>N #36->37 
+pugnon	 [pugno] <anmov> N S ACC @<ACC #37->35 
+$. #38->0 
+</s>
+
+<s id="41206" source="24-eo obama.txt">
+$[ #1->0 
+aplauxda	 [aplauxda] ADJ S NOM @>N #2->3 
+pauxzo	 [pauxzo] <temp> <per> N S NOM @NPHR #3->0 
+$] #4->0 
+</s>
+
+<s id="41207" source="24-eo obama.txt">
+Al	 [al] <*> PRP @ADVL> #1->10 
+la	 [la] ART @>N #2->3 
+popoloj	 [popolo] <HH> N P NOM @P< #3->1 
+de	 [de] PRP @N< #4->3 
+malricxaj	 [malricxa] <Dsoc/eco> ADJ P NOM @>N #5->6 
+landoj	 [lando] <Lciv> N P NOM @P< #6->4 
+$, #7->0 
+ni	 [ni] PRON PERS 1P NOM @SUBJ> #8->10 
+promesas	 [promesi] <vH&> <vq> <aux> V PR VFIN @FS-STA #9->0 
+labori	 [labori] <mv> V INF @ICL-AUX< #10->9 
+kune	 [kune] ADV @<ADVL #11->10 
+kun	 [kun] PRP @A< #12->11 
+vi	 [vi] PRON PERS 2S/P NOM @P< #13->12 
+por	 [por] <aquant> PRP @<ADVL #14->10 
+burgxonigi	 [burgxonigi] <cjt-first> <AF:ig> <mv> V INF @ICL-P< #15->14 
+viajn	 [via] <poss> PRON DET P ACC @>N #16->17 
+plantejon	 [plantejo] <Lh> N S ACC @<ACC #17->15 
+kaj	 [kaj] KC @CO #18->20 
+por	 [por] <aquant> PRP @ADVL> #19->20 
+fluigi	 [fluigi] <cjt> <AF:ig> <mv> V INF @ICL-P< #20->14 
+purajn	 [pura] <Du> ADJ P ACC @>N #21->22 
+akvojn	 [akvo] <cm-liq> N P ACC @<ACC #22->20 
+$; #23->0 
+</s>
+
+<s id="41208" source="24-eo obama.txt">
+por	 [por] <aquant> PRP @ADVL> #1->2 
+nutri	 [nutri] <mv> V INF @ICL-P< #2->0 
+malsategajn	 [malsatega] ADJ P ACC @>N #3->4 
+korpojn	 [korpo] <cc> <cc-h> N P ACC @<ACC #4->2 
+kaj	 [kaj] KC @CO #5->6 
+eduki	 [eduki] <mv> V INF @ICL-P< #6->1 
+avidajn	 [avida] <Dpsych> ADJ P ACC @>N #7->8 
+mensojn	 [menso] <f-psych> <ac> N P ACC @<ACC #8->6 
+$. #9->0 
+</s>
+
+<s id="41209" source="24-eo obama.txt">
+Kaj	 [kaj] <*> KC @CO #1->25 
+al	 [al] PRP @ADVL> #2->9 
+tiuj	 [tiu] <dem> PRON DET P NOM @>N #3->4 
+nacioj	 [nacio] <HH> N P NOM @P< #4->2 
+kiel	 [kiel] <kp> PRP @N< #5->4 
+nia	 [mia] <poss> PRON DET S NOM @P< #6->5 
+$, #7->0 
+kiuj	 [kiu] <rel> PRON DET P NOM @SUBJ> #8->9 
+gxuas	 [gxui] <vH&> <mv> V PR VFIN @FS-N< #9->0 
+relativan	 [relativa] <Dsci> <Du> ADJ S ACC @>N #10->11 
+abundon	 [abundo] <amount> N S ACC @<ACC #11->9 
+$, #12->0 
+ni	 [ni] PRON PERS 1P NOM @SUBJ> #13->14 
+diras	 [diri] <vH&> <vq> <mv> V PR VFIN @FS-STA #14->0 
+ke	 [ke] KS @SUB #15->18 
+ni	 [ni] PRON PERS 1P NOM @SUBJ> #16->19 
+ne=plu	 [ne=plu] <atemp> ADV @ADVL> #17->19 
+povas	 [povi] <cjt-first> <aux> V PR VFIN @FS-<ACC #18->14 
+ignori	 [ignori] <vH&> <mv> V INF @ICL-AUX< #19->18 
+suferojn	 [sufero] N P ACC @<ACC #20->19 
+ekster	 [ekster] <aloc> PRP @<ADVL #21->19 
+niaj	 [nia] <poss> PRON DET P NOM @>N #22->23 
+landlimoj	 [landlimo] <Lh> N P NOM @P< #23->21 
+$, #24->0 
+nek	 [nek] <clb> KC @ADVL> #25->27 
+povas	 [povi] <cjt> <aux> V PR VFIN @FS-<ACC #26->14 
+konsumi	 [konsumi] <mv> V INF @ICL-AUX< #27->26 
+la	 [la] ART @>N #28->29 
+materialojn	 [materialo] <ac> <sem> <cm-h> N P ACC @<ACC #29->27 
+de	 [de] PRP @N< #30->29 
+la	 [la] ART @>N #31->32 
+mondo	 [mondo] <L> N S NOM @P< #32->30 
+ignorante	 [ignori] <vH&> <mv> V PCP AKT PR ADV @ICL-<ADVL #33->27 
+la	 [la] ART @>N #34->35 
+efikon	 [efiko] <AF:iko> <domain> <Du> N S ACC @<ACC #35->33 
+$. #36->0 
+</s>
+
+<s id="41210" source="24-eo obama.txt">
+Jen	 [jen] <clb> <*> ADV @ADVL #1->0 
+la	 [la] ART @>N #2->3 
+mondo	 [mondo] <L> N S NOM @SUBJ> #3->4 
+sxangxigxis	 [sxangxigxi] <mv> V IMPF VFIN @FS-STA #4->0 
+$, #5->0 
+kaj	 [kaj] <clb> KC @CO #6->8 
+ni	 [ni] PRON PERS 1P NOM @SUBJ> #7->8 
+sxangxigxu	 [sxangxigxi] <mv> V VOL VFIN @FS-COM #8->0 
+kun	 [kun] PRP @<ADVL #9->8 
+gxi	 [gxi] PRON PERS 3S NEU S NOM @P< #10->9 
+$. #11->0 
+</s>
+
+<s id="41211" source="24-eo obama.txt">
+Dum	 [dum] <*> KS @SUB #1->3 
+ni	 [ni] PRON PERS 1P NOM @SUBJ> #2->3 
+konsideras	 [konsideri] <vH&> <vq> <mv> V PR VFIN @FS-ADVL> #3->6 
+la	 [la] ART @>N #4->5 
+rolon	 [rolo] <ac> N S ACC @<ACC #5->3 
+disvolvigxantan	 [disvolvigxi] <mv> V PCP AKT PR ADJ S ACC @ICL-N< #6->0 
+antaux	 [antaux] <atemp> PRP @<ADVL #7->6 
+ni	 [ni] PRON PERS 1P NOM @P< #8->7 
+$, #9->0 
+ni	 [ni] PRON PERS 1P NOM @SUBJ> #10->11 
+memoras	 [memori] <vH&> <vq> <mv> V PR VFIN @FS-STA #11->0 
+kun	 [kun] PRP @<ADVL #12->11 
+humila	 [humila] <Dsoc/Dpsych> ADJ S NOM @>N #13->14 
+dankemo	 [dankemo] <N:dank+emo> <f-psych> N S NOM @P< #14->12 
+tiujn	 [tiu] <dem> PRON DET P ACC @>N #15->17 
+kuragxajn	 [kuragxa] <Dpsych/SDwar> <Dwar> ADJ P ACC @>N #16->17 
+usonanojn	 [usonano] <Hnat> N P ACC @<ACC #17->11 
+$, #18->0 
+kiuj	 [kiu] <rel> PRON DET P NOM @SUBJ> #19->21 
+nun	 [nun] <atemp> ADV @ADVL> #20->21 
+patrolas	 [patroli] <mv> V PR VFIN @FS-N< #21->17 
+forajn	 [fora] <Du> ADJ P ACC @>N #22->23 
+dezertojn	 [dezerto] <cjt-first> <Ltop> N P ACC @<ACC #23->21 
+kaj	 [kaj] KC @CO #24->26 
+distancajn	 [distanca] ADJ P ACC @>N #25->26 
+montojn	 [monto] <cjt> <Ltop> N P ACC @<ACC #26->21 
+$. #27->0 
+</s>
+
+<s id="41212" source="24-eo obama.txt">
+Ili	 [ili] <clb> <*> PRON PERS 3P NOM @SUBJ> #1->2 
+havas	 [havi] <cjt-first> <mv> V PR VFIN @FS-STA #2->0 
+ion	 [io] <quant> PRON INDP S ACC @<ACC #3->2 
+por	 [por] <aquant> PRP @<ADVL #4->2 
+rakonti	 [rakonti] <vH&> <vq> <mv> V INF @ICL-P< #5->4 
+al	 [al] PRP @<PIV #6->5 
+ni	 [ni] PRON PERS 1P NOM @P< #7->6 
+$, #8->0 
+kiel	 [kiel] <interr> ADV @ADVL> #9->14 
+la	 [la] ART @>N #10->12 
+falintaj	 [fali] <ve> <va+DIR> V PCP AKT IMPF ADJ P NOM @>N #11->12 
+herooj	 [heroo] <cjt-first> <H> N P NOM @SUBJ> #12->20 
+kiuj	 [kiu] <rel> PRON DET P NOM @SUBJ> #13->14 
+kusxas	 [kusxi] <mv> V PR VFIN @FS-N< #14->12 
+en	 [en] PRP @<ADVL #15->14 
+Arlington	 [Arlington] <*> PROP S NOM @P< #16->15 
+{	 [{] #17->0 
+4	 [4] <cjt> <card> <cif> NUM P @SUBJ> #18->20 
+}	 [}] #19->0 
+flustras	 [flustri] <cjt> <vH&> <vq> <mv> V PR VFIN @FS-STA #20->0 
+tra	 [tra] PRP @<ADVL #21->20 
+la	 [la] ART @>N #22->23 
+epokoj	 [epoko] <temp> <per> N P NOM @P< #23->21 
+$. #24->0 
+</s>
+
+<s id="41213" source="24-eo obama.txt">
+Ni	 [ni] <clb> <*> PRON PERS 1P NOM @SUBJ> #1->2 
+honoras	 [honori] <mv> V PR VFIN @FS-STA #2->0 
+ilin	 [ili] PRON PERS 3P ACC @<ACC #3->2 
+$, #4->0 
+ne	 [ne] <amod> <setop> ADV @<ADVL #5->2 
+nur	 [nur] <setop> ADV @<ADVL #6->2 
+cxar	 [cxar] KS @SUB #7->9 
+ili	 [ili] PRON PERS 3P NOM @SUBJ> #8->9 
+estas	 [esti] <cjt-first> <va+LOC> <mv> V PR VFIN @FS-<ADVL #9->2 
+gardistoj	 [gardisto] <Hprof> <temp> N P NOM @<SC #10->9 
+de	 [de] PRP @N< #11->10 
+nia	 [mia] <poss> PRON DET S NOM @>N #12->13 
+libereco	 [libereco] <ac> <am> N S NOM @P< #13->11 
+$, #14->0 
+sed	 [sed] KC @CO #15->18 
+cxar	 [cxar] KS @SUB #16->18 
+ili	 [ili] PRON PERS 3P NOM @SUBJ> #17->18 
+enkorpigas	 [enkorpigi] <cjt> <mv> V PR VFIN @FS-<ADVL #18->2 
+la	 [la] ART @>N #19->20 
+spiriton	 [spirito] <Hmyth> N S ACC @<ACC #20->18 
+de	 [de] PRP @N< #21->20 
+servo--volontemon	 [servo--volontemo] <N:volont+emo> <f-psych> N S ACC @P< #22->21 
+trovi	 [trovi] <vq> <mv> V INF @ICL-N< #23->22 
+signifon	 [signifo] <ac> N S ACC @<ACC #24->23 
+en	 [en] PRP @<ADVL #25->23 
+io	 [io] <quant> PRON INDP S NOM @P< #26->25 
+pli	 [pli] <aquant> ADV @>A #27->28 
+granda	 [granda] <Du> ADJ S NOM @N< #28->26 
+ol	 [ol] <kp> PRP @KOMP< #29->27 
+si	 [si] <refl> PRON PERS 3S M NOM @P< #30->29 
+mem	 [mem] PRON DET nN NOM @N< #31->30 
+$. #32->0 
+</s>
+
+<s id="41214" source="24-eo obama.txt">
+Tamen	 [tamen] <*> <kc> ADV @ADVL> #1->8 
+dum	 [dum] PRP @ADVL> #2->8 
+cxi=tiu	 [cxi=tiu] <dem> PRON DET S NOM @>N #3->4 
+momento	 [momento] <ac> <temp> <per> N S NOM @P< #4->2 
+$, #5->0 
+momento	 [momento] <ac> <temp> <per> N S NOM @SUBJ> #6->11 
+kiu	 [kiu] <rel> PRON DET S NOM @SUBJ> #7->8 
+difinos	 [difini] <vH&> <mv> V FUT VFIN @FS-N< #8->6 
+generacion	 [generacio] <per> <HH> N S ACC @<ACC #9->8 
+$, #10->0 
+estas	 [esti] <va+LOC> <mv> V PR VFIN @FS-STA #11->0 
+precize	 [precize] ADV @<ADVL #12->11 
+tiu	 [tiu] <dem> PRON DET S NOM @>N #13->14 
+spirito	 [spirito] <Hmyth> N S NOM @<SC #14->11 
+$, #15->0 
+kiu	 [kiu] <rel> PRON DET S NOM @SUBJ> #16->17 
+estu	 [esti] <va+LOC> <mv> V VOL VFIN @FS-N< #17->14 
+en	 [en] PRP @<SA #18->17 
+ni	 [ni] PRON PERS 1P NOM @P< #19->18 
+cxiuj	 [cxiu] <quant> PRON DET P NOM @<SC #20->17 
+$. #21->0 
+</s>
+
+<s id="41215" source="24-eo obama.txt">
+Kiom	 [kiom] <cjt-first> <*> <rel> <aquant> ADV @SUBJ> #1->5 
+ajn	 [ajn] ADV @ADVL> #2->5 
+registaro	 [registaro] <cjt> <HH> N S NOM @SUBJ> #3->5 
+povas	 [povi] <aux> V PR VFIN @FS-SUBJ> @FS-ACC> @FS-N< @FS-ADVL> #4->24 
+fari	 [fari] <mv> V INF @ICL-AUX< #5->4 
+$, #6->0 
+kaj	 [kaj] <clb> KC @CO #7->15 
+devas	 [devi] <cjt-first> <aux> V PR VFIN @FS-STA #8->0 
+fari	 [fari] <mv> V INF @ICL-AUX< #9->8 
+$, #10->0 
+estas	 [esti] <cjt> <va+LOC> <mv> V PR VFIN @FS-STA #11->0 
+finfine	 [finfine] ADV @<ADVL #12->11 
+la	 [la] ART @>N #13->14 
+fido	 [fido] <f-psych> N S NOM @<SUBJ #14->11 
+kaj	 [kaj] KC @CO #15->16 
+rezoluteco	 [rezoluteco] <f-psych> N S NOM @<SC #16->11 
+de	 [de] PRP @N< #17->16 
+la	 [la] ART @>N #18->19 
+usonanoj	 [usonano] <Hnat> N P NOM @P< #19->17 
+de	 [de] PRP @ADVL> #20->24 
+kio	 [kio] <rel> PRON INDP S NOM @P< #21->20 
+nia	 [mia] <poss> PRON DET S NOM @>N #22->23 
+lando	 [lando] <Lciv> N S NOM @SUBJ> #23->24 
+dependas	 [dependi] <mv> V PR VFIN @FS-N< #24->19 
+$. #25->0 
+</s>
+
+<s id="41216" source="24-eo obama.txt">
+Gxi	 [gxi] <clb> <*> PRON PERS 3S NEU S NOM @SUBJ> #1->2 
+estas	 [esti] <va+LOC> <mv> V PR VFIN @FS-STA #2->0 
+la	 [la] ART @>N #3->4 
+kompato	 [kompato] <ac> <f-psych> N S NOM @<SC #4->2 
+endomigi	 [endomigi] <AF:ig> <mv> V INF @ICL-<ACC @ICL-<SC @ICL-N< #5->2 
+nekonaton	 [nekonato] <H> N S ACC @<ACC #6->5 
+kiam	 [kiam] KS @SUB #7->9 
+digoj	 [digo] <Lh> <gen-obj> N P NOM @SUBJ> #8->9 
+krevas	 [krevi] <ve> <mv> V PR VFIN @FS-<ADVL #9->5 
+$, #10->0 
+la	 [la] ART @>N #11->12 
+sindonemo	 [sindonemo] <ADJ:sindon+emo> <f-psych> N S NOM @SUBJ> #12->21 
+de	 [de] PRP @N< #13->12 
+laborantoj	 [laboranto] N P NOM @P< #14->13 
+kiuj	 [kiu] <rel> PRON DET P NOM @SUBJ> #15->17 
+preferus	 [preferi] <vH&> <aux> V COND VFIN @FS-N< #16->14 
+redukti	 [redukti] <mv> V INF @ICL-AUX< #17->16 
+siajn	 [sia] <refl> <poss> PRON DET P ACC @>N #18->19 
+laborhorojn	 [laborhoro] <N:labor+horo> <dur> N P ACC @<ACC #19->17 
+ol	 [ol] <kp> PRP @<ADVL #20->9 
+vidi	 [vidi] <vq> <mv> V INF @ICL-P< #21->20 
+amikon	 [amiko] <H> N S ACC @<ACC #22->21 
+perdi	 [perdi] <mv> V INF @ICL-<OA #23->21 
+laboron	 [laboro] <ac> N S ACC @<ACC #24->23 
+$, #25->0 
+kiuj	 [kiu] <rel> PRON DET P NOM @SUBJ> #26->27 
+gvidas	 [gvidi] <vta+DIR> <mv> V PR VFIN @FS-N< #27->24 
+nin	 [ni] PRON PERS 1P ACC @<ACC #28->27 
+tra	 [tra] PRP @<ADVL #29->27 
+niaj	 [nia] <poss> PRON DET P NOM @>N #30->33 
+plej	 [plej] <aquant> ADV @>A #31->32 
+mallumaj	 [malluma] <Du> ADJ P NOM @>N #32->33 
+horoj	 [horo] <dur> N P NOM @P< #33->29 
+$. #34->0 
+</s>
+
+<s id="41217" source="24-eo obama.txt">
+Estas	 [esti] <*> <va+LOC> <mv> V PR VFIN @FS-STA #1->0 
+la	 [la] ART @>N #2->3 
+kuragxo	 [kuragxo] <f-psych> N S NOM @<SC #3->1 
+de	 [de] PRP @N< #4->3 
+fajrbrigadistoj	 [fajrbrigadisto] <cjt-first> <Hprof> N P NOM @P< #5->4 
+sturmi	 [sturmi] <mv> V INF @ICL-<SUBJ @ICL-N< #6->1 
+sxtuparon	 [sxtuparo] <Lh> N S ACC @<ACC #7->6 
+fumplenan	 [fumplena] <N:fum+plena> <cond> <Dchem> <Du> ADJ S ACC @N< #8->7 
+$, #9->0 
+sed	 [sed] KC @CO #10->11 
+ankaux	 [ankaux] <setop> ADV @>N #11->13 
+la	 [la] ART @>N #12->13 
+vartemo	 [vartemo] <cjt> <V:vart+emo> <f-psych> N S NOM @P< #13->4 
+de	 [de] PRP @N< #14->13 
+gepatroj	 [gepatro] <pl> <Hfam> N P NOM @P< #15->14 
+al	 [al] PRP @N< #16->13 
+infanoj	 [infano] <H> N P NOM @P< #17->16 
+$, #18->0 
+kiuj	 [kiu] <rel> PRON DET P NOM @SUBJ> #19->21 
+finfine	 [finfine] ADV @ADVL> #20->21 
+decidas	 [decidi] <vH&> <vq> <mv> V PR VFIN @FS-N< #21->17 
+nian	 [nia] <poss> PRON DET S ACC @>N #22->23 
+sorton	 [sorto] <ac> N S ACC @<ACC #23->21 
+$. #24->0 
+</s>
+
+<s id="41218" source="24-eo obama.txt">
+Niaj	 [nia] <clb> <*> <poss> PRON DET P NOM @>N #1->2 
+defioj	 [defio] <act> N P NOM @SUBJ> #2->4 
+eble	 [eble] <ameta> <amod> ADV @ADVL> #3->4 
+estas	 [esti] <va+LOC> <mv> V PR VFIN @FS-STA #4->0 
+novaj	 [nova] <Du> ADJ P NOM @<SC #5->4 
+$. #6->0 
+</s>
+
+<s id="41219" source="24-eo obama.txt">
+La	 [la] <clb> <*> ART @>N #1->2 
+iloj	 [ilo] <cc-h> N P NOM @SUBJ> #2->7 
+por	 [por] <aquant> PRP @N< #3->2 
+alfronti	 [alfronti] <mv> V INF @ICL-P< #4->3 
+ilin	 [ili] PRON PERS 3P ACC @<ACC #5->4 
+eble	 [eble] <ameta> <amod> ADV @<ADVL #6->4 
+estus	 [esti] <va+LOC> <mv> V COND VFIN @FS-STA #7->0 
+novaj	 [nova] <Du> ADJ P NOM @<SC #8->7 
+$. #9->0 
+</s>
+
+<s id="41220" source="24-eo obama.txt">
+Sed	 [sed] <*> KC @CO #1->9 
+la	 [la] ART @>N #2->3 
+valoroj	 [valoro] <ac> N P NOM @NPHR #3->0 
+de	 [de] PRP @N< #4->3 
+kiuj	 [kiu] <rel> PRON DET P NOM @P< #5->4 
+nia	 [mia] <poss> PRON DET S NOM @>N #6->7 
+sukceso	 [sukceso] <cjt-first> <ac> N S NOM @SUBJ> #7->23 
+dependas--honesto	 [dependas--honesto] <cjt> <Du> <Dsoc> N S NOM @SUBJ> #8->23 
+kaj	 [kaj] KC @CO #9->10 
+diligenteco	 [diligenteco] <cjt> <f-psych> N S NOM @SUBJ> #10->23 
+$, #11->0 
+kuragxo	 [kuragxo] <cjt> <f-psych> N S NOM @SUBJ> #12->23 
+kaj	 [kaj] KC @CO #13->14 
+justo	 [justo] <cjt> <Du> N S NOM @SUBJ> #14->23 
+$, #15->0 
+toleremo	 [toleremo] <cjt> <f-psych> N S NOM @SUBJ> #16->23 
+kaj	 [kaj] KC @CO #17->18 
+scivolo	 [scivolo] <cjt> <f-psych> N S NOM @SUBJ> #18->23 
+$, #19->0 
+lojaleco	 [lojaleco] <cjt> <f-psych> N S NOM @SUBJ> #20->23 
+kaj	 [kaj] KC @CO #21->22 
+patriotismo--tiuj	 [patriotismo--tiu] <cjt> <dem> PRON DET P NOM @SUBJ> #22->23 
+estas	 [esti] <va+LOC> <mv> V PR VFIN @FS-N< #23->3 
+malnovaj	 [malnova] <age> <Du> ADJ P NOM @<SC #24->23 
+$. #25->0 
+</s>
+
+<s id="41221" source="24-eo obama.txt">
+Tiuj	 [tiu] <clb> <*> <dem> PRON DET P NOM @>N #1->2 
+valoroj	 [valoro] <ac> N P NOM @SUBJ> #2->3 
+estas	 [esti] <va+LOC> <mv> V PR VFIN @FS-STA #3->0 
+veraj	 [vera] <Dcog> ADJ P NOM @<SC #4->3 
+$. #5->0 
+</s>
+
+<s id="41222" source="24-eo obama.txt">
+Ili	 [ili] <clb> <*> PRON PERS 3P NOM @SUBJ> #1->2 
+estis	 [esti] <va+LOC> <mv> V IMPF VFIN @FS-STA #2->0 
+la	 [la] ART @>N #3->5 
+serena	 [serena] <Dcog> <prop> <Du> ADJ S NOM @>N #4->5 
+forto	 [forto] <ac> <gen-subj> N S NOM @<SC #5->2 
+de	 [de] PRP @N< #6->5 
+progreso	 [progreso] <process> <am> N S NOM @P< #7->6 
+tra	 [tra] PRP @<ADVL #8->2 
+nia	 [mia] <poss> PRON DET S NOM @>N #9->10 
+historio	 [historio] <sem> <ac> N S NOM @P< #10->8 
+$. #11->0 
+</s>
+
+<s id="41223" source="24-eo obama.txt">
+Necesas	 [necesi] <*> <mv> V PR VFIN @FS-STA #1->0 
+do	 [do] ADV @<ADVL #2->1 
+reveno	 [reveno] <act> <event> N S NOM @<SUBJ #3->1 
+al	 [al] PRP @N< #4->3 
+tiuj	 [tiu] <dem> PRON DET P NOM @>N #5->6 
+veroj	 [vero] <ac> N P NOM @P< #6->4 
+$. #7->0 
+</s>
+
+<s id="41224" source="24-eo obama.txt">
+Neceso	 [neceso] <clb> <*> <ac> N S NOM @SUBJ> #1->5 
+al	 [al] PRP @N< #2->1 
+ni	 [ni] PRON PERS 1P NOM @P< #3->2 
+nun	 [nun] <atemp> ADV @ADVL> #4->5 
+estas	 [esti] <va+LOC> <mv> V PR VFIN @FS-STA #5->0 
+nova	 [nova] <Du> ADJ S NOM @>N #6->7 
+epoko	 [epoko] <temp> <per> N S NOM @<SC #7->5 
+de	 [de] PRP @N< #8->7 
+respondeco--agnosko	 [respondeco--agnosko] <sem-c> N S NOM @P< #9->8 
+de	 [de] PRP @N< #10->9 
+cxiu	 [cxiu] <quant> PRON DET S NOM @>N #11->12 
+usonano	 [usonano] <Hnat> N S NOM @P< #12->10 
+$, #13->0 
+ke	 [ke] KS @SUB #14->16 
+ni	 [ni] PRON PERS 1P NOM @SUBJ> #15->16 
+havas	 [havi] <mv> V PR VFIN @FS-N< #16->0 
+devojn	 [devo] <conv> <f-right> N P ACC @<ACC #17->16 
+al	 [al] PRP @N< #18->17 
+ni	 [ni] <cjt-first> PRON PERS 1P NOM @P< #19->18 
+mem	 [mem] PRON DET nN NOM @N< #20->19 
+$, #21->0 
+nia	 [mia] <poss> PRON DET S NOM @>N #22->23 
+lando	 [lando] <cjt> <Lciv> N S NOM @P< #23->18 
+$, #24->0 
+kaj	 [kaj] KC @CO #25->26 
+la	 [la] ART @>N #26->27 
+mondo	 [mondo] <cjt> <L> N S NOM @P< #27->18 
+$; #28->0 
+</s>
+
+<s id="41225" source="24-eo obama.txt">
+devojn	 [devo] <conv> <f-right> N P ACC @NPHR #1->0 
+$, #2->0 
+kiujn	 [kiu] <rel> PRON DET P ACC @ACC> #3->7 
+ni	 [ni] PRON PERS 1P NOM @SUBJ> #4->7 
+ne	 [ne] <amod> <setop> ADV @>A #5->6 
+plende	 [plende] ADV @ADVL> #6->7 
+akceptas	 [akcepti] <vH&> <vq> <mv> V PR VFIN @FS-N< #7->1 
+$, #8->0 
+sed	 [sed] <clb> KC @CO #9->11 
+anstatauxe	 [anstatauxe] ADV @ADVL> #10->11 
+prenas	 [preni] <vta+DIR> <mv> V PR VFIN @FS-STA #11->0 
+gxoje	 [gxoje] <amanner> ADV @<ADVL #12->11 
+$, #13->0 
+firme	 [firme] ADV @<ADVL #14->11 
+kun	 [kun] PRP @<ADVL #15->11 
+la	 [la] ART @>N #16->17 
+scio	 [scio] <sem-c> N S NOM @P< #17->15 
+ke	 [ke] KS @SUB #18->19 
+estas	 [esti] <va+LOC> <mv> V PR VFIN @FS-<SUBJ @FS-<ACC @FS-N< #19->11 
+nenio	 [nenio] <am> PRON INDP S NOM @<SUBJ @<SC #20->19 
+pli	 [pli] <aquant> ADV @>A #21->22 
+kontentiga	 [kontentiga] ADJ S NOM @PRED> #22->33 
+al	 [al] PRP @<ADVL #23->19 
+la	 [la] ART @>N #24->25 
+spirito	 [spirito] <Hmyth> N S NOM @P< #25->23 
+$, #26->0 
+pli	 [pli] <aquant> ADV @ADVL> #27->28 
+difinanta	 [difini] <vH&> <mv> V PCP AKT PR ADJ S NOM @ICL-N< #28->25 
+nian	 [nia] <poss> PRON DET S ACC @>N #29->30 
+naturon	 [naturo] N S ACC @<ACC #30->28 
+$, #31->0 
+ol	 [ol] <kp> PRP @<ADVL #32->28 
+dedicxi	 [dedicxi] <mv> V INF @ICL-P< #33->32 
+nin	 [ni] PRON PERS 1P ACC @<ACC #34->33 
+plene	 [plene] <aquant> ADV @<ADVL #35->33 
+al	 [al] PRP @<PIV #36->33 
+malfacila	 [malfacila] <Diffi> <Du> ADJ S NOM @>N #37->38 
+tasko	 [tasko] <ac> <sem> N S NOM @P< #38->36 
+$. #39->0 
+</s>
+
+<s id="41226" source="24-eo obama.txt">
+Jen	 [jen] <*> ADV @ADVL #1->0 
+la	 [la] ART @>N #2->3 
+prezo	 [prezo] <mon-c> N S NOM @NPHR #3->1 
+kaj	 [kaj] KC @CO #4->5 
+la	 [la] ART @>N #5->6 
+promeso	 [promeso] <act-s> <ss> N S NOM @NPHR #6->0 
+de	 [de] PRP @N< #7->6 
+civitaneco	 [civitaneco] <ac> N S NOM @P< #8->7 
+$. #9->0 
+</s>
+
+<s id="41227" source="24-eo obama.txt">
+Jen	 [jen] <*> ADV @ADVL #1->0 
+la	 [la] ART @>N #2->3 
+fonto	 [fonto] <Lwater> <Hprof> N S NOM @NPHR #3->1 
+de	 [de] PRP @N< #4->3 
+nia	 [mia] <cjt-first> <poss> PRON DET S NOM @P< #5->4 
+memfido--la	 [memfido--la] ART @>N #6->7 
+scio	 [scio] <cjt> <sem-c> N S NOM @P< #7->4 
+$, #8->0 
+ke	 [ke] KS @SUB #9->11 
+Dio	 [Dio] <*> PROP S NOM @SUBJ> #10->11 
+alvokas	 [alvoki] <vH&> <mv> V PR VFIN @FS-ACC> #11->13 
+nin	 [ni] PRON PERS 1P ACC @<ACC #12->11 
+formi	 [formi] <mv> V INF @ICL-N< #13->7 
+necertan	 [necerta] <Dsoc/Dpsych> <Du> ADJ S ACC @>N #14->15 
+sorton	 [sorto] <ac> N S ACC @<ACC #15->13 
+$. #16->0 
+</s>
+
+<s id="41228" source="24-eo obama.txt">
+Jen	 [jen] <*> ADV @ADVL #1->0 
+la	 [la] ART @>N #2->3 
+signifo	 [signifo] <ac> N S NOM @NPHR #3->1 
+de	 [de] PRP @N< #4->3 
+nia	 [mia] <poss> PRON DET S NOM @>N #5->6 
+libereco	 [libereco] <cjt-first> <ac> <am> N S NOM @P< #6->4 
+kaj	 [kaj] KC @CO #7->9 
+nia	 [mia] <poss> PRON DET S NOM @>N #8->9 
+kredo	 [kredo] <cjt> <f-psych> N S NOM @P< #9->4 
+$, #10->0 
+kial	 [kial] <interr> ADV @ADVL> #11->24 
+viroj	 [viro] <cjt-first> <H> N P NOM @SUBJ> #12->24 
+kaj	 [kaj] KC @FOC> #13->15 
+virinoj	 [virino] <cjt> <H> N P NOM @SUBJ> #14->24 
+kaj	 [kaj] KC @FOC> #15->20 
+infanoj	 [infano] <cjt> <H> N P NOM @SUBJ> #16->24 
+de	 [de] PRP @N< #17->16 
+cxiu	 [cxiu] <quant> PRON DET S NOM @>N #18->19 
+raso	 [raso] <ac-cat> N S NOM @P< #19->17 
+kaj	 [kaj] KC @CO #20->22 
+cxiu	 [cxiu] <quant> PRON DET S NOM @>N #21->22 
+kredo	 [kredo] <cjt> <f-psych> N S NOM @SUBJ> #22->24 
+povas	 [povi] <aux> V PR VFIN @FS-STA #23->0 
+aligxi	 [aligxi] <mv> V INF @ICL-AUX< #24->23 
+la	 [la] ART @>N #25->26 
+feston	 [festo] <event> <occ> N S ACC @<ACC #26->24 
+trans	 [trans] PRP @<ADVL #27->24 
+cxi=tiu	 [cxi=tiu] <dem> PRON DET S NOM @>N #28->30 
+grandioza	 [grandioza] <Du> ADJ S NOM @>N #29->30 
+placo	 [placo] <Lh> N S NOM @P< #30->27 
+$; #31->0 
+</s>
+
+<s id="41229" source="24-eo obama.txt">
+kaj	 [kaj] KC @CO #1->20 
+kial	 [kial] <interr> ADV @ADVL> #2->14 
+viro	 [viro] <H> N S NOM @SUBJ> #3->21 
+kies	 [kies] <rel> PRON INDP S/P GEN @>N #4->5 
+patro	 [patro] <Hfam> N S NOM @SUBJ> #5->14 
+$, #6->0 
+antaux	 [antaux] <atemp> PRP @N<PRED #7->5 
+malpli=ol	 [malpli=ol] ADV @>A #8->9 
+60	 [60] <card> <cif> NUM P @>N #9->10 
+jaroj	 [jaro] <dur> <per> N P NOM @P< #10->7 
+$, #11->0 
+eble	 [eble] <ameta> <amod> ADV @ADVL> #12->14 
+ne	 [ne] <amod> <setop> ADV @ADVL> #13->14 
+ricevus	 [ricevi] <mv> V COND VFIN @FS-N< #14->3 
+servon	 [servo] <act> <act-d> N S ACC @<ACC #15->14 
+en	 [en] PRP @<ADVL #16->14 
+loka	 [loka] <Dgeo> ADJ S NOM @>N #17->18 
+restoracio	 [restoracio] <inst> N S NOM @P< #18->16 
+nun	 [nun] <atemp> ADV @<ADVL #19->14 
+povas	 [povi] <aux> V PR VFIN @FS-STA #20->0 
+stari	 [stari] <ve> <mv> V INF @ICL-AUX< #21->20 
+antaux	 [antaux] <atemp> PRP @<ADVL #22->21 
+vi	 [vi] PRON PERS 2S/P NOM @P< #23->22 
+por	 [por] <aquant> PRP @<ADVL #24->21 
+fari	 [fari] <mv> V INF @ICL-P< #25->24 
+plej	 [plej] <aquant> ADV @>A #26->27 
+sanktan	 [sankta] <Drel> ADJ S ACC @>N #27->28 
+jxuron	 [jxuro] N S ACC @<ACC #28->25 
+$. #29->0 
+</s>
+
+<s id="41230" source="24-eo obama.txt">
+$[ #1->0 
+longa	 [longa] <Du> ADJ S NOM @>N #2->4 
+aplauxda	 [aplauxda] ADJ S NOM @>N #3->4 
+pauxzo	 [pauxzo] <temp> <per> N S NOM @NPHR #4->0 
+$] #5->0 
+</s>
+
+<s id="41231" source="24-eo obama.txt">
+Do	 [do] <clb> <*> ADV @ADVL> #1->3 
+ni	 [ni] PRON PERS 1P NOM @SUBJ> #2->3 
+marku	 [marki] <mv> V VOL VFIN @FS-STA #3->0 
+cxi=tiun	 [cxi=tiu] <dem> PRON DET S ACC @>N #4->5 
+tagon	 [tago] <temp> N S ACC @<ACC #5->3 
+per	 [per] PRP @<ADVL #6->3 
+memoro	 [memoro] <sem-c> N S NOM @P< #7->6 
+pri	 [pri] PRP @N< #8->7 
+kiu	 [kiu] <rel> PRON DET S NOM @P< #9->8 
+ni	 [ni] PRON PERS 1P NOM @SUBJ> #10->11 
+estas	 [esti] <va+LOC> <mv> V PR VFIN @FS-N< #11->7 
+$, #12->0 
+kaj	 [kaj] KC @CO #13->17 
+kiom	 [kiom] <cjt-first> <rel> <aquant> ADV @SUBJ> #14->17 
+longe	 [longe] <atemp> ADV @ADVL> #15->17 
+ni	 [ni] <cjt> PRON PERS 1P NOM @SUBJ> #16->17 
+vojagxis	 [vojagxi] <va+DIR> <mv> V IMPF VFIN @FS-<ACC @FS-<SC @FS-N< #17->11 
+$. #18->0 
+</s>
+
+<s id="41232" source="24-eo obama.txt">
+En	 [en] <*> PRP @ADVL> #1->20 
+la	 [la] ART @>N #2->3 
+jaro	 [jaro] <dur> <per> N S NOM @P< #3->1 
+de	 [de] PRP @N< #4->3 
+la	 [la] ART @>N #5->6 
+naskigxo	 [naskigxo] <gen-subj> <event> N S NOM @P< #6->4 
+de	 [de] PRP @N< #7->6 
+Usono	 [Usono] <*> <Lciv> PROP S NOM @P< #8->7 
+$, #9->0 
+en	 [en] PRP @ADVL> #10->20 
+la	 [la] ART @>N #11->14 
+plej	 [plej] <aquant> ADV @>A #12->13 
+frostaj	 [frosta] ADJ P NOM @>N #13->14 
+monatoj	 [monato] <dur> N P NOM @P< #14->10 
+$, #15->0 
+malgranda	 [malgranda] <Du> ADJ S NOM @>N #16->17 
+bando	 [bando] <HH> <AA> <+sP> N S NOM @SUBJ> #17->20 
+de	 [de] PRP @N< #18->17 
+patriotoj	 [patrioto] <Hideo> N P NOM @P< #19->18 
+kunpremigxis	 [kunpremigxi] <mv> V IMPF VFIN @FS-STA #20->0 
+cxirkaux	 [cxirkaux] PRP @<ADVL #21->20 
+tendaraj	 [tendara] ADJ P NOM @>N #22->23 
+fajroj	 [fajro] <cc-fire> N P NOM @P< #23->21 
+sur	 [sur] PRP @<ADVL #24->20 
+la	 [la] ART @>N #25->26 
+bordoj	 [bordo] <Ltop> N P NOM @P< #26->24 
+de	 [de] PRP @N< #27->26 
+glacia	 [glacia] ADJ S NOM @>N #28->29 
+rivero	 [rivero] <Lwater> N S NOM @P< #29->27 
+$. #30->0 
+</s>
+
+<s id="41233" source="24-eo obama.txt">
+La	 [la] <clb> <*> ART @>N #1->2 
+cxefurbo	 [cxefurbo] <Lciv> <Lh> N S NOM @SUBJ> #2->4 
+estis	 [esti] <va+LOC> <aux> V IMPF VFIN @FS-STA #3->0 
+forlasita	 [forlasi] <mv> V PCP PAS IMPF ADJ S NOM @ICL-AUX< #4->3 
+$. #5->0 
+</s>
+
+<s id="41234" source="24-eo obama.txt">
+La	 [la] <clb> <*> ART @>N #1->2 
+malamiko	 [malamiko] <Hprof> <H> N S NOM @SUBJ> #2->3 
+estis	 [esti] <cjt-first> <va+LOC> <mv> V IMPF VFIN @FS-STA #3->0 
+alproksimigxis	 [alproksimigxi] <cjt> <mv> V IMPF VFIN @FS-STA #4->0 
+$. #5->0 
+</s>
+
+<s id="41235" source="24-eo obama.txt">
+La	 [la] <clb> <*> ART @>N #1->2 
+negxo	 [negxo] <wea-m> N S NOM @SUBJ> #2->4 
+estis	 [esti] <va+LOC> <aux> V IMPF VFIN @FS-STA #3->0 
+makulita	 [makuli] <mv> V PCP PAS IMPF ADJ S NOM @ICL-AUX< #4->3 
+de	 [de] PRP @<ADVL #5->4 
+sango	 [sango] <cm-liq> N S NOM @P< #6->5 
+$. #7->0 
+</s>
+
+<s id="41236" source="24-eo obama.txt">
+En	 [en] <*> PRP @ADVL> #1->10 
+la	 [la] ART @>N #2->3 
+momento	 [momento] <ac> <temp> <per> N S NOM @P< #3->1 
+kiam	 [kiam] <rel> <atemp> ADV @ADVL> #4->10 
+la	 [la] ART @>N #5->6 
+sukceso	 [sukceso] <ac> N S NOM @SUBJ> #6->10 
+de	 [de] PRP @N< #7->6 
+nia	 [mia] <poss> PRON DET S NOM @>N #8->9 
+revolucio	 [revolucio] <event> <sit> N S NOM @P< #9->7 
+estis	 [esti] <va+LOC> <mv> V IMPF VFIN @FS-N< #10->0 
+plej	 [plej] <aquant> ADV @>A #11->12 
+dubinda	 [dubinda] <Du> ADJ S NOM @<SC #12->10 
+$, #13->0 
+la	 [la] ART @>N #14->15 
+patro	 [patro] <Hfam> N S NOM @SUBJ> #15->19 
+de	 [de] PRP @N< #16->15 
+nia	 [mia] <poss> PRON DET S NOM @>N #17->18 
+nacio	 [nacio] <HH> N S NOM @P< #18->16 
+ordonis	 [ordoni] <vH&> <vq> <mv> V IMPF VFIN @FS-STA #19->0 
+$, #20->0 
+ke	 [ke] KS @SUB #21->25 
+cxi=tiujn	 [cxi=tiu] <dem> PRON DET P ACC @>N #22->23 
+vortojn	 [vorto] <ac> <+s> N P ACC @ACC> #23->25 
+oni	 [oni] PRON PERS 3S NOM @SUBJ> #24->25 
+legu	 [legi] <vq> <mv> V VOL VFIN @FS-<ACC #25->19 
+al	 [al] PRP @<PIV #26->25 
+la	 [la] ART @>N #27->28 
+homoj	 [homo] <H> N P NOM @P< #28->26 
+$: #29->0 
+$«
+</s>
+
+<s id="41237" source="24-eo obama.txt">
+Gxi	 [gxi] <clb> <*>  PRON PERS 3S NEU S NOM @SUBJ> #1->3 
+estu	 [esti] <va+LOC> <aux> V VOL VFIN @FS-STA #2->0 
+dirita	 [diri] <vH&> <vq> <mv> V PCP PAS IMPF ADJ S NOM @ICL-AUX< #3->2 
+al	 [al] PRP @<ADVL #4->3 
+la	 [la] ART @>N #5->7 
+estonta	 [esti] <va+LOC> V PCP AKT FUT ADJ S NOM @>N #6->7 
+mondo	 [mondo] <L> N S NOM @P< #7->4 
+$, #8->0 
+ke	 [ke] KS @SUB #9->22 
+en	 [en] PRP @ADVL> #10->23 
+la	 [la] ART @>N #11->12 
+profundo	 [profundo] <Du> N S NOM @P< #12->10 
+de	 [de] PRP @N< #13->12 
+vintro	 [vintro] <per> N S NOM @P< #14->13 
+$, #15->0 
+kiam	 [kiam] <rel> <atemp> ADV @ADVL> #16->23 
+nenio	 [nenio] <cjt-first> <am> PRON INDP S NOM @SUBJ> #17->23 
+krom	 [krom] PRP @N< #18->17 
+espero	 [espero] <f-psych> N S NOM @P< #19->18 
+kaj	 [kaj] KC @CO #20->21 
+virto	 [virto] <cjt> <f-psych> <ac> N S NOM @SUBJ> #21->23 
+povis	 [povi] <aux> V IMPF VFIN @FS-N< #22->0 
+travivi	 [travivi] <mv> V INF @ICL-AUX< #23->22 
+$, #24->0 
+ke	 [ke] KS @SUB #25->38 
+la	 [la] ART @>N #26->27 
+urbo	 [urbo] <Lciv> N S NOM @SUBJ> #27->38 
+kaj	 [kaj] KC @CO #28->29 
+la	 [la] ART @>N #29->30 
+kamparo	 [kamparo] N S NOM @N<PRED #30->27 
+$, #31->0 
+alarmita	 [alarmi] <vH&> <mv> V PCP PAS IMPF ADJ S NOM @ICL-N< #32->21 
+pro	 [pro] PRP @<ADVL #33->32 
+unu	 [unu] <card> NUM S @>N #34->36 
+komuna	 [komuna] <Du> ADJ S NOM @>N #35->36 
+dangxero	 [dangxero] <ac> N S NOM @P< #36->33 
+$, #37->0 
+venis	 [veni] <ve> <va+DIR> <mv> V IMPF VFIN @FS-<ACC #38->32 
+antauxen	 [antauxe] <adir> ADV @<SA #39->38 
+por	 [por] <aquant> PRP @<ADVL #40->38 
+renkonti	 [renkonti] <mv> V INF @ICL-P< #41->40 
+gxin	 [gxi] PRON PERS 3S NEU S ACC @<ACC #42->41 
+$. #43->0 
+</s>
+
+<s id="41238" source="24-eo obama.txt">
+$" #1->0 
+</s>
+
+<s id="41239" source="24-eo obama.txt">
+Usono	 [Usono] <cjt-first> <*> <Lciv> PROP S NOM @SUBJ> #1->16 
+$: #2->0 
+alfrontante	 [alfronti] <mv> V PCP AKT PR ADV @ICL-ADVL> #3->16 
+niajn	 [nia] <poss> PRON DET P ACC @>N #4->6 
+komunajn	 [komuna] <Du> ADJ P ACC @>N #5->6 
+dangxerojn	 [dangxero] <ac> N P ACC @<ACC #6->3 
+$, #7->0 
+en	 [en] PRP @<ADVL #8->3 
+cxi=tiu	 [cxi=tiu] <dem> PRON DET S NOM @>N #9->10 
+vintro	 [vintro] <per> N S NOM @P< #10->8 
+de	 [de] PRP @N< #11->10 
+nia	 [mia] <poss> PRON DET S NOM @>N #12->13 
+malfacilo	 [malfacilo] <Diffi> <Du> N S NOM @P< #13->11 
+$, #14->0 
+ni	 [ni] <cjt> PRON PERS 1P NOM @SUBJ> #15->16 
+memoru	 [memori] <vH&> <vq> <mv> V VOL VFIN @FS-COM #16->0 
+cxi=tiujn	 [cxi=tiu] <dem> PRON DET P ACC @>N #17->19 
+eternajn	 [eterna] <Du> ADJ P ACC @>N #18->19 
+vortojn	 [vorto] <ac> <+s> N P ACC @<ACC #19->16 
+$. #20->0 
+</s>
+
+<s id="41240" source="24-eo obama.txt">
+Kun	 [kun] <*> PRP @ADVL> #1->7 
+espero	 [espero] <cjt-first> <f-psych> N S NOM @P< #2->1 
+kaj	 [kaj] KC @CO #3->4 
+virto	 [virto] <cjt> <f-psych> <ac> N S NOM @P< #4->1 
+$, #5->0 
+ni	 [ni] PRON PERS 1P NOM @SUBJ> #6->7 
+alfrontu	 [alfronti] <cjt-first> <mv> V VOL VFIN @FS-STA #7->0 
+denove	 [denove] <atemp> ADV @<ADVL #8->7 
+la	 [la] ART @>N #9->11 
+frostajn	 [frosta] ADJ P ACC @>N #10->11 
+fluojn	 [fluo] <Lwater> <am> N P ACC @<ACC #11->7 
+$, #12->0 
+kaj	 [kaj] <clb> KC @CO #13->14 
+eltenu	 [elteni] <cjt> <mv> V VOL VFIN @FS-STA #14->0 
+cxiujn	 [cxiu] <quant> PRON DET P ACC @>N #15->17 
+ajn	 [ajn] ADV @A< #16->10 
+sxtormojn	 [sxtormo] <wea-wind> N P ACC @<ACC #17->14 
+venontajn	 [veni] <ve> <va+DIR> V PCP AKT FUT ADJ P ACC @N< #18->17 
+$. #19->0 
+</s>
+
+<s id="41241" source="24-eo obama.txt">
+Gxi	 [gxi] <clb> <*> PRON PERS 3S NEU S NOM @SUBJ> #1->3 
+estu	 [esti] <cjt-first> <va+LOC> <aux> V VOL VFIN @FS-STA #2->0 
+dirita	 [diri] <vH&> <vq> <mv> V PCP PAS IMPF ADJ S NOM @ICL-AUX< #3->2 
+de	 [de] PRP @<ADVL #4->3 
+la	 [la] ART @>N #5->6 
+infanoj	 [infano] <H> N P NOM @P< #6->4 
+de	 [de] PRP @N< #7->6 
+niaj	 [nia] <poss> PRON DET P NOM @>N #8->9 
+infanoj	 [infano] <H> N P NOM @P< #9->7 
+$, #10->0 
+ke	 [ke] KS @SUB #11->14 
+kiam	 [kiam] KS @SUB #12->14 
+ni	 [ni] PRON PERS 1P NOM @SUBJ> #13->15 
+estis	 [esti] <va+LOC> <aux> V IMPF VFIN @FS-ADVL> #14->0 
+testitaj	 [testi] <mv> V PCP PAS IMPF ADJ P NOM @ICL-AUX< #15->14 
+$, #16->0 
+ni	 [ni] PRON PERS 1P NOM @SUBJ> #17->19 
+rifuzis	 [rifuzi] <cjt> <vH&> <vq> <aux> V IMPF VFIN @FS-STA #18->0 
+lasi	 [lasi] <vta+DIR> <mv> V INF @ICL-AUX< #19->18 
+cxi=tiun	 [cxi=tiu] <dem> PRON DET S ACC @>N #20->21 
+vojagxon	 [vojagxo] <act> N S ACC @<ACC #21->19 
+finigxi	 [finigxi] <mv> V INF @ICL-<OA #22->19 
+$, #23->0 
+ke	 [ke] KS @SUB #24->27 
+ni	 [ni] PRON PERS 1P NOM @SUBJ> #25->27 
+ne	 [ne] <amod> <setop> ADV @ADVL> #26->27 
+forturnigxis	 [forturnigxi] <cjt-first> <mv> V IMPF VFIN @FS-<ACC #27->22 
+nek	 [nek] KC @ADVL> #28->29 
+hezitis	 [heziti] <cjt> <vH&> <mv> V IMPF VFIN @FS-<ACC #29->22 
+$; #30->0 
+</s>
+
+<s id="41242" source="24-eo obama.txt">
+kaj	 [kaj] KC @FOC> #1->8 
+kun	 [kun] PRP @ADVL> #2->18 
+okuloj	 [okulo] <anfeat-c> N P NOM @P< #3->2 
+fiksitaj	 [fiksita] <cjt-first> ADJ P NOM @SUBJ> #4->18 
+sur	 [sur] PRP @A< #5->4 
+la	 [la] ART @>N #6->7 
+horizonto	 [horizonto] <ac> N S NOM @P< #7->5 
+kaj	 [kaj] KC @CO #8->9 
+kun	 [kun] PRP @N< #9->7 
+la	 [la] ART @>N #10->11 
+graco	 [graco] <am> N S NOM @P< #11->9 
+de	 [de] PRP @N< #12->11 
+Dio	 [Dio] <*> PROP S NOM @P< #13->12 
+sur	 [sur] PRP @N< #14->11 
+ni	 [ni] PRON PERS 1P NOM @P< #15->14 
+$, #16->0 
+ni	 [ni] <cjt> PRON PERS 1P NOM @SUBJ> #17->18 
+portis	 [porti] <cjt-first> <vta+DIR> <mv> V IMPF VFIN @FS-STA #18->0 
+antauxen	 [antauxe] <adir> ADV @<OA #19->18 
+tiun	 [tiu] <dem> PRON DET S ACC @>N #20->22 
+grandan	 [granda] <Du> ADJ S ACC @>N #21->22 
+donacon	 [donaco] <cc> <cc-h> N S ACC @<ACC #22->18 
+de	 [de] PRP @N< #23->22 
+libereco	 [libereco] <ac> <am> N S NOM @P< #24->23 
+kaj	 [kaj] KC @CO #25->26 
+liveris	 [liveri] <cjt> <vta+DIR> <mv> V IMPF VFIN @FS-STA #26->0 
+gxin	 [gxi] PRON PERS 3S NEU S ACC @<ACC #27->26 
+sekure	 [sekure] <Du> ADV @<ADVL #28->26 
+al	 [al] PRP @<PIV #29->26 
+estontaj	 [esti] <va+LOC> V PCP AKT FUT ADJ P NOM @>N #30->31 
+generacioj	 [generacio] <per> <HH> N P NOM @P< #31->29 
+$. #32->0 
+</book>
