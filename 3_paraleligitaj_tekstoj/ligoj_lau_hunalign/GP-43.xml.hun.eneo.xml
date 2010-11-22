@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE cesAlign PUBLIC "-//CES//DTD XML cesAlign//EN" "">
+
+<cesAlign toDoc="eo/GP-43.xml" version="1.0" fromDoc="GP-43.xml">
+ <linkGrp targType="s" toDoc="eo/GP-43.xml" fromDoc="GP-43.xml"></linkGrp>
+</cesAlign>
