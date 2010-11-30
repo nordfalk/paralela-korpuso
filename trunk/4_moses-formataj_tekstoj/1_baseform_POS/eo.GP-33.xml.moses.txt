@@ -1,0 +1,1626 @@
+Meze|meze|ADV granda|granda|ADJ pordo|pordo|N al|al|PRP gxardenkvadrato|gxardenkvadrato|N kun|kun|PRP barilo|barilo|N kaj|kaj|KC barilpordo|barilpordo|N al|al|PRP la|la|ART strato|strato|N .|_|_
+Aliflanke|aliflanke|ADV de|de|PRP la|la|ART strato|strato|N ,|_|_ kiu|kiu|PRON same|same|ADV kiel|kiel|KS la|la|ART domo|domo|N kusxas|kusxi|V sur|sur|PRP altajxo|altajxo|N ,|_|_ oni|oni|PRON vidas|vidi|V malaltan|malalta|ADJ barilon|barilo|N de|de|PRP gxardeno|gxardeno|N ,|_|_ kiu|kiu|PRON deklivas|deklivi|V malsupren|malsupre|ADV al|al|PRP la|la|ART urbo|urbo|N .|_|_
+La|la|ART fono|fono|N prezentas|prezenti|V la|la|ART printempoverdajn|printempoverda|ADJ arbosuprojn|arbosupro|N de|de|PRP tiu|tiu|PRON gxardeno|gxardeno|N .|_|_ Super|super|PRP ili|ili|PRON pregxeja|pregxeja|ADJ turo|turo|N kaj|kaj|KC monumenta|monumenta|ADJ domgablo|domgablo|N .|_|_
+La|la|ART fenestroj|fenestro|N de|de|PRP la|la|ART verando|verando|N ,|_|_ kiu|kiu|PRON okupas|okupi|V la|la|ART tutan|tuta|ADJ largxon|largxo|N de|de|PRP la|la|ART scenejo|scenejo|N ,|_|_ havas|havi|V kurtenojn|kurteno|N el|el|PRP helflava|helflava|ADJ ,|_|_ flordesegna|flordesegna|ADJ kretono|kretono|N kaj|kaj|KC estas|esti|V sxoveblaj|sxovebla|ADJ .|_|_
+Murspegulo|Murspegulo|PROP pendas|pendi|V sur|sur|PRP fenestrofosto|fenestrofosto|N maldekstre|maldekstre|ADV de|de|PRP la|la|ART pordo|pordo|N ,|_|_ sub|sub|PRP la|la|ART spegulo|spegulo|N estas|esti|V kalendaro|kalendaro|N .|_|_
+Dekstre|dekstre|ADV de|de|PRP la|la|ART fonpordo|fonpordo|N granda|granda|ADJ skribtablo|skribtablo|N kun|kun|PRP libroj|libro|N ,|_|_ skribilaro|skribilaro|N kaj|kaj|KC telefono|telefono|N .|_|_
+Maldekstre|maldekstre|ADV de|de|PRP la|la|ART fonpordo|fonpordo|N mangxotablo|mangxotablo|N ,|_|_ glimpordeta|glimpordeta|ADJ ferforno|ferforno|N ,|_|_ bufedo|bufedo|N .|_|_
+Dekstre|dekstre|ADV en|en|PRP la|la|ART unua|unua|ADJ plano|plano|N kudrotablo|kudrotablo|N kun|kun|PRP lampo|lampo|N .|_|_
+Apud|apud|PRP gxi|gxi|PRON du|du|NUM braksegxoj|braksegxo|N .|_|_
+En|en|PRP la|la|ART plafono|plafono|N pendas|pendi|V plafonlampo|plafonlampo|N .|_|_
+Ekstere|ekstere|ADV sur|sur|PRP la|la|ART strato|strato|N gaslanterno|gaslanterno|N kun|kun|PRP Auer-flamingo|Auer-flamingo|PROP .|_|_
+Maldekstre|maldekstre|ADV en|en|PRP la|la|ART verando|verando|N estas|esti|V pordo|pordo|N al|al|PRP la|la|ART cxambraro|cxambraro|N ;|_|_
+dekstre|dekstre|ADV estas|esti|V pordo|pordo|N al|al|PRP la|la|ART kuirejo|kuirejo|N .|_|_
+Tempo|tempo|N :|_|_ la|la|ART nia|mia|PRON .|_|_
+UNUA=AKTO|UNUA=AKTO|PROP Sankta|sankta|ADJ jxauxdo|jxauxdo|N Muziko|muziko|N antaux|antaux|PRP tiu|tiu|PRON akto|akto|N :|_|_ HAYDN|HAYDN|PROP :|_|_ Sieben=Worte|Sieben=Worte|PROP des|des|ADV Erlösers|Erlösers|PROP Introduction|Introduction|PROP :|_|_ Maestoso=Adagio|Maestoso=Adagio|PROP (|_|_ Sunradio|sunradio|N falas|fali|V oblikve|oblikve|ADV en|en|PRP la|la|ART cxambron|cxambro|N kaj|kaj|KC tusxas|tusxi|V unu|unu|NUM el|el|PRP la|la|ART segxoj|segxo|N cxe|cxe|PRP la|la|ART kudrotablo|kudrotablo|N .|_|_
+Sur|sur|PRP la|la|ART alia|alia|ADJ ne|ne|ADV prilumita|prilumi|V segxo|segxo|N sidas|sidi|V Kristina|Kristina|PROP kaj|kaj|KC enmetas|enmeti|V rubandon|rubando|N en|en|PRP paron|paro|N da|da|PRP blankaj|blanka|ADJ novgladitaj|novgladi|V jxaluzioj|jxaluzio|N .|_|_
+)|_|_ Elis|Elis|PROP (|_|_ envenas|enveni|V en|en|PRP malbutonita|malbutoni|V vintra|vintra|ADJ surtuto|surtuto|N ,|_|_ portante|porti|V pakon|pako|N da|da|PRP aktoj|akto|N ,|_|_ kiun|kiu|PRON li|li|PRON metas|meti|V sur|sur|PRP la|la|ART skribtablon|skribtablo|N .|_|_
+Poste|poste|ADV li|li|PRON deprenas|depreni|V la|la|ART surtuton|surtuto|N kaj|kaj|KC pendigas|pendigi|V gxin|gxi|PRON maldekstre|maldekstre|ADV )|_|_ .|_|_
+Bonan|bona|ADJ tagon|tago|N ,|_|_ mia|mia|PRON amiko|amiko|N !|_|_
+Kristina=Bonan|Kristina=Bonan|PROP tagon|tago|N ,|_|_ Elis|Elis|PROP !|_|_
+Elis|eli|V (|_|_ cxirkauxrigardas|cxirkauxrigardi|V )|_|_ La|la|ART internaj|interna|ADJ fenestroj|fenestro|N elprenitaj|elpreni|V ;|_|_
+la|la|ART planko|planko|N lavita|lavi|V ,|_|_ puraj|pura|ADJ kurtenoj|kurteno|N ...|_|_ jes|jes|IN ,|_|_ estas|esti|V ree|ree|ADV printempo|printempo|N !|_|_
+Oni|oni|PRON forhagxisla|forhagxisla|ADJ stratglacion|stratglacio|N ,|_|_ kaj|kaj|KC malsupre|malsupre|ADV cxe|cxe|PRP la|la|ART rivero|rivero|N floras|flori|V la|la|ART salikoj|saliko|N ...|_|_ jes|jes|IN ,|_|_ estas|esti|V printempo|printempo|N .|_|_ .|_|_ .|_|_ Kaj|kaj|KC mi|mi|PRON povas|povi|V formeti|formeti|V la|la|ART vintran|vintra|ADJ surtuton|surtuto|N ...|_|_
+jen|jen|ADV ,|_|_ gxi|gxi|PRON estas|esti|V tiel|tiel|ADV peza|peza|ADJ (|_|_ pesas|pesi|V la|la|ART surtuton|surtuto|N per|per|PRP la|la|ART mano|mano|N )|_|_ kvazaux|kvazaux|KS gxi|gxi|PRON estus|esti|V ensorbinta|ensorbi|V cxiujn|cxiu|PRON penojn|peno|N de|de|PRP la|la|ART vintro|vintro|N ,|_|_ la|la|ART sxviton|sxvito|N de|de|PRP la|la|ART angoro|angoro|N kaj|kaj|KC la|la|ART polvon|polvo|N de|de|PRP la|la|ART lernejo|lernejo|N ...|_|_
+Ho|ho|IN !|_|_
+Kristina=Kaj|Kristina=Kaj|PROP nun|nun|ADV vi|vi|PRON havas|havi|V libertempon|libertempo|N !|_|_
+Elis|eli|V Paskan|paska|ADJ libertempon|libertempo|N !|_|_
+Kvin|kvin|NUM belajn|bela|ADJ tagojn|tago|N por|por|PRP gxui|gxui|V ,|_|_ por|por|PRP spiri|spiri|V ,|_|_ por|por|PRP forgesi|forgesi|V !|_|_
+(|_|_ Donas|doni|V la|la|ART manon|mano|N al|al|PRP Kristina|Kristina|PROP kaj|kaj|KC poste|poste|ADV sidigxas|sidigxi|V en|en|PRP la|la|ART braksegxon|braksegxo|N .|_|_
+)|_|_ Ho|ho|IN vidu|vidi|V ,|_|_ la|la|ART suno|suno|N revenis|reveni|V ...|_|_
+gxi|gxi|PRON foriris|foriri|V en|en|PRP novembro|novembro|N ,|_|_ mi|mi|PRON memoras|memori|V la|la|ART tagon|tago|N ,|_|_ kiam|kiam|ADV gxi|gxi|PRON malaperis|malaperi|V malantaux|malantaux|PRP la|la|ART bierfarejo|bierfarejo|N oblikve|oblikve|ADV trans|trans|PRP la|la|ART strato|strato|N ...|_|_
+Ho|ho|IN ,|_|_ tiu|tiu|PRON vintro|vintro|N !|_|_ Tiu|tiu|PRON longa|longa|ADJ vintro|vintro|N !|_|_
+Kristina|kristina|ADJ (|_|_ kun|kun|PRP gesto|gesto|N al|al|PRP la|la|ART kulreja|kulreja|ADJ pordo|pordo|N )|_|_ .|_|_
+Silentu|silenti|V !|_|_
+Silentu|silenti|V !|_|_
+Elis|eli|V Mi|mi|PRON silentos|silenti|V ,|_|_ kaj|kaj|KC mi|mi|PRON gxojos|gxoji|V ,|_|_ ke|ke|KS gxi|gxi|PRON estas|esti|V trapasita|trapasi|V ,|_|_ ...|_|_
+Ho|ho|IN ,|_|_ la|la|ART bona|bona|ADJ suno|suno|N ...|_|_ (|_|_ Li|li|PRON frotas|froti|V la|la|ART manojn|mano|N kaj|kaj|KC faras|fari|V ,|_|_ kvazaux|kvazaux|KS li|li|PRON dusxus|dusxi|V sin|si|PRON .|_|_
+)|_|_ ...|_|_ mi|mi|PRON volas|voli|V bani|bani|V min|mi|PRON en|en|PRP sunbrilo|sunbrilo|N ,|_|_ lavi|lavi|V min|mi|PRON per|per|PRP lumo|lumo|N post|post|PRP tiu|tiu|PRON malhela|malhela|ADJ malpurajxo|malpurajxo|N ...|_|_
+Kristina=Silentu|Kristina=Silentu|PROP !|_|_
+Silentu|silenti|V !|_|_
+Elis|Elis|PROP Auxdu|auxdi|V ,|_|_ mi|mi|PRON kredas|kredi|V ,|_|_ ke|ke|KS la|la|ART paco|paco|N revenas|reveni|V ,|_|_ kaj|kaj|KC ke|ke|KS la|la|ART malfelicxoj|malfelicxo|N lacigxis|lacigxi|V ...|_|_
+Kristina=Kial|Kristina=Kial|PROP vi|vi|PRON kredas|kredi|V tion|tion|PRON ?|_|_
+gxi|gxi|PRON sidigxis|sidigxi|V sur|sur|PRP la|la|ART trotuaron|trotuaro|N ,|_|_ kaj|kaj|KC gxuste|gxuste|ADV antaux|antaux|PRP miaj|mia|PRON piedoj|piedo|N gxi|gxi|PRON faligis|faligi|V brancxeton|brancxeto|N ,|_|_ kiun|kiu|PRON gxi|gxi|PRON portis|porti|V en|en|PRP la|la|ART beko|beko|N .|_|_
+Kristina=Cxu|Kristina=Cxu|PROP vi|vi|PRON vidis|vidi|V ,|_|_ kiaspecan|kiaspeca|ADJ brancxeton|brancxeto|N ?|_|_
+Elis|eli|V Apenaux|apenaux|ADV estis|esti|V oliva|oliva|ADJ ,|_|_ sed|sed|KC mi|mi|PRON kredas|kredi|V ,|_|_ ke|ke|KS estis|esti|V pacosigno|pacosigno|N ,|_|_ kaj|kaj|KC gxuste|gxuste|ADV nun|nun|ADV mi|mi|PRON sentas|senti|V sunan|suna|ADJ ,|_|_ cxielfelicxan|cxielfelicxa|ADJ trankvilon|trankvilo|N ...|_|_
+Kie|kie|ADV estas|esti|V patrino|patrino|N ?|_|_
+Kristina|kristina|ADJ (|_|_ gesto|gesto|N al|al|PRP la|la|ART kuirejo|kuirejo|N )|_|_ .|_|_
+En|en|PRP la|la|ART kuirejo|kuirejo|N !|_|_
+Elis|eli|V (|_|_ mallauxte|mallauxte|ADV ,|_|_ fermas|fermi|V la|la|ART okulojn|okulo|N )|_|_ .|_|_
+Mi|mi|PRON auxdas|auxdi|V ,|_|_ ke|ke|KS estas|esti|V printempo|printempo|N !|_|_
+Mi|mi|PRON auxdas|auxdi|V ,|_|_ ke|ke|KS la|la|ART internaj|interna|ADJ fenestroj|fenestro|N estas|esti|V for|for|ADV .|_|_
+-L|_|_ Cxu|cxu|ADV vi|vi|PRON scias|scii|V ,|_|_ kiel|kiel|ADV mi|mi|PRON auxdas|auxdi|V tion|tion|PRON ?|_|_
+-R|_|_ Plej|plej|ADV pro|pro|PRP la|la|ART aksingoj|aksingo|N de|de|PRP la|la|ART veturiloj|veturilo|N ...|_|_ sed|sed|KC kio|kio|PRON estas|esti|V ?|_|_
+La|la|ART fringoj|fringo|N kantas|kanti|V !|_|_
+Kaj|kaj|KC oni|oni|PRON martelas|marteli|V en|en|PRP la|la|ART sxipkonstruejo|sxipkonstruejo|N ,|_|_ kaj|kaj|KC odoras|odori|V oleofarbo|oleofarbo|N de|de|PRP la|la|ART vaporsxipoj|vaporsxipo|N ,|_|_ de|de|PRP la|la|ART rugxa|rugxa|ADJ minio|minio|N .|_|_ Kristina=Cxu|Kristina=Cxu|PROP tion|tion|PRON vi|vi|PRON sentas|senti|V ecx|ecx|ADV tie=cxi|cxi=tie|ADV ?|_|_
+Elis|eli|V Tie=cxi|cxi=tie|ADV ?|_|_
+.|_|_ Kiel|kiel|ADV ni|ni|PRON venis|veni|V al|al|PRP tiu=cxi|cxi=tiu|PRON terura|terura|ADJ urbo|urbo|N ,|_|_ kie|kie|ADV cxiuj|cxiu|PRON homoj|homo|N malamas|malami|V unu=la=alian|unu=la=alian|PRON ,|_|_ kaj|kaj|KC kie|kie|ADV oni|oni|PRON cxiam|cxiam|ADV soligxas|soligxi|V ?|_|_
+Jes|jes|IN ,|_|_ estis|esti|V la|la|ART pano|pano|N ,|_|_ kiu|kiu|PRON montris|montri|V la|la|ART vojon|vojo|N ...|_|_ sed|sed|KC apud|apud|PRP la|la|ART pano|pano|N kusxis|kusxi|V la|la|ART malfelicxoj|malfelicxo|N :|_|_ la|la|ART krima|krima|ADJ ago|ago|N de|de|PRP patro|patro|N kaj|kaj|KC la|la|ART malsano|malsano|N de|de|PRP mia|mia|PRON fratineto|fratineto|N ;|_|_
+-L|_|_ Diru|diri|V ,|_|_ cxu|cxu|ADV vi|vi|PRON scias|scii|V ,|_|_ cxu|cxu|ADV estis|esti|V permesite|permesi|V al|al|PRP patrino|patrino|N viziti|vizi|V patron|patro|N en|en|PRP la|la|ART malliberejo|malliberejo|N ?|_|_
+Kristina=Mi|Kristina=Mi|PROP kredas|kredi|V ,|_|_ ke|ke|KS sxi|sxi|PRON estis|esti|V tie|tie|ADV ecx|ecx|ADV hodiaux|hodiaux|ADV !|_|_
+Elis|eli|V Kion|kio|PRON sxi|sxi|PRON diris|diri|V ?|_|_
+Kristina=Nenion|Kristina=Nenio|PROP ;|_|_
+sxi|sxi|PRON parolis|paroli|V pri|pri|PRP aliaj|alia|ADJ aferoj|afero|N !|_|_
+Elis|eli|V Io|io|PRON tamen|tamen|ADV estas|esti|V gajnita|gajni|V ;|_|_
+post|post|PRP la|la|ART verdikto|verdikto|N venis|veni|V certeco|certeco|N kaj|kaj|KC aparta|aparta|ADJ trankvilo|trankvilo|N ,|_|_ kiam|kiam|KS silentigxis|silentigxi|V la|la|ART sciigoj|sciigo|N de|de|PRP la|la|ART gazetoj|gazeto|N .|_|_ Unu|unu|NUM jaro|jaro|N pasis|pasi|V ;|_|_
+post|post|PRP unu|unu|NUM jaro|jaro|N li|li|PRON liberigxos|liberigxi|V ,|_|_ kaj|kaj|KC tiam|tiam|ADV ni|ni|PRON povos|povi|V rekomenci|rekomenci|V .|_|_
+Kristina=Mi|Kristina=Mi|PROP admiras|admiri|V vian|via|PRON paciencon|pacienco|N en|en|PRP la|la|ART sufero|sufero|N .|_|_ Elis|Elis|PROP Nc|Nc|PROP faru|fari|V tion|tion|PRON !|_|_
+Admiru|admiri|V cxe|cxe|PRP mi|mi|PRON nenion|nenio|PRON ,|_|_ cxar|cxar|KS mi|mi|PRON havas|havi|V nur|nur|ADV mankojn|manko|N !|_|_
+Nun|nun|ADV vi|vi|PRON scias|scii|V tion|tion|PRON !|_|_
+Ho|ho|IN !|_|_
+Se|se|KS vi|vi|PRON volus|voli|V kredi|kredi|V tion|tion|PRON !|_|_
+Kristina=Se|Kristina=Se|PROP vi|vi|PRON suferus|suferi|V pro|pro|PRP propraj|propra|ADJ mankoj|manko|N ,|_|_ sed|sed|KC estas|esti|V ja|ja|ADV pro|pro|PRP tiuj|tiu|PRON de|de|PRP aliaj|alia|ADJ !|_|_
+Elis|eli|V Kion|kio|PRON vi|vi|PRON kudras|kudri|V ?|_|_
+Kristina=Estas|Kristina=Estas|PROP ja|ja|ADV la|la|ART kuirejaj|kuireja|ADJ jxaluzioj|jxaluzio|N ,|_|_ kara|kara|ADJ mia|mia|PRON !|_|_
+Elis|Elis|PROP Aspektas|aspekti|V kiel|kiel|PRP edzinigxa|edzinigxa|ADJ vualo|vualo|N ...|_|_
+Auxtune|auxtune|ADV ,|_|_ Kristina|Kristina|PROP ,|_|_ vi|vi|PRON farigxos|farigxi|V mia|mia|PRON edzino|edzino|N ,|_|_ cxu|cxu|ADV ne|ne|ADV ?|_|_
+Kristina=Jes|Kristina=Jes|PROP ,|_|_ sed|sed|KC unue|unue|ADV ni|ni|PRON pensu|pensi|V pri|pri|PRP la|la|ART somero|somero|N !|_|_
+Elis|eli|V La|la|ART somero|somero|N ,|_|_ ja|ja|ADV !|_|_
+(|_|_ Elposxigas|elposxigi|V cxeklibron|cxeklibro|N .|_|_
+)|_|_ Vidu|vidi|V ,|_|_ la|la|ART monon|mono|N mi|mi|PRON jam|jam|ADV havas|havi|V en|en|PRP la|la|ART banko|banko|N !|_|_ Kiam|kiam|KS finigxos|finigxi|V la|la|ART lernejo|lernejo|N ,|_|_ tiam|tiam|ADV ni|ni|PRON iros|iri|V norden|norde|ADV al|al|PRP nia|mia|PRON lando|lando|N -R|_|_ al|al|PRP Malaren|Malaren|PROP .|_|_
+La|la|ART dometo|dometo|N staras|stari|V en|en|PRP ordo|ordo|N ,|_|_ kiel|kiel|KS gxi|gxi|PRON staris|stari|V en|en|PRP nia|mia|PRON infanagxo|infanagxo|N ,|_|_ la|la|ART tilioj|tilio|N restas|resti|V ,|_|_ la|la|ART platboato|platboato|N kusxas|kusxi|V sub|sub|PRP la|la|ART bordaj|borda|ADJ salikoj|saliko|N ...|_|_
+Ho|ho|IN ,|_|_ se|se|KS estus|esti|V somero|somero|N ,|_|_ kaj|kaj|KC mi|mi|PRON povus|povi|V bani|bani|V min|mi|PRON en|en|PRP la|la|ART lago|lago|N !|_|_
+Tiu|tiu|PRON malhonoro|malhonoro|N de|de|PRP la|la|ART familio|familio|N metis|meti|V sin|si|PRON sur|sur|PRP miajn|mia|PRON animon|animo|N kaj|kaj|KC korpon|korpo|N ,|_|_ kaj|kaj|KC mi|mi|PRON sopiras|sopiri|V al|al|PRP lago|lago|N ,|_|_ en|en|PRP kiu|kiu|PRON mi|mi|PRON povas|povi|V lavi|lavi|V min|mi|PRON .|_|_
+Kristina=Cxu|Kristina=Cxu|PROP vi|vi|PRON auxdis|auxdi|V ion|io|PRON de|de|PRP fratino|fratino|N Eleonora|Eleonora|PROP ?|_|_
+Elis|eli|V Jes|jes|IN ,|_|_ la|la|ART kompatinda|kompatinda|ADJ ,|_|_ sxi|sxi|PRON estas|esti|V maltrankvila|maltrankvila|ADJ kaj|kaj|KC skribas|skribi|V leterojn|letero|N ,|_|_ kiuj|kiu|PRON dissxiras|dissxiri|V min|mi|PRON .|_|_
+Sxi|sxi|PRON volas|voli|V for|for|ADV kaj|kaj|KC hejmen|hejme|ADV kompreneble|kompreneble|ADV ,|_|_ sed|sed|KC la|la|ART estro|estro|N de|de|PRP la|la|ART azilo|azilo|N ne|ne|ADV kuragxas|kuragxi|V lasi|lasi|V sxin|sxi|PRON ,|_|_ cxar|cxar|KS sxi|sxi|PRON faras|fari|V agojn|ago|N ,|_|_ kiuj|kiu|PRON kondukus|konduki|V al|al|PRP malliberejo|malliberejo|N .|_|_
+Ofte|ofte|ADV la|la|ART konscienco|konscienco|N riprocxas|riprocxi|V min|mi|PRON terure|terure|ADV ,|_|_ cxar|cxar|KS mi|mi|PRON subtenis|subteni|V sxian|sxia|PRON internigon|internigo|N .|_|_
+Jes|jes|IN ,|_|_ sxi|sxi|PRON havas|havi|V tiel|tiel|ADV bone|bone|ADV ,|_|_ kiel|kiel|KS sxi|sxi|PRON povas|povi|V havi|havi|V !|_|_
+Kaj|kaj|KC kiam|kiam|KS mi|mi|PRON pripensas|pripensi|V ,|_|_ kiel|kiel|KS sxi|sxi|PRON cxirkauxiris|cxirkauxiri|V tie=cxi|cxi=tie|ADV kaj|kaj|KC jxetis|jxeti|V ombron|ombro|N sur|sur|PRP cxiun|cxiu|PRON ereton|ereto|N da|da|PRP gxojo|gxojo|N ,|_|_ kiel|kiel|KS sxia|sxia|PRON sorto|sorto|N premis|premi|V nin|ni|PRON kiel|kiel|PRP inkubo|inkubo|N ,|_|_ turmentis|turmenti|V nin|ni|PRON gxis|gxis|PRP malesperigxo|malesperigxo|N ,|_|_ tiam|tiam|ADV mi|mi|PRON estas|esti|V tiom|tiom|ADV egoista|egoista|ADJ ,|_|_ ke|ke|KS mi|mi|PRON sentas|senti|V faciligon|faciligo|N ,|_|_ kiu|kiu|PRON similas|simili|V al|al|PRP gxojo|gxojo|N .|_|_
+Kaj|kaj|KC vidi|vidi|V sxin|sxi|PRON eniri|eniri|V tra|tra|PRP tiuj=cxi|cxi=tiu|PRON pordoj|pordo|N ,|_|_ estus|esti|V la|la|ART plej|plej|ADV granda|granda|ADJ malfelicxo|malfelicxo|N ,|_|_ kiun|kiu|PRON mi|mi|PRON nun|nun|ADV povas|povi|V imagi|imagi|V .|_|_
+Tiel|tiel|ADV acxa|acxa|ADJ mi|mi|PRON estas|esti|V !|_|_
+Kristina=Tiel|Kristina=Tiel|PROP homa|homa|ADJ vi|vi|PRON estas|esti|V !|_|_
+Elis|eli|V Kaj|kaj|KC tamen|tamen|ADV ...|_|_
+Kristina=Sxajne|Kristina=Sxajne|PROP kelkaj|kelka|PRON naskigxas|naskigxi|V por|por|PRP suferi|suferi|V ...|_|_
+Elis|eli|V Kompatinda|kompatinda|ADJ mia|mia|PRON ,|_|_ kiu|kiu|PRON enigxis|enigxi|V en|en|PRP nian|nia|PRON familion|familio|N ,|_|_ dekomence|dekomence|ADV jugxitan|jugxi|V ...|_|_
+kaj|kaj|KC kondamnitan|kondamnita|ADJ !|_|_
+Kristina=Elis|Kristina=Elis|PROP !|_|_
+Vi|vi|PRON ja|ja|ADV ne|ne|ADV scias|scii|V ,|_|_ cxu|cxu|ADV estas|esti|V provoj|provo|N aux|aux|KC punoj|puno|N !|_|_
+Elis|Elis|PROP Kio|kio|PRON gxi|gxi|PRON estas|esti|V por|por|PRP vi|vi|PRON ,|_|_ tion|tion|PRON mi|mi|PRON ne|ne|ADV scias|scii|V ,|_|_ cxar|cxar|KS certe|certe|ADV vi|vi|PRON estas|esti|V sensxulda|sensxulda|ADJ ,|_|_ se|se|KS iu|iu|PRON !|_|_
+Kristina=Larmoj|Kristina=Larmoj|PROP matene|matene|ADV ,|_|_ gxojo|gxojo|N vespere|vespere|ADV !|_|_
+Elis|eli|V ,|_|_ eble|eble|ADV mi|mi|PRON povos|povi|V helpi|helpi|V vin|vi|PRON trapasi|trapasi|V ...|_|_ Elis|eli|V Cxu|cxu|ADV vi|vi|PRON kredas|kredi|V ,|_|_ ke|ke|KS patrino|patrino|N havas|havi|V blankan|blanka|ADJ kravaton|kravato|N ?|_|_
+Kristina|kristina|ADJ (|_|_ maltrankvile|maltrankvile|ADV )|_|_ .|_|_
+Cxu|cxu|ADV vi|vi|PRON foriros|foriri|V ?|_|_
+Elis|eli|V Mi|mi|PRON iros|iri|V al|al|PRP tagmangxo|tagmangxo|N .|_|_
+Petro|Petro|PROP disputis|disputi|V hieraux|hieraux|ADV ,|_|_ kiel|kiel|KS vi|vi|PRON scias|scii|V ,|_|_ kaj|kaj|KC li|li|PRON donos|doni|V tagmangxon|tagmangxo|N hodiaux|hodiaux|ADV !|_|_
+Kristina=Cxu|Kristina=Cxu|PROP vi|vi|PRON volas|voli|V iri|iri|V al|al|PRP tiu|tiu|PRON festeno|festeno|N ?|_|_
+Elis|eli|V Vi|vi|PRON volas|voli|V diri|diri|V ,|_|_ ke|ke|KS mi|mi|PRON forestu|foresti|V ,|_|_ cxar|cxar|KS li|li|PRON montris|montri|V sin|si|PRON kiel|kiel|PRP suficxe|suficxe|ADV sendanka|sendanka|ADJ lernanto|lernanto|N de|de|PRP mi|mi|PRON .|_|_
+Kristina=Mi|Kristina=Mi|PROP ne|ne|ADV neas|nei|V ,|_|_ ke|ke|KS lia|lia|PRON malfidelo|malfidelo|N ekscitis|eksciti|V min|mi|PRON ;|_|_ promesinte|promesi|V citi|citi|V vian|via|PRON disertacion|disertacio|N li|li|PRON prirabis|prirabi|V gxin|gxi|PRON sen|sen|PRP indiki|indiki|V la|la|ART fonton|fonto|N .|_|_
+Elis|eli|V Ho|ho|IN !|_|_
+Tio|tio|PRON estas|esti|V ordinara|ordinara|ADJ ,|_|_ kaj|kaj|KC mi|mi|PRON gxojas|gxoji|V en|en|PRP la|la|ART konscio|konscio|N ,|_|_ ke|ke|KS tion|tion|PRON faris|fari|V mi|mi|PRON .|_|_
+Kristina=Cxu|Kristina=Cxu|PROP li|li|PRON vin|vi|PRON invitis|inviti|V ?|_|_
+Elis|eli|V Vere|vere|ADV ,|_|_ tion|tion|PRON li|li|PRON ne|ne|ADV faris|fari|V !|_|_
+Verdire|verdire|ADV estas|esti|V strange|strange|ADV ,|_|_ cxar|cxar|KS dum|dum|PRP pluraj|plura|ADJ jaroj|jaro|N li|li|PRON parolis|paroli|V pri|pri|PRP tiu|tiu|PRON tagmangxo|tagmangxo|N ,|_|_ kvazaux|kvazaux|ADV mi|mi|PRON memkompreneble|memkompreneble|ADV partoprenu|partopreni|V ,|_|_ kaj|kaj|KC mi|mi|PRON parolis|paroli|V al|al|PRP aliaj|alia|ADJ pri|pri|PRP la|la|ART afero|afero|N .|_|_
+Preterlaso|preterlaso|N de|de|PRP invito|invito|N nun|nun|ADV estus|esti|V por|por|PRP mi|mi|PRON publika|publika|ADJ hontigo|hontigo|N .|_|_
+Egale|egale|ADV ,|_|_ ne|ne|ADV estas|esti|V la|la|ART unua|unua|ADJ fojo|fojo|N ;|_|_
+kaj|kaj|KC ne|ne|ADV la|la|ART lasta|lasta|ADJ !|_|_
+(|_|_ Pauxzo|pauxzo|N .|_|_
+)|_|_ Kristina=Benjamin|Kristina=Benjamin|PROP ne|ne|ADV venas|veni|V !|_|_
+Cxu|cxu|ADV vi|vi|PRON kredas|kredi|V ,|_|_ ke|ke|KS li|li|PRON sukcesas|sukcesi|V en|en|PRP la|la|ART skriboj|skribo|N ?|_|_
+Elis|eli|V Tion|tio|PRON mi|mi|PRON certe|certe|ADV esperas|esperi|V ,|_|_ en|en|PRP latino|latino|N kun|kun|PRP alta|alta|ADJ atesto|atesto|N !|_|_
+Kristina=Benjamin|Kristina=Benjamin|PROP estas|esti|V bona|bona|ADJ knabo|knabo|N .|_|_
+Elis|eli|V Neordinare|neordinare|ADV ,|_|_ sed|sed|KC iom|iom|ADV cerbuma|cerbuma|ADJ .|_|_
+Vi|vi|PRON ja|ja|ADV scias|scii|V ,|_|_ kial|kial|ADV li|li|PRON estas|esti|V en|en|PRP nia|mia|PRON hejmo|hejmo|N ?|_|_
+Kristina=Cxu|Kristina=Cxu|PROP pro|pro|PRP tio|tio|PRON ...|_|_
+Elis|eli|V Pro|pro|PRP tio|tio|PRON ...|_|_
+ke|ke|KS mia|mia|PRON patro|patro|N kiel|kiel|PRP kuratoro|kuratoro|N foruzis|foruzi|V lian|lia|PRON monon|mono|N ,|_|_ same|same|ADV kiel|kiel|PRP de|de|PRP multaj|multa|ADJ aliaj|alia|ADJ !|_|_
+Vidu|vidi|V ,|_|_ Kristina|kristina|ADJ ,|_|_ tio|tio|PRON estas|esti|V la|la|ART terura|terura|ADJ ,|_|_ ke|ke|KS mi|mi|PRON en|en|PRP la|la|ART lernejo|lernejo|N devas|devi|V vidi|vidi|V tiujn|tiu|PRON prirabitajn|prirabi|V senpatrulojn|senpatrulo|N ,|_|_ kiuj|kiu|PRON nun|nun|ADV suferas|suferi|V la|la|ART humiligon|humiligo|N esti|esti|V nepagantaj|nepagi|V lernantoj|lernanto|N .|_|_
+Vi|vi|PRON povas|povi|V kompreni|kompreni|V ,|_|_ per|per|PRP kiaj|kia|PRON okuloj|okulo|N ili|ili|PRON rigardas|rigardi|V min|mi|PRON .|_|_
+Mi|mi|PRON devas|devi|V cxiam|cxiam|ADV pensi|pensi|V pri|pri|PRP ilia|ilia|PRON mizero|mizero|N ,|_|_ por|por|PRP povi|povi|V pardoni|pardoni|V al|al|PRP ili|ili|PRON ilian|ilia|PRON kruelecon|krueleco|N .|_|_
+Kristina=Mi|Kristina=Mi|PROP kredas|kredi|V ,|_|_ ke|ke|KS via|via|PRON patro|patro|N finfine|finfine|ADV fartas|farti|V pli|pli|ADV bone|bone|ADV ol|ol|PRP vi|vi|PRON !|_|_
+Elis|eli|V Finfine|finfine|ADV !|_|_
+Kristina=Elis|Kristina=Elis|PROP ,|_|_ ni|ni|PRON devus|devi|V pensi|pensi|V pri|pri|PRP la|la|ART somero|somero|N kaj|kaj|KC ne|ne|ADV pri|pri|PRP la|la|ART pasinto|pasinto|N !|_|_
+Elis|eli|V Jes|jes|IN ,|_|_ pri|pri|PRP la|la|ART somero|somero|N !|_|_
+"|_|_ (|_|_ Levigxas|levigxi|V ekscitita|ekscitita|ADJ .|_|_ )|_|_ Cxu|cxu|ADV mi|mi|PRON revidos|revidi|V ilin|ili|PRON ,|_|_ cxu|cxu|ADV mi|mi|PRON povos|povi|V foriri|foriri|V de|de|PRP tiu=cxi|cxi=tiu|PRON terura|terura|ADJ urbo|urbo|N ,|_|_ de|de|PRP Ebal|Ebal|PROP ,|_|_ la|la|ART monto|monto|N de|de|PRP malbeno|malbeno|N ,|_|_ kaj|kaj|KC revidi|revidi|V Garizim|Garizim|PROP ?|_|_
+(|_|_ Sidigxas|sidigxi|V cxe|cxe|PRP la|la|ART pordo|pordo|N .|_|_
+)|_|_ Kristina=Jes|Kristina=Jes|PROP ,|_|_ jes|jes|IN !|_|_
+Estos|esti|V tiel|tiel|ADV !|_|_
+Elis|eli|V Sed|sed|KC cxu|cxu|ADV vi|vi|PRON kredas|kredi|V ,|_|_ ke|ke|KS mi|mi|PRON vidos|vidi|V miajn|mia|PRON betulojn|betulo|N kaj|kaj|KC tiliojn|tilio|N ,|_|_ kiel|kiel|ADV mi|mi|PRON iam|iam|ADV vidis|vidi|V ilin|ili|PRON ,|_|_ cxu|cxu|ADV vi|vi|PRON ne|ne|ADV kredas|kredi|V ,|_|_ ke|ke|KS kovros|kovri|V ilin|ili|PRON la|la|ART sama|sama|ADJ nigra|nigra|ADJ vualajxo|vualajxo|N ,|_|_ kiu|kiu|PRON tie=cxi|cxi=tie|ADV kovras|kovri|V la|la|ART naturon|naturo|N kaj|kaj|KC la|la|ART vivon|vivo|N post|post|PRP tiu|tiu|PRON tago|tago|N ...|_|_
+(|_|_ Montras|montri|V al|al|PRP la|la|ART braksegxo|braksegxo|N ,|_|_ kiu|kiu|PRON nun|nun|ADV staras|stari|V en|en|PRP ombro|ombro|N .|_|_
+)|_|_ Vidu|vidi|V ,|_|_ nun|nun|ADV la|la|ART suno|suno|N foriris|foriri|V !|_|_
+Kristina=Revenos|Kristina=Revenos|PROP ,|_|_ kaj|kaj|KC tiam|tiam|ADV por|por|PRP resti|resti|V pli|pli|ADV longe|longe|ADV !|_|_
+Elis|Elis|PROP Estas|esti|V vere|vere|ADV ;|_|_
+la|la|ART tagoj|tago|N longigxas|longigxi|V kaj|kaj|KC la|la|ART ombroj|ombro|N mallongigxas|mallongigxi|V .|_|_
+Kristina=Ni|Kristina=Ni|PROP iras|iri|V ,|_|_ al|al|PRP la|la|ART lumo|lumo|N ,|_|_ Elis|Elis|PROP ,|_|_ kredu|kredi|V min|mi|PRON .|_|_
+Elis|eli|V Foje|foje|ADV mi|mi|PRON kredas|kredi|V tiel|tiel|ADV ,|_|_ kaj|kaj|KC kiam|kiam|KS mi|mi|PRON pensas|pensi|V pri|pri|PRP la|la|ART pasinto|pasinto|N ,|_|_ kaj|kaj|KC komparas|kompari|V gxin|gxi|PRON kun|kun|PRP la|la|ART nuno|nuno|N ,|_|_ tiam|tiam|ADV mi|mi|PRON estas|esti|V felicxa|felicxa|ADJ .|_|_
+Pasintjare|pasintjare|ADV ,|_|_ tiam|tiam|ADV vi|vi|PRON ne|ne|ADV sidis|sidi|V tie|tie|ADV ,|_|_ cxar|cxar|KS tiam|tiam|ADV vi|vi|PRON estis|esti|V foririnta|foriri|V de|de|PRP mi|mi|PRON ,|_|_ rompinte|rompi|V la|la|ART gefiancxecon|gefiancxeco|N !|_|_
+Jen|jen|ADV ,|_|_ tio|tio|PRON estis|esti|V la|la|ART plej|plej|ADV malfacila|malfacila|ADJ el|el|PRP cxio|cxio|PRON .|_|_
+Mi|mi|PRON preskaux|preskaux|ADV mortis|morti|V ,|_|_ pecon|peco|N post|post|PRP peco|peco|N ;|_|_
+sed|sed|KC kiam|kiam|KS vi|vi|PRON revenis|reveni|V -R|_|_ mi|mi|PRON revivigxis|revivigxi|V .|_|_
+Cxu|cxu|ADV vi|vi|PRON memoras|memori|V ,|_|_ kial|kial|ADV vi|vi|PRON foriris|foriri|V ?|_|_
+Kristina=Ne|Kristina=Ne|PROP ,|_|_ tion|tion|PRON mi|mi|PRON ne|ne|ADV memoras|memori|V ,|_|_ kaj|kaj|KC nun|nun|ADV sxajnas|sxajni|V ,|_|_ kvazaux|kvazaux|ADV motivo|motivo|N ne|ne|ADV ekzistis|ekzisti|V .|_|_
+Mi|mi|PRON nur|nur|ADV sentis|senti|V instigon|instigo|N foriri|foriri|V ;|_|_ kaj|kaj|KC mi|mi|PRON foriris|foriri|V ,|_|_ kvazaux|kvazaux|ADV en|en|PRP dormo|dormo|N .|_|_
+Klam|Klam|PROP mi|mi|PRON revidis|revidi|V vin|vi|PRON ,|_|_ mi|mi|PRON vekigis|vekigi|V kaj|kaj|KC estis|esti|V felicxa|felicxa|ADJ !|_|_
+Jen|jen|ADV venas|veni|V patrino|patrino|N !|_|_
+Diru|diri|V nenion|nenio|PRON ,|_|_ indulgu|indulgi|V sxin|sxi|PRON en|en|PRP sxia|sxia|PRON imagita|imagi|V mondo|mondo|N ,|_|_ kie|kie|ADV sxi|sxi|PRON vivas|vivi|V kaj|kaj|KC kredas|kredi|V ,|_|_ ke|ke|KS patro|patro|N estas|esti|V martiro|martiro|N kaj|kaj|KC cxiuj|cxiu|PRON liaj|lia|PRON viktimoj|viktimo|N friponoj|fripono|N .|_|_
+Sinjorino|sinjorino|N Heyst|Heyst|PROP (|_|_ envenas|enveni|V el|el|PRP la|la|ART kuirejo|kuirejo|N ,|_|_ en|en|PRP kuireja|kuireja|ADJ antauxtuko|antauxtuko|N ,|_|_ sensxeligante|sensxeligi|V pomon|pomo|N ;|_|_
+parolas|paroli|V afable|afable|ADV ,|_|_ iom|iom|ADV nalve|nalve|ADV )|_|_ Bonan|bona|ADJ tagon|tago|N ,|_|_ infanoj|infano|N !|_|_
+Cxu|cxu|ADV vi|vi|PRON volas|voli|V havi|havi|V la|la|ART pomsupon|pomsupo|N malvarma|malvarma|ADJ aux|aux|KC varma|varma|ADJ ?|_|_
+Elis|eli|V Malvarma|malvarma|ADJ ,|_|_ panjo|panjo|N .|_|_
+Sinjorino|sinjorino|N Heyst=Estas|Heyst=Estas|PROP bone|bone|ADV ,|_|_ mia|mia|PRON knabo|knabo|N ,|_|_ vi|vi|PRON cxiam|cxiam|ADV scias|scii|V ,|_|_ kion|kio|PRON vi|vi|PRON volas|voli|V ,|_|_ kaj|kaj|KC diras|diri|V tion|tion|PRON ,|_|_ sed|sed|KC tion|tion|PRON ne|ne|ADV povas|povi|V Kristina|Kristina|PROP .|_|_
+Kaj|kaj|KC tion|tion|PRON Elis|Elis|PROP lernis|lerni|V de|de|PRP sia|sia|PRON patro|patro|N ;|_|_
+li|li|PRON cxiam|cxiam|ADV sciis|scii|V ,|_|_ kion|kio|PRON li|li|PRON volis|voli|V kaj|kaj|KC faris|fari|V .|_|_
+Tion|tio|PRON homoj|homo|N ne|ne|ADV toleras|toleri|V ,|_|_ kaj|kaj|KC tial|tial|ADV iris|iri|V malbone|malbone|ADV por|por|PRP li|li|PRON .|_|_
+Sed|sed|KC iam|iam|ADV venos|veni|V lia|lia|PRON tago|tago|N ,|_|_ kaj|kaj|KC tiam|tiam|ADV li|li|PRON pravos|pravi|V kaj|kaj|KC la|la|ART aliaj|alia|ADJ malpravos|malpravi|V !|_|_
+...|_|_ Jen|jen|ADV ,|_|_ kion|kio|PRON mi|mi|PRON volis|voli|V diri|diri|V ?|_|_
+Jes|jes|IN !|_|_ Cxu|cxu|ADV vi|vi|PRON scias|scii|V ,|_|_ ke|ke|KS Lindkvist|Lindkvist|PROP translogxigxis|translogxigxi|V al|al|PRP tiu=cxi|cxi=tiu|PRON urbo|urbo|N ?|_|_
+Lindkvist|Lindkvist|PROP ,|_|_ la|la|ART plej|plej|ADV granda|granda|ADJ el|el|PRP cxiuj|cxiu|PRON friponoj|fripono|N !|_|_
+Elis|eli|V (|_|_ levigxas|levigxi|V ,|_|_ ekscitita|ekscitita|ADJ )|_|_ Cxu|cxu|ADV li|li|PRON venis|veni|V tien|tien|ADV cxi|cxi|ADV ?|_|_
+Sinjorino|sinjorino|N Heyst=Jes|Heyst=Jes|PROP ,|_|_ li|li|PRON lokas|loki|V oblikve|oblikve|ADV trans|trans|PRP la|la|ART strato|strato|N .|_|_
+Elis|eli|V Do|do|ADV oni|oni|PRON vidos|vidi|V lin|li|PRON preteriri|preteriri|V cxiujn|cxiu|PRON tagojn|tago|N .|_|_
+Ankaux|ankaux|ADV tio|tio|PRON !|_|_
+Sinjorino|sinjorino|N Heyst=Lasu|Heyst=Lasu|PROP min|mi|PRON paroli|paroli|V kun|kun|PRP li|li|PRON nur|nur|ADV unufoje|unufoje|ADV ,|_|_ kaj|kaj|KC li|li|PRON neniam|neniam|ADV revenos|reveni|V ,|_|_ cxar|cxar|KS mi|mi|PRON konas|koni|V liajn|lia|PRON malgrandajn|malgranda|ADJ apartajxojn|apartajxo|N !|_|_
+...|_|_ Nu|nu|ADV ,|_|_ Elis|Elis|PROP ,|_|_ kiel|kiel|ADV sukcesis|sukcesi|V Petro|Petro|PROP ?|_|_
+Elis|Elis|PROP Sukcesis|sukcesi|V bone|bone|ADV !|_|_
+Sinjorino|sinjorino|N Heyst=Tion|Heyst=Tion|PROP mi|mi|PRON kredas|kredi|V .|_|_
+Kiam|kiam|ADV vi|vi|PRON intencas|intenci|V disputi|disputi|V ?|_|_
+Elis|eli|V Kiam|kiam|KS mono|mono|N suficxos|suficxi|V ,|_|_ panjo|panjo|N !|_|_
+Sinjorino|sinjorino|N Heyst=Kiam|Heyst=Kiam|PROP mono|mono|N suficxos|suficxi|V !|_|_
+Tio|tio|PRON ne|ne|ADV estas|esti|V vera|vera|ADJ respondo|respondo|N !|_|_
+.|_|_ Kaj|kaj|KC Benjamin|Benjamin|PROP !|_|_
+Cxu|cxu|ADV li|li|PRON sukcesis|sukcesi|V en|en|PRP la|la|ART skriboj|skribo|N ?|_|_
+Elis|eli|V Ni|ni|PRON ne|ne|ADV scias|scii|V ankoraux|ankoraux|ADV ;|_|_
+sed|sed|KC li|li|PRON tuj|tuj|ADV venos|veni|V !|_|_
+Sinjorino|sinjorino|N Heyst=Jees|Heyst=Jees|PROP ,|_|_ Benjamin|Benjamin|PROP ne|ne|ADV tute|tute|ADV placxas|placxi|V al|al|PRP mi|mi|PRON ,|_|_ cxar|cxar|KS li|li|PRON kondutas|konduti|V ,|_|_ kvazaux|kvazaux|KS li|li|PRON havus|havi|V rajtojn|rajto|N ...|_|_
+sed|sed|KC tion|tion|PRON ni|ni|PRON forigos|forigi|V !|_|_ Bona|bona|ADJ knabo|knabo|N tamen|tamen|ADV .|_|_
+Jes|jes|IN ,|_|_ kaj|kaj|KC alvenis|alveni|V paketo|paketo|N al|al|PRP vi|vi|PRON ,|_|_ Elis|Elis|PROP .|_|_ (|_|_ Eliras|eliri|V tra|tra|PRP la|la|ART kulreja|kulreja|ADJ pordo|pordo|N kaj|kaj|KC tuj|tuj|ADV revenas|reveni|V kun|kun|PRP paketo|paketo|N .|_|_
+)|_|_ Elis|eli|V Kiel|kiel|KS bone|bone|ADV patrino|patrino|N konas|koni|V kaj|kaj|KC sekvas|sekvi|V cxion|cxio|PRON ;|_|_
+foje|foje|ADV mi|mi|PRON kredas|kredi|V ,|_|_ ke|ke|KS sxia|sxia|PRON naiveco|naiveco|N estas|esti|V iel|iel|ADV sxajnigita|sxajnigi|V .|_|_
+Sinjorino|sinjorino|N Heyst=Jen|Heyst=Jen|PROP la|la|ART paketo|paketo|N !|_|_
+Lina|Lina|PROP akceptis|akcepti|V gxin|gxi|PRON !|_|_
+Elis|eli|V Donaco|donaco|N !|_|_
+Mi|mi|PRON timas|timi|V donacojn|donaco|N ,|_|_ de|de|PRP kiam|kiam|KS mi|mi|PRON foje|foje|ADV ricevis|ricevi|V keston|kesto|N kun|kun|PRP stratsxtonoj|stratsxtono|N .|_|_
+(|_|_ Metas|meti|V la|la|ART paketon|paketo|N sur|sur|PRP la|la|ART tablon|tablo|N .|_|_
+)|_|_ Sinjorino|sinjorino|N Heyst=Nun|Heyst=Nun|PROP mi|mi|PRON reiros|reiri|V en|en|PRP la|la|ART kuirejon|kuirejo|N !|_|_
+-L|_|_ Cxu|cxu|ADV ne|ne|ADV estas|esti|V tro|tro|ADV malvarme|malvarme|ADV por|por|PRP vi|vi|PRON kun|kun|PRP malfermita|malfermita|ADJ pordo|pordo|N ?|_|_
+Elis|eli|V Tute|tute|ADV ne|ne|IN ,|_|_ panjo|panjo|N .|_|_
+Sinjorino|sinjorino|N Heyst=Elis|Heyst=Elis|PROP ne|ne|ADV devas|devi|V meti|meti|V sian|sia|PRON surtuton|surtuto|N tien|tien|ADV ...|_|_
+aspektas|aspekti|V tiel|tiel|ADV senorde|senorde|ADV !|_|_
+...|_|_ Nu|nu|ADV ,|_|_ Kristina|Kristina|PROP ,|_|_ cxu|cxu|ADV miaj|mia|PRON jxaluzioj|jxaluzio|N baldaux|baldaux|ADV estos|esti|V pretaj|preta|ADJ ?|_|_
+Kristina=Post|Kristina=Post|PROP kelkaj|kelka|PRON minutoj|minuto|N ,|_|_ panjo|panjo|N !|_|_
+Sinjorino|sinjorino|N Heyst=Jes|Heyst=Jes|PROP ,|_|_ Petron|Petro|PROP mi|mi|PRON sxatas|sxati|V ;|_|_
+lin|li|PRON mi|mi|PRON plej|plej|ADV sxatas|sxati|V .|_|_
+.|_|_ .|_|_
+cxu|cxu|ADV vi|vi|PRON ne|ne|ADV partoprenos|partopreni|V la|la|ART tagmangxon|tagmangxo|N ,|_|_ Elis|Elis|PROP ?|_|_
+Elis|eli|V Certe|certe|ADV mi|mi|PRON partoprenos|partopreni|V .|_|_
+Sinjorino|sinjorino|N Heyst=Nu|Heyst=Nu|PROP ,|_|_ kial|kial|ADV vi|vi|PRON diris|diri|V ,|_|_ ke|ke|KS vi|vi|PRON volas|voli|V havi|havi|V la|la|ART pomsupon|pomsupo|N malvarma|malvarma|ADJ ,|_|_ se|se|KS vi|vi|PRON devos|devi|V foriri|foriri|V .|_|_
+Vi|vi|PRON ne|ne|ADV estas|esti|V tre|tre|ADV ordema|ordema|ADJ ,|_|_ Elis|Elis|PROP .|_|_
+Sed|sed|KC Petro|Petro|PROP estas|esti|V ordema|ordema|ADJ !|_|_ ...|_|_
+Kaj|kaj|KC fermu|fermi|V la|la|ART pordojn|pordo|N ,|_|_ kiam|kiam|KS farigxos|farigxi|V malvarme|malvarme|ADV ,|_|_ por=ke|por=ke|KS vi|vi|PRON ne|ne|ADV havu|havi|V nazkataron|nazkataro|N !|_|_
+(|_|_ Eliras|eliri|V dekstre|dekstre|ADV .|_|_
+)|_|_ Elis|eli|V La|la|ART bona|bona|ADJ maljunulino|maljunulino|N ...|_|_
+Kaj|kaj|KC cxiam|cxiam|ADV Petro=...|Petro=...|PROP cxu|cxu|ADV sxi|sxi|PRON intencas|intenci|V petolinciti|petolinciti|V vin|vi|PRON per|per|PRP Petro|Petro|PROP ?|_|_
+Kristina=Min|Kristina=Min|PROP ?|_|_
+Kristina=Kian|Kristina=Kian|PROP donacon|donaco|N vi|vi|PRON ricevis|ricevi|V ?|_|_
+Elis|Elis|PROP (|_|_ sxirmalfermas|sxirmalfermi|V la|la|ART paketon|paketo|N .|_|_
+)|_|_ Fastotempa|fastotempa|ADJ brancxeto|brancxeto|N !|_|_ ...|_|_
+Kristina=De|Kristina=De|PROP kiu|kiu|PRON ?|_|_
+Elis|eli|V Anonime|anonime|ADV !|_|_
+Nu|nu|ADV ,|_|_ tio|tio|PRON estas|esti|V ja|ja|ADV nur|nur|ADV sxerco|sxerco|N ,|_|_ mi|mi|PRON metos|meti|V gxin|gxi|PRON en|en|PRP akvon|akvo|N ,|_|_ kaj|kaj|KC gxi|gxi|PRON verdigxos|verdigxi|V kiel|kiel|PRP la|la|ART bastono|bastono|N de|de|PRP Aron|aro|N !|_|_
+Betulo|betulo|N ...|_|_ kiel|kiel|PRP iam|iam|ADV en|en|PRP la|la|ART infanago|infanago|N ...|_|_
+Kaj|kaj|KC Lindkvist|Lindkvist|PROP venis|veni|V tien|tien|ADV cxi|cxi|ADV .|_|_
+Kristina=Kio|Kristina=Kio|PROP pri|pri|PRP li|li|PRON ?|_|_
+Elis|eli|V Al|al|PRP li|li|PRON ni|ni|PRON havas|havi|V la|la|ART plej|plej|ADV grandan|granda|ADJ monsxuldon|monsxuldo|N .|_|_
+Kristina=Vi|Kristina=Vi|PROP tamen|tamen|ADV ne|ne|ADV sxuldas|sxuldi|V al|al|PRP li|li|PRON ?|_|_
+Elis|eli|V Jes|jes|IN ,|_|_ ni|ni|PRON ,|_|_ unu|unu|NUM por|por|PRP cxiuj|cxiu|PRON kaj|kaj|KC cxiuj|cxiu|PRON por|por|PRP unu|unu|NUM ;|_|_
+la|la|ART nomo|nomo|N de|de|PRP la|la|ART familio|familio|N estas|esti|V malhonorita|malhonori|V ,|_|_ kiam|kiam|KS sxuldo|sxuldo|N ankoraux|ankoraux|ADV ekzistas|ekzisti|V .|_|_
+Kristina=Prenu|Kristina=Prenu|PROP alian|alia|ADJ nomon|nomo|N !|_|_
+Elis|eli|V Kristina|Kristina|PROP !|_|_
+Kristina|Kristina|PROP (|_|_ formetas|formeti|V la|la|ART laboron|laboro|N ,|_|_ kiu|kiu|PRON estas|esti|V preta|preta|ADJ )|_|_ .|_|_
+Dankon|danko|N ,|_|_ Elis|eli|V !|_|_
+Mi|mi|PRON volis|voli|V nur|nur|ADV provi|provi|V vin|vi|PRON !|_|_
+Elis|eli|V Sed|sed|KC vi|vi|PRON ne|ne|ADV devas|devi|V tenti|tenti|V min|mi|PRON !|_|_
+...|_|_ Lundkvist|Lundkvist|PROP estas|esti|V malricxa|malricxa|ADJ homo|homo|N kaj|kaj|KC bezonas|bezoni|V la|la|ART sian|sia|PRON ...|_|_
+Kie|kie|ADV pasis|pasi|V mia|mia|PRON patro|patro|N ,|_|_ estas|esti|V kvazaux|kvazaux|ADV batalkampo|batalkampo|N kun|kun|PRP mortintoj|mortinto|N kaj|kaj|KC vunditoj|vundito|N ...|_|_
+Cxu|cxu|ADV vi|vi|PRON volas|voli|V promeni|promeni|V ?|_|_
+Kristina=Kaj|Kristina=Kaj|PROP sercxi|sercxi|V la|la|ART sunon|suno|N ?|_|_
+Volonte|volonte|ADV !|_|_
+Elis|eli|V Cxu|cxu|ADV vi|vi|PRON komprenas|kompreni|V ,|_|_ ke|ke|KS la|la|ART Savanto|Savanto|PROP suferis|suferi|V pro|pro|PRP niaj|nia|PRON sxuldoj|sxuldo|N ,|_|_ kaj|kaj|KC tamen|tamen|ADV ni|ni|PRON devas|devi|V dauxrigi|dauxrigi|V la|la|ART pagadon|pagado|N .|_|_
+Neniu|neniu|PRON pagas|pagi|V por|por|PRP mi|mi|PRON !|_|_
+Kristina=Sed|Kristina=Sed|PROP se|se|KS iu|iu|PRON pagus|pagi|V por|por|PRP vi|vi|PRON ,|_|_ cxu|cxu|ADV tiam|tiam|ADV vi|vi|PRON komprenus|kompreni|V ...|_|_ ?|_|_ Elis|eli|V Jes|jes|IN ,|_|_ tiam|tiam|ADV mi|mi|PRON komprenus|kompreni|V !|_|_ ...|_|_
+Silentu|silenti|V !|_|_
+Benjamin|Benjamin|PROP venas|veni|V .|_|_ Cxu|cxu|ADV vi|vi|PRON povas|povi|V vidi|vidi|V ,|_|_ cxu|cxu|ADV li|li|PRON estas|esti|V gxoja|gxoja|ADJ ?|_|_
+Kristina|Kristina|PROP (|_|_ elrigardas|elrigardi|V tra|tra|PRP la|la|ART fonpordo|fonpordo|N )|_|_ .|_|_
+Li|li|PRON iras|iri|V malrapide|malrapide|ADV ...|_|_ Kaj|kaj|KC nun|nun|ADV li|li|PRON haltas|halti|V cxe|cxe|PRP la|la|ART fontano|fontano|N ...|_|_
+kaj|kaj|KC lavas|lavi|V la|la|ART okulojn|okulo|N ...|_|_
+Elis|eli|V Ankaux|ankaux|ADV tio|tio|PRON !|_|_
+Kristina=Tamen|Kristina=Tamen|PROP atendu|atendi|V ...|_|_
+Elis|eli|V Larmoj|larmo|N ,|_|_ larmoj|larmo|N !|_|_
+Kristina=Paciencon|Kristina=Pacienco|PROP !|_|_
+Benjamin|Benjamin|PROP (|_|_ eniras|eniri|V ,|_|_ afabla|afabla|ADJ ,|_|_ estimkonduta|estimkonduta|ADJ sed|sed|KC cxagrenita|cxagreni|V ;|_|_
+li|li|PRON portas|porti|V kelkajn|kelka|PRON librojn|libro|N kaj|kaj|KC aktujon|aktujo|N )|_|_ Elis|Elis|PROP Nu|nu|ADV ,|_|_ kiel|kiel|ADV vi|vi|PRON sukcesis|sukcesi|V en|en|PRP la|la|ART latino|latino|N ?|_|_
+Benjamin=Iris|Benjamin=Iris|PROP malbone|malbone|ADV !|_|_
+Elis|Elis|PROP Montru|montri|V vian|via|PRON skribajxon|skribajxo|N !|_|_
+Kion|kio|PRON vi|vi|PRON faris|fari|V ?|_|_
+Benjamin=Mi|Benjamin=Mi|PROP skribis|skribi|V ut|ut|N kun|kun|PRP indikativo|indikativo|N ,|_|_ kvankam|kvankam|KS mi|mi|PRON sciis|scii|V ,|_|_ ke|ke|KS devas|devi|V esti|esti|V konjunktivo|konjunktivo|N .|_|_
+Elis|eli|V Do|do|ADV vi|vi|PRON estas|esti|V perdita|perdi|V !|_|_
+Sed|sed|KC kiel|kiel|ADV vi|vi|PRON povis|povi|V ?|_|_
+Benjamin|Benjamin|PROP (|_|_ humile|humile|ADV )|_|_ Tion|tio|PRON mi|mi|PRON ne|ne|ADV povas|povi|V klarigi|klarigi|V .|_|_
+.|_|_
+mi|mi|PRON sciis|scii|V ,|_|_ kiel|kiel|ADV devas|devi|V esti|esti|V ,|_|_ volis|voli|V skribi|skribi|V la|la|ART gxustan|gxusta|ADJ kaj|kaj|KC faris|fari|V male|male|ADV !|_|_
+(|_|_ Sidigxas|sidigxi|V animpremite|animpremi|V cxe|cxe|PRP la|la|ART mangxotablo|mangxotablo|N .|_|_
+)|_|_ Elis|eli|V (|_|_ peze|peze|ADV sidigxas|sidigxi|V cxe|cxe|PRP la|la|ART skribtablo|skribtablo|N kaj|kaj|KC legas|legi|V en|en|PRP la|la|ART aktujo|aktujo|N de|de|PRP Benjamin|Benjamin|PROP )|_|_ .|_|_
+Jes|jes|IN ,|_|_ tie=cxi|cxi=tie|ADV staras|stari|V indikativo|indikativo|N !|_|_
+Ho|ho|IN mia|mia|PRON Dio|Dio|PROP !|_|_
+Benjamin=Jes|Benjamin=Jes|PROP ,|_|_ gxi|gxi|PRON estas|esti|V .|_|_
+Elis|eli|V (|_|_ malgaje|malgaje|ADV sea|sea|ADJ ne|ne|ADV amare|amare|ADV )|_|_ Ke|ke|KS cxio|cxio|PRON venas|veni|V samtempe|samtempe|ADV ,|_|_ ankaux|ankaux|ADV !|_|_
+-L|_|_ Kaj|kaj|KC vi|vi|PRON estis|esti|V mia|mia|PRON plej|plej|ADV bona|bona|ADJ lernanto|lernanto|N ,|_|_ kion|kio|PRON mi|mi|PRON do|do|ADV povas|povi|V atendi|atendi|V de|de|PRP la|la|ART aliaj|alia|ADJ !|_|_
+-R|_|_ Mia|mia|PRON reputacio|reputacio|N kiel|kiel|KS instruisto|instruisto|N perdigxos|perdigxi|V ,|_|_ mi|mi|PRON ne|ne|ADV ricevos|ricevi|V lecionojn|leciono|N plu|plu|ADV ,|_|_ kaj|kaj|KC ...|_|_
+cxio|cxio|PRON disfalos|disfali|V !|_|_
+(|_|_ Al|al|PRP Benjamin|Benjamin|PROP .|_|_ )|_|_ Ne|ne|ADV tiel|tiel|ADV malgxoju|malgxoji|V ...|_|_
+ne|ne|ADV estas|esti|V via|via|PRON kulpo|kulpo|N ...|_|_
+Kristina|kristina|ADJ (|_|_ kun|kun|PRP ekstrerna|ekstrerna|ADJ peno|peno|N )|_|_ Elis|Elis|PROP !|_|_
+Kuragxon|kuragxo|N ,|_|_ pro|pro|PRP Dio|Dio|PROP ,|_|_ kuragxon|kuragxo|N !|_|_
+Elis|eli|V De|de|PRP kle|kle|ADV mi|mi|PRON prenu|preni|V gxin|gxi|PRON ?|_|_
+Kristina=De|Kristina=De|PROP tie|tie|ADV ,|_|_ kie|kie|ADV vi|vi|PRON antauxe|antauxe|ADV ricevis|ricevi|V gxin|gxi|PRON !|_|_
+Elis|eli|V Ne|ne|ADV estas|esti|V nun|nun|ADV kiel|kiel|PRP antauxe|antauxe|ADV !|_|_
+Sxajne|sxajne|ADV mi|mi|PRON estas|esti|V en|en|PRP malfavoro|malfavoro|N !|_|_
+Kristina=Estas|Kristina=Estas|PROP favoro|favoro|N suferi|suferi|V senkulpe|senkulpe|ADV ...|_|_
+ne|ne|ADV lasu|lasi|V logi|logi|V vin|vi|PRON al|al|PRP malpacienco|malpacienco|N ...|_|_
+Eltenu|elteni|V la|la|ART provon|provo|N ,|_|_ cxar|cxar|KS estas|esti|V nur|nur|ADV provo|provo|N ,|_|_ mi|mi|PRON sentas|senti|V tiel|tiel|ADV ...|_|_
+Elis|eli|V Cxu|cxu|ADV jaro|jaro|N povos|povi|V esti|esti|V pli|pli|ADV mallonga|mallonga|ADJ por|por|PRP Benjamin|Benjamin|PROP ol|ol|PRP tricent=sesdek=kvin|tricent=sesdek=kvin|NUM tagoj|tago|N ?|_|_
+Kristina=Jes|Kristina=Jes|PROP ,|_|_ gaja|gaja|ADJ menso|menso|N mallongigas|mallongigi|V la|la|ART tempon|tempo|N !|_|_
+Kristina=Estu|Kristina=Estu|PROP infano|infano|N ,|_|_ kaj|kaj|KC mi|mi|PRON diros|diri|V tiel|tiel|ADV ...|_|_
+Pensu|pensi|V pri|pri|PRP patrino|patrino|N ...|_|_
+kiel|kiel|PRP sxi|sxi|PRON portas|porti|V cxion|cxio|PRON !|_|_
+Elis|Elis|PROP Donu|doni|V al|al|PRP mi|mi|PRON vian|via|PRON manon|mano|N ;|_|_
+mi|mi|PRON profundigxas|profundigxi|V !|_|_
+Kristina|Kristina|PROP (|_|_ donas|doni|V la|la|ART manon|mano|N )|_|_ Elis|Elis|PROP Via|via|PRON mano|mano|N tremas|tremi|V .|_|_
+.|_|_
+-L|_|_ Kristina=Ne|Kristina=Ne|PROP ,|_|_ mi|mi|PRON ne|ne|ADV sentas|senti|V tion|tion|PRON ...|_|_
+Elis|eli|V Vi|vi|PRON ne|ne|ADV estas|esti|V tiel|tiel|ADV forta|forta|ADJ ,|_|_ kiel|kiel|KS vi|vi|PRON montras|montri|V vin|vi|PRON ...|_|_
+Kristina=Mi|Kristina=Mi|PROP ne|ne|ADV sentas|senti|V malfortecon|malforteco|N ...|_|_
+Elis|eli|V Kial|kial|ADV vi|vi|PRON do|do|ADV ne|ne|ADV povas|povi|V doni|doni|V al|al|PRP mi|mi|PRON forton|forto|N ?|_|_
+Kristina=Mi|Kristina=Mi|PROP ne|ne|ADV havas|havi|V superflue|superflue|ADV da|da|PRP sxi|sxi|PRON !|_|_
+Elis|eli|V (|_|_ elrigardas|elrigardi|V tra|tra|PRP la|la|ART fenestro|fenestro|N )|_|_ Cxu|cxu|ADV vi|vi|PRON scias|scii|V ,|_|_ kiu|kiu|PRON nun|nun|ADV venas|veni|V ?|_|_
+Kristina|Kristina|PROP (|_|_ rigardas|rigardi|V tra|tra|PRP la|la|ART fenestro|fenestro|N ;|_|_
+ekgenuas|ekgenui|V ,|_|_ frakasita|frakasi|V )|_|_ .|_|_
+Estas|esti|V tro|tro|ADV multe|multe|ADV !|_|_
+Elis|eli|V La|la|ART kreditoro|kreditoro|N ,|_|_ li|li|PRON kiu|kiu|PRON povas|povi|V preni|preni|V niajn|nia|PRON meblojn|meblo|N ,|_|_ kiam|kiam|KS ajn|ajn|ADV ,|_|_ Lindkvist|Lindkvist|PROP ,|_|_ kiu|kiu|PRON venis|veni|V tien|tien|ADV cxi|cxi|ADV por|por|PRP sidi|sidi|V kiel|kiel|PRP araneo|araneo|N meze|meze|ADV en|en|PRP la|la|ART reto|reto|N kaj|kaj|KC gardi|gardi|V la|la|ART mu-|mu-|N sxojn|sxo|N ...|_|_
+Kristina=Fugxu|Kristina=Fugxu|PROP !|_|_
+Elis|eli|V Ne|ne|ADV !|_|_
+Ne|ne|ADV fugxi|fugxi|V !|_|_ ...|_|_
+Nun|nun|ADV ,|_|_ kiam|kiam|ADV vi|vi|PRON malfortigxis|malfortigxi|V ,|_|_ mi|mi|PRON fortigxis|fortigxi|V ...|_|_
+jen|jen|ADV li|li|PRON alvenas|alveni|V sur|sur|PRP la|la|ART strato|strato|N ,|_|_ .|_|_
+.|_|_ .|_|_
+kaj|kaj|KC jam|jam|ADV jxetis|jxeti|V siajn|sia|PRON malicajn|malica|ADJ rigardojn|rigardo|N sur|sur|PRP la|la|ART kaptajxon|kaptajxo|N ...|_|_
+Kristina=Iru|Kristina=Iru|PROP flanken|flanke|ADV ,|_|_ almenaux|almenaux|ADV !|_|_
+Elis|eli|V Ne|ne|ADV ,|_|_ nun|nun|ADV li|li|PRON amuzas|amuzi|V min|mi|PRON ...|_|_
+Li|li|PRON sxajnas|sxajni|V heligxi|heligxi|V ,|_|_ kvazaux|kvazaux|KS li|li|PRON vidus|vidi|V la|la|ART kaptajxon|kaptajxo|N en|en|PRP kaptilo|kaptilo|N ,|_|_ ...|_|_
+Venu|veni|V nur|nur|ADV !|_|_
+...|_|_ Li|li|PRON kalkulas|kalkuli|V la|la|ART pasxojn|pasxo|N al|al|PRP la|la|ART barilpordo|barilpordo|N ,|_|_ kaj|kaj|KC pro|pro|PRP la|la|ART malfermita|malfermita|ADJ pordo|pordo|N li|li|PRON vidis|vidi|V ,|_|_ ke|ke|KS ni|ni|PRON estas|esti|V hejme|hejme|ADV ...|_|_
+Sed|sed|KC nun|nun|ADV li|li|PRON renkontis|renkonti|V iun|iu|PRON kaj|kaj|KC haltas|halti|V por|por|PRP babili|babili|V ...|_|_
+Li|li|PRON parolas|paroli|V ,|_|_ pri|pri|PRP ni|ni|PRON ,|_|_ cxar|cxar|KS li|li|PRON rigardas|rigardi|V tien|tien|ADV cxi|cxi|ADV ...|_|_
+Kristina=Se|Kristina=Se|PROP li|li|PRON nur|nur|ADV ne|ne|ADV renkontos|renkonti|V patrinon|patrino|N tie=cxi|cxi=tie|ADV ,|_|_ kaj|kaj|KC sxi|sxi|PRON per|per|PRP koleraj|kolera|ADJ vortoj|vorto|N faros|fari|V lin|li|PRON nepacigema|nepacigema|ADJ ...|_|_
+Evitigu|evitigi|V tion|tion|PRON ,|_|_ Elis|Elis|PROP !|_|_
+Elis|eli|V Nun|nun|ADV li|li|PRON skuas|skui|V la|la|ART bastonon|bastono|N ,|_|_ kvazaux|kvazaux|KS li|li|PRON jxurus|jxuri|V ,|_|_ ke|ke|KS tie=cxi|cxi=tie|ADV kompato|kompato|N ne|ne|ADV anstatauxos|anstatauxi|V justecon|justeco|N !|_|_
+...|_|_ Li|li|PRON malbutonas|malbutoni|V la|la|ART surtuton|surtuto|N por|por|PRP montri|montri|V ,|_|_ ke|ke|KS oni|oni|PRON ankoraux|ankoraux|ADV ne|ne|ADV prenis|preni|V la|la|ART vestojn|vesto|N de|de|PRP la|la|ART korpo|korpo|N ...|_|_
+Mi|mi|PRON vidas|vidi|V sur|sur|PRP lia|lia|PRON busxo|busxo|N ,|_|_ kion|kio|PRON li|li|PRON diras|diri|V ...|_|_
+Kion|kio|PRON mi|mi|PRON respondu|respondi|V al|al|PRP li|li|PRON ...|_|_
+Sinjoro|sinjoro|N ,|_|_ vi|vi|PRON estas|esti|V prava|prava|ADJ !|_|_
+Prenu|preni|V cxion|cxio|PRON ,|_|_ gxi|gxi|PRON apartenas|aparteni|V al|al|PRP vi|vi|PRON ...|_|_
+Kristina=Nur|Kristina=Nur|PROP tion|tion|PRON diru|diri|V !|_|_
+Elis|eli|V Nun|nun|ADV li|li|PRON ridas|ridi|V !|_|_
+Sed|sed|KC afable|afable|ADV ,|_|_ ne|ne|ADV malice|malice|ADV !|_|_
+Eble|eble|ADV li|li|PRON ne|ne|ADV estas|esti|V tiel|tiel|ADV malica|malica|ADJ ,|_|_ kvankam|kvankam|KS li|li|PRON volas|voli|V havi|havi|V sian|sia|PRON monon|mono|N !|_|_
+Se|se|KS li|li|PRON nur|nur|ADV volus|voli|V veni|veni|V nun|nun|ADV kaj|kaj|KC fini|fini|V la|la|ART malbenitan|malbeni|V babiladon|babilado|N ...|_|_
+jen|jen|ADV la|la|ART bastono|bastono|N ree|ree|ADV movigxas|movigxi|V ...|_|_ ili|ili|PRON cxiam|cxiam|ADV havas|havi|V bastonojn|bastono|N ,|_|_ tiuj|tiu|PRON kiuj|kiu|PRON havas|havi|V nepagitajn|nepagi|V bonhavojn|bonhavo|N ...|_|_ kaj|kaj|KC ledgalo-|ledgalo-|N sxojn|sxo|N ,|_|_ kiuj|kiu|PRON diras|diri|V vitsx|vitsx|N ,|_|_ vitsx|vitsx|N tute|tute|ADV kiel|kiel|ADV vergoj|vergo|N en|en|PRP la|la|ART aero|aero|N ...|_|_
+cxu|cxu|ADV vi|vi|PRON sentas|senti|V ,|_|_ kiel|kiel|ADV batas|bati|V mia|mia|PRON koro|koro|N ...|_|_
+mi|mi|PRON mem|mem|PRON auxdas|auxdi|V gxin|gxi|PRON kiel|kiel|PRP oceansxipegon|oceansxipego|N en|en|PRP la|la|ART dekstra|dekstra|ADJ orelo|orelo|N .|_|_
+-R|_|_ Nu|nu|ADV ,|_|_ Dio|Dio|PROP ,|_|_ jen|jen|ADV li|li|PRON adiauxas|adiauxi|V !|_|_
+...|_|_ Kaj|kaj|KC la|la|ART galosxoj|galosxo|N !|_|_
+Vitsx|Vitsx|PROP ,|_|_ vitsx|vitsx|N kiel|kiel|PRP la|la|ART fastotempa|fastotempa|ADJ brancxeto|brancxeto|N ...|_|_ sed|sed|KC li|li|PRON havas|havi|V brelokojn|breloko|N !|_|_
+Do|do|ADV li|li|PRON ne|ne|ADV estas|esti|V tute|tute|ADV malricxa|malricxa|ADJ !|_|_
+auxdu|auxdi|V la|la|ART galosxojn|galosxo|N ...|_|_
+Iupoj|iupo|N ,|_|_ lupoj|lupo|N ,|_|_ gluti|gluti|V ,|_|_ gluti|gluti|V ,|_|_ gluti|gluti|V ,|_|_ vitsx|vitsx|N ,|_|_ vitsx|vitsx|N !|_|_
+"|_|_ Atentu|atenti|V !|_|_
+Li|li|PRON vidas|vidi|V min|mi|PRON !|_|_
+Li|li|PRON vidas|vidi|V min|mi|PRON !|_|_
+...|_|_ (|_|_ Salutklinas|salutklini|V sin|si|PRON al|al|PRP la|la|ART strato|strato|N .|_|_ )|_|_ ...|_|_ Li|li|PRON salutas|sali|V unua|unua|ADJ !|_|_
+Li|li|PRON ridetas|rideti|V !|_|_
+Li|li|PRON mansalutas|mansaluti|V kaj|kaj|KC ...|_|_ (|_|_ Plorante|plori|V falsidigxas|falsidigxi|V apud|apud|PRP la|la|ART skribtablo|skribtablo|N .|_|_
+)|_|_ Li|li|PRON preteriris|preteriri|V !|_|_
+Kristina=Dank|Kristina=Dank|PROP al|al|PRP Dio|Dio|PROP !|_|_
+Elis|eli|V Li|li|PRON preteriris|preteriri|V !|_|_
+...|_|_ Sed|sed|KC li|li|PRON revenos|reveni|V !|_|_
+...|_|_ Ni|ni|PRON eliru|eliri|V en|en|PRP la|la|ART sunon|suno|N .|_|_
+Kristina=Kaj|Kristina=Kaj|PROP la|la|ART tagmangxo|tagmangxo|N kun|kun|PRP Petro|Petro|PROP ?|_|_
+Elis|eli|V Cxar|cxar|KS mi|mi|PRON ankoraux|ankoraux|ADV ne|ne|ADV estas|esti|V invitita|inviti|V ,|_|_ mi|mi|PRON cedas|cedi|V !|_|_
+Cetere|cetere|ADV ,|_|_ kion|kio|PRON mi|mi|PRON faru|fari|V tie|tie|ADV en|en|PRP la|la|ART gajeco|gajeco|N !|_|_
+Renkonti|renkonti|V malfidelan|malfidela|ADJ amikon|amiko|N !|_|_
+Kristina=Dankon|Kristina=Danko|PROP pro|pro|PRP tio|tio|PRON ,|_|_ ke|ke|KS vi|vi|PRON restas|resti|V cxe|cxe|PRP ni|ni|PRON !|_|_
+Elis|eli|V Tion|tio|PRON mi|mi|PRON plej|plej|ADV sxatas|sxati|V !|_|_
+Kiel|kiel|PRP vi|vi|PRON scias|scii|V ...|_|_
+Cxu|cxu|ADV ni|ni|PRON eliru|eliri|V ?|_|_
+Kristina=Jes|Kristina=Jes|PROP ,|_|_ tiun=cxi|cxi=tiu|PRON vojon|vojo|N !|_|_
+(|_|_ Eliras|eliri|V maldekstre|maldekstre|ADV .|_|_
+Kuragxon|kuragxo|N ,|_|_ knabo|knabo|N !|_|_
+Elis|eli|V (|_|_ prenas|preni|V la|la|ART brancxeton|brancxeto|N de|de|PRP la|la|ART mangxotablo|mangxotablo|N kaj|kaj|KC metas|meti|V gxin|gxi|PRON malantaux|malantaux|PRP la|la|ART spegulon|spegulo|N )|_|_ .|_|_
+Ne|ne|ADV estis|esti|V oliva|oliva|ADJ brancxeto|brancxeto|N ,|_|_ kiun|kiu|PRON alportis|alporti|V la|la|ART kolombo|kolombo|N -R|_|_ estis|esti|V betula|betula|ADJ !|_|_
+Eleonora|Eleonora|PROP envenas|enveni|V de|de|PRP la|la|ART fono|fono|N ;|_|_
+deksesjara|deksesjara|ADJ knabino|knabino|N kun|kun|PRP harplekto|harplekto|N sur|sur|PRP la|la|ART dorso|dorso|N .|_|_
+Sxi|sxi|PRON portas|porti|V flavan|flava|ADJ paskolilion|paskolilio|N en|en|PRP florkrucxo|florkrucxo|N .|_|_
+Sen|sen|PRP vidi|vidi|V ,|_|_ aux|aux|KC sxajnigante|sxajnigi|V ne|ne|ADV vidi|vidi|V ,|_|_ Benjaminon|Benjamino|PROP ,|_|_ sxi|sxi|PRON prenas|preni|V akvokarafon|akvokarafo|N de|de|PRP la|la|ART bufedo|bufedo|N kaj|kaj|KC akvas|akvi|V la|la|ART floron|floro|N ,|_|_ metas|meti|V gxin|gxi|PRON sur|sur|PRP la|la|ART mangxotablon|mangxotablo|N ,|_|_ sidigxas|sidigxi|V apud|apud|PRP tiu|tiu|PRON tablo|tablo|N rekte|rekte|ADV kontraux|kontraux|PRP Benjamin|Benjamin|PROP ,|_|_ rigardas|rigardi|V lin|li|PRON kaj|kaj|KC imitas|imiti|V liajn|lia|PRON movojn|movo|N .|_|_
+Elis|eli|V (|_|_ rigardas|rigardi|V sxin|sxi|PRON surprizite|surprizi|V )|_|_ Eleonora|Eleonora|PROP (|_|_ kun|kun|PRP gesto|gesto|N al|al|PRP la|la|ART paskolilio|paskolilio|N )|_|_ Cxu|cxu|ADV vi|vi|PRON scias|scii|V ,|_|_ kio|kio|PRON estas|esti|V tio|tio|PRON ?|_|_
+Benjamin|Benjamin|PROP (|_|_ infanece|infanece|ADV ,|_|_ simple|simple|ADV )|_|_ Estas|esti|V ja|ja|ADV paskolilio|paskolilio|N ,|_|_ kompreneble|kompreneble|ADV !|_|_
+Sed|sed|KC kiu|kiu|PRON estas|esti|V vi|vi|PRON ?|_|_
+Eleonora|eleonora|ADJ (|_|_ amikece|amikece|ADV ,|_|_ malgxoje|malgxoje|ADV )|_|_ Nu|nu|ADV ,|_|_ kiu|kiu|PRON estas|esti|V vi|vi|PRON ?|_|_
+Benjamin|Benjamin|PROP (|_|_ kiel|kiel|KS antauxe|antauxe|ADV )|_|_ Mi|mi|PRON nomigxas|nomigxi|V Benjamin|Benjamin|PROP ,|_|_ kaj|kaj|KC mi|mi|PRON logxas|logxi|V cxi=tie|cxi=tie|ADV cxe|cxe|PRP sinjorino|sinjorino|N Heyst|Heyst|PROP .|_|_
+Eleonora=Tiel|Eleonora=Tiel|PROP !|_|_
+Mi|mi|PRON nomigxas|nomigxi|V Eleonora|Eleonora|PROP kaj|kaj|KC estas|esti|V filino|filino|N en|en|PRP tiu=cxi|cxi=tiu|PRON domo|domo|N .|_|_
+Benjamin=Strange|Benjamin=Strange|PROP ,|_|_ ke|ke|KS oni|oni|PRON neniam|neniam|ADV parolis|paroli|V pri|pri|PRP vi|vi|PRON !|_|_
+Eleonora=Oni|Eleonora=Oni|PROP ne|ne|ADV parolas|paroli|V pri|pri|PRP la|la|ART mortintoj|mortinto|N !|_|_
+Benjamin=Mortintoj|Benjamin=Mortintoj|PROP !|_|_
+Eleonora=Mi|Eleonora=Mi|PROP estas|esti|V civitane|civitane|ADV mortinta|morti|V ,|_|_ cxar|cxar|KS mi|mi|PRON faris|fari|V tre|tre|ADV malbonan|malbona|ADJ agon|ago|N .|_|_
+Benjamin=Vi|Benjamin=Vi|PROP !|_|_
+Eleonora=Jes|Eleonora=Jes|PROP ,|_|_ mi|mi|PRON detruis|detrui|V kuratoran|kuratora|ADJ monon|mono|N -L|_|_ kaj|kaj|KC tio|tio|PRON ne|ne|ADV tre|tre|ADV gravus|gravi|V ,|_|_ cxar|cxar|KS maljuste|maljuste|ADV akirita|akiri|V estos|esti|V perdita|perdi|V -R|_|_ sed|sed|KC tio|tio|PRON ,|_|_ ke|ke|KS oni|oni|PRON kulpigis|kulpigi|V mian|mia|PRON maljunan|maljuna|ADJ patron|patro|N kaj|kaj|KC metis|meti|V lin|li|PRON en|en|PRP malliberejon|malliberejo|N ,|_|_ vidu|vidi|V ,|_|_ tio|tio|PRON neniam|neniam|ADV estos|esti|V pardonebla|pardonebla|ADJ .|_|_
+Benjamin=Kiel|Benjamin=Kiel|PROP strange|strange|ADV kaj|kaj|KC bele|bele|ADV vi|vi|PRON parolas|paroli|V ...|_|_
+Kaj|kaj|KC nenlam|nenlam|N mi|mi|PRON pensis|pensi|V pri|pri|PRP tio|tio|PRON ,|_|_ ke|ke|KS mia|mia|PRON heredajxo|heredajxo|N povus|povi|V esti|esti|V maljuste|maljuste|ADV akirita|akiri|V .|_|_
+Eleonora=Oni|Eleonora=Oni|PROP ne|ne|ADV devas|devi|V ligi|ligi|V la|la|ART homojn|homo|N ,|_|_ sed|sed|KC malligi|malligi|V ilin|ili|PRON .|_|_
+Benjamin=Jes|Benjamin=Jes|PROP ,|_|_ vi|vi|PRON malligis|malligi|V min|mi|PRON de|de|PRP la|la|ART cxagreno|cxagreno|N ,|_|_ ke|ke|KS mi|mi|PRON estas|esti|V trompita|trompi|V .|_|_
+Eleonora=Vi|Eleonora=Vi|PROP do|do|ADV estas|esti|V zorgato|zorgato|N ...|_|_
+Eleonora=Ne|Eleonora=Ne|PROP uzu|uzi|V krudajn|kruda|ADJ vortojn|vorto|N ,|_|_ alie|alie|ADV mi|mi|PRON foriros|foriri|V ;|_|_
+mi|mi|PRON estas|esti|V tiel|tiel|ADV mola|mola|ADJ ,|_|_ ke|ke|KS mi|mi|PRON ne|ne|ADV eltenas|elteni|V ion|io|PRON malmolan|malmola|ADJ !|_|_
+Sed|sed|KC jen|jen|ADV ...|_|_
+tion|tion|PRON vi|vi|PRON suferas|suferi|V pro|pro|PRP mi|mi|PRON ?|_|_
+Benjamin=Pro|Benjamin=Pro|PROP via|via|PRON patro|patro|N !|_|_
+Eleonora=Estas|Eleonora=Estas|PROP same|same|ADV ,|_|_ cxar|cxar|KS li|li|PRON kaj|kaj|KC mi|mi|PRON estas|esti|V unu|unu|NUM kaj|kaj|KC sama|sama|ADJ persono|persono|N ...|_|_
+(|_|_ Pauxzo|pauxzo|N .|_|_
+)|_|_ Mi|mi|PRON estis|esti|V tre|tre|ADV malsana|malsana|ADJ kial|kial|ADV vi|vi|PRON estas|esti|V tiel|tiel|ADV malgxoja|malgxoja|ADJ ?|_|_
+Benjamin=Mi|Benjamin=Mi|PROP havis|havi|V malagrablajxon|malagrablajxo|N !|_|_
+Eleonora=Cxu|Eleonora=Cxu|PROP vi|vi|PRON malgxojas|malgxoji|V pro|pro|PRP tio|tio|PRON ?|_|_
+Vergado|Vergado|PROP kaj|kaj|KC puno|puno|N donas|doni|V sagxecon|sagxeco|N ,|_|_ sed|sed|KC kiu|kiu|PRON punon|puno|N malamas|malami|V ,|_|_ tiu|tiu|PRON devas|devi|V morti|morti|V ...|_|_
+"|_|_ Kian|kia|PRON malagrablajxon|malagrablajxo|N vi|vi|PRON havis|havi|V ?|_|_
+Benjamin=Mi|Benjamin=Mi|PROP ricevis|ricevi|V subateston|subatesto|N en|en|PRP la|la|ART latinskribo|latinskribo|N -L|_|_ kvankam|kvankam|KS mi|mi|PRON estis|esti|V tute|tute|ADV certa|certa|ADJ .|_|_
+Eleonora=Tiel|Eleonora=Tiel|PROP ,|_|_ vi|vi|PRON estis|esti|V tute|tute|ADV certa|certa|ADJ ,|_|_ tiel|tiel|ADV certa|certa|ADJ ,|_|_ ke|ke|KS vi|vi|PRON povis|povi|V veti|veti|V pri|pri|PRP sukceso|sukceso|N .|_|_
+Benjamin=Tion|Benjamin=Tio|PROP mi|mi|PRON ankaux|ankaux|ADV faris|fari|V !|_|_
+Eleonora=Mi|Eleonora=Mi|PROP preskaux|preskaux|ADV kredis|kredi|V tion|tion|PRON !|_|_
+Vidu|vidi|V ,|_|_ tiel|tiel|ADV okazis|okazi|V ,|_|_ cxar|cxar|KS vi|vi|PRON estis|esti|V tiel|tiel|ADV certa|certa|ADJ .|_|_
+Benjamin=Cxu|Benjamin=Cxu|PROP vi|vi|PRON kredas|kredi|V ,|_|_ ke|ke|KS tio|tio|PRON estis|esti|V la|la|ART kauxzo|kauxzo|N ?|_|_
+Eleonora=Certe|Eleonora=Certe|PROP !|_|_
+Post|post|PRP fiero|fiero|N venas|veni|V falo|falo|N !|_|_
+Benjamin=Do|Benjamin=Do|PROP mi|mi|PRON memoros|memori|V tion|tion|PRON venontan|veni|V fojon|fojo|N .|_|_
+Eleonora=Prave|Eleonora=Prave|PROP vi|vi|PRON pensas|pensi|V ;|_|_
+kaj|kaj|KC la|la|ART ofero|ofero|N ,|_|_ kiu|kiu|PRON placxas|placxi|V al|al|PRP Dio|Dio|PROP -R|_|_ estas|esti|V pentofara|pentofara|ADJ animo|animo|N .|_|_
+Benjamin=Cxu|Benjamin=Cxu|PROP vi|vi|PRON estas|esti|V religiulo|religiulo|N ?|_|_
+Eleonora=Jes|Eleonora=Jes|PROP ,|_|_ mi|mi|PRON estas|esti|V religiulino|religiulino|N !|_|_
+Benjamin=Kredanto|Benjamin=Kredanto|PROP ,|_|_ mi|mi|PRON volas|voli|V diri|diri|V ?|_|_
+Eleonora=Jes|Eleonora=Jes|PROP ,|_|_ mi|mi|PRON volas|voli|V diri|diri|V la|la|ART samon|samo|N .|_|_
+Tial|tial|ADV ,|_|_ se|se|KS vi|vi|PRON parolas|paroli|V malbone|malbone|ADV pri|pri|PRP Dio|Dio|PROP ,|_|_ mia|mia|PRON bonfaranto|bonfaranto|N ,|_|_ mi|mi|PRON ne=plu|ne=plu|ADV sidos|sidi|V cxe|cxe|PRP la|la|ART sama|sama|ADJ tablo|tablo|N kiel|kiel|PRP vi|vi|PRON !|_|_
+Benjamin=Kiom|Benjamin=Kiom|PROP agxa|agxa|ADJ vi|vi|PRON estas|esti|V ?|_|_
+Eleonora=Por|Eleonora=Por|PROP mi|mi|PRON ne|ne|ADV ekzistas|ekzisti|V tempo|tempo|N kaj|kaj|KC spaco|spaco|N ;|_|_
+mi|mi|PRON estas|esti|V cxie|cxie|ADV kaj|kaj|KC kiam|kiam|KS ajn|ajn|ADV !|_|_
+Mi|mi|PRON estas|esti|V en|en|PRP la|la|ART malliberejo|malliberejo|N de|de|PRP mia|mia|PRON patro|patro|N kaj|kaj|KC en|en|PRP la|la|ART klascxambro|klascxambro|N de|de|PRP mia|mia|PRON frato|frato|N ,|_|_ mi|mi|PRON estas|esti|V en|en|PRP la|la|ART kuirejo|kuirejo|N de|de|PRP mia|mia|PRON patrino|patrino|N kaj|kaj|KC en|en|PRP la|la|ART butiko|butiko|N de|de|PRP fratino|fratino|N malproksime|malproksime|ADV en|en|PRP Ameriko|Ameriko|PROP .|_|_
+Kiam|kiam|KS bone|bone|ADV iras|iri|V por|por|PRP mia|mia|PRON fratino|fratino|N kaj|kaj|KC sxi|sxi|PRON povas|povi|V vendi|vendi|V ,|_|_ tiam|tiam|ADV mi|mi|PRON sentas|senti|V sxian|sxia|PRON gxojon|gxojo|N ,|_|_ kaj|kaj|KC mi|mi|PRON suferas|suferi|V ,|_|_ kiam|kiam|KS iras|iri|V malbone|malbone|ADV por|por|PRP sxi|sxi|PRON ,|_|_ sed|sed|KC plej|plej|ADV mi|mi|PRON suferas|suferi|V ,|_|_ kiam|kiam|KS sxi|sxi|PRON agas|agi|V maljuste|maljuste|ADV .|_|_
+Benjamin|Benjamin|PROP ,|_|_ vi|vi|PRON nomigxas|nomigxi|V Benjamin|Benjamin|PROP ,|_|_ cxar|cxar|KS vi|vi|PRON estas|esti|V la|la|ART plej|plej|ADV juna|juna|ADJ el|el|PRP miaj|mia|PRON amikoj|amiko|N ...|_|_
+jes|jes|IN ,|_|_ cxiuj|cxiu|PRON homoj|homo|N estas|esti|V miaj|mia|PRON amikoj|amiko|N ...|_|_
+se|se|KS vi|vi|PRON permesas|permesi|V al|al|PRP mi|mi|PRON aligi|aligi|V vin|vi|PRON ,|_|_ mi|mi|PRON suferos|suferi|V ankaux|ankaux|ADV por|por|PRP vi|vi|PRON .|_|_
+Benjamin=Verdire|Benjamin=Verdire|PROP mi|mi|PRON ne|ne|ADV komprenas|kompreni|V viajn|via|PRON vortojn|vorto|N ,|_|_ sed|sed|KC sxajnas|sxajni|V al|al|PRP m|m|N !|_|_
+,|_|_ ke|ke|KS mi|mi|PRON perceptas|percepti|V la|la|ART sencon|senco|N de|de|PRP viaj|via|PRON pensoj|penso|N !|_|_
+Kaj|kaj|KC de|de|PRP nun|nun|ADV mi|mi|PRON volas|voli|V cxion|cxio|PRON ,|_|_ kion|kio|PRON vi|vi|PRON volas|voli|V !|_|_
+Eleonora=Se|Eleonora=Se|PROP vi|vi|PRON do|do|ADV ,|_|_ kiel|kiel|KS komenco|komenco|N ,|_|_ ne=plu|ne=plu|ADV jugxos|jugxi|V homojn|homo|N ,|_|_ ankaux|ankaux|ADV tiujn|tiu|PRON ,|_|_ kiuj|kiu|PRON pruvite|pruvi|V estas|esti|V krimuloj|krimulo|N ...|_|_
+Benjamin=Jes|Benjamin=Jes|PROP ,|_|_ sed|sed|KC mi|mi|PRON volas|voli|V havi|havi|V motivon|motivo|N por|por|PRP tio|tio|PRON !|_|_
+Vidu|vidi|V ,|_|_ mi|mi|PRON lernis|lerni|V filozofion|filozofio|N !|_|_
+Eleonora=Cxu|Eleonora=Cxu|PROP vere|vere|ADV !|_|_
+Do|do|ADV helpu|helpi|V al|al|PRP mi|mi|PRON interpreti|interpreti|V tion|tion|PRON de|de|PRP granda|granda|ADJ filozofo|filozofo|N .|_|_
+"|_|_ Benjamin=Laux|Benjamin=Laux|PROP cxiu|cxiu|PRON logiko|logiko|N tio|tio|PRON signifas|signifi|V ,|_|_ ke|ke|KS oni|oni|PRON povas|povi|V esti|esti|V verdiktata|verdikti|V fari|fari|V krimon|krimo|N ...|_|_
+Eleonora=Kaj|Eleonora=Kaj|PROP ke|ke|KS la|la|ART krimo|krimo|N mem|mem|PRON estas|esti|V puno|puno|N .|_|_
+Benjamin=Tio|Benjamin=Tio|PROP vere|vere|ADV estas|esti|V profunda|profunda|ADJ !|_|_
+Oni|oni|PRON povus|povi|V kredi|kredi|V ,|_|_ ke|ke|KS estas|esti|V Kant=aux=Schopenhauer|Kant=aux=Schopenhauer|PROP .|_|_
+Eleonora=Ne|Eleonora=Ne|PROP konas|koni|V lin|li|PRON !|_|_
+Benjamin=En|Benjamin=En|PROP kiu|kiu|PRON libro|libro|N vi|vi|PRON legis|legi|V tion|tion|PRON ?|_|_
+Eleonora=En|Eleonora=En|PROP la|la|ART Sankta=Skribo|Sankta=Skribo|PROP !|_|_
+Benjamin=Vere|Benjamin=Vere|PROP ?|_|_
+Cxu|cxu|ADV tiaj|tia|PRON aferoj|afero|N trovigxas|trovigxi|V tie|tie|ADV ?|_|_
+Eleonora=Kia|Eleonora=Kia|PROP malklera|malklera|ADJ ,|_|_ needukita|needuki|V infano|infano|N vi|vi|PRON estas|esti|V !|_|_
+Se|se|KS mi|mi|PRON povus|povi|V eduki|eduki|V vin|vi|PRON !|_|_
+Benjamin=Etulino|Benjamin=Etulino|PROP !|_|_
+Eleonora=Sed|Eleonora=Sed|PROP certe|certe|ADV estas|esti|V nenio|nenio|PRON malbona|malbona|ADJ en|en|PRP vi|vi|PRON .|_|_
+Prefere|prefere|ADV vi|vi|PRON aspektas|aspekti|V bona|bona|ADJ ...|_|_
+Kiel|kiel|ADV nomigxas|nomigxi|V via|via|PRON instruisto|instruisto|N en|en|PRP latino|latino|N ?|_|_
+Benjamin=Lektoro=Ahlgren|Benjamin=Lektoro=Ahlgren|PROP !|_|_
+Eleonora=Tion|Eleonora=Tio|PROP mi|mi|PRON memoros|memori|V !|_|_ ...|_|_
+Ho|ho|IN ,|_|_ nun|nun|ADV mia|mia|PRON patro|patro|N tre|tre|ADV suferas|suferi|V !|_|_
+Ili|ili|PRON estas|esti|V malbonaj|malbona|ADJ al|al|PRP li|li|PRON .|_|_
+(|_|_ Staras|stari|V senmove|senmove|ADV kvazaux|kvazaux|ADV auxskultante|auxskulti|V .|_|_
+)|_|_ Cxu|cxu|ADV vi|vi|PRON auxdas|auxdi|V ,|_|_ ke|ke|KS kantas|kanti|V la|la|ART telefondratoj|telefondrato|N ...|_|_
+estas|esti|V la|la|ART krudaj|kruda|ADJ vortoj|vorto|N ,|_|_ kiujn|kiu|PRON la|la|ART mola|mola|ADJ ,|_|_ belrugxa|belrugxa|ADJ kupro|kupro|N ne|ne|ADV povas|povi|V toleri|toleri|V .|_|_ .|_|_ .|_|_ kiam|kiam|KS la|la|ART homoj|homo|N kalumnias|kalumnii|V unu=la=alian|unu=la=alian|PRON en|en|PRP telefono|telefono|N ,|_|_ tiam|tiam|ADV plendas|plendi|V la|la|ART kupro|kupro|N ,|_|_ kaj|kaj|KC akuzas|akuzi|V ...|_|_
+-L|_|_ (|_|_ Forte|forte|ADV .|_|_
+)|_|_ -R|_|_ kaj|kaj|KC cxiu|cxiu|PRON vorto|vorto|N ,|_|_ estas|esti|V skribata|skribi|V en|en|PRP la|la|ART libro|libro|N ...|_|_ kaj|kaj|KC je|je|PRP la|la|ART fino|fino|N de|de|PRP la|la|ART tempo|tempo|N venos|veni|V la|la|ART kalkulo|kalkulo|N !|_|_
+Benjamin=Kiel|Benjamin=Kiel|PROP severa|severa|ADJ vi|vi|PRON estas|esti|V !|_|_
+Eleonora=Ne|Eleonora=Ne|PROP mi|mi|PRON ,|_|_ ne|ne|ADV mi|mi|PRON !|_|_
+Kiel|kiel|ADV mi|mi|PRON kuragxus|kuragxi|V ?|_|_ Mi|mi|PRON ,|_|_ mi|mi|PRON ?|_|_
+elprenas|elpreni|V kelkajn|kelka|PRON dissxritajn|dissxrita|ADJ slipojn|slipo|N de|de|PRP blanka|blanka|ADJ leterpapero|leterpapero|N .|_|_
+)|_|_ Benjamin|Benjamin|PROP (|_|_ levigxas|levigxi|V kaj|kaj|KC rigardas|rigardi|V la|la|ART paperojn|papero|N ,|_|_ kiujn|kiu|PRON Eleonora|Eleonora|PROP ordigas|ordigi|V sur|sur|PRP la|la|ART mangxotablo|mangxotablo|N )|_|_ Eleonora|Eleonora|PROP (|_|_ al|al|PRP si|si|PRON )|_|_ Ke|ke|KS homoj|homo|N estas|esti|V tiel|tiel|ADV senpensaj|senpensa|ADJ ,|_|_ ke|ke|KS ili|ili|PRON metas|meti|V siajn|sia|PRON sekretojn|sekreto|N en|en|PRP fornojn|forno|N ...|_|_
+Kien|kien|ADV ajn|ajn|ADV mi|mi|PRON venas|veni|V ,|_|_ ili|ili|PRON tuj|tuj|ADV iras|iri|V al|al|PRP la|la|ART forno|forno|N !|_|_
+Sed|sed|KC mi|mi|PRON neniam|neniam|ADV misuzas|misuzi|V tion|tion|PRON ,|_|_ tion|tion|PRON mi|mi|PRON ne|ne|ADV kuragxus|kuragxi|V ,|_|_ cxar|cxar|KS tiam|tiam|ADV mi|mi|PRON suferus|suferi|V !|_|_
+...|_|_
+Kio|kio|PRON do|do|ADV estas|esti|V tio|tio|PRON ?|_|_ (|_|_ Legas|legi|V .|_|_
+)|_|_ Benjamin=Estas|Benjamin=Estas|PROP licenciato|licenciato|N Petro|Petro|PROP ,|_|_ kiu|kiu|PRON skribas|skribi|V kaj|kaj|KC interkonsentas|interkonsenti|V pri|pri|PRP renkonto|renkonto|N kun|kun|PRP Kristina=...|Kristina=...|PROP =TIon|=TIon|UNKNOWN mi|mi|PRON longe|longe|ADV atendis|atendi|V !|_|_
+Eleonora|eleonora|ADJ (|_|_ metas|meti|V la|la|ART manon|mano|N sur|sur|PRP la|la|ART paperojn|papero|N )|_|_ Ho|ho|IN ,|_|_ vi|vi|PRON ,|_|_ kion|kio|PRON vi|vi|PRON atendis|atendi|V ?|_|_
+Diru|diri|V ,|_|_ vi|vi|PRON malbona|malbona|ADJ homo|homo|N ,|_|_ kiu|kiu|PRON kredas|kredi|V nur|nur|ADV malbonon|malbono|N !|_|_
+Tiu=cxi|cxi=tiu|PRON letero|letero|N alportos|alporti|V nur|nur|ADV bonon|bono|N ,|_|_ cxar|cxar|KS mi|mi|PRON konas|koni|V Kristinan|Kristinan|PROP ,|_|_ kiu|kiu|PRON estos|esti|V mia|mia|PRON bofratino|bofratino|N .|_|_
+Kaj|kaj|KC tiu|tiu|PRON renkonto|renkonto|N evitigos|evitigi|V malfelicxon|malfelicxo|N al|al|PRP frato|frato|N Elis|Elis|PROP ...|_|_
+=Cxu|=Cxu|UNKNOWN vi|vi|PRON promesas|promesi|V silenti|silenti|V ,|_|_ Benjamin|Benjamin|PROP ?|_|_
+Benjamin=Mi|Benjamin=Mi|PROP kredas|kredi|V ,|_|_ ke|ke|KS mi|mi|PRON ne|ne|ADV kuragxus|kuragxi|V paroli|paroli|V pri|pri|PRP tio|tio|PRON !|_|_
+Eleonora=Kiel|Eleonora=Kiel|PROP malprave|malprave|ADV de|de|PRP la|la|ART homoj|homo|N havi|havi|V sekretojn|sekreto|N ...|_|_
+ili|ili|PRON kredas|kredi|V sin|si|PRON sagxaj|sagxa|ADJ sed|sed|KC estas|esti|V malsagxuloj|malsagxulo|N !|_|_
+Sed|sed|KC kial|kial|ADV mi|mi|PRON iris|iri|V tien|tien|ADV !|_|_
+Benjamin=Jes|Benjamin=Jes|PROP ,|_|_ kial|kial|ADV vi|vi|PRON estas|esti|V scivolema|scivolema|ADJ ?|_|_
+Benjamin=Scii|Benjamin=Scii|PROP cxion|cxio|PRON ?|_|_
+Eleonora=Estas|Eleonora=Estas|PROP manko|manko|N ,|_|_ kiun|kiu|PRON mi|mi|PRON ne|ne|ADV povas|povi|V venki|venki|V .|_|_
+Tamen|tamen|ADV mi|mi|PRON scias|scii|V ,|_|_ kion|kio|PRON diras|diri|V la|la|ART sturnoj|sturno|N .|_|_
+Benjamin=Ili|Benjamin=Ili|PROP ja|ja|ADV ne|ne|ADV povas|povi|V paroli|paroli|V ?|_|_
+Eleonora=Cxu|Eleonora=Cxu|PROP vi|vi|PRON ne|ne|ADV auxdis|auxdi|V sturnojn|sturno|N ,|_|_ kiujn|kiu|PRON oni|oni|PRON instruis|instrui|V paroli|paroli|V ?|_|_
+Benjamin=Jes|Benjamin=Jes|PROP ,|_|_ kiujn|kiu|PRON oni|oni|PRON instruis|instrui|V !|_|_
+Eleonora=Sekve|Eleonora=Sekve|PROP sturnoj|sturno|N povas|povi|V lerni|lerni|V paroli|paroli|V !|_|_
+Jen|jen|ADV trovigxas|trovigxi|V tiaj|tia|PRON ,|_|_ kiuj|kiu|PRON instruas|instrui|V sin|si|PRON mem|mem|PRON ,|_|_ estas|esti|V auxtodidaktoj|auxtodidakto|N ...|_|_
+kompreneble|kompreneble|ADV ili|ili|PRON sidas|sidi|V kaj|kaj|KC auxskultas|auxskulti|V ,|_|_ sen=ke|sen=ke|KS ni|ni|PRON scias|scii|V ,|_|_ kaj|kaj|KC poste|poste|ADV ili|ili|PRON imitas|imiti|V .|_|_
+Jus|Jus|PROP ,|_|_ kiam|kiam|KS mi|mi|PRON venis|veni|V ,|_|_ mi|mi|PRON auxdis|auxdi|V du|du|NUM ,|_|_ kiuj|kiu|PRON sidis|sidi|V kaj|kaj|KC babilis|babili|V sur|sur|PRP la|la|ART juglandarbo|juglandarbo|N .|_|_
+Benjamin=Kiel|Benjamin=Kiel|PROP amuza|amuza|ADJ vi|vi|PRON estas|esti|V ?|_|_
+Sed|sed|KC kion|kio|PRON ili|ili|PRON do|do|ADV diris|diri|V ?|_|_
+Eleonora=Jen|Eleonora=Jen|PROP !|_|_
+Petro|Petro|PROP -L|_|_ diris|diri|V unu|unu|NUM .|_|_ Judaso|Judaso|PROP diris|diri|V la|la|ART alia|alia|ADJ -R|_|_ Same|same|ADV multe|multe|ADV diris|diri|V la|la|ART unua|unua|ADJ .|_|_
+-L|_|_ Fi|fi|IN ,|_|_ fi|fi|IN ,|_|_ fi|fi|IN !|_|_
+"|_|_ diris|diri|V la|la|ART dua|dua|ADJ .|_|_
+Sed|sed|KC cxu|cxu|ADV vi|vi|PRON rimarkis|rimarki|V ,|_|_ ke|ke|KS la|la|ART najtingaloj|najtingalo|N kantas|kanti|V nur|nur|ADV en|en|PRP la|la|ART gxardeno|gxardeno|N de|de|PRP la|la|ART surdmutuloj|surdmutulo|N tie=cxi|cxi=tie|ADV apude|apude|ADV ?|_|_
+Benjamin=Jes|Benjamin=Jes|PROP ,|_|_ tio|tio|PRON estas|esti|V konata|konata|ADJ !|_|_
+Sed|sed|KC kial|kial|ADV ?|_|_
+Eleonora=Cxar|Eleonora=Cxar|PROP tiuj|tiu|PRON ,|_|_ kiuj|kiu|PRON povas|povi|V auxdi|auxdi|V ,|_|_ ne|ne|ADV auxdas|auxdi|V kion|kio|PRON diras|diri|V la|la|ART najtingaloj|najtingalo|N ;|_|_
+sed|sed|KC tion|tion|PRON faras|fari|V la|la|ART surdmutuloj|surdmutulo|N !|_|_
+Benjamin=Rakontu|Benjamin=Rakontu|PROP pli|pli|ADV da|da|PRP fabeloj|fabelo|N !|_|_
+Eleonora=Jes|Eleonora=Jes|PROP ,|_|_ se|se|KS vi|vi|PRON estas|esti|V bona|bona|ADJ !|_|_
+Benjamin=Kiom|Benjamin=Kiom|PROP bona|bona|ADJ ?|_|_
+Eleonora=Neniam|Eleonora=Neniam|PROP disputu|disputi|V pri|pri|PRP miaj|mia|PRON vortoj|vorto|N ,|_|_ kaj|kaj|KC neniam|neniam|ADV diru|diri|V ,|_|_ ke|ke|KS tiel|tiel|ADV vi|vi|PRON diris|diri|V tiam|tiam|ADV ,|_|_ kaj|kaj|KC tiam|tiam|ADV vi|vi|PRON diris|diri|V tiel|tiel|ADV ...|_|_
+Cxu|cxu|ADV mi|mi|PRON parolu|paroli|V ankoraux|ankoraux|ADV pri|pri|PRP birdoj|birdo|N !|_|_
+Estas|esti|V malica|malica|ADJ birdo|birdo|N ,|_|_ kiu|kiu|PRON nomigxas|nomigxi|V mus-buteo|mus-buteo|N ;|_|_ kiel|kiel|KS la|la|ART nomo|nomo|N diras|diri|V ,|_|_ ili|ili|PRON vivas|vivi|V de|de|PRP musoj|muso|N .|_|_
+Sed|sed|KC cxar|cxar|KS gxi|gxi|PRON estas|esti|V malica|malica|ADJ birdo|birdo|N ,|_|_ gxi|gxi|PRON lauxdire|lauxdire|ADV malfacile|malfacile|ADV kaptas|kapti|V la|la|ART musojn|muso|N .|_|_
+Tial|tial|ADV gxi|gxi|PRON povas|povi|V diri|diri|V nur|nur|ADV unu|unu|NUM vorton|vorto|N ,|_|_ kaj|kaj|KC gxi|gxi|PRON sonas|soni|V ,|_|_ kiel|kiel|KS la|la|ART kato|kato|N diras|diri|V miaux|miaux|N .|_|_
+Kiam|kiam|KS la|la|ART buteo|buteo|N diras|diri|V miaux|miaux|N ,|_|_ tiam|tiam|ADV la|la|ART musoj|muso|N kasxas|kasxi|V sin|si|PRON ...|_|_ sed|sed|KC la|la|ART buteo|buteo|N ne|ne|ADV komprenas|kompreni|V ,|_|_ kion|kio|PRON gxi|gxi|PRON mem|mem|PRON diras|diri|V -R|_|_ sed|sed|KC mangxajxo|mangxajxo|N ofte|ofte|ADV mankas|manki|V al|al|PRP gxi|gxi|PRON ,|_|_ cxar|cxar|KS gxi|gxi|PRON estas|esti|V malica|malica|ADJ !|_|_
+-L|_|_ Cxu|cxu|ADV vi|vi|PRON volas|voli|V auxdi|auxdi|V pli|pli|ADV ?|_|_
+Jen|jen|ADV ,|_|_ kiam|kiam|KS mi|mi|PRON estis|esti|V malsana|malsana|ADJ ,|_|_ mi|mi|PRON devis|devi|V preni|preni|V drogon|drogo|N de|de|PRP hiskiamo|hiskiamo|N ,|_|_ kiu|kiu|PRON havas|havi|V la|la|ART kvaliton|kvalito|N ,|_|_ ke|ke|KS gxi|gxi|PRON faras|fari|V grandigvitron|grandigvitro|N el|el|PRP la|la|ART okulo|okulo|N ...|_|_
+Benjamin=Sed|Benjamin=Sed|PROP tiam|tiam|ADV la|la|ART steloj|stelo|N ja|ja|ADV ne|ne|ADV estas|esti|V sur|sur|PRP la|la|ART cxielo|cxielo|N ?|_|_
+Eleonora=Kiel|Eleonora=Kiel|PROP amuza|amuza|ADJ vi|vi|PRON estas|esti|V !|_|_
+La|la|ART steloj|stelo|N ja|ja|ADV cxian|cxia|PRON estas|esti|V sur|sur|PRP la|la|ART cxielo|cxielo|N ...|_|_
+kaj|kaj|KC nun|nun|ADV mi|mi|PRON sidas|sidi|V alnorde|alnorde|ADV kaj|kaj|KC rigardas|rigardi|V Cassiopean|Cassiopean|PROP ,|_|_ kiu|kiu|PRON similas|simili|V ,|_|_ al|al|PRP duobla|duobla|ADJ v|v|N kaj|kaj|KC sidas|sidi|V meze|meze|ADV en|en|PRP la|la|ART Lakta|lakta|ADJ vojo|vojo|N ...|_|_
+cxu|cxu|ADV vi|vi|PRON povas|povi|V vidi|vidi|V gxin|gxi|PRON ?|_|_
+Benjamin=Ne|Benjamin=Ne|PROP ,|_|_ tion|tion|PRON mi|mi|PRON ne|ne|ADV povas|povi|V .|_|_
+Eleonora=Jen|Eleonora=Jen|PROP rimarku|rimarki|V ,|_|_ ke|ke|KS unu|unu|NUM homo|homo|N povas|povi|V vidi|vidi|V tion|tion|PRON ,|_|_ kion|kio|PRON la|la|ART alia|alia|ADJ ne|ne|ADV vidas|vidi|V ...|_|_
+Tial|tial|ADV ne|ne|ADV estu|esti|V tiel|tiel|ADV certa|certa|ADJ pri|pri|PRP viaj|via|PRON okuloj|okulo|N !|_|_
+...|_|_ Nun|nun|ADV mi|mi|PRON volas|voli|V paroli|paroli|V pri|pri|PRP tiu|tiu|PRON cxi|cxi|ADV floro|floro|N ,|_|_ kiu|kiu|PRON staras|stari|V sur|sur|PRP la|la|ART tablo|tablo|N ...|_|_
+Estas|esti|V paska|paska|ADJ lilio|lilio|N ,|_|_ kiu|kiu|PRON estas|esti|V hejme|hejme|ADV en|en|PRP Svisujo=...|Svisujo=...|PROP gxi|gxi|PRON havas|havi|V kalikon|kaliko|N ,|_|_ kiu|kiu|PRON tringxissunlumon|tringxissunlumo|N ,|_|_ tial|tial|ADV tiu|tiu|PRON estas|esti|V flava|flava|ADJ kaj|kaj|KC trankviligas|trankviligi|V dolorojn|doloro|N ...|_|_
+Mi|mi|PRON jxus|jxus|ADV preteriris|preteriri|V florvendejon|florvendejo|N ,|_|_ vidis|vidi|V gxin|gxi|PRON kaj|kaj|KC volis|voli|V donaci|donaci|V gxin|gxi|PRON al|al|PRP frato|frato|N Elis|Elis|PROP ...|_|_
+=Kiam|=Kiam|UNKNOWN mi|mi|PRON en|en|PRP la|la|ART pordejo|pordejo|N volis|voli|V eniri|eniri|V en|en|PRP la|la|ART butikon|butiko|N ,|_|_ mi|mi|PRON trovis|trovi|V la|la|ART pordon|pordo|N fermita|fermita|ADJ ...|_|_
+nome|nome|ADV estas|esti|V konfirmo|konfirmo|N hodiaux|hodiaux|ADV ...|_|_ Cxar|cxar|KS mi|mi|PRON devis|devi|V havi|havi|V la|la|ART floron|floro|N ,|_|_ mi|mi|PRON elprenis|elpreni|V miajn|mia|PRON sxlosilojn|sxlosilo|N kaj|kaj|KC provis|provi|V ...|_|_
+cxu|cxu|ADV vi|vi|PRON povas|povi|V imagi|imagi|V ,|_|_ mia|mia|PRON pordsxlosilo|pordsxlosilo|N konvenis|konveni|V ...|_|_
+Mi|mi|PRON eniris|eniri|V ...|_|_
+Jes|jes|IN ,|_|_ cxu|cxu|ADV vi|vi|PRON komprenas|kompreni|V la|la|ART silentan|silenta|ADJ lingvon|lingvo|N de|de|PRP la|la|ART floroj|floro|N ?|_|_
+Cxiu|cxiu|PRON odoro|odoro|N esprimas|esprimi|V amason|amaso|N da|da|PRP pensoj|penso|N ,|_|_ kaj|kaj|KC tiuj|tiu|PRON pensoj|penso|N atakis|ataki|V min|mi|PRON ;|_|_ kaj|kaj|KC per|per|PRP mia|mia|PRON pligrandigita|pligrandigi|V okulo|okulo|N mi|mi|PRON vidis|vidi|V en|en|PRP iliajn|ilia|PRON laboratoriojn|laboratorio|N ,|_|_ kiujn|kiu|PRON neniu|neniu|PRON vidis|vidi|V .|_|_
+metis|meti|V unu|unu|NUM kronon|krono|N kaj|kaj|KC mian|mia|PRON karton|karto|N sur|sur|PRP la|la|ART vendotablon|vendotablo|N -R|_|_ prenis|preni|V la|la|ART floron|floro|N kaj|kaj|KC foriris|foriri|V .|_|_
+Benjamin=Kiel|Benjamin=Kiel|PROP senpripense|senpripense|ADV !|_|_
+Jen|jen|ADV ,|_|_ se|se|KS oni|oni|PRON vidos|vidi|V ,|_|_ ke|ke|KS la|la|ART floro|floro|N estas|esti|V for|for|ADV kaj|kaj|KC ne|ne|ADV trovos|trovi|V la|la|ART monon|mono|N ?|_|_
+Eleonora=Estas|Eleonora=Estas|PROP vero|vero|N !|_|_
+Vi|vi|PRON pravas|pravi|V .|_|_
+Benjamin=Monero|Benjamin=Monero|PROP .|_|_
+ja|ja|ADV povas|povi|V malaperi|malaperi|V ,|_|_ kaj|kaj|KC se|se|KS oni|oni|PRON trovos|trovi|V nur|nur|ADV vian|via|PRON karton|karto|N ,|_|_ vi|vi|PRON estos|esti|V perdita|perdi|V !|_|_
+Eleonora=Tamen|Eleonora=Tamen|PROP neniu|neniu|PRON povos|povi|V kredi|kredi|V ,|_|_ ke|ke|KS mi|mi|PRON volis|voli|V preni|preni|V ion|io|PRON ?|_|_
+Benjamin|Benjamin|PROP (|_|_ fiksrigardas|fiksrigardi|V sxin|sxi|PRON )|_|_ .|_|_
+Cxu|cxu|ADV ne|ne|ADV ?|_|_
+Eleonora|Eleonora|PROP (|_|_ rigardas|rigardi|V lin|li|PRON kaj|kaj|KC levigxas|levigxi|V )|_|_ .|_|_
+Ho|ho|IN !|_|_
+Mi|mi|PRON scias|scii|V ,|_|_ kion|kio|PRON vi|vi|PRON volas|voli|V diri|diri|V !|_|_
+Kia|kia|PRON patro|patro|N ,|_|_ tia|tia|PRON infano|infano|N !|_|_
+Kiel|kiel|PRP senpripensa|senpripensa|ADJ mi|mi|PRON estis|esti|V !|_|_ Kiel|kiel|PRP !|_|_ ...|_|_
+Nu|nu|ADV !|_|_
+kio|kio|PRON devas|devi|V okazi|okazi|V ,|_|_ tio|tio|PRON okazos|okazi|V !|_|_
+(|_|_ Sidigxas|sidigxi|V .|_|_
+)|_|_ Okazu|okazi|V do|do|ADV !|_|_
+Benjamin=Cxu|Benjamin=Cxu|PROP oni|oni|PRON ne|ne|ADV povos|povi|V ordigi|ordigi|V tion|tion|PRON ...|_|_
+Eleonora=Silentu|Eleonora=Silentu|PROP !|_|_
+Kaj|kaj|KC parolu|paroli|V pri|pri|PRP io|io|PRON alia|alia|ADJ !|_|_
+...|_|_ Lektoro=Ahlgren|Lektoro=Ahlgren|PROP !|_|_ ...|_|_
+Kompatinda=Elis|Kompatinda=Elis|PROP !|_|_
+Kompatindaj|kompatinda|ADJ ni|ni|PRON cxiuj|cxiu|PRON !|_|_
+Sed|sed|KC estas|esti|V pasko|pasko|N ,|_|_ kaj|kaj|KC ni|ni|PRON devas|devi|V suferi|suferi|V .|_|_
+Estos|esti|V ja|ja|ADV koncerto|koncerto|N morgaux|morgaux|ADV kaj|kaj|KC oni|oni|PRON ludos|ludi|V La|la|ART sep|sep|NUM vortoj|vorto|N sur|sur|PRP la|la|ART kruco|kruco|N de|de|PRP Haydn|Haydn|PROP !|_|_
+Patrino|patrino|N ,|_|_ vidu|vidi|V vian|via|PRON filon|filo|N !|_|_
+"|_|_ (|_|_ sxi|sxi|PRON ploras|plori|V en|en|PRP la|la|ART manoj|mano|N .|_|_
+)|_|_ Benjamin=Kian|Benjamin=Kian|PROP malsanon|malsano|N vi|vi|PRON havis|havi|V ?|_|_
+Eleonora=Tiu|Eleonora=Tiu|PROP malsano|malsano|N ne|ne|ADV estas|esti|V mortiga|mortiga|ADJ ,|_|_ sed|sed|KC por|por|PRP la|la|ART gloro|gloro|N de|de|PRP Dio|Dio|PROP !|_|_
+Mi|mi|PRON atendis|atendi|V bonon|bono|N ,|_|_ sed|sed|KC venis|veni|V malbono|malbono|N ;|_|_
+mi|mi|PRON atendis|atendi|V lumon|lumo|N ,|_|_ sed|sed|KC venis|veni|V mallumo|mallumo|N !|_|_ "|_|_ ...|_|_
+Kia|kia|PRON estis|esti|V via|via|PRON infanagxo|infanagxo|N ,|_|_ Benjamin|Benjamin|PROP ?|_|_
+Benjamin=Mi|Benjamin=Mi|PROP ne|ne|ADV scias|scii|V .|_|_
+Malgaja|malgaja|ADJ !|_|_
+Kaj|kaj|KC la|la|ART via|via|PRON ?|_|_
+Eleonora=Mi|Eleonora=Mi|PROP neniam|neniam|ADV havis|havi|V .|_|_
+Mi|mi|PRON naskigxis|naskigxi|V ,|_|_ maljuna|maljuna|ADJ .|_|_
+Mi|mi|PRON sciis|scii|V cxion|cxio|PRON ,|_|_ kiam|kiam|ADV mi|mi|PRON naskigxis|naskigxi|V ,|_|_ kaj|kaj|KC kiam|kiam|KS mi|mi|PRON lernis|lerni|V ion|io|PRON ,|_|_ tio|tio|PRON estis|esti|V nur|nur|ADV kiel|kiel|PRP memoroj|memoro|N .|_|_ Mi|mi|PRON konis|koni|V la|la|ART ...|_|_
+Benjamin=Sxajnas|Benjamin=Sxajnas|PROP ,|_|_ al|al|PRP mi|mi|PRON ,|_|_ ke|ke|KS ankaux|ankaux|ADV mi|mi|PRON pensis|pensi|V cxion|cxio|PRON ,|_|_ kion|kio|PRON vi|vi|PRON diras|diri|V !|_|_
+Eleonora=Tion|Eleonora=Tio|PROP vi|vi|PRON certe|certe|ADV faris|fari|V !|_|_
+...|_|_ Kial|kial|ADV vi|vi|PRON kredis|kredi|V ,|_|_ ke|ke|KS mia|mia|PRON monero|monero|N malaperos|malaperi|V en|en|PRP la|la|ART florvendejo|florvendejo|N ?|_|_
+Benjamin=Cxar|Benjamin=Cxar|PROP cxiam|cxiam|ADV okazas|okazi|V tio|tio|PRON ,|_|_ kio|kio|PRON estas|esti|V malagrabla|malagrabla|ADJ !|_|_
+Silentu|silenti|V ,|_|_ iu|iu|PRON venas|veni|V !|_|_
+(|_|_ Rigardas|rigardi|V al|al|PRP la|la|ART fono|fono|N .|_|_
+)|_|_ Mi|mi|PRON auxdas|auxdi|V ...|_|_ estas|esti|V Elis|Elis|PROP !|_|_
+(|_|_ Sxi|sxi|PRON malheligxas|malheligxi|V .|_|_ )|_|_ Sed|sed|KC ...|_|_ li|li|PRON ne|ne|ADV atendas|atendi|V min|mi|PRON !|_|_
+-L|_|_ Benjamin|Benjamin|PROP ,|_|_ Benjamin|Benjamin|PROP ,|_|_ montru|montri|V afablan|afabla|ADJ vizagxon|vizagxo|N kaj|kaj|KC gajan|gaja|ADJ humoron|humoro|N ,|_|_ kiam|kiam|ADV venos|veni|V mia|mia|PRON kompatinda|kompatinda|ADJ frato|frato|N .|_|_
+Mi|mi|PRON eniros|eniri|V tien|tien|ADV ,|_|_ kaj|kaj|KC vi|vi|PRON sciigu|sciigi|V al|al|PRP li|li|PRON mian|mia|PRON alvenon|alveno|N .|_|_
+Sed|sed|KC atentu|atenti|V ,|_|_ neniujn|neniu|PRON malmolajn|malmola|ADJ vortojn|vorto|N ,|_|_ tio|tio|PRON suferigus|suferigi|V min|mi|PRON !|_|_
+Donu|doni|V al|al|PRP mi|mi|PRON vian|via|PRON manon|mano|N !|_|_
+Benjamin|Benjamin|PROP (|_|_ donas|doni|V la|la|ART manon|mano|N )|_|_ Eleonora|Eleonora|PROP (|_|_ kisas|kisi|V la|la|ART supron|supro|N de|de|PRP lia|lia|PRON kapo|kapo|N )|_|_ Tiel|tiel|ADV !|_|_
+Nun|nun|ADV vi|vi|PRON estas|esti|V mia|mia|PRON malgranda|malgranda|ADJ frato|frato|N !|_|_
+Dio|Dio|PROP benu|beni|V kaj|kaj|KC gardu|gardi|V vin|vi|PRON !|_|_
+(|_|_ Eliras|eliri|V maldekstre|maldekstre|ADV kaj|kaj|KC preterpase|preterpase|ADV afable|afable|ADV karesfrapas|karesfrapi|V la|la|ART manikon|maniko|N de|de|PRP la|la|ART surtuto|surtuto|N de|de|PRP Elis|Elis|PROP )|_|_ Kompatinda|kompatinda|ADJ Elis|Elis|PROP !|_|_
+Sinjorino|sinjorino|N Heyst=Cxu|Heyst=Cxu|PROP estis|esti|V vi|vi|PRON ?|_|_
+:|_|_ Sxajnis|sxajni|V al|al|PRP mi|mi|PRON ,|_|_ ke|ke|KS estas|esti|V fremda|fremda|ADJ vocxo|vocxo|N !|_|_
+Elis|eli|V Mi|mi|PRON havas|havi|V novajxojn|novajxo|N !|_|_
+Renkontis|renkonti|V sur|sur|PRP la|la|ART strato|strato|N la|la|ART advokaton|advokato|N !|_|_
+Sinjorino|sinjorino|N Heyst=Nuu|Heyst=Nuu|PROP ?|_|_
+Elis|eli|V La|la|ART proceso|proceso|N ,|_|_ iros|iri|V al|al|PRP la|la|ART dua|dua|ADJ instanco|instanco|N ...|_|_
+kaj|kaj|KC por|por|PRP gajni|gajni|V tempon|tempo|N mi|mi|PRON devas|devi|V tralegi|tralegi|V cxujn|cxujn|N procesajn|procesa|ADJ protokolojn|protokolo|N .|_|_
+Sinjorino|sinjorino|N Heyst=Nu|Heyst=Nu|PROP ,|_|_ tion|tion|PRON vi|vi|PRON rapide|rapide|ADV faros|fari|V !|_|_
+Elis|eli|V Ho|ho|IN !|_|_
+Mi|mi|PRON kredis|kredi|V ,|_|_ ke|ke|KS estas|esti|V preta|preta|ADJ ;|_|_
+Denove|denove|ADV !|_|_
+Sinjorino|sinjorino|N Heyst=Jes|Heyst=Jes|PROP ,|_|_ sed|sed|KC oni|oni|PRON tamen|tamen|ADV senkulpigos|senkulpigi|V lin|li|PRON en|en|PRP la|la|ART dua|dua|ADJ instanco|instanco|N !|_|_
+Elis|eli|V Ne|ne|ADV ,|_|_ patrino|patrino|N ;|_|_
+li|li|PRON ja|ja|ADV konfesis|konfesi|V !|_|_
+Elis|eli|V Tion|tio|PRON li|li|PRON diris|diri|V por|por|PRP konsoli|konsoli|V vin|vi|PRON !|_|_
+Sinjorino|sinjorino|N Heyst=Vi|Heyst=Vi|PROP ne|ne|ADV iros|iri|V al|al|PRP la|la|ART tagmangxo|tagmangxo|N ?|_|_
+Elis|eli|V Ne|ne|ADV !|_|_
+Sinjorino|sinjorino|N Heyst=Jen|Heyst=Jen|PROP vi|vi|PRON ree|ree|ADV sxangis|sxangi|V decidon|decido|N !|_|_
+Elis|eli|V Jes|jes|IN !|_|_
+Sinjorino|sinjorino|N Heyst=Estas|Heyst=Estas|PROP malbone|malbone|ADV fari|fari|V tiel|tiel|ADV !|_|_
+Elis|eli|V Mi|mi|PRON scias|scii|V ,|_|_ sed|sed|KC mi|mi|PRON ja|ja|ADV estas|esti|V jxetata|jxeti|V kiel|kiel|PRP lignosplito|lignosplito|N inter|inter|PRP kontrauxaj|kontrauxa|ADJ ondoj|ondo|N .|_|_
+Sinjorino|sinjorino|N Heyst=Precize|Heyst=Precize|PROP sxajnis|sxajni|V al|al|PRP mi|mi|PRON ,|_|_ ke|ke|KS mi|mi|PRON auxdas|auxdi|V ,|_|_ fremdan|fremda|ADJ vo-|vo-|N cxon|cxo|N ,|_|_ kiun|kiu|PRON mi|mi|PRON rekonas|rekoni|V !|_|_
+-L|_|_ Sed|sed|KC versxajne|versxajne|ADV mi|mi|PRON eraris|erari|V !|_|_ (|_|_ Montras|montri|V al|al|PRP la|la|ART surtuto|surtuto|N .|_|_
+)|_|_ Mi|mi|PRON diris|diri|V ,|_|_ ke|ke|KS tiu|tiu|PRON surtuto|surtuto|N ne|ne|ADV pendu|pendi|V tie|tie|ADV !|_|_
+(|_|_ Eliras|eliri|V dekstre|dekstre|ADV .|_|_
+)|_|_ Elis|Elis|PROP (|_|_ tiras|tiri|V sin|si|PRON maldekstren|maldekstre|ADV ;|_|_
+ekvidas|ekvidi|V la|la|ART paskolilion|paskolilio|N sur|sur|PRP la|la|ART man-|man-|N gxotablo|gxotablo|N .|_|_
+Al|al|PRP Benjamin|Benjamin|PROP .|_|_
+)|_|_ De|de|PRP kie|kie|ADV venis|veni|V tiu|tiu|PRON floro|floro|N ?|_|_ Benjamin=Juna|Benjamin=Juna|PROP virino|virino|N alportis|alporti|V gxin|gxi|PRON !|_|_
+Elis|eli|V Virino|virino|N !|_|_
+Kion|kio|PRON tio|tio|PRON signifas|signifi|V ?|_|_
+Kiu|kiu|PRON estis|esti|V ?|_|_
+Benjamin=Estis=...|Benjamin=Estis=...|PROP Elis|Elis|PROP Cxu|cxu|ADV estis|esti|V ...|_|_
+mia|mia|PRON fratino|fratino|N ?|_|_
+Benjamin=Jes|Benjamin=Jes|PROP !|_|_
+Elis|eli|V (|_|_ falsidigxas|falsidigxi|V cxe|cxe|PRP la|la|ART mangxotablo|mangxotablo|N )|_|_ (|_|_ Pauxzo|pauxzo|N .|_|_
+)|_|_ Elis|eli|V Cxu|cxu|ADV vi|vi|PRON parolis|paroli|V kun|kun|PRP sxi|sxi|PRON ?|_|_
+Benjamin=Jes|Benjamin=Jes|PROP ja|ja|ADV !|_|_
+Elis|Elis|PROP Ho=Dio|Ho=Dio|PROP ,|_|_ cxu|cxu|ADV ne|ne|ADV baldaux|baldaux|ADV suficxos|suficxi|V !|_|_
+...|_|_
+Cxu|cxu|ADV sxi|sxi|PRON estis|esti|V malica|malica|ADJ al|al|PRP vi|vi|PRON ?|_|_
+Benjamin=Sxi|Benjamin=Sxi|PROP ?|_|_
+Ne|ne|IN ,|_|_ sxi|sxi|PRON estis|esti|V tre|tre|ADV ,|_|_ tre|tre|ADV afabla|afabla|ADJ !|_|_
+Elis|eli|V Strange|strange|ADV !|_|_
+...|_|_
+Cxu|cxu|ADV sxi|sxi|PRON parolis|paroli|V pri|pri|PRP mi|mi|PRON ?|_|_
+Cxu|cxu|ADV sxi|sxi|PRON tre|tre|ADV koleris|koleri|V kontraux|kontraux|PRP mi|mi|PRON ?|_|_
+Benjamin=Ne|Benjamin=Ne|PROP !|_|_
+Tute|tute|ADV male|male|ADV !|_|_
+Sxi|sxi|PRON diris|diri|V ,|_|_ ke|ke|KS vi|vi|PRON estas|esti|V sxia|sxia|PRON plej|plej|ADV bona|bona|ADJ ,|_|_ sola|sola|ADJ amiko|amiko|N sur|sur|PRP la|la|ART tero|tero|N ...|_|_
+Elis|eli|V Kia|kia|PRON stranga|stranga|ADJ sxangxigxo|sxangxigxo|N !|_|_
+Benjamin=Kaj|Benjamin=Kaj|PROP kiam|kiam|KS sxi|sxi|PRON foriris|foriri|V ,|_|_ sxi|sxi|PRON karesfrapis|karesfrapi|V vian|via|PRON surtuton|surtuto|N tie|tie|ADV ,|_|_ sur|sur|PRP la|la|ART manikon|maniko|N ...|_|_
+Elis|Elis|PROP Foriris|foriri|V ?|_|_
+Kien|kien|ADV ?|_|_
+Benjamin|Benjamin|PROP (|_|_ montras|montri|V al|al|PRP la|la|ART maldekstra|maldekstra|ADJ pordo|pordo|N )|_|_ Tien|tien|ADV !|_|_
+Elis|eli|V Sxi|sxi|PRON do|do|ADV estas|esti|V tie|tie|ADV ?|_|_
+Benjamin=Jes|Benjamin=Jes|PROP !|_|_
+Elis|eli|V Vi|vi|PRON aspektas|aspekti|V gxoja|gxoja|ADJ kaj|kaj|KC afabla|afabla|ADJ ,|_|_ Benjamin|Benjamin|PROP .|_|_
+Benjamin=Sxi|Benjamin=Sxi|PROP parolis|paroli|V tiel|tiel|ADV bele|bele|ADV al|al|PRP mi|mi|PRON ...|_|_
+Elis|eli|V Pri|pri|PRP kio|kio|PRON sxi|sxi|PRON parolis|paroli|V ?|_|_
+Benjamin=Sxi|Benjamin=Sxi|PROP rakontis|rakonti|V fabelojn|fabelo|N ,|_|_ kaj|kaj|KC plue|plue|ADV estis|esti|V multe|multe|ADV pri|pri|PRP religio|religio|N ...|_|_
+Elis|eli|V (|_|_ levigxas|levigxi|V )|_|_ .|_|_
+Kio|kio|PRON gxojigis|gxojigi|V vin|vi|PRON .|_|_
+Benjamin=Jes|Benjamin=Jes|PROP !|_|_
+Elis|Elis|PROP Kompatinda=Eleonora|Kompatinda=Eleonora|PROP ,|_|_ kiu|kiu|PRON mem|mem|PRON estas|esti|V tiei|tiei|V malfelicxa|malfelicxa|ADJ kaj|kaj|KC povas|povi|V gxojigi|gxojigi|V aliajn|alia|ADJ !|_|_
+(|_|_ Eliras|eliri|V maldekstre|maldekstre|ADV ,|_|_ hezite|hezite|ADV .|_|_
+)|_|_ Dio|Dio|PROP helpu|helpi|V min|mi|PRON !|_|_
+DUA=AKTO|DUA=AKTO|PROP Sankta|sankta|ADJ vendredo|vendredo|N Muziko|muziko|N antaux|antaux|PRP tiu|tiu|PRON akto|akto|N :|_|_ HAYDN|HAYDN|PROP :|_|_ Sieben=Worte|Sieben=Worte|PROP ,|_|_ Largo=N|Largo=N|PROP :|_|_ o|o|N 1|1|NUM .|_|_
+Pater|Pater|PROP dimitte|dimitte|ADV illis|illi|V .|_|_
+"|_|_ La|la|ART sama|sama|ADJ dekoracio|dekoracio|N ,|_|_ sed|sed|KC la|la|ART kurtenoj|kurteno|N antauxtiritaj|antauxtiri|V kaj|kaj|KC de|de|PRP ekstere|ekstere|ADV prilumataj|prilumi|V de|de|PRP la|la|ART gaslanterno|gaslanterno|N .|_|_
+La|la|ART plafonlampo|plafonlampo|N lumigita|lumigi|V ;|_|_
+sur|sur|PRP la|la|ART mangxotablo|mangxotablo|N ,|_|_ staras|stari|V lumigita|lumigi|V petrola|petrola|ADJ lampeto|lampeto|N .|_|_
+Fajro|fajro|N en|en|PRP la|la|ART glimpordeta|glimpordeta|ADJ forno|forno|N .|_|_
+Cxe|cxe|PRP la|la|ART kudrotablo|kudrotablo|N sidas|sidi|V Elis|Elis|PROP kaj|kaj|KC Kristina|Kristina|PROP senokupaj|senokupa|ADJ .|_|_
+Cxe|cxe|PRP la|la|ART mangxotablo|mangxotablo|N sidas|sidi|V Eleonora|Eleonora|PROP kaj|kaj|KC Benjamin|Benjamin|PROP kaj|kaj|KC legas|legi|V ,|_|_ unu|unu|NUM kontraux|kontraux|PRP la|la|ART alia|alia|ADJ kaj|kaj|KC kun|kun|PRP la|la|ART lampo|lampo|N meze|meze|ADV inter|inter|PRP si|si|PRON .|_|_
+Eleonora|Eleonora|PROP havas|havi|V sxalon|sxalo|N sur|sur|PRP la|la|ART sxultroj|sxultro|N .|_|_
+Cxiuj|cxiu|PRON estas|esti|V nigre|nigre|ADV vestitaj|vestita|ADJ :|_|_ Elis|Elis|PROP kaj|kaj|KC Benjamin|Benjamin|PROP havas|havi|V blankajn|blanka|ADJ kravatojn|kravato|N .|_|_
+Sur|sur|PRP la|la|ART skribtablo|skribtablo|N kusxas|kusxi|V la|la|ART procesaj|procesa|ADJ aktoj|akto|N dissternitaj|dissterni|V .|_|_
+Sur|sur|PRP la|la|ART kudrotablo|kudrotablo|N staras|stari|V la|la|ART paska|paska|ADJ lilio|lilio|N .|_|_
+Sur|sur|PRP la|la|ART mangxotablo|mangxotablo|N staras|stari|V malnova|malnova|ADJ pendolhorlogxo|pendolhorlogxo|N .|_|_
+Tiam|tiam|ADV kaj|kaj|KC tiam|tiam|ADV vidigxas|vidigxi|V sur|sur|PRP la|la|ART kurtenoj|kurteno|N ombro|ombro|N de|de|PRP preterpasanto|preterpasanto|N sur|sur|PRP la|la|ART strato|strato|N .|_|_
+Elis|eli|V (|_|_ duonlauxte|duonlauxte|ADV al|al|PRP Kristina|Kristina|PROP )|_|_ Jes|jes|IN ,|_|_ Sankta|sankta|ADJ vendredo|vendredo|N !|_|_
+Sed|sed|KC tiel|tiel|ADV terure|terure|ADV longa|longa|ADJ !|_|_
+Kaj|kaj|KC sur|sur|PRP la|la|ART stratsxtonoj|stratsxtono|N kusxas|kusxi|V la|la|ART negxo|negxo|N kiel|kiel|PRP pajlo|pajlo|N antaux|antaux|PRP la|la|ART logxejo|logxejo|N de|de|PRP mortanto|mortanto|N ;|_|_
+cxiu|cxiu|PRON sono|sono|N silentigxis|silentigxi|V -R|_|_ krom|krom|PRP la|la|ART bazoj|bazo|N de|de|PRP la|la|ART orgeno|orgeno|N ,|_|_ kiujn|kiu|PRON mi|mi|PRON auxdas|auxdi|V ecx|ecx|ADV tie=cxi|cxi=tie|ADV ...|_|_
+Kristina=Patrino|Kristina=Patrino|PROP sxajne|sxajne|ADV iris|iri|V al|al|PRP la|la|ART vespera|vespera|ADJ diservo|diservo|N ...|_|_
+Elis|eli|V Jes|jes|IN ,|_|_ cxar|cxar|KS sxi|sxi|PRON ne|ne|ADV kuragis|kuragi|V iri|iri|V al|al|PRP la|la|ART tagmeza|tagmeza|ADJ ...|_|_
+la|la|ART rigardoj|rigardo|N de|de|PRP la|la|ART homoj|homo|N vundas|vundi|V sxin|sxi|PRON ...|_|_
+Kristina=La|Kristina=La|PROP homoj|homo|N estas|esti|V strangaj|stranga|ADJ ;|_|_
+ili|ili|PRON postulas|postuli|V ,|_|_ ke|ke|KS ni|ni|PRON cxiuj|cxiu|PRON restu|resti|V flanke|flanke|ADV ,|_|_ ili|ili|PRON opinias|opinii|V tion|tion|PRON deca|deca|ADJ ...|_|_
+Elis|eli|V Jes|jes|IN ,|_|_ kaj|kaj|KC eble|eble|ADV ili|ili|PRON pravas|pravi|V ...|_|_
+Kristina=Pro|Kristina=Pro|PROP la|la|ART mispasxo|mispasxo|N de|de|PRP unu|unu|NUM oni|oni|PRON forpusxas|forpusxi|V la|la|ART tutan|tuta|ADJ familion|familio|N ...|_|_
+Elis|eli|V Jes|jes|IN ,|_|_ tiel|tiel|ADV estas|esti|V !|_|_
+Kristina=Cxu|Kristina=Cxu|PROP ne|ne|ADV estas|esti|V bele|bele|ADV !|_|_
+...|_|_
+Kiel|kiel|PRP bone|bone|ADV ili|ili|PRON harmonias|harmonii|V !|_|_
+Elis|eli|V Kia|kia|PRON felicxo|felicxo|N ,|_|_ ke|ke|KS Eleonora|Eleonora|PROP estas|esti|V tiel|tiel|ADV trankvila|trankvila|ADJ !|_|_
+Ho|ho|IN ,|_|_ tio|tio|PRON nur|nur|ADV dauxru|dauxri|V !|_|_
+Kristina=Kial|Kristina=Kial|PROP do|do|ADV ne|ne|ADV ?|_|_
+Elis|Elis|PROP Cxar=...|Cxar=...|PROP la|la|ART felicxo|felicxo|N kutime|kutime|ADV ne|ne|ADV dauxras|dauxri|V longe|longe|ADV .|_|_
+Ek|Ek|PROP tiu|tiu|PRON cxi|cxi|ADV tago|tago|N mi|mi|PRON timas|timi|V cxion|cxio|PRON !|_|_
+Benjamin|Benjamin|PROP (|_|_ transsxovas|transsxovi|V la|la|ART lampon|lampo|N al|al|PRP Eleonora|Eleonora|PROP ,|_|_ por=ke|por=ke|KS sxi|sxi|PRON vidu|vidi|V pli|pli|ADV bone|bone|ADV )|_|_ .|_|_
+Kristina=Rigardu|Kristina=Rigardu|PROP ilin|ili|PRON !|_|_
+Elis|eli|V Cxu|cxu|ADV vi|vi|PRON rimarkis|rimarki|V ,|_|_ kiel|kiel|ADV Benjamin|Benjamin|PROP sxangxigxis|sxangxigxi|V ?|_|_
+La|la|ART obtuza|obtuza|ADJ spito|spito|N donis|doni|V lokon|loko|N al|al|PRP kvieta|kvieta|ADJ submetigxo|submetigxo|N ...|_|_
+Kristina=Kiel|Kristina=Kiel|PROP dolcxa|dolcxa|ADJ estas|esti|V sxia|sxia|PRON tuta|tuta|ADJ estajxo|estajxo|N -L|_|_ oni|oni|PRON ne|ne|ADV volas|voli|V uzi|uzi|V la|la|ART vorton|vorto|N bela|bela|ADJ !|_|_
+Elis|eli|V Kaj|kaj|KC sxin|sxi|PRON akompanis|akompani|V pacangxelo|pacangxelo|N ,|_|_ kiu|kiu|PRON cxirkauxiras|cxirkauxiri|V nevidebla|nevidebla|ADJ kaj|kaj|KC disradias|disradii|V kvietan|kvieta|ADJ trankvilon|trankvilo|N ...|_|_
+Kristina=Cxu|Kristina=Cxu|PROP vi|vi|PRON kredas|kredi|V ,|_|_ ke|ke|KS sxi|sxi|PRON nun|nun|ADV resanigxis|resanigxi|V ?|_|_
+Elis|eli|V Jes|jes|IN ,|_|_ se|se|KS ne|ne|ADV restus|resti|V tiu|tiu|PRON troa|troa|ADJ sentemo|sentemo|N .|_|_
+Sxi|sxi|PRON nun|nun|ADV legas|legi|V Historion|historio|N pri|pri|PRP la|la|ART Suferoj|sufero|N de|de|PRP Kristo|Kristo|PROP ,|_|_ kaj|kaj|KC foje|foje|ADV sxi|sxi|PRON ploras|plori|V .|_|_
+Kristina=Nu|Kristina=Nu|PROP ,|_|_ mi|mi|PRON memoras|memori|V ,|_|_ ke|ke|KS ankaux|ankaux|ADV ni|ni|PRON faris|fari|V tion|tion|PRON en|en|PRP la|la|ART lernejo|lernejo|N merkrede|merkrede|ADV dum|dum|PRP la|la|ART fasto|fasto|N ...|_|_
+Elis|eli|V Ne|ne|ADV parolu|paroli|V tiel|tiel|ADV Iauxte|Iauxte|PROP ,|_|_ sxi|sxi|PRON tre|tre|ADV bone|bone|ADV auxdas|auxdi|V !|_|_
+Kristina=Ne|Kristina=Ne|PROP nun|nun|ADV !|_|_
+Sxi|sxi|PRON estas|esti|V malproksime|malproksime|ADV !|_|_
+Elis|eli|V Cxu|cxu|ADV vi|vi|PRON rimarkis|rimarki|V ,|_|_ ke|ke|KS la|la|ART trajtoj|trajto|N de|de|PRP Benjamin|Benjamin|PROP iel|iel|ADV dignigxis|dignigxi|V ,|_|_ nobligxis|nobligxi|V ?|_|_
+Kristina=Estas|Kristina=Estas|PROP la|la|ART sufero|sufero|N ;|_|_
+la|la|ART gxojo|gxojo|N cxion|cxio|PRON banaligas|banaligi|V .|_|_
+Elis|eli|V Eble|eble|ADV prefere|prefere|ADV estas|esti|V ...|_|_
+amo|amo|N !|_|_
+Cxu|cxu|ADV vi|vi|PRON ne|ne|ADV kredas|kredi|V ,|_|_ ke|ke|KS tiuj|tiu|PRON etuloj|etulo|N ...|_|_
+Kristina=Silentu|Kristina=Silentu|PROP ,|_|_ silentu|silenti|V ...|_|_
+ne|ne|ADV tusxu|tusxi|V la|la|ART flugilojn|flugilo|N de|de|PRP la|la|ART papilio|papilio|N !|_|_
+Alie|alie|ADV gxi|gxi|PRON flugos|flugi|V for|for|ADV !|_|_
+Elis|eli|V Certe|certe|ADV ili|ili|PRON rigardas|rigardi|V unu=la=alian|unu=la=alian|PRON kaj|kaj|KC nur|nur|ADV sxajnigas|sxajnigi|V legi|legi|V ,|_|_ cxar|cxar|KS ili|ili|PRON ne|ne|ADV turnas|turni|V la|la|ART pagxojn|pagxo|N ,|_|_ kiel|kiel|KS mi|mi|PRON povas|povi|V auxdi|auxdi|V .|_|_
+Kristina=Silentu|Kristina=Silentu|PROP !|_|_
+Elis|eli|V Jen|jen|ADV ,|_|_ nun|nun|ADV sxi|sxi|PRON ne|ne|ADV povas|povi|V regi|regi|V sin|si|PRON ...|_|_
+Eleonora|Eleonora|PROP (|_|_ levigxas|levigxi|V ,|_|_ iras|iri|V pledpinte|pledpinte|ADV al|al|PRP Benjamin|Benjamin|PROP kaj|kaj|KC metas|meti|V sian|sia|PRON sxalon|sxalo|N sur|sur|PRP liajn|lia|PRON sxultrojn|sxultro|N .|_|_
+Benjamin|Benjamin|PROP milde|milde|ADV kontrauxstaras|kontrauxstari|V ,|_|_ sed|sed|KC cedas|cedi|V ;|_|_ poste|poste|ADV Eleonora|Eleonora|PROP reiras|reiri|V kaj|kaj|KC sidigxas|sidigxi|V kaj|kaj|KC sxovas|sxovi|V la|la|ART lampon|lampo|N al|al|PRP la|la|ART flanko|flanko|N de|de|PRP Benjamin|Benjamin|PROP )|_|_ Kristina=Sxi|Kristina=Sxi|PROP volas|voli|V montri|montri|V sian|sia|PRON tutan|tuta|ADJ afablecon|afableco|N ,|_|_ kompatinda|kompatinda|ADJ Eleonora|Eleonora|PROP .|_|_ Elis|eli|V (|_|_ levigxas|levigxi|V )|_|_ Nun|nun|ADV mi|mi|PRON reiros|reiri|V al|al|PRP miaj|mia|PRON aktoj|akto|N .|_|_ Kristina=Cxu|Kristina=Cxu|PROP vi|vi|PRON vidas|vidi|V sencon|senco|N en|en|PRP tiu|tiu|PRON legado|legado|N ?|_|_
+Elis|eli|V Nur|nur|ADV unu|unu|NUM ;|_|_
+konservi|konservi|V la|la|ART esperon|espero|N de|de|PRP patrino|patrino|N !|_|_
+Sed|sed|KC kvankam|kvankam|KS ankaux|ankaux|ADV mi|mi|PRON nur|nur|ADV sxajnigas|sxajnigi|V legi|legi|V ,|_|_ vortoj|vorto|N tamen|tamen|ADV restas|resti|V kiel|kiel|PRP dornoj|dorno|N en|en|PRP la|la|ART fundo|fundo|N de|de|PRP mia|mia|PRON okulo|okulo|N .|_|_ La|la|ART diroj|diro|N de|de|PRP la|la|ART atestantoj|atestanto|N ,|_|_ ciferaj|cifera|ADJ sumoj|sumo|N ,|_|_ la|la|ART konfesoj|konfeso|N de|de|PRP patro|patro|N ...|_|_ tiel|tiel|ADV :|_|_ la|la|ART akuzito|akuzito|N konfesis|konfesi|V kun|kun|PRP larmoj|larmo|N ...|_|_
+Tiom|tiom|ADV da|da|PRP larmoj|larmo|N ,|_|_ tiom|tiom|ADV da|da|PRP larmoj|larmo|N .|_|_
+Kaj|kaj|KC tiuj|tiu|PRON paperoj|papero|N ...|_|_
+kun|kun|PRP siaj|sia|PRON stampoj|stampo|N ,|_|_ kiuj|kiu|PRON memorigas|memorigi|V pri|pri|PRP falsaj|falsa|ADJ monbiletoj|monbileto|N aux|aux|KC malliberejaj|mallibereja|ADJ seruroj|seruro|N ;|_|_ kaj|kaj|KC la|la|ART sxnuroj|sxnuro|N kaj|kaj|KC la|la|ART rugxaj|rugxa|ADJ sigeloj|sigelo|N ...|_|_ ili|ili|PRON similas|simili|V al|al|PRP la|la|ART kvin|kvin|NUM vundoj|vundo|N de|de|PRP Jesuo=...|Jesuo=...|PROP kaj|kaj|KC la|la|ART frazoj|frazo|N ,|_|_ kiuj|kiu|PRON ne|ne|ADV havas|havi|V finon|fino|N -R|_|_ al|al|PRP la|la|ART eternaj|eterna|ADJ suferoj|sufero|N ...|_|_ Estas|esti|V laboro|laboro|N por|por|PRP la|la|ART Sankta|sankta|ADJ vendredo|vendredo|N ...|_|_ Hieraux|hieraux|ADV lumis|lumi|V la|la|ART suno|suno|N ,|_|_ hieraux|hieraux|ADV ni|ni|PRON veturis|veturi|V kamparen|kampare|ADV ,|_|_ en|en|PRP la|la|ART pensoj|penso|N ...|_|_
+Kristina=...|Kristina=...|PROP imagu|imagi|V ,|_|_ se|se|KS ni|ni|PRON devos|devi|V resti|resti|V tie=cxi|cxi=tie|ADV dum|dum|PRP la|la|ART somero|somero|N !|_|_
+Kristina=Ni|Kristina=Ni|PROP sxparus|sxpari|V multe|multe|ADV da|da|PRP mono|mono|N ...|_|_
+sed|sed|KC estus|esti|V malgaje|malgaje|ADV !|_|_
+Elis|eli|V Mi|mi|PRON ne|ne|ADV travivus|travivi|V tion|tion|PRON ...|_|_
+Tri|tri|NUM somerojn|somero|N mi|mi|PRON logxis|logxi|V tie=cxi|cxi=tie|ADV ...|_|_
+kaj|kaj|KC estas|esti|V kiel|kiel|PRP en|en|PRP tombo|tombo|N .|_|_
+Kaj|kaj|KC malantaux|malantaux|PRP la|la|ART reflektspeguloj|reflektspegulo|N sidas|sidi|V kelkaj|kelka|PRON restantoj|restanto|N kaj|kaj|KC observas|observi|V la|la|ART vestojn|vesto|N de|de|PRP siaj|sia|PRON proksimuloj|proksimulo|N ...|_|_
+Jen|jen|ADV ,|_|_ tiu|tiu|PRON portas|porti|V vintran|vintra|ADJ kostumon|kostumo|N !|_|_
+"|_|_ ...|_|_
+kaj|kaj|KC la|la|ART oblikvajn|oblikva|ADJ kalkanumojn|kalkanumo|N de|de|PRP siaj|sia|PRON proksimuloj|proksimulo|N kaj|kaj|KC iliajn|ilia|PRON erarojn|eraro|N ...|_|_
+Kaj|kaj|KC el|el|PRP la|la|ART kvartaloj|kvartalo|N de|de|PRP la|la|ART malricxuloj|malricxulo|N elrampas|elrampi|V kripluloj|kriplulo|N ,|_|_ kiuj|kiu|PRON antauxe|antauxe|ADV sin|si|PRON kasxis|kasxi|V ,|_|_ homoj|homo|N sen|sen|PRP nazoj|nazo|N kaj|kaj|KC oreloj|orelo|N ,|_|_ malicaj|malica|ADJ homoj|homo|N kaj|kaj|KC malfelicxaj|malfelicxa|ADJ ...|_|_
+Kaj|kaj|KC ili|ili|PRON sidas|sidi|V en|en|PRP la|la|ART granda|granda|ADJ promenejo|promenejo|N kaj|kaj|KC sunas|suni|V sin|si|PRON ,|_|_ kvazaux|kvazaux|ADV konkerintoj|konkerinto|N de|de|PRP la|la|ART urbo|urbo|N ...|_|_
+kie|kie|ADV jxus|jxus|ADV ludis|ludi|V belaj|bela|ADJ ,|_|_ bonvestitaj|bonvesti|V infanoj|infano|N dum|dum|PRP karesaj|karesa|ADJ ,|_|_ vigligaj|vigliga|ADJ vortoj|vorto|N de|de|PRP belaj|bela|ADJ patrinoj|patrino|N ,|_|_ tie|tie|ADV nun|nun|ADV svarmas|svarmi|V aroj|aro|N da|da|PRP cxifonuloj|cxifonulo|N ,|_|_ kiuj|kiu|PRON insultas|insulti|V kaj|kaj|KC suferigas|suferigi|V unu=la=alian|unu=la=alian|PRON ...|_|_
+Mi|mi|PRON memoras|memori|V Johanotagon|Johanotago|PROP antaux|antaux|PRP du|du|NUM jaroj|jaro|N !|_|_
+Kristina=Elis|Kristina=Elis|PROP ,|_|_ Elis|eli|V !|_|_
+Rigardu|rigardi|V antauxen|antauxe|ADV ,|_|_ antauxen|antauxe|ADV !|_|_
+Elis|eli|V Cxu|cxu|ADV estas|esti|V pli|pli|ADV hele|hele|ADV tie|tie|ADV ?|_|_
+Kristina=Ni|Kristina=Ni|PROP esperu|esperi|V tion|tion|PRON !|_|_
+Elis|eli|V (|_|_ sidigxas|sidigxi|V cxe|cxe|PRP la|la|ART skribtablo|skribtablo|N )|_|_ Se|se|KS nur|nur|ADV cxesus|cxesi|V negxi|negxi|V !|_|_
+Kaj|kaj|KC oni|oni|PRON povus|povi|V eliri|eliri|V kaj|kaj|KC promeni|promeni|V !|_|_
+Kristina=Kara|Kristina=Kara|PROP amiko|amiko|N ,|_|_ hierau|hierai|V vespere|vespere|ADV vi|vi|PRON deziris|deziri|V ,|_|_ ke|ke|KS la|la|ART mallumo|mallumo|N revenu|reveni|V ,|_|_ por=ke|por=ke|KS la|la|ART homoj|homo|N ne|ne|ADV vidu|vidi|V nin|ni|PRON ...|_|_
+La|la|ART mallumo|mallumo|N estas|esti|V tiel|tiel|ADV agrabla|agrabla|ADJ kaj|kaj|KC bonfara|bonfara|ADJ ,|_|_ vi|vi|PRON diris|diri|V ;|_|_
+estas|esti|V kvazaux|kvazaux|ADV kasxi|kasxi|V la|la|ART kapon|kapo|N sub|sub|PRP la|la|ART litkovrilo|litkovrilo|N !|_|_
+"|_|_ Elis|eli|V Vi|vi|PRON do|do|ADV vidas|vidi|V ,|_|_ ke|ke|KS la|la|ART mizero|mizero|N estas|esti|V same|same|ADV granda|granda|ADJ en|en|PRP ambaux|ambaux|PRON okazoj|okazo|N ...|_|_ (|_|_ Legas|legi|V en|en|PRP la|la|ART paperoj|papero|N .|_|_
+)|_|_ La|la|ART plej|plej|ADV terura|terura|ADJ en|en|PRP tiu=cxi|cxi=tiu|PRON proceso|proceso|N ,|_|_ tamen|tamen|ADV estas|esti|V la|la|ART impertinentaj|impertinenta|ADJ demandoj|demando|N pri|pri|PRP la|la|ART vivmaniero|vivmaniero|N de|de|PRP mia|mia|PRON patro|patro|N ,|_|_ ...|_|_
+Jen|jen|ADV staras|stari|V ,|_|_ ke|ke|KS ni|ni|PRON arangxis|arangxi|V brilajn|brila|ADJ festenojn|festeno|N ...|_|_
+Unu|unu|NUM atestanto|atestanto|N diras|diri|V ,|_|_ ke|ke|KS li|li|PRON drinkis|drinki|V !|_|_
+...|_|_ Ne|ne|IN ,|_|_ estas|esti|V tro|tro|ADV !|_|_
+Mi|mi|PRON ne|ne|ADV povas|povi|V plu|plu|ADV !|_|_
+...|_|_ Sed|sed|KC mi|mi|PRON tamen|tamen|ADV devas|devi|V ...|_|_
+gxis|gxis|PRP la|la|ART fino|fino|N ...|_|_ Cxu|cxu|ADV vi|vi|PRON ne|ne|ADV sentas|senti|V malvarmon|malvarmo|N ?|_|_
+Kristina=Ne|Kristina=Ne|PROP ,|_|_ sed|sed|KC varme|varme|ADV ne|ne|ADV estas|esti|V !|_|_
+...|_|_
+Lina|lina|ADJ ne|ne|ADV estas|esti|V hejme|hejme|ADV ?|_|_
+Elis|eli|V Sxi|sxi|PRON iris|iri|V por|por|PRP konfesi|konfesi|V ,|_|_ vi|vi|PRON ja|ja|ADV scias|scii|V .|_|_
+Kristina=Versxajne|Kristina=Versxajne|PROP panjo|panjo|N baldaux|baldaux|ADV venos|veni|V hejmen|hejme|ADV ?|_|_
+Elis|eli|V Mi|mi|PRON cxiam|cxiam|ADV timas|timi|V ,|_|_ kiam|kiam|KS gxi|gxi|PRON venas|veni|V de|de|PRP ekstere|ekstere|ADV ,|_|_ cxar|cxar|KS sxi|sxi|PRON tiom|tiom|ADV auxdis|auxdi|V ,|_|_ kaj|kaj|KC tiom|tiom|ADV vidis|vidi|V ...|_|_
+kaj|kaj|KC cxio|cxio|PRON estas|esti|V malbona|malbona|ADJ .|_|_
+Kristina=Estas|Kristina=Estas|PROP neordinare|neordinare|ADV peza|peza|ADJ humoro|humoro|N en|en|PRP via|via|PRON familio|familio|N .|_|_
+Elis|eli|V Tial|tial|ADV nur|nur|ADV pezhumoraj|pezhumora|ADJ homoj|homo|N volis|voli|V interrilati|interrilati|V kun|kun|PRP ni|ni|PRON !|_|_
+La|la|ART gajaj|gaja|ADJ evitis|eviti|V nin|ni|PRON !|_|_
+Kristina=Nun|Kristina=Nun|PROP panjo|panjo|N venis|veni|V en|en|PRP la|la|ART kuireja|kuireja|ADJ pordo|pordo|N !|_|_
+Elis|eli|V Ne|ne|ADV estu|esti|V malpacienca|malpacienca|ADJ al|al|PRP sxi|sxi|PRON ,|_|_ Kristina|Kristina|PROP !|_|_
+Kristina=Ho|Kristina=Ho|PROP ne|ne|ADV !|_|_
+Certe|certe|ADV sxi|sxi|PRON plej|plej|ADV suferas|suferi|V el|el|PRP ni|ni|PRON cxiuj|cxiu|PRON !|_|_
+Sed|sed|KC mi|mi|PRON ne|ne|ADV komprenas|kompreni|V sxin|sxi|PRON !|_|_
+Elis|eli|V Sxi|sxi|PRON lauxpove|lauxpove|ADV kasxas|kasxi|V sian|sia|PRON honton|honto|N ,|_|_ kaj|kaj|KC tial|tial|ADV sxi|sxi|PRON farigxas|farigxi|V nekomprenebla|nekomprenebla|ADJ .|_|_
+Kompatinda|kompatinda|ADJ patrinol|patrinol|N Sinjorino|sinjorino|N Heyst|Heyst|PROP (|_|_ eniras|eniri|V ;|_|_
+nigre|nigre|ADV vestita|vestita|ADJ ,|_|_ kun|kun|PRP himnlibro|himnlibro|N kaj|kaj|KC naztuko|naztuko|N en|en|PRP la|la|ART mano|mano|N )|_|_ Bonan|bona|ADJ vesperon|vespero|N ,|_|_ infanoj|infano|N .|_|_
+Cxiuj|cxiu|PRON (|_|_ krom|krom|PRP Benjamin|Benjamin|PROP ,|_|_ kiu|kiu|PRON silente|silente|ADV salutas|sali|V )|_|_ Bonan|bona|ADJ vesperon|vespero|N ,|_|_ panjo|panjo|N !|_|_
+Sinjorino|sinjorino|N Heyst=Cxiuj|Heyst=Cxiuj|PROP vi|vi|PRON estas|esti|V nigre|nigre|ADV vestitaj|vestita|ADJ ,|_|_ kvazaux|kvazaux|KS vi|vi|PRON funebrus|funebri|V .|_|_
+(|_|_ Silento|silento|N .|_|_
+)|_|_ Elis|eli|V Cxu|cxu|ADV ankoraux|ankoraux|ADV negxas|negxi|V ?|_|_
+Sinjorino|sinjorino|N Heyst=Jes|Heyst=Jes|PROP ,|_|_ falas|fali|V malseka|malseka|ADJ negxo|negxo|N !|_|_
+Vi|vi|PRON havas|havi|V malvarme|malvarme|ADV tie|tie|ADV cxi|cxi|ADV ...|_|_
+(|_|_ Iras|iri|V al|al|PRP Eleonora|Eleonora|PROP kaj|kaj|KC karesfrapas|karesfrapi|V gxin|gxi|PRON .|_|_
+)|_|_ Nu|nu|ADV ,|_|_ etulino|etulino|N ,|_|_ mi|mi|PRON vidas|vidi|V ,|_|_ ke|ke|KS vi|vi|PRON legas|legi|V kaj|kaj|KC studas|studi|V !|_|_
+(|_|_ Al|al|PRP Benjamin|Benjamin|PROP .|_|_
+Nu|nu|ADV ,|_|_ nu|nu|ADV !|_|_
+...|_|_
+Elis|eli|V Vi|vi|PRON estis|esti|V en|en|PRP la|la|ART vespera|vespera|ADJ diservo|diservo|N ,|_|_ panjo|panjo|N !|_|_
+Sinjorino|sinjorino|N Heyst=Jes|Heyst=Jes|PROP ,|_|_ estis|esti|V la|la|ART urba|urba|ADJ subparohxestro|subparohxestro|N ;|_|_
+kaj|kaj|KC mi|mi|PRON ne|ne|ADV sxatas|sxati|V lin|li|PRON .|_|_
+Elis|eli|V Cxu|cxu|ADV vi|vi|PRON renkontis|renkonti|V iun|iu|PRON konaton|konato|N ?|_|_
+Sinjorino|sinjorino|N Heyst|Heyst|PROP (|_|_ sidigxas|sidigxi|V cxe|cxe|PRP la|la|ART kudrotablo|kudrotablo|N )|_|_ Pli|pli|ADV bone|bone|ADV estus|esti|V renkonti|renkonti|V neniun|neniu|PRON !|_|_
+Elis|eli|V Do|do|ADV mi|mi|PRON scias|scii|V kiun|kiu|PRON ...|_|_
+Sinjorino|sinjorino|N Heyst=Lindkvist|Heyst=Lindkvist|PROP !|_|_
+Kaj|kaj|KC li|li|PRON venis|veni|V al|al|PRP mi|mi|PRON ...|_|_
+Elis|eli|V Kiel|kiel|PRP kruele|kruele|ADV ,|_|_ kiel|kiel|PRP kruele|kruele|ADV .|_|_
+Sinjorino|sinjorino|N Heyst=Demandis|Heyst=Demandis|PROP ,|_|_ kiel|kiel|PRP mi|mi|PRON fartas|farti|V ...|_|_
+kaj|kaj|KC ,|_|_ imagu|imagi|V mian|mia|PRON terurigxon|terurigxo|N ,|_|_ demandis|demandi|V ,|_|_ cxu|cxu|ADV li|li|PRON povos|povi|V fari|fari|V viziton|vizito|N hodiaux|hodiaux|ADV vespere|vespere|ADV .|_|_
+Elis|eli|V En|en|PRP festotaga|festotaga|ADJ vespero|vespero|N ?|_|_
+Sinjorino|sinjorino|N Heyst=Mi|Heyst=Mi|PROP mutigxis|mutigxi|V !|_|_
+Kaj|kaj|KC li|li|PRON prenis|preni|V mian|mia|PRON silenton|silento|N kiel|kiel|PRP konsenton|konsento|N !|_|_ (|_|_ Pauxzo|pauxzo|N .|_|_
+)|_|_ Li|li|PRON povos|povi|V veni|veni|V kiam|kiam|KS ajn|ajn|ADV !|_|_
+Elis|eli|V (|_|_ levigxas|levigxi|V )|_|_ Tien|tien|ADV cxi|cxi|ADV ?|_|_
+Nun|nun|ADV ?|_|_
+Sinjorino|sinjorino|N Heyst=Li|Heyst=Li|PROP diris|diri|V ,|_|_ ke|ke|KS li|li|PRON volas|voli|V transdoni|transdoni|V paperon|papero|N ,|_|_ kiu|kiu|PRON ur-|ur-|N gxas|gxi|V .|_|_
+Elis|eli|V Li|li|PRON volas|voli|V preni|preni|V la|la|ART meblojn|meblo|N .|_|_
+Sinjorino|sinjorino|N Heyst=Sed|Heyst=Sed|PROP li|li|PRON tiel|tiel|ADV strange|strange|ADV aspektis|aspekti|V ...|_|_
+mi|mi|PRON ne|ne|ADV komprenis|kompreni|V lin|li|PRON !|_|_
+Elis|eli|V Li|li|PRON do|do|ADV venu|veni|V .|_|_
+La|la|ART justeco|justeco|N estas|esti|V liaflanke|liaflanke|ADV ,|_|_ kaj|kaj|KC ni|ni|PRON devas|devi|V submetigxi|submetigxi|V .|_|_
+Ni|ni|PRON devas|devi|V akcepti|akcepti|V lin|li|PRON en|en|PRP deca|deca|ADJ maniero|maniero|N ,|_|_ kiam|kiam|KS li|li|PRON venos|veni|V .|_|_
+Sinjorino|sinjorino|N Heyst=Se|Heyst=Se|PROP mi|mi|PRON nur|nur|ADV ne|ne|ADV bezonos|bezoni|V vidi|vidi|V lin|li|PRON !|_|_
+Elis|eli|V Nu|nu|ADV ,|_|_ vi|vi|PRON povos|povi|V resti|resti|V en|en|PRP la|la|ART cxambroj|cxambro|N ...|_|_
+Sinjorino|sinjorino|N Heyst=Sed|Heyst=Sed|PROP la|la|ART meblojn|meblo|N li|li|PRON ne|ne|ADV prenu|preni|V .|_|_
+Kie|kie|ADV ni|ni|PRON logxus|logxi|V ,|_|_ se|se|KS li|li|PRON forprenus|forpreni|V cxiujn|cxiu|PRON objektojn|objekto|N ?|_|_
+Oni|oni|PRON ja|ja|ADV ne|ne|ADV povas|povi|V resti|resti|V en|en|PRP malplenaj|malplena|ADJ cxambroj|cxambro|N !|_|_
+Ja|ja|ADV !|_|_
+Sinjorino|sinjorino|N Heyst=Tie|Heyst=Tie|PROP la|la|ART friponoj|fripono|N devus|devi|V logxi|logxi|V sed|sed|KC ne|ne|ADV honestaj|honesta|ADJ homoj|homo|N .|_|_
+Elis|eli|V (|_|_ apud|apud|PRP la|la|ART skribtablo|skribtablo|N )|_|_ Nun|nun|ADV mi|mi|PRON legos|legi|V ,|_|_ patrino|patrino|N !|_|_
+Sinjorino|sinjorino|N Heyst=Cxu|Heyst=Cxu|PROP vi|vi|PRON ne|ne|ADV trovis|trovi|V eraron|eraro|N ?|_|_
+Elis|eli|V Ne|ne|ADV ,|_|_ mi|mi|PRON kredas|kredi|V ,|_|_ ke|ke|KS ekzistas|ekzisti|V neniu|neniu|PRON !|_|_
+Sinjorino|sinjorino|N Heyst=Sed|Heyst=Sed|PROP mi|mi|PRON jxus|jxus|ADV renkontis|renkonti|V la|la|ART urban|urba|ADJ notarion|notario|N ,|_|_ kaj|kaj|KC li|li|PRON diris|diri|V ,|_|_ ke|ke|KS povus|povi|V esti|esti|V iu|iu|PRON formala|formala|ADJ eraro|eraro|N ,|_|_ iu|iu|PRON netaux-|netaux-|N ga|ga|N atestanto|atestanto|N ,|_|_ iu|iu|PRON nepruvita|nepruvita|ADJ aserto|aserto|N aux|aux|KC iu|iu|PRON kontrauxdira|kontrauxdira|ADJ atesto|atesto|N .|_|_
+Certe|certe|ADV vi|vi|PRON ne|ne|ADV legas|legi|V zorge|zorge|ADV !|_|_
+Elis|eli|V Tamen|tamen|ADV ,|_|_ patrino|patrino|N ,|_|_ sed|sed|KC estas|esti|V tiel|tiel|ADV turmente|turmente|ADV ...|_|_
+Sinjorino|sinjorino|N Heyst=Auxdu|Heyst=Auxdu|PROP ,|_|_ mi|mi|PRON jxus|jxus|ADV renkontis|renkonti|V la|la|ART urban|urba|ADJ notarion|notario|N ,|_|_ -L|_|_ vere|vere|ADV ,|_|_ tion|tion|PRON mi|mi|PRON ja|ja|ADV diris|diri|V -R|_|_ kaj|kaj|KC li|li|PRON rakontis|rakonti|V pri|pri|PRP sxtelenrompo|sxtelenrompo|N ,|_|_ okazis|okazi|V en|en|PRP la|la|ART urbo|urbo|N hieraux|hieraux|ADV ,|_|_ meze|meze|ADV en|en|PRP la|la|ART hela|hela|ADJ tago|tago|N .|_|_
+(|_|_ Eleonora|Eleonora|PROP kaj|kaj|KC Benjamin|Benjamin|PROP ekauxskultas|ekauxskulti|V .|_|_
+)|_|_ Elis|eli|V Enrompo|enrompo|N ?|_|_
+Tie=cxi|cxi=tie|ADV en|en|PRP la|la|ART urbo|urbo|N ?|_|_
+Kie|kie|ADV ?|_|_
+Sinjorino|sinjorino|N Heyst=Lauxdire|Heyst=Lauxdire|PROP estis|esti|V ,|_|_ en|en|PRP la|la|ART florvendejo|florvendejo|N en|en|PRP la|la|ART Mona-|Mona|PREF hxeja|hxeja|ADJ strato|strato|N .|_|_
+Cxio|cxio|PRON estis|esti|V tre|tre|ADV stranga|stranga|ADJ .|_|_
+Estis|esti|V tiel|tiel|ADV :|_|_ la|la|ART vendisto|vendisto|N fermis|fermi|V sian|sia|PRON butikon|butiko|N por|por|PRP iri|iri|V al|al|PRP la|la|ART pre-|pre-|N gxejo|gxejo|N ,|_|_ kie|kie|ADV lia|lia|PRON filo|filo|N ,|_|_ ...|_|_
+eble|eble|ADV estis|esti|V la|la|ART filino|filino|N ,|_|_ estos|esti|V konfirmata|konfirmi|V .|_|_
+Jen|jen|ADV kiam|kiam|KS li|li|PRON revenis|reveni|V cxirkaux|cxirkaux|PRP la|la|ART tria|tria|ADJ ,|_|_ eble|eble|ADV estis|esti|V la|la|ART kvara|kvara|ADJ ,|_|_ sed|sed|KC tio|tio|PRON ja|ja|ADV ne|ne|ADV gravas|gravi|V ...|_|_
+nu|nu|ADV ,|_|_ tiam|tiam|ADV la|la|ART butika|butika|ADJ pordo|pordo|N estis|esti|V malfermita|malfermita|ADJ kaj|kaj|KC floroj|floro|N mankis|manki|V ,|_|_ tuta|tuta|ADJ amaso|amaso|N ,|_|_ speciale|speciale|ADV flava|flava|ADJ tulipo|tulipo|N ,|_|_ kion|kio|PRON li|li|PRON unue|unue|ADV rimarkis|rimarki|V !|_|_
+Elis|eli|V Tulipo|tulipo|N !|_|_
+Se|se|KS estus|esti|V lilio|lilio|N ,|_|_ mi|mi|PRON ektimus|ektimi|V .|_|_
+Sinjorino|sinjorino|N Heyst=Ne|Heyst=Ne|PROP ,|_|_ estis|esti|V tulipo|tulipo|N ,|_|_ tio|tio|PRON estas|esti|V tute|tute|ADV certa|certa|ADJ .|_|_
+Jes|jes|IN ,|_|_ kaj|kaj|KC nun|nun|ADV la|la|ART polico|polico|N movigxas|movigxi|V .|_|_
+(|_|_ Eleonora|Eleonora|PROP levigxas|levigxi|V ,|_|_ kvazaux|kvazaux|ADV sxi|sxi|PRON volos|voli|V paroli|paroli|V ,|_|_ sed|sed|KC Benjamin|Benjamin|PROP iras|iri|V al|al|PRP sxi|sxi|PRON kaj|kaj|KC flustras|flustri|V ion|io|PRON .|_|_
+Nur|nur|ADV friponoj|fripono|N ,|_|_ la|la|ART tuta|tuta|ADJ urbo|urbo|N !|_|_
+Kaj|kaj|KC tial|tial|ADV oni|oni|PRON metas|meti|V senkulpajn|senkulpa|ADJ homojn|homo|N en|en|PRP malliberejon|malliberejo|N .|_|_
+Elis|eli|V Cxu|cxu|ADV oni|oni|PRON ne|ne|ADV suspektas|suspekti|V ion|io|PRON ?|_|_
+Sinjorino|sinjorino|N Heyst=Ne|Heyst=Ne|PROP !|_|_
+Sed|sed|KC estis|esti|V stranga|stranga|ADJ sxtelisto|sxtelisto|N ,|_|_ cxar|cxar|KS li|li|PRON ne|ne|ADV prenis|preni|V monon|mono|N el|el|PRP la|la|ART sxangxokaso|sxangxokaso|N ...|_|_
+Kristina=Ho|Kristina=Ho|PROP ,|_|_ se|se|KS tiu=cxi|cxi=tiu|PRON tago|tago|N estus|esti|V finita|finita|ADJ !|_|_
+Sinjorino|sinjorino|N Heyst=Kaj|Heyst=Kaj|PROP se|se|KS Lina|Lina|PROP nur|nur|ADV venus|veni|V hejmen|hejme|ADV !|_|_
+...|_|_ Jes|jes|IN ,|_|_ mi|mi|PRON auxdis|auxdi|V pri|pri|PRP la|la|ART tagmangxo|tagmangxo|N de|de|PRP Petro|Petro|PROP hieraux|hieraux|ADV !|_|_
+Ecx|ecx|ADV la|la|ART guberniestro|guberniestro|N cxeestis|cxeesti|V .|_|_
+Elis|eli|V Tio|tio|PRON surprizas|surprizi|V min|mi|PRON ,|_|_ cxar|cxar|KS oni|oni|PRON cxiam|cxiam|ADV opiniis|opinii|V ,|_|_ ke|ke|KS Petro|Petro|PROP estas|esti|V kontraux|kontraux|PRP la|la|ART guberniestra|guberniestra|ADJ partio|partio|N !|_|_
+Sinjorino|sinjorino|N Heyst=Kredeble|Heyst=Kredeble|PROP li|li|PRON do|do|ADV sxangis|sxangi|V opinion|opinio|N .|_|_
+Elis|eli|V Sxajne|sxajne|ADV li|li|PRON ne|ne|ADV senkauxze|senkauxze|ADV nomigxas|nomigxi|V Petro|Petro|PROP .|_|_
+Sinjorino|sinjorino|N Heyst=Kion|Heyst=Kion|PROP vi|vi|PRON havas|havi|V kontraux|kontraux|PRP la|la|ART guberniestro|guberniestro|N ?|_|_ Elis|eli|V Li|li|PRON estas|esti|V malhelpanto|malhelpanto|N !|_|_
+Li|li|PRON malhelpas|malhelpi|V cxion|cxio|PRON ;|_|_
+li|li|PRON malhelpis|malhelpi|V la|la|ART popolan|popola|ADJ altlernejon|altlernejo|N ,|_|_ malhelpis|malhelpi|V la|la|ART armilekzercojn|armilekzerco|N de|de|PRP la|la|ART junuloj|junulo|N ,|_|_ li|li|PRON volis|voli|V malebligi|malebligi|V la|la|ART senkulpajn|senkulpa|ADJ biciklojn|biciklo|N ,|_|_ la|la|ART belajn|bela|ADJ somerkoloniojn|somerkolonio|N por|por|PRP lernantoj|lernanto|N ...|_|_
+kaj|kaj|KC li|li|PRON malhelpis|malhelpi|V min|mi|PRON !|_|_
+Sinjorino|sinjorino|N Heyst=Tion|Heyst=Tion|PROP mi|mi|PRON ne|ne|ADV komprenas|kompreni|V ...|_|_ kaj|kaj|KC povas|povi|V esti|esti|V egale|egale|ADV .|_|_
+Cxiukaze|cxiukaze|ADV la|la|ART guberniestro|guberniestro|N faris|fari|V paroladon|parolado|N ...|_|_ kaj|kaj|KC Petro|Petro|PROP dankis|danki|V Elis|Elis|PROP ...|_|_ kortusxite|kortusxite|ADV ,|_|_ mi|mi|PRON supozas|supozi|V ,|_|_ kaj|kaj|KC perfidis|perfidi|V sian|sia|PRON instruiston|instruisto|N dirante|diri|V :|_|_ Mi|mi|PRON ne|ne|ADV konas|koni|V tiun|tiu|PRON homon|homo|N .|_|_
+"|_|_ Kaj|kaj|KC ree|ree|ADV kriis|krii|V la|la|ART koko|koko|N !|_|_
+Cxu|cxu|ADV la|la|ART guberniestro|guberniestro|N ne|ne|ADV nomigxis|nomigxi|V Pontius|Pontius|PROP kun|kun|PRP la|la|ART postnomo|postnomo|N Pilato|Pilato|PROP ?|_|_
+Homoj|homo|N estas|esti|V homoj|homo|N ,|_|_ kaj|kaj|KC oni|oni|PRON devas|devi|V toleri|toleri|V ilin|ili|PRON !|_|_
+Elis|Elis|PROP Silentu|silenti|V !|_|_
+Mi|mi|PRON auxdas|auxdi|V ,|_|_ ke|ke|KS Lindkvist|Lindkvist|PROP venas|veni|V !|_|_
+Sinjorino|sinjorino|N Heyst=Cxu|Heyst=Cxu|PROP vi|vi|PRON povas|povi|V auxdi|auxdi|V lin|li|PRON en|en|PRP la|la|ART negxo|negxo|N ?|_|_
+Elis|eli|V Mi|mi|PRON auxdas|auxdi|V lian|lia|PRON bastonon|bastono|N pusxi|pusxi|V la|la|ART sxtonojn|sxtono|N kaj|kaj|KC liajn|lia|PRON galosxojn|galosxo|N !|_|_
+...|_|_
+Eliru|eliri|V ,|_|_ panjo|panjo|N !|_|_
+Sinjorino|sinjorino|N Heyst=Ne|Heyst=Ne|PROP ,|_|_ nun|nun|ADV mi|mi|PRON volas|voli|V resti|resti|V por|por|PRP diri|diri|V ion|io|PRON al|al|PRP li|li|PRON !|_|_
+Elis|eli|V Kara|kara|ADJ panjo|panjo|N ,|_|_ foriru|foriri|V !|_|_
+Estos|esti|V tro|tro|ADV turmente|turmente|ADV !|_|_
+Sinjorino|sinjorino|N Heyst|Heyst|PROP (|_|_ levigxas|levigxi|V ;|_|_
+ekscitita|ekscitita|ADJ )|_|_ Estu|esti|V forgesita|forgesi|V la|la|ART tago|tago|N de|de|PRP mia|mia|PRON naskigxo|naskigxo|N !|_|_
+Kristina=Ne|Kristina=Ne|PROP blasfemu|blasfemi|V !|_|_
+Sinjorino|sinjorino|N Heyst|Heyst|PROP (|_|_ kun|kun|PRP esprimo|esprimo|N de|de|PRP anima|anima|ADJ grandeco|grandeco|N )|_|_ Cxu|cxu|ADV ne|ne|ADV prefere|prefere|ADV maljustulo|maljustulo|N hava|hava|ADJ tiun=cxi|cxi=tiu|PRON malfacilajxon|malfacilajxo|N kaj|kaj|KC malbonfaranto|malbonfaranto|N suferu|suferi|V en|en|PRP tia|tia|PRON mizero|mizero|N .|_|_
+"|_|_ Eleonora|eleonora|ADJ (|_|_ kun|kun|PRP angora|angora|ADJ ekkrio|ekkrio|N )|_|_ Patrino|patrino|N !|_|_
+Sinjorino|sinjorino|N Heyst=Dio|Heyst=Dio|PROP ,|_|_ kial|kial|ADV vi|vi|PRON min|mi|PRON forlasis|forlasi|V !|_|_
+Kaj|kaj|KC miajn|mia|PRON infanojn|infano|N !|_|_
+(|_|_ Eliras|eliri|V maldekstre|maldekstre|ADV .|_|_
+)|_|_
+Elis|eli|V (|_|_ auxskultas|auxskulti|V alekstere|alekstere|ADV )|_|_ Li|li|PRON haltis|halti|V !|_|_
+...|_|_ Eble|eble|ADV sxajnas|sxajni|V al|al|PRP li|li|PRON ne|ne|ADV dece|dece|ADV ...|_|_
+aux|aux|KC tro|tro|ADV kruele|kruele|ADV !|_|_ ...|_|_
+Sed|sed|KC certe|certe|ADV ne|ne|ADV sxajnas|sxajni|V al|al|PRP li|li|PRON tiel|tiel|ADV ,|_|_ al|al|PRP li|li|PRON ,|_|_ kiu|kiu|PRON povis|povi|V skribi|skribi|V tiel|tiel|ADV terurajn|terura|ADJ leterojn|letero|N !|_|_
+Gxi|gxi|PRON cxiam|cxiam|ADV estis|esti|V sur|sur|PRP blua|blua|ADJ papero|papero|N ,|_|_ kaj|kaj|KC de|de|PRP tiam|tiam|ADV mi|mi|PRON ne|ne|ADV povas|povi|V vidi|vidi|V bluan|blua|ADJ leteron|letero|N sen|sen|PRP tremi|tremi|V !|_|_
+Kristina=Kion|Kristina=Kio|PROP vi|vi|PRON intencas|intenci|V diri|diri|V ,|_|_ kion|kio|PRON vi|vi|PRON intencas|intenci|V proponi|proponi|V ?|_|_
+Elis|eli|V Mi|mi|PRON ne|ne|ADV scias|scii|V !|_|_
+Mi|mi|PRON perdis|perdi|V cxiun|cxiu|PRON ekvilibron|ekvilibro|N ,|_|_ cxiun|cxiu|PRON pripensemon|pripensemo|N ...|_|_ Cxu|cxu|ADV mi|mi|PRON ekgenuu|ekgenui|V antaux|antaux|PRP li|li|PRON ,|_|_ petu|peti|V lin|li|PRON pri|pri|PRP kompato|kompato|N .|_|_ .|_|_
+.|_|_ Cxu|cxu|ADV vi|vi|PRON auxdas|auxdi|V lin|li|PRON ?|_|_
+Mi|mi|PRON auxdas|auxdi|V nur|nur|ADV la|la|ART sangon|sango|N ,|_|_ kiu|kiu|PRON susuras|susuri|V en|en|PRP miaj|mia|PRON oreloj|orelo|N .|_|_
+Kristina=Ni|Kristina=Ni|PROP supozu|supozi|V la|la|ART plej|plej|ADV malbonan|malbona|ADJ !|_|_
+Li|li|PRON prenos|preni|V cxion|cxio|PRON ...|_|_
+Elis|eli|V Poste|poste|ADV venos|veni|V la|la|ART dommastro|dommastro|N kaj|kaj|KC volas|voli|V havi|havi|V garantion|garantio|N ,|_|_ kiun|kiu|PRON mi|mi|PRON ne|ne|ADV povas|povi|V havigi|havigi|V ...|_|_
+Li|li|PRON volas|voli|V havi|havi|V garantion|garantio|N ,|_|_ kiam|kiam|KS la|la|ART mebloj|meblo|N ne=plu|ne=plu|ADV staras|stari|V kiel|kiel|PRP garantio|garantio|N por|por|PRP la|la|ART lupago|lupago|N !|_|_
+Kristina|kristina|ADJ (|_|_ kiu|kiu|PRON malantaux|malantaux|PRP la|la|ART kurteno|kurteno|N rigardis|rigardi|V al|al|PRP la|la|ART strato|strato|N )|_|_ Li|li|PRON ne=plu|ne=plu|ADV estas|esti|V tie|tie|ADV !|_|_
+Li|li|PRON foriris|foriri|V !|_|_
+Elis|Elis|PROP A|A|PROP !|_|_ ...|_|_
+Cxu|cxu|ADV vi|vi|PRON scias|scii|V ,|_|_ la|la|ART indiferenta|indiferenta|ADJ submetigxo|submetigxo|N de|de|PRP patrino|patrino|N pli|pli|ADV suferigas|suferigi|V min|mi|PRON ol|ol|PRP sxia|sxia|PRON kolero|kolero|N !|_|_
+Kristina=Sxia|Kristina=Sxia|PROP submetigo|submetigo|N estas|esti|V nur|nur|ADV sxajnigita|sxajnigi|V aux|aux|KC imagita|imagi|V .|_|_ Estis|esti|V io|io|PRON de|de|PRP leonina|leonina|ADJ bleko|bleko|N en|en|PRP sxiaj|sxia|PRON lastaj|lasta|ADJ vortoj|vorto|N .|_|_ Cxu|cxu|ADV vi|vi|PRON vidis|vidi|V ,|_|_ kiel|kiel|ADV granda|granda|ADJ sxi|sxi|PRON farigxis|farigxi|V ?|_|_
+Elis|eli|V Strange|strange|ADV ,|_|_ kiam|kiam|KS mi|mi|PRON nun|nun|ADV pensas|pensi|V pri|pri|PRP Lindkvist|Lindkvist|PROP ,|_|_ mi|mi|PRON vidas|vidi|V lin|li|PRON kiel|kiel|PRP bonhumora|bonhumora|ADJ giganto|giganto|N ,|_|_ kiu|kiu|PRON volas|voli|V nur|nur|ADV timigi|timigi|V infanojn|infano|N !|_|_
+Kiel|kiel|ADV tio|tio|PRON povas|povi|V veni|veni|V al|al|PRP mi|mi|PRON nun|nun|ADV ?|_|_
+Kristina=La|Kristina=La|PROP pensoj|penso|N venas|veni|V kaj|kaj|KC pasas|pasi|V ...|_|_
+Elis|eli|V Kia|kia|PRON felicxo|felicxo|N ,|_|_ ke|ke|KS mi|mi|PRON ne|ne|ADV partoprenis|partopreni|V la|la|ART tagmangxon|tagmangxo|N hieraux|hieraux|ADV ...|_|_ Certe|certe|ADV mi|mi|PRON estus|esti|V farinta|fari|V paroladon|parolado|N kontraux|kontraux|PRP la|la|ART guberniestro|guberniestro|N ,|_|_ ...|_|_
+kaj|kaj|KC tiel|tiel|ADV ,|_|_ estus|esti|V detruinta|detrui|V cxion|cxio|PRON por|por|PRP mi|mi|PRON kaj|kaj|KC ni|ni|PRON !|_|_
+Estis|esti|V granda|granda|ADJ feIicxo|feiicxo|N !|_|_
+Kristina=Vidu|Kristina=Vidu|PROP !|_|_
+Elis|eli|V Dankon|danko|N pro|pro|PRP la|la|ART konsilo|konsilo|N .|_|_
+Vi|vi|PRON konis|koni|V vian|via|PRON Petron|Petro|PROP !|_|_
+Kristina=Mian=Petron|Kristina=Mian=Petro|PROP !|_|_
+Elis|eli|V Mi|mi|PRON volis|voli|V diri|diri|V ...|_|_
+mian|mia|PRON !|_|_
+Jen|jen|ADV ,|_|_ nun|nun|ADV li|li|PRON denove|denove|ADV estas|esti|V tie|tie|ADV !|_|_
+Ve|Ve|PROP al|al|PRP ni|ni|PRON !|_|_
+(|_|_ Oni|oni|PRON vidas|vidi|V sur|sur|PRP la|la|ART kurteno|kurteno|N la|la|ART ombron|ombro|N de|de|PRP viro|viro|N ,|_|_ kiu|kiu|PRON hezite|hezite|ADV proksimigxas|proksimigxi|V .|_|_
+La|la|ART ombro|ombro|N iom|iom|ADV post|post|PRP lom|lom|N grandigxas|grandigxi|V kaj|kaj|KC fari-|fari-|N gxas|gxi|V giganta|giganta|ADJ .|_|_
+Cxiujn|cxiu|PRON kaptas|kapti|V plej|plej|ADV granda|granda|ADJ angoro|angoro|N .|_|_
+)|_|_ La|la|ART giganto|giganto|N !|_|_
+La|la|ART giganto|giganto|N ,|_|_ kiu|kiu|PRON volas|voli|V engluti|engluti|V nin|ni|PRON !|_|_
+Kristina=Nun|Kristina=Nun|PROP oni|oni|PRON devas|devi|V ridi|ridi|V kiel|kiel|PRP en|en|PRP la|la|ART fabeloj|fabelo|N !|_|_
+Elis|eli|V Mi|mi|PRON ne|ne|ADV povas|povi|V ridi|ridi|V plu|plu|ADV !|_|_
+(|_|_ La|la|ART ombro|ombro|N malpligrandigxas|malpligrandigxi|V kaj|kaj|KC malaperas|malaperi|V .|_|_
+Elis|eli|V Li|li|PRON foriris|foriri|V !|_|_
+Nun|nun|ADV mi|mi|PRON povas|povi|V spiri|spiri|V ,|_|_ cxar|cxar|KS nun|nun|ADV li|li|PRON revenos|reveni|V nur|nur|ADV morgaux|morgaux|ADV !|_|_
+Ho|ho|IN !|_|_
+Kristina=Kaj|Kristina=Kaj|PROP morgaux|morgaux|ADV brilos|brili|V la|la|ART suno|suno|N ,|_|_ tiam|tiam|ADV estos|esti|V la|la|ART tago|tago|N antaux|antaux|PRP la|la|ART revivigxo|revivigxo|N ,|_|_ la|la|ART negxo|negxo|N estos|esti|V for|for|ADV ,|_|_ kaj|kaj|KC la|la|ART birdoj|birdo|N kantos|kanti|V .|_|_
+Elis|Elis|PROP Parolu|paroli|V pli|pli|ADV multe|multe|ADV pri|pri|PRP tiaj|tia|PRON aferoj|afero|N !|_|_
+Mi|mi|PRON vidas|vidi|V cxion|cxio|PRON ,|_|_ kion|kio|PRON vi|vi|PRON diras|diri|V .|_|_
+Kristina=Ke|Kristina=Ke|PROP vi|vi|PRON povu|povi|V rigardi|rigardi|V en|en|PRP mian|mia|PRON koron|koro|N ,|_|_ ke|ke|KS vi|vi|PRON povu|povi|V vidi|vidi|V miajn|mia|PRON pensojn|penso|N ,|_|_ miajn|mia|PRON bonajn|bona|ADJ intencojn|intenco|N ,|_|_ mian|mia|PRON plej|plej|ADV koran|kora|ADJ peton|peto|N ,|_|_ Elis|Elis|PROP ,|_|_ Elis|Elis|PROP ,|_|_ kiam|kiam|KS mi|mi|PRON nun|nun|ADV ...|_|_
+(|_|_ Silentigxas|silentigxi|V .|_|_
+)|_|_ Elis|eli|V Kion|kio|PRON ?|_|_
+Diru|diri|V ?|_|_
+Kristina=Kiam|Kristina=Kiam|PROP mi|mi|PRON nun|nun|ADV ...|_|_
+petas|peti|V vin|vi|PRON pri|pri|PRP io|io|PRON .|_|_
+Elis|Elis|PROP Diru|diri|V !|_|_
+Kristina=Estas|Kristina=Estas|PROP provo|provo|N !|_|_
+Pensu|pensi|V pri|pri|PRP tio|tio|PRON ,|_|_ ke|ke|KS estas|esti|V provo|provo|N ,|_|_ Elis|Elis|PROP !|_|_
+Elis|eli|V Provo|provo|N !|_|_
+Provsufero|Provsufero|PROP ?|_|_
+Bone|bone|ADV !|_|_
+Kristina=Permesu=...|Kristina=Permesu=...|PROP =Ne|=Ne|UNKNOWN ,|_|_ mi|mi|PRON ne|ne|ADV kuragxas|kuragxi|V !|_|_
+Povos|povi|V malsukcesi|malsukcesi|V !|_|_
+Eleonora|Eleonora|PROP (|_|_ ekauxskultas|ekauxskulti|V )|_|_ Elis|Elis|PROP Kial|kial|ADV vi|vi|PRON turmentas|turmenti|V min|mi|PRON ?|_|_
+Kristina=Certe|Kristina=Certe|PROP oni|oni|PRON devos|devi|V penti|penti|V tion|tion|PRON !|_|_ ...|_|_
+Sed|sed|KC estu|esti|V !|_|_
+Elis|eli|V ,|_|_ permesu|permesi|V al|al|PRP mi|mi|PRON iri|iri|V al|al|PRP la|la|ART koncerto|koncerto|N hodiaux|hodiaux|ADV vespere|vespere|ADV .|_|_
+Elis|eli|V Kiu|kiu|PRON koncerto|koncerto|N ?|_|_
+Kristina|kristina|ADJ La|la|ART sep|sep|NUM vortoj|vorto|N sur|sur|PRP la|la|ART kruco|kruco|N de|de|PRP Haydn|Haydn|PROP ,|_|_ en|en|PRP la|la|ART katedralo|katedralo|N !|_|_
+Elis|eli|V Kun|kun|PRP kiu|kiu|PRON ?|_|_
+Kristina=Kun=Alice=...|Kristina=Kun=Alice=...|PROP Elis|Elis|PROP Kaj|kaj|KC ?|_|_
+Kristina=Petro|Kristina=Petro|PROP !|_|_
+Elis|Elis|PROP Kun=Petro|Kun=Petro|PROP !|_|_
+Kristina=Jen|Kristina=Jen|PROP vi|vi|PRON malheligxis|malheligxi|V !|_|_
+...|_|_
+Mi|mi|PRON pentas|penti|V ,|_|_ sed|sed|KC estas|esti|V tro|tro|ADV malfrue|malfrue|ADV !|_|_
+Elis|eli|V Jes|jes|IN ,|_|_ estas|esti|V iom|iom|ADV tro|tro|ADV malfrue|malfrue|ADV !|_|_
+Sed|sed|KC klarigu|klarigi|V !|_|_
+Kristina=Mi|Kristina=Mi|PROP avertis|averti|V vin|vi|PRON ,|_|_ ke|ke|KS mi|mi|PRON ne|ne|ADV povos|povi|V klarigi|klarigi|V ,|_|_ sed|sed|KC tial|tial|ADV mi|mi|PRON petis|peti|V pri|pri|PRP via|via|PRON senlima|senlima|ADJ konfido|konfido|N !|_|_
+Elis|eli|V (|_|_ milde|milde|ADV )|_|_ Iru|iri|V !|_|_
+Mi|mi|PRON fidas|fidi|V al|al|PRP vi|vi|PRON ;|_|_
+sed|sed|KC tamen|tamen|ADV mi|mi|PRON suferas|suferi|V pro|pro|PRP tio|tio|PRON ,|_|_ ke|ke|KS vi|vi|PRON sercxis|sercxi|V kuneston|kunesto|N kun|kun|PRP tiu|tiu|PRON perffidulo|perffidulo|N !|_|_
+Kristina=Tion|Kristina=Tio|PROP mi|mi|PRON komprenas|kompreni|V !|_|_
+Sed|sed|KC estas|esti|V ja|ja|ADV provo|provo|N !|_|_
+Elis|eli|V Kiun|kiu|PRON mi|mi|PRON ne|ne|ADV povas|povi|V trapasi|trapasi|V !|_|_
+Kristina=Vi|Kristina=Vi|PROP devas|devi|V !|_|_
+Elis|eli|V Mi|mi|PRON volas|voli|V ,|_|_ sed|sed|KC mi|mi|PRON ne|ne|ADV povas|povi|V !|_|_
+-L|_|_ Tamen|tamen|ADV iru|iri|V !|_|_
+Kristina=Vian|Kristina=Vian|PROP manon|mano|N !|_|_
+Elis|eli|V (|_|_ donas|doni|V la|la|ART manon|mano|N )|_|_ Jen|jen|ADV !|_|_
+(|_|_ La|la|ART telefono|telefono|N sonoras|sonori|V .|_|_
+)|_|_ Elis|eli|V (|_|_ al|al|PRP la|la|ART telefono|telefono|N )|_|_ Hola|Hola|PROP !|_|_
+...|_|_
+Neniu|neniu|PRON respondo|respondo|N !|_|_
+...|_|_ Hola|Hola|PROP !|_|_
+...|_|_ Respondas|respondi|V per|per|PRP mia|mia|PRON propra|propra|ADJ vocxo|vocxo|N !|_|_ ...|_|_
+Kiu|kiu|PRON parolas|paroli|V ?|_|_
+...|_|_ Kiel|kiel|PRP strange|strange|ADV !|_|_
+Mi|mi|PRON auxdas|auxdi|V miajn|mia|PRON proprajn|propra|ADJ vortojn|vorto|N kiel|kiel|PRP ehxon|ehxo|N !|_|_
+Kristina=Tio|Kristina=Tio|PROP ja|ja|ADV foje|foje|ADV okazas|okazi|V !|_|_
+Elis|eli|V Hola|Hola|PROP !|_|_
+Nun|nun|ADV estas|esti|V timige|timige|ADV !|_|_
+(|_|_ Remetas|remeti|V la|la|ART mikrofonon|mikrofono|N .|_|_
+)|_|_ Iru|iri|V nun|nun|ADV ,|_|_ Kristina|Kristina|PROP !|_|_
+Sen|sen|PRP klarigoj|klarigo|N ,|_|_ sengxene|sengxene|ADV .|_|_
+Mi|mi|PRON trapasos|trapasi|V la|la|ART provon|provo|N !|_|_
+Kristina=Estos|Kristina=Estos|PROP bone|bone|ADV por|por|PRP ni|ni|PRON ,|_|_ se|se|KS vi|vi|PRON tion|tion|PRON faros|fari|V !|_|_
+Elis|eli|V Mi|mi|PRON faros|fari|V !|_|_
+...|_|_
+Kristina|Kristina|PROP (|_|_ tiras|tiri|V sin|si|PRON dekstren|dekstre|ADV )|_|_ Elis|Elis|PROP Kial|kial|ADV vi|vi|PRON iras|iri|V tiun|tiu|PRON vojon|vojo|N ?|_|_
+Kristina=Mi|Kristina=Mi|PROP havas|havi|V miajn|mia|PRON vestojn|vesto|N tie|tie|ADV !|_|_
+Do|do|ADV !|_|_
+Gxis|gxis|PRP revido|revido|N !|_|_
+(|_|_ Foriras|foriri|V .|_|_
+)|_|_ Elis|eli|V Gxis|gxis|PRP revido|revido|N ,|_|_ mia|mia|PRON amiko|amiko|N !|_|_
+(|_|_ Pauxzo|pauxzo|N .|_|_
+)|_|_ Por|por|PRP cxiam|cxiam|ADV !|_|_
+(|_|_ Elkuras|elkuri|V maldekstre|maldekstre|ADV .|_|_ )|_|_ Eleonora=Helpu|Eleonora=Helpu|PROP nin|ni|PRON Dio|Dio|PROP ,|_|_ kion|kio|PRON mi|mi|PRON faris|fari|V ?|_|_
+La|la|ART polico|polico|N sercxas|sercxi|V la|la|ART kulpulon|kulpulo|N ,|_|_ kaj|kaj|KC se|se|KS oni|oni|PRON trovos|trovi|V min|mi|PRON -R|_|_ kompatinda|kompatinda|ADJ patrino|patrino|N ,|_|_ kaj|kaj|KC Elis|Elis|PROP !|_|_
+Benjamin|Benjamin|PROP (|_|_ naive|naive|ADV )|_|_ Eleonora|Eleonora|PROP ,|_|_ diru|diri|V ,|_|_ ke|ke|KS mi|mi|PRON faris|fari|V tion|tion|PRON !|_|_
+Eleonora=Infano|Eleonora=Infano|PROP ,|_|_ cxu|cxu|ADV vi|vi|PRON povas|povi|V porti|porti|V kulpon|kulpo|N de|de|PRP alia|alia|ADJ ?|_|_ Benjamin=Estas|Benjamin=Estas|PROP ja|ja|ADV facile|facile|ADV fari|fari|V tion|tion|PRON ,|_|_ kiam|kiam|KS oni|oni|PRON scias|scii|V ,|_|_ ke|ke|KS oni|oni|PRON estas|esti|V senkulpa|senkulpa|ADJ .|_|_
+Eleonora=Oni|Eleonora=Oni|PROP neniam|neniam|ADV mensogu|mensogi|V !|_|_
+Benjamin=Nu|Benjamin=Nu|PROP ,|_|_ lasu|lasi|V min|mi|PRON telefoni|telefoni|V al|al|PRP la|la|ART floristo|floristo|N por|por|PRP diri|diri|V ,|_|_ kiel|kiel|ADV estas|esti|V !|_|_
+Eleonora=Ne|Eleonora=Ne|PROP ,|_|_ mi|mi|PRON maljuste|maljuste|ADV agis|agi|V ,|_|_ kaj|kaj|KC mi|mi|PRON estu|esti|V punata|puni|V per|per|PRP maltrankvilo|maltrankvilo|N .|_|_
+Mi|mi|PRON vekis|veki|V ilian|ilia|PRON timon|timo|N pro|pro|PRP enrompo|enrompo|N ,|_|_ kaj|kaj|KC mi|mi|PRON estu|esti|V timigata|timigi|V .|_|_
+Benjamin=Sed|Benjamin=Sed|PROP se|se|KS venos|veni|V la|la|ART polico|polico|N ...|_|_ Eleonora=Estus|Eleonora=Estus|PROP ja|ja|ADV malfacile|malfacile|ADV ...|_|_ sed|sed|KC do|do|ADV devus|devi|V esti|esti|V tiel|tiel|ADV !|_|_
+-L|_|_ Ho|ho|IN ,|_|_ ke|ke|KS tiu=cxi|cxi=tiu|PRON tago|tago|N finigxu|finigxi|V !|_|_
+(|_|_ Prenas|preni|V la|la|ART pendolhorlogxon|pendolhorlogxo|N sur|sur|PRP la|la|ART mangxotablo|mangxotablo|N kaj|kaj|KC turnas|turni|V la|la|ART montrilojn|montrilo|N .|_|_ )|_|_ ...|_|_ Bona|bona|ADJ horlogxo|horlogxo|N ,|_|_ iru|iri|V pli|pli|ADV rapide|rapide|ADV !|_|_
+Tik|Tik|PROP ,|_|_ tak|tak|N ,|_|_ ping|ping|N ,|_|_ ping|ping|N ,|_|_ ping|ping|N !|_|_
+Nun|nun|ADV estas|esti|V la|la|ART oka|oka|ADJ !|_|_
+Ping|Ping|PROP ,|_|_ ping|ping|N ,|_|_ ping|ping|N ...|_|_
+nun|nun|ADV estas|esti|V la|la|ART nauxa|nauxa|ADJ !|_|_
+La|la|ART deka|deka|ADJ !|_|_
+La|la|ART dekunua|dekunua|ADJ !|_|_
+La|la|ART dekdua|dekdua|ADJ !|_|_
+...|_|_ Nun|nun|ADV estas|esti|V sankta|sankta|ADJ sabato|sabato|N !|_|_
+Baldaux|baldaux|ADV la|la|ART suno|suno|N levigxos|levigxi|V ,|_|_ kaj|kaj|KC tiam|tiam|ADV ni|ni|PRON skribos|skribi|V sur|sur|PRP la|la|ART paskovoj|paskovo|N !|_|_
+Mi|mi|PRON skribos|skribi|V tiel|tiel|ADV :|_|_ Jen|jen|ADV postulis|postuli|V vin|vi|PRON la|la|ART malamiko|malamiko|N por|por|PRP kribri|kribri|V vin|vi|PRON kiel|kiel|PRP tritikon|tritiko|N ;|_|_
+sed|sed|KC mi|mi|PRON pre-|pre-|N gxis|gxis|PRP por|por|PRP vi|vi|PRON ...|_|_
+Benjamin=Kial|Benjamin=Kial|PROP vi|vi|PRON tiel|tiel|ADV turmentas|turmenti|V vin|vi|PRON ,|_|_ Eleonora|Eleonora|PROP ?|_|_
+Eleonora=Mi|Eleonora=Mi|PROP !|_|_
+Turmentas|turmenti|V !|_|_
+Kiom|kiom|ADV ili|ili|PRON suferas|suferi|V !|_|_
+Certe|certe|ADV la|la|ART nokto|nokto|N estas|esti|V plej|plej|ADV malfacila|malfacila|ADJ ,|_|_ kiam|kiam|KS estas|esti|V mallume|mallume|ADV kaj|kaj|KC ili|ili|PRON timas|timi|V la|la|ART mallumon|mallumo|N kaj|kaj|KC ne|ne|ADV povas|povi|V forkuri|forkuri|V ...|_|_
+kaj|kaj|KC staras|stari|V kaj|kaj|KC atendas|atendi|V la|la|ART tagigxon|tagigxo|N .|_|_ Cxio|cxio|PRON ,|_|_ cxio|cxio|PRON suferas|suferi|V ,|_|_ sed|sed|KC plej|plej|ADV la|la|ART floroj|floro|N !|_|_
+Kaj|kaj|KC la|la|ART migrobirdoj|migrobirdo|N ,|_|_ kiuj|kiu|PRON venis|veni|V !|_|_
+Kie|kie|ADV ili|ili|PRON dormu|dormi|V cxi-nokte|cxi-nokte|ADV ?|_|_
+Benjamin|Benjamin|PROP (|_|_ naive|naive|ADV )|_|_ Vi|vi|PRON ja|ja|ADV scias|scii|V ,|_|_ ke|ke|KS ili|ili|PRON sidas|sidi|V en|en|PRP kavaj|kava|ADJ arboj|arbo|N .|_|_
+Eleonora=Ne|Eleonora=Ne|PROP ekzistas|ekzisti|V tiom|tiom|ADV da|da|PRP kavaj|kava|ADJ arboj|arbo|N ,|_|_ ke|ke|KS suficxas|suficxi|V por|por|PRP cxiuj|cxiu|PRON !|_|_
+Mi|mi|PRON vidis|vidi|V nur|nur|ADV du|du|NUM kavajn|kava|ADJ arbojn|arbo|N en|en|PRP la|la|ART parkoj|parko|N ,|_|_ kaj|kaj|KC tie|tie|ADV logxas|logxi|V ja|ja|ADV la|la|ART strigoj|strigo|N ,|_|_ kiuj|kiu|PRON mortigas|mortigi|V la|la|ART birdetojn|birdeto|N ...|_|_
+Kompatinda=Elis|Kompatinda=Elis|PROP ,|_|_ kiu|kiu|PRON kredas|kredi|V ,|_|_ ke|ke|KS Kristina|Kristina|PROP foriris|foriri|V de|de|PRP li|li|PRON ;|_|_
+sed|sed|KC mi|mi|PRON scias|scii|V ,|_|_ ke|ke|KS sxi|sxi|PRON revenos|reveni|V !|_|_
+Benjamin=Kial|Benjamin=Kial|PROP vi|vi|PRON ne|ne|ADV diris|diri|V ,|_|_ se|se|KS vi|vi|PRON scias|scii|V tion|tion|PRON ?|_|_
+Eleonora=Cxar=Elis|Eleonora=Cxar=Elis|PROP devas|devi|V suferi|suferi|V ;|_|_
+cxiuj|cxiu|PRON devas|devi|V suferi|suferi|V en|en|PRP la|la|ART Sankta|sankta|ADJ vendredo|vendredo|N por|por|PRP memorigi|memorigi|V al|al|PRP si|si|PRON la|la|ART suferojn|sufero|N de|de|PRP Kristo|Kristo|PROP sur|sur|PRP la|la|ART kruco|kruco|N .|_|_
+(|_|_ Polica|polica|ADJ fajfilo|fajfilo|N sonas|soni|V ekstere|ekstere|ADV sur|sur|PRP la|la|ART strato|strato|N .|_|_
+)|_|_ Eleonora|eleonora|ADJ (|_|_ eksaltas|eksalti|V )|_|_ Kio|kio|PRON estis|esti|V ?|_|_
+Benjamin=Cxu|Benjamin=Cxu|PROP vi|vi|PRON ne|ne|ADV scias|scii|V ?|_|_
+Eleonora=Ne|Eleonora=Ne|PROP !|_|_
+Benjamin=Estis|Benjamin=Estis|PROP la|la|ART polico|polico|N !|_|_
+Eleonora=Ho|Eleonora=Ho|PROP !|_|_
+...|_|_
+Jes|jes|IN ,|_|_ tiel|tiel|ADV sonis|soni|V ,|_|_ kiam|kiam|KS ili|ili|PRON venis|veni|V por|por|PRP kapti|kapti|V patron|patro|N ...|_|_
+kaj|kaj|KC tiam|tiam|ADV mi|mi|PRON malsanigxis|malsanigxi|V !|_|_
+Kaj|kaj|KC nun|nun|ADV ili|ili|PRON venas|veni|V por|por|PRP preni|preni|V min|mi|PRON !|_|_
+Benjamin|Benjamin|PROP (|_|_ starigas|starigi|V sin|si|PRON kontraux|kontraux|PRP la|la|ART fonpordo|fonpordo|N antaux|antaux|PRP Eleonoran|Eleonoran|PROP )|_|_ Ne|ne|IN ,|_|_ ili|ili|PRON ne|ne|ADV prenu|preni|V vin|vi|PRON !|_|_
+Mi|mi|PRON vin|vi|PRON defendos|defendi|V ,|_|_ Eleonora|Eleonora|PROP !|_|_
+Eleonora=Estas|Eleonora=Estas|PROP bele|bele|ADV ,|_|_ Benjamin|Benjamin|PROP ,|_|_ sed|sed|KC vi|vi|PRON ne|ne|ADV faru|fari|V ...|_|_
+Benjamin|Benjamin|PROP (|_|_ elrigardas|elrigardi|V tra|tra|PRP la|la|ART kurtenoj|kurteno|N )|_|_ Estas|esti|V du|du|NUM !|_|_
+(|_|_ Eleonora|Eleonora|PROP volas|voli|V forsxovi|forsxovi|V Benjaminon|Benjamino|PROP ,|_|_ sed|sed|KC li|li|PRON milde|milde|ADV kontraux-|kontraux-|N staras|stari|V .|_|_
+)|_|_ Ne|ne|ADV vi|vi|PRON ,|_|_ Eleonora|Eleonora|PROP ,|_|_ tiam|tiam|ADV -R|_|_ mi|mi|PRON ne|ne|ADV volus|voli|V vivi|vivi|V plu|plu|ADV !|_|_
+Eleonora=Iru|Eleonora=Iru|PROP sidigxi|sidigxi|V sur|sur|PRP tiun|tiu|PRON segxon|segxo|N ,|_|_ infano|infano|N !|_|_
+Iru|iri|V sidigxi|sidigxi|V !|_|_
+Benjamin|Benjamin|PROP (|_|_ nevolonte|nevoli|V obeas|obei|V )|_|_ Eleonora|Eleonora|PROP (|_|_ elrigardas|elrigardi|V malantaux|malantaux|PRP la|la|ART kurtenoj|kurteno|N sen|sen|PRP kasxi|kasxi|V sin|si|PRON )|_|_ Estis|esti|V nur|nur|ADV du|du|NUM knaboj|knabo|N !|_|_
+Ho|ho|IN ,|_|_ ni|ni|PRON senfidaj|senfida|ADJ ;|_|_
+cxu|cxu|ADV vi|vi|PRON kredas|kredi|V ,|_|_ ke|ke|KS Dio|Dio|PROP estis|esti|V tiel|tiel|ADV kruela|kruela|ADJ ,|_|_ kvankam|kvankam|KS mi|mi|PRON nenion|nenio|PRON malbonan|malbona|ADJ faris|fari|V ,|_|_ nur|nur|ADV agis|agi|V senpense|senpense|ADV ...|_|_
+Tion|tio|PRON mi|mi|PRON meritis|meriti|V !|_|_
+Kial|kial|ADV mi|mi|PRON malfidis|malfidi|V !|_|_
+Benjamin=Sed|Benjamin=Sed|PROP morgaux|morgaux|ADV venos|veni|V li|li|PRON ,|_|_ kiu|kiu|PRON volas|voli|V preni|preni|V la|la|ART meblojn|meblo|N .|_|_
+Eleonora=Li|Eleonora=Li|PROP venu|veni|V !|_|_
+Kaj|kaj|KC ni|ni|PRON eliru|eliri|V !|_|_
+De|de|PRP cxio|cxio|PRON ...|_|_ de|de|PRP cxiuj|cxiu|PRON malnovaj|malnova|ADJ mebloj|meblo|N ,|_|_ kiujn|kiu|PRON patro|patro|N kolektis|kolekti|V por|por|PRP ni|ni|PRON ,|_|_ kaj|kaj|KC kiujn|kiu|PRON mi|mi|PRON vidis|vidi|V ,|_|_ de|de|PRP kiam|kiam|ADV mi|mi|PRON estis|esti|V infaneto|infaneto|N !|_|_
+Jes|jes|IN ,|_|_ oni|oni|PRON ne|ne|ADV devas|devi|V posedi|posedi|V ion|io|PRON ,|_|_ kio|kio|PRON ligas|ligi|V al|al|PRP la|la|ART tero|tero|N .|_|_
+Benjamin=Nun|Benjamin=Nun|PROP vi|vi|PRON ree|ree|ADV turmentas|turmenti|V vin|vi|PRON ,|_|_ Eleonora|Eleonora|PROP !|_|_
+Eleonora=Lasu|Eleonora=Lasu|PROP min|mi|PRON !|_|_
+...|_|_ Sed|sed|KC cxu|cxu|ADV vi|vi|PRON scias|scii|V ,|_|_ de|de|PRP kie|kie|ADV estas|esti|V plej|plej|ADV malfacile|malfacile|ADV disigxi|disigxi|V ?|_|_
+Estas|esti|V la|la|ART pendolhorlogxo|pendolhorlogxo|N tie|tie|ADV !|_|_
+Gxi|gxi|PRON kunestis|kunesti|V ,|_|_ kiam|kiam|KS mi|mi|PRON naskigxis|naskigxi|V ,|_|_ kaj|kaj|KC gxi|gxi|PRON elmezuris|elmezuri|V miajn|mia|PRON horojn|horo|N kaj|kaj|KC tagojn|tago|N ...|_|_
+(|_|_ Sxi|sxi|PRON levas|levi|V la|la|ART horlogxon|horlogxo|N de|de|PRP la|la|ART tablo|tablo|N .|_|_
+)|_|_ ...|_|_ Auxdu|auxdi|V ,|_|_ gxi|gxi|PRON batetas|bateti|V kiel|kiel|PRP koro|koro|N ...|_|_
+tute|tute|ADV ,|_|_ kiel|kiel|PRP koro|koro|N ...|_|_
+kaj|kaj|KC gxi|gxi|PRON haltis|halti|V en|en|PRP la|la|ART horo|horo|N ,|_|_ kiam|kiam|ADV avo|avo|N mortis|morti|V ,|_|_ cxar|cxar|KS gxi|gxi|PRON kunestis|kunesti|V jam|jam|ADV tiam|tiam|ADV !|_|_ Adiaux|adiaux|IN ,|_|_ horlogxeto|horlogxeto|N ,|_|_ vi|vi|PRON baldaux|baldaux|ADV denove|denove|ADV haltu|halti|V !|_|_
+...|_|_ Jen|jen|ADV ,|_|_ gxi|gxi|PRON kutimis|kutimi|V fruigxi|fruigxi|V ,|_|_ kiam|kiam|KS ni|ni|PRON havis|havi|V malfelicxon|malfelicxo|N en|en|PRP la|la|ART domo|domo|N ,|_|_ kvazaux|kvazaux|KS gxi|gxi|PRON volus|voli|V transsalti|transsalti|V la|la|ART malbonon|malbono|N ,|_|_ por|por|PRP ni|ni|PRON ,|_|_ kompreneble|kompreneble|ADV !|_|_
+Sed|sed|KC kiam|kiam|KS estis|esti|V bonaj|bona|ADJ tempoj|tempo|N ,|_|_ tiam|tiam|ADV gxi|gxi|PRON malfruigxis|malfruigxi|V ,|_|_ por=ke|por=ke|KS ni|ni|PRON povu|povi|V gxin|gxi|PRON gxui|gxui|V pli|pli|ADV longe|longe|ADV .|_|_
+Tio|tio|PRON estis|esti|V la|la|ART bona|bona|ADJ horlogxo|horlogxo|N !|_|_
+Sed|sed|KC ni|ni|PRON havis|havi|V ankaux|ankaux|ADV malican|malica|ADJ ...|_|_ kaj|kaj|KC pro|pro|PRP tio|tio|PRON gxi|gxi|PRON nun|nun|ADV devas|devi|V pendi|pendi|V en|en|PRP la|la|ART kuirejo|kuirejo|N !|_|_
+Gxi|gxi|PRON ne|ne|ADV toleris|toleri|V muzikon|muziko|N ,|_|_ sed|sed|KC kiam|kiam|KS Elis|Elis|PROP ludis|ludi|V sur|sur|PRP la|la|ART piano|piano|N ,|_|_ gxi|gxi|PRON tuj|tuj|ADV komencis|komenci|V bati|bati|V ,|_|_ tion|tion|PRON ni|ni|PRON cxiuj|cxiu|PRON rimarkis|rimarki|V ,|_|_ ne|ne|ADV nur|nur|ADV mi|mi|PRON ;|_|_
+kaj|kaj|KC tial|tial|ADV gxi|gxi|PRON devas|devi|V sidi|sidi|V en|en|PRP la|la|ART kuirejo|kuirejo|N ,|_|_ cxar|cxar|KS gxi|gxi|PRON estis|esti|V malafabla|malafabla|ADJ !|_|_
+Sed|sed|KC Lina|Lina|PROP ankaux|ankaux|ADV ne|ne|ADV sxatas|sxati|V gxin|gxi|PRON ,|_|_ cxar|cxar|KS gxi|gxi|PRON ne|ne|ADV silentas|silenti|V dum|dum|PRP la|la|ART noktoj|nokto|N ,|_|_ kaj|kaj|KC sxi|sxi|PRON ne|ne|ADV povas|povi|V kuiri|kuiri|V ovojn|ovo|N laux|laux|PRP gxi|gxi|PRON ...|_|_
+cxar|cxar|KS tiam|tiam|ADV ili|ili|PRON cxiam|cxiam|ADV farigxas|farigxi|V tro|tro|ADV kuiritaj|kuiri|V ,|_|_ diras|diri|V Lina|Lina|PROP !|_|_
+Nun|nun|ADV vi|vi|PRON ridas|ridi|V !|_|_
+Benjamin=Jes|Benjamin=Jes|PROP ,|_|_ kion|kio|PRON mi|mi|PRON faru|fari|V !|_|_
+.|_|_ .|_|_ .|_|_
+Eleonora=Vi|Eleonora=Vi|PROP estas|esti|V bona|bona|ADJ knabo|knabo|N ,|_|_ Benjamin|Benjamin|PROP ,|_|_ sed|sed|KC vi|vi|PRON estu|esti|V serioza|serioza|ADJ !|_|_
+Memoru|memori|V la|la|ART brancxeton|brancxeto|N ,|_|_ kiu|kiu|PRON sidas|sidi|V malantaux|malantaux|PRP la|la|ART spegulo|spegulo|N !|_|_
+Benjamin=Sed|Benjamin=Sed|PROP vi|vi|PRON parolas|paroli|V ja|ja|ADV tiel|tiel|ADV amuze|amuze|ADV ,|_|_ ke|ke|KS mi|mi|PRON devas|devi|V rideti|rideti|V ...|_|_
+kaj|kaj|KC kial|kial|ADV oni|oni|PRON cxiam|cxiam|ADV ploru|plori|V !|_|_
+Eleonora=Se|Eleonora=Se|PROP ne|ne|ADV plori|plori|V en|en|PRP la|la|ART valo|valo|N de|de|PRP mizero|mizero|N ,|_|_ kie|kie|ADV do|do|ADV plori|plori|V ?|_|_
+Benjamin=Hm|Benjamin=Hm|PROP !|_|_
+Eleonora=Vi|Eleonora=Vi|PROP volis|voli|V ridi|ridi|V la|la|ART tutan|tuta|ADJ tagon|tago|N ,|_|_ sed|sed|KC tial|tial|ADV vi|vi|PRON ankaux|ankaux|ADV ricevis|ricevi|V punon|puno|N !|_|_
+Kaj|kaj|KC mi|mi|PRON sxatas|sxati|V vin|vi|PRON ,|_|_ nur|nur|ADV kiam|kiam|KS vi|vi|PRON estas|esti|V serioza|serioza|ADJ .|_|_
+Memoru|memori|V tion|tion|PRON !|_|_
+Benjamin=Cxu|Benjamin=Cxu|PROP vi|vi|PRON kredas|kredi|V ,|_|_ ke|ke|KS ni|ni|PRON trapasos|trapasi|V tion=cxi|cxi=tio|PRON ,|_|_ Eleonora|Eleonora|PROP ?|_|_
+Eleonora=Jes|Eleonora=Jes|PROP ,|_|_ la|la|ART plimulto|plimulto|N ordigxos|ordigxi|V ,|_|_ kiam|kiam|KS nur|nur|ADV pasis|pasi|V la|la|ART Sankta|sankta|ADJ vendredo|vendredo|N ,|_|_ sed|sed|KC ne|ne|ADV cxio|cxio|PRON !|_|_
+Hodiaux|hodiaux|ADV brancxeton|brancxeto|N ,|_|_ morgaux|morgaux|ADV paskovon|paskovo|N !|_|_
+Hodiaux|hodiaux|ADV negxo|negxo|N ,|_|_ morgaux|morgaux|ADV degelo|degelo|N !|_|_
+Hodiaux|hodiaux|ADV morto|morto|N ,|_|_ morgaux|morgaux|ADV revivigxo|revivigxo|N !|_|_
+Benjamin=Kiel|Benjamin=Kiel|PROP sagxa|sagxa|ADJ vi|vi|PRON estas|esti|V !|_|_
+Eleonora=Jes|Eleonora=Jes|PROP ;|_|_ mi|mi|PRON jam|jam|ADV sentas|senti|V ,|_|_ ke|ke|KS ekstere|ekstere|ADV klarigxas|klarigxi|V por|por|PRP bona|bona|ADJ vetero|vetero|N ,|_|_ ke|ke|KS la|la|ART negxo|negxo|N degelas|degeli|V ...|_|_
+jam|jam|ADV oni|oni|PRON tie=cxi|cxi=tie|ADV interne|interne|ADV sentas|senti|V la|la|ART odoron|odoro|N de|de|PRP degelanta|degeli|V negxo|negxo|N ...|_|_ kaj|kaj|KC morgaux|morgaux|ADV la|la|ART violoj|violo|N elburgxonigxos|elburgxonigxi|V cxe|cxe|PRP la|la|ART sudflanko|sudflanko|N !|_|_
+La|la|ART nuboj|nubo|N levigxos|levigxi|V ,|_|_ tion|tion|PRON mi|mi|PRON sentas|senti|V ,|_|_ kiam|kiam|ADV mi|mi|PRON spiras|spiri|V ...|_|_
+Iru|iri|V flankentiri|flankentiri|V la|la|ART kurtenojn|kurteno|N ,|_|_ Benjamin|Benjamin|PROP ;|_|_
+mi|mi|PRON volas|voli|V ,|_|_ ke|ke|KS Dio|Dio|PROP vidu|vidi|V nin|ni|PRON !|_|_
+Benjamin|Benjamin|PROP (|_|_ levigxas|levigxi|V kaj|kaj|KC obeas|obei|V ;|_|_
+lunlumo|lunlumo|N falas|fali|V en|en|PRP la|la|ART cxambron|cxambro|N )|_|_ Eleonora=Vidu|Eleonora=Vidu|PROP la|la|ART plenlunon|plenluno|N !|_|_
+Tiun|tiu|PRON de|de|PRP la|la|ART pasko|pasko|N !|_|_
+Kaj|kaj|KC nun|nun|ADV vi|vi|PRON scias|scii|V ,|_|_ ke|ke|KS la|la|ART suno|suno|N ankoraux|ankoraux|ADV ekzistas|ekzisti|V ,|_|_ kvankam|kvankam|KS la|la|ART luno|luno|N redonas|redoni|V la|la|ART lumon|lumo|N !|_|_
+TRIA=AKTO|TRIA=AKTO|PROP Sankta|sankta|ADJ sabato|sabato|N Muziko|muziko|N antaux|antaux|PRP tiu|tiu|PRON akto|akto|N :|_|_ HAYDN|HAYDN|PROP :|_|_ Sieben=Worte=N|Sieben=Worte=N|PROP :|_|_ o|o|N 5|5|NUM .|_|_
+Adagio|Adagio|PROP La|la|ART sama|sama|ADJ dekoracio|dekoracio|N sed|sed|KC la|la|ART kurtenoj|kurteno|N tiritaj|tiri|V flanken|flanke|ADV .|_|_
+La|la|ART pejzagxo|pejzagxo|N ekstere|ekstere|ADV kiel|kiel|PRP antauxe|antauxe|ADV sed|sed|KC en|en|PRP griza|griza|ADJ vetero|vetero|N .|_|_
+Fajro|fajro|N en|en|PRP la|la|ART forno|forno|N ;|_|_
+la|la|ART fonpordoj|fonpordo|N fermitaj|fermita|ADJ .|_|_
+Benjamin|Benjamin|PROP (|_|_ eniras|eniri|V de|de|PRP dekstre|dekstre|ADV )|_|_ Eleonora=Kie|Eleonora=Kie|PROP vi|vi|PRON estis|esti|V tiel|tiel|ADV longe|longe|ADV ,|_|_ Benjamin|Benjamin|PROP ?|_|_
+Benjamin=Ne|Benjamin=Ne|PROP estis|esti|V longe|longe|ADV !|_|_
+Eleonora=Mi|Eleonora=Mi|PROP sopiris|sopiri|V pri|pri|PRP vi|vi|PRON !|_|_
+Benjamin=Kie|Benjamin=Kie|PROP do|do|ADV estis|esti|V vi|vi|PRON ,|_|_ Eleonora|Eleonora|PROP ?|_|_
+Eleonora=Mi|Eleonora=Mi|PROP estis|esti|V sur|sur|PRP la|la|ART foirplaco|foirplaco|N kaj|kaj|KC acxetis|acxeti|V bluanemonojn|bluanemono|N kaj|kaj|KC nun|nun|ADV mi|mi|PRON varmigos|varmigi|V ilin|ili|PRON ,|_|_ cxar|cxar|KS ili|ili|PRON frostis|frosti|V ,|_|_ la|la|ART kompatinduloj|kompatindulo|N .|_|_
+Benjamin=Kie|Benjamin=Kie|PROP estas|esti|V la|la|ART suno|suno|N ?|_|_
+Eleonora=Malantaux|Eleonora=Malantaux|PROP la|la|ART nebuloj|nebulo|N ;|_|_
+Benjamin=Cxu|Benjamin=Cxu|PROP vi|vi|PRON vidis|vidi|V ,|_|_ ke|ke|KS la|la|ART birdoj|birdo|N ankoraux|ankoraux|ADV vivas|vivi|V ekstere|ekstere|ADV ?|_|_
+Eleonora=Jes|Eleonora=Jes|PROP ,|_|_ kaj|kaj|KC neniu|neniu|PRON falas|fali|V al|al|PRP la|la|ART tero|tero|N sen|sen|PRP la|la|ART volo|volo|N de|de|PRP Dio|Dio|PROP .|_|_
+Sed|sed|KC sur|sur|PRP la|la|ART foirplaco|foirplaco|N ,|_|_ tie|tie|ADV estis|esti|V mortintaj|morti|V birdoj|birdo|N ...|_|_
+Elis|eli|V (|_|_ eniras|eniri|V de|de|PRP dekstre|dekstre|ADV )|_|_ Cxu|cxu|ADV la|la|ART gazeto|gazeto|N venis|veni|V ?|_|_
+Eleonora=Ne|Eleonora=Ne|PROP ,|_|_ Elis|eli|V !|_|_
+Elis|Elis|PROP (|_|_ transiras|transiri|V la|la|ART scenejon|scenejo|N ;|_|_
+Eleonora=Ne|Eleonora=Ne|PROP ,|_|_ gxi|gxi|PRON ne|ne|ADV venis|veni|V !|_|_
+(|_|_ Kristina|Kristina|PROP transiras|transiri|V la|la|ART scenejon|scenejo|N dekstren|dekstre|ADV ,|_|_ preter|preter|PRP Elis|Elis|PROP kiu|kiu|PRON iras|iri|V maldekstren|maldekstre|ADV ,|_|_ kaj|kaj|KC ili|ili|PRON ne|ne|ADV rigardas|rigardi|V unu=la=alian|unu=la=alian|PRON .|_|_
+)|_|_ Eleonora=Hu|Eleonora=Hu|PROP ,|_|_ kiel|kiel|PRP malvarme|malvarme|ADV farigxis|farigxi|V !|_|_
+Venis|veni|V malamo|malamo|N en|en|PRP la|la|ART domon|domo|N !|_|_
+Benjamin=Kial|Benjamin=Kial|PROP ili|ili|PRON demandas|demandi|V pri|pri|PRP la|la|ART gazeto|gazeto|N ?|_|_
+Eleonora=Cxu|Eleonora=Cxu|PROP vi|vi|PRON ne|ne|ADV komprenas|kompreni|V tion|tion|PRON ?|_|_
+Tie|tie|ADV staros|stari|V pri|pri|PRP ...|_|_
+Benjamin=Kio|Benjamin=Kio|PROP ?|_|_
+Eleonora=Pri|Eleonora=Pri|PROP cxio|cxio|PRON !|_|_
+Pri|pri|PRP la|la|ART enrompo|enrompo|N ,|_|_ la|la|ART polico|polico|N kaj|kaj|KC ankoraux|ankoraux|ADV pli|pli|ADV ...|_|_
+Sinjorino|sinjorino|N Heyst|Heyst|PROP (|_|_ de|de|PRP dekstre|dekstre|ADV )|_|_ Cxu|cxu|ADV la|la|ART gazeto|gazeto|N venis|veni|V ?|_|_
+Eleonora=Ne|Eleonora=Ne|PROP ,|_|_ panjo|panjo|N !|_|_
+Sinjorino|sinjorino|N Heyst|Heyst|PROP (|_|_ ree|ree|ADV eliras|eliri|V dekstre|dekstre|ADV )|_|_ Diru|diri|V unue|unue|ADV al|al|PRP mi|mi|PRON ,|_|_ kiam|kiam|ADV gxi|gxi|PRON venos|veni|V !|_|_
+Eleonora=La|Eleonora=La|PROP gazeto|gazeto|N ,|_|_ la|la|ART gazeto|gazeto|N !|_|_
+-L|_|_ Ho|ho|IN ,|_|_ se|se|KS la|la|ART presmasxinoj|presmasxino|N estus|esti|V rompigxintaj|rompigxi|V ,|_|_ se|se|KS la|la|ART redaktoro|redaktoro|N estus|esti|V malsanigxinta|malsanigxi|V ...|_|_
+ne|ne|IN ,|_|_ oni|oni|PRON ne|ne|ADV rajtas|rajti|V diri|diri|V tiel|tiel|ADV !|_|_
+Auxdu|auxdi|V ,|_|_ lastnokte|lastnokte|ADV mi|mi|PRON estis|esti|V cxe|cxe|PRP patro|patro|N ...|_|_
+Benjamin=Lastnokte|Benjamin=Lastnokte|PROP ?|_|_
+Eleonora=Jes|Eleonora=Jes|PROP ,|_|_ en|en|PRP la|la|ART dormo|dormo|N ...|_|_
+kaj|kaj|KC mi|mi|PRON estis|esti|V en|en|PRP Ameriko|Ameriko|PROP cxe|cxe|PRP fratino|fratino|N ...|_|_
+antauxhieraux|antauxhieraux|ADV sxi|sxi|PRON vendis|vendi|V por|por|PRP tridek|tridek|NUM dolaroj|dolaro|N ,|_|_ kaj|kaj|KC tiam|tiam|ADV sxi|sxi|PRON gajnis|gajni|V kvin|kvin|NUM .|_|_
+Benjamin=Cxu|Benjamin=Cxu|PROP tio|tio|PRON estas|esti|V multe|multe|ADV aux|aux|KC malmulte|malmulte|ADV ?|_|_
+Eleonora=Estas|Eleonora=Estas|PROP suficxe|suficxe|ADV multe|multe|ADV !|_|_
+Benjamin|Benjamin|PROP (|_|_ ruze|ruze|ADV )|_|_ Cxu|cxu|ADV vi|vi|PRON renkontis|renkonti|V iun|iu|PRON konaton|konato|N sur|sur|PRP la|la|ART foirplaco|foirplaco|N ?|_|_
+Eleonora=Kial|Eleonora=Kial|PROP vi|vi|PRON tion|tion|PRON demandas|demandi|V ?|_|_
+Ne|ne|ADV estu|esti|V ruza|ruza|ADJ al|al|PRP mi|mi|PRON ,|_|_ Benjamin|Benjamin|PROP ;|_|_
+vi|vi|PRON volas|voli|V ekscii|ekscii|V miajn|mia|PRON sekretojn|sekreto|N ,|_|_ sed|sed|KC mi|mi|PRON ne|ne|ADV donos|doni|V ilin|ili|PRON .|_|_
+Benjamin=Cxu|Benjamin=Cxu|PROP vi|vi|PRON kredas|kredi|V ,|_|_ ke|ke|KS vi|vi|PRON tiamaniere|tiamaniere|ADV ekscios|ekscii|V la|la|ART miajn|mia|PRON !|_|_
+Eleonora=Auxdu|Eleonora=Auxdu|PROP ,|_|_ la|la|ART telefondratoj|telefondrato|N kantas|kanti|V .|_|_
+Do|do|ADV la|la|ART gazeto|gazeto|N nun|nun|ADV aperis|aperi|V ;|_|_
+kaj|kaj|KC nun|nun|ADV telefonas|telefoni|V la|la|ART homoj|homo|N !|_|_
+Cxu|cxu|ADV vi|vi|PRON legis|legi|V ?|_|_
+"|_|_ Jes|jes|IN mi|mi|PRON legis|legi|V !|_|_
+"|_|_ Cxu|cxu|ADV ne|ne|ADV estas|esti|V terure|terure|ADV ?|_|_
+"|_|_ Benjamin=Kio|Benjamin=Kio|PROP estas|esti|V terura|terura|ADJ ?|_|_ Eleonora=Cxio|Eleonora=Cxio|PROP !|_|_
+La|la|ART tuta|tuta|ADJ vivo|vivo|N estas|esti|V terura|terura|ADJ !|_|_
+Pensu|pensi|V pri|pri|PRP Elis|Elis|PROP kaj|kaj|KC Kristina|Kristina|PROP ;|_|_
+ili|ili|PRON sxatas|sxati|V unu=la=alian|unu=la=alian|PRON ,|_|_ kaj|kaj|KC tamen|tamen|ADV ili|ili|PRON malamas|malami|V unu=la=alian|unu=la=alian|PRON ,|_|_ tiel|tiel|ADV ke|ke|KS la|la|ART termometro|termometro|N malaltigxas|malaltigxi|V ,|_|_ kiam|kiam|KS ili|ili|PRON iras|iri|V tra|tra|PRP la|la|ART cxambro|cxambro|N !|_|_
+Sxi|sxi|PRON estis|esti|V en|en|PRP la|la|ART koncerto|koncerto|N hieraux|hieraux|ADV ,|_|_ kaj|kaj|KC hodiaux|hodiaux|ADV ili|ili|PRON ne|ne|ADV parolas|paroli|V unu=al=la=alia|unu=al=la=alia|ADV ...|_|_
+kial|kial|ADV ,|_|_ kial|kial|ADV ?|_|_
+Benjamin=Cxar|Benjamin=Cxar|PROP via|via|PRON frato|frato|N estas|esti|V jxaluza|jxaluza|ADJ !|_|_
+Eleonora=Ne|Eleonora=Ne|PROP diru|diri|V tiun|tiu|PRON vorton|vorto|N !|_|_
+Kiel|kiel|PRP vi|vi|PRON cetere|cetere|ADV scias|scii|V pri|pri|PRP gxi|gxi|PRON krom|krom|PRP tio|tio|PRON ,|_|_ ke|ke|KS gxi|gxi|PRON estas|esti|V malsano|malsano|N kaj|kaj|KC sekve|sekve|ADV puno|puno|N .|_|_
+Oni|oni|PRON ne|ne|ADV tusxu|tusxi|V la|la|ART malbonon|malbono|N ,|_|_ alie|alie|ADV sxi|sxi|PRON nin|ni|PRON atakas|ataki|V !|_|_ Rigardu|rigardi|V al|al|PRP Elis|Elis|PROP ;|_|_
+cxu|cxu|ADV vi|vi|PRON rimarkis|rimarki|V ,|_|_ kiel|kiel|KS li|li|PRON sxangigxis|sxangigxi|V ,|_|_ de|de|PRP kiam|kiam|KS li|li|PRON komencis|komenci|V legi|legi|V en|en|PRP tiuj|tiu|PRON paperoj|papero|N ...|_|_
+Benjamin=De|Benjamin=De|PROP la|la|ART proceso|proceso|N ?|_|_
+Eleonora=Jes|Eleonora=Jes|PROP !|_|_
+.|_|_ Tion|tio|PRON sentas|senti|V Kristina|Kristina|PROP ,|_|_ kaj|kaj|KC por=ke|por=ke|KS sxi|sxi|PRON ne|ne|ADV infektigxu|infektigxi|V de|de|PRP lia|lia|PRON malbono|malbono|N ,|_|_ sxi|sxi|PRON faras|fari|V al|al|PRP si|si|PRON kirason|kiraso|N el|el|PRP glacio|glacio|N !|_|_
+Ho|ho|IN ,|_|_ tiuj|tiu|PRON paperoj|papero|N ;|_|_
+se|se|KS mi|mi|PRON povus|povi|V bruligi|bruligi|V ilin|ili|PRON !|_|_
+Benjamin=Kiel|Benjamin=Kiel|PROP vi|vi|PRON cxion|cxio|PRON rimarkas|rimarki|V ?|_|_
+Eleonora=Cxu|Eleonora=Cxu|PROP vi|vi|PRON scias|scii|V ,|_|_ kio|kio|PRON atendos|atendi|V min|mi|PRON ,|_|_ se|se|KS Elis|Elis|PROP kaj|kaj|KC la|la|ART aliaj|alia|ADJ ekscios|ekscii|V ,|_|_ ke|ke|KS estis|esti|V mi|mi|PRON ,|_|_ kiu|kiu|PRON acxetis|acxeti|V la|la|ART pasklilion|pasklilio|N en|en|PRP tiu|tiu|PRON neordinara|neordinara|ADJ maniero|maniero|N ?|_|_
+Benjamin=Kion|Benjamin=Kio|PROP ili|ili|PRON povus|povi|V fari|fari|V al|al|PRP vi|vi|PRON ?|_|_
+Eleonora=Oni|Eleonora=Oni|PROP resendos|resendi|V min|mi|PRON ...|_|_
+tien|tien|ADV ,|_|_ de|de|PRP kie|kie|ADV mi|mi|PRON venis|veni|V ,|_|_ kie|kie|ADV la|la|ART suno|suno|N ne|ne|ADV lumas|lumi|V ,|_|_ kie|kie|ADV la|la|ART muroj|muro|N estas|esti|V blankaj|blanka|ADJ kaj|kaj|KC nudaj|nuda|ADJ kiel|kiel|PRP en|en|PRP bancxambro|bancxambro|N ,|_|_ kie|kie|ADV oni|oni|PRON auxdas|auxdi|V nur|nur|ADV ploradon|plorado|N kaj|kaj|KC gxemadon|gxemado|N ,|_|_ kie|kie|ADV mi|mi|PRON forsidis|forsidi|V unu|unu|NUM jaron|jaro|N de|de|PRP mia|mia|PRON vivo|vivo|N !|_|_
+Benjamin=Kion|Benjamin=Kio|PROP vi|vi|PRON volas|voli|V diri|diri|V ?|_|_
+Eleonora=Kie|Eleonora=Kie|PROP oni|oni|PRON estas|esti|V pli|pli|ADV turmentata|turmenti|V ol|ol|PRP en|en|PRP malliberejo|malliberejo|N ,|_|_ kie|kie|ADV logxas|logxi|V la|la|ART kondamnitoj|kondamnito|N ,|_|_ la|la|ART hejmo|hejmo|N de|de|PRP maltrankvilo|maltrankvilo|N ,|_|_ kie|kie|ADV malespero|malespero|N dormas|dormi|V nek|nek|KC nokte|nokte|ADV nek|nek|KC tage|tage|ADV ,|_|_ kaj|kaj|KC de|de|PRP kie|kie|ADV neniu|neniu|PRON revenas|reveni|V .|_|_
+Benjamin=Pli|Benjamin=Pli|PROP malfacila|malfacila|ADJ ol|ol|PRP malliberejo|malliberejo|N ,|_|_ kion|kio|PRON vi|vi|PRON volas|voli|V diri|diri|V ?|_|_
+Eleonora=En|Eleonora=En|PROP la|la|ART malliberejo|malliberejo|N oni|oni|PRON estas|esti|V verdiktita|verdikti|V ,|_|_ sed|sed|KC tie|tie|ADV oni|oni|PRON estas|esti|V kondamnita|kondamnita|ADJ !|_|_
+En|en|PRP la|la|ART malliberejo|malliberejo|N oni|oni|PRON estas|esti|V ekzamenita|ekzameni|V kaj|kaj|KC auxskultita|auxskulti|V ,|_|_ sed|sed|KC tie|tie|ADV neniu|neniu|PRON esploris|esplori|V ...|_|_
+Kompatinda|kompatinda|ADJ paskolilio|paskolilio|N ,|_|_ kiu|kiu|PRON kulpas|kulpi|V ;|_|_
+mi|mi|PRON volis|voli|V tiel|tiel|ADV bone|bone|ADV kaj|kaj|KC agis|agi|V tiel|tiel|ADV malbone|malbone|ADV !|_|_
+Benjamin=Sed|Benjamin=Sed|PROP kial|kial|ADV vi|vi|PRON ne|ne|ADV iras|iri|V al|al|PRP la|la|ART floristo|floristo|N kaj|kaj|KC diras|diri|V kiel|kiel|ADV estis|esti|V ?|_|_
+Vi|vi|PRON estas|esti|V precize|precize|ADV kiel|kiel|PRP alauxdo|alauxdo|N ,|_|_ kiam|kiam|KS gxi|gxi|PRON devas|devi|V morti|morti|V .|_|_
+Eleonora=Kiam|Eleonora=Kiam|PROP gxi|gxi|PRON scias|scii|V ,|_|_ ke|ke|KS gxi|gxi|PRON estas|esti|V bucxota|bucxota|ADJ ,|_|_ gxi|gxi|PRON ne|ne|ADV plendas|plendi|V kaj|kaj|KC ne|ne|ADV provas|provi|V forkuri|forkuri|V .|_|_
+Kion|kio|PRON gxi|gxi|PRON povus|povi|V fari|fari|V !|_|_
+Eleonora=Ne|Eleonora=Ne|PROP ,|_|_ mia|mia|PRON frato|frato|N !|_|_
+Elis|eli|V (|_|_ turnas|turni|V sin|si|PRON ,|_|_ parolas|paroli|V en|en|PRP la|la|ART kuirejon|kuirejo|N )|_|_ Lina|Lina|PROP ,|_|_ iru|iri|V acxeti|acxeti|V gazeton|gazeto|N !|_|_
+...|_|_
+Sinjorino|sinjorino|N Heyst|Heyst|PROP (|_|_ envenas|enveni|V de|de|PRP dekstre|dekstre|ADV )|_|_ Eleonora|Eleonora|PROP kaj|kaj|KC Benjamin|Benjamin|PROP (|_|_ terurigxas|terurigxi|V )|_|_ Elis|Elis|PROP (|_|_ al|al|PRP Eleonora|Eleonora|PROP kaj|kaj|KC Benjamin|Benjamin|PROP )|_|_ Estu|esti|V afablaj|afabla|ADJ ,|_|_ infanoj|infano|N ,|_|_ kaj|kaj|KC eliru|eliri|V por|por|PRP momento|momento|N !|_|_
+(|_|_ Eleonora|Eleonora|PROP kaj|kaj|KC Benjamin|Benjamin|PROP eliras|eliri|V maldekstre|maldekstre|ADV .|_|_
+)|_|_ Sinjorino|sinjorino|N Heyst=Vi|Heyst=Vi|PROP ricevis|ricevi|V leteron|letero|N ?|_|_
+Elis|eli|V Jes|jes|IN !|_|_
+Sinjorino|sinjorino|N Heyst=De|Heyst=De|PROP la|la|ART azilo|azilo|N ?|_|_
+Elis|eli|V Jes|jes|IN !|_|_
+Sinjorino|sinjorino|N Heyst=Kion|Heyst=Kion|PROP oni|oni|PRON volas|voli|V ?|_|_
+Elis|eli|V Oni|oni|PRON postulas|postuli|V ,|_|_ ke|ke|KS Eleonora|Eleonora|PROP revenu|reveni|V .|_|_
+Sinjorino|sinjorino|N Heyst=Oni|Heyst=Oni|PROP ne|ne|ADV rajtas|rajti|V !|_|_
+Estas|esti|V mia|mia|PRON infano|infano|N !|_|_
+Elis|eli|V Mia|mia|PRON fratino|fratino|N !|_|_
+Sinjorino|sinjorino|N Heyst=Kion|Heyst=Kion|PROP vi|vi|PRON do|do|ADV pensas|pensi|V ?|_|_
+Elis|eli|V Mi|mi|PRON ne|ne|ADV scias|scii|V !|_|_
+Mi|mi|PRON ne|ne|ADV povas|povi|V pensi|pensi|V plu|plu|ADV !|_|_
+Sinjorino|sinjorino|N Heyst=Sed|Heyst=Sed|PROP tion|tion|PRON povas|povi|V mi|mi|PRON !|_|_
+...|_|_
+Eleonora|eleonora|ADJ ,|_|_ la|la|ART infano|infano|N de|de|PRP malgxojo|malgxojo|N ,|_|_ venis|veni|V kun|kun|PRP gxojo|gxojo|N ,|_|_ tamen|tamen|ADV ne|ne|ADV de|de|PRP tiu=cxi|cxi=tiu|PRON mondo|mondo|N ;|_|_
+gxia|gxia|PRON maltrankvilo|maltrankvilo|N transformigxis|transformigxi|V en|en|PRP pacon|paco|N ,|_|_ kiun|kiu|PRON sxi|sxi|PRON disdonas|disdoni|V !|_|_
+Prudenta|prudenta|ADJ aux|aux|KC ne|ne|ADV !|_|_
+Al|al|PRP mi|mi|PRON sxi|sxi|PRON estas|esti|V sagxa|sagxa|ADJ ,|_|_ cxar|cxar|KS sxi|sxi|PRON komprenas|kompreni|V porti|porti|V la|la|ART sxargxon|sxargxo|N de|de|PRP la|la|ART vivo|vivo|N ,|_|_ pli|pli|ADV bone|bone|ADV ol|ol|PRP mi|mi|PRON ,|_|_ ol|ol|PRP ni|ni|PRON .|_|_
+Cetere|cetere|ADV ,|_|_ Elis|Elis|PROP ,|_|_ cxu|cxu|ADV mi|mi|PRON estas|esti|V prudenta|prudenta|ADJ ,|_|_ cxu|cxu|ADV estis|esti|V ,|_|_ kiam|kiam|ADV mi|mi|PRON kredis|kredi|V mian|mia|PRON edzon|edzo|N senkulpa|senkulpa|ADJ ?|_|_
+Mi|mi|PRON ja|ja|ADV sciis|scii|V ,|_|_ ke|ke|KS li|li|PRON estis|esti|V pruvita|pruvi|V kulpa|kulpa|ADJ per|per|PRP materiaj|materia|ADJ ,|_|_ evidentaj|evidenta|ADJ pruvoj|pruvo|N ,|_|_ kaj|kaj|KC ke|ke|KS li|li|PRON mem|mem|PRON konfesis|konfesi|V !|_|_
+...|_|_ Kaj|kaj|KC vi|vi|PRON ,|_|_ Elis|Elis|PROP ,|_|_ cxu|cxu|ADV vi|vi|PRON havas|havi|V vian|via|PRON prudenton|prudento|N ,|_|_ kiam|kiam|ADV vi|vi|PRON ne|ne|ADV vidas|vidi|V ,|_|_ ke|ke|KS Kristina|Kristina|PROP amas|ami|V vin|vi|PRON ?|_|_ Kiam|kiam|ADV vi|vi|PRON kredas|kredi|V ,|_|_ ke|ke|KS sxi|sxi|PRON malamas|malami|V vin|vi|PRON ?|_|_
+Elis|Elis|PROP Estas|esti|V stranga|stranga|ADJ maniero|maniero|N ami|ami|V !|_|_ Sinjorino|sinjorino|N Heyst=Ne|Heyst=Ne|PROP !|_|_
+Via|via|PRON malvarmo|malvarmo|N frostigas|frostigi|V sxin|sxi|PRON interne|interne|ADV ,|_|_ kaj|kaj|KC estas|esti|V vi|vi|PRON ,|_|_ kiu|kiu|PRON malamas|malami|V .|_|_ Sed|sed|KC vi|vi|PRON estas|esti|V malprava|malprava|ADJ ,|_|_ kaj|kaj|KC tial|tial|ADV vi|vi|PRON devas|devi|V suferi|suferi|V !|_|_ Elis|eli|V Kiel|kiel|ADV mi|mi|PRON povas|povi|V esti|esti|V malprava|malprava|ADJ ?|_|_
+Cxu|cxu|ADV sxi|sxi|PRON ne|ne|ADV kunestis|kunesti|V kun|kun|PRP mia|mia|PRON malfidela|malfidela|ADJ amiko|amiko|N hieraux|hieraux|ADV vespere|vespere|ADV !|_|_
+Sinjorino|sinjorino|N Heyst=Jes|Heyst=Jes|PROP ,|_|_ tion|tion|PRON sxi|sxi|PRON faris|fari|V ,|_|_ kaj|kaj|KC kun|kun|PRP via|via|PRON scio|scio|N .|_|_
+Sed|sed|KC kial|kial|ADV sxi|sxi|PRON iris|iri|V ?|_|_
+Jes|jes|IN ,|_|_ tion|tion|PRON vi|vi|PRON devus|devi|V kompreni|kompreni|V !|_|_
+Elis|eli|V Ne|ne|ADV ,|_|_ tion|tion|PRON mi|mi|PRON ne|ne|ADV povas|povi|V !|_|_
+Sinjorino|sinjorino|N Heyst=Nu|Heyst=Nu|PROP !|_|_
+Estu|esti|V do|do|ADV por|por|PRP vi|vi|PRON ,|_|_ kiel|kiel|KS estas|esti|V !|_|_
+)|_|_ Elis|eli|V Tio|tio|PRON estis|esti|V ,|_|_ la|la|ART sola|sola|ADJ vera|vera|ADJ malfelicxo|malfelicxo|N !|_|_
+Kune|kune|ADV kun|kun|PRP sxi|sxi|PRON mi|mi|PRON povis|povi|V porti|porti|V la|la|ART aliajn|alia|ADJ !|_|_
+Sed|sed|KC nun|nun|ADV fortirigxis|fortirigxi|V la|la|ART lasta|lasta|ADJ apogo|apogo|N ,|_|_ kaj|kaj|KC mi|mi|PRON falas|fali|V !|_|_
+Sinjorino|sinjorino|N Heyst=Falu|Heyst=Falu|PROP ,|_|_ sed|sed|KC falu|fali|V gxuste|gxuste|ADV ,|_|_ kaj|kaj|KC poste|poste|ADV vi|vi|PRON povos|povi|V levi|levi|V vin|vi|PRON !|_|_
+...|_|_ Kio|kio|PRON nova|nova|ADJ en|en|PRP la|la|ART gazeto|gazeto|N ?|_|_
+Elis|eli|V Mi|mi|PRON ne|ne|ADV scias|scii|V ;|_|_
+mi|mi|PRON timas|timi|V la|la|ART gazeton|gazeto|N hodiaux|hodiaux|ADV !|_|_
+Sinjorino|sinjorino|N Heyst=Donu|Heyst=Donu|PROP al|al|PRP mi|mi|PRON ,|_|_ kaj|kaj|KC mi|mi|PRON legos|legi|V !|_|_
+Elis|eli|V Ne|ne|ADV !|_|_
+Atendu|atendi|V momenton|momento|N !|_|_
+...|_|_
+Sinjorino|sinjorino|N Heyst=Kion|Heyst=Kion|PROP vi|vi|PRON timas|timi|V ,|_|_ kion|kio|PRON vi|vi|PRON atendas|atendi|V ...|_|_
+Elis|eli|V La|la|ART plej|plej|ADV malbonan|malbona|ADJ !|_|_
+Sinjorino|sinjorino|N Heyst=Tio|Heyst=Tio|PROP jam|jam|ADV tiom|tiom|ADV multfoje|multfoje|ADV okazis|okazi|V ...|_|_
+Kaj|kaj|KC vi|vi|PRON ,|_|_ infano|infano|N ,|_|_ se|se|KS vi|vi|PRON konus|koni|V mian|mia|PRON vivon|vivo|N ...|_|_
+se|se|KS vi|vi|PRON estus|esti|V estinta|esti|V kun|kun|PRP mi|mi|PRON ,|_|_ kiam|kiam|KS mi|mi|PRON vidis|vidi|V vian|via|PRON patron|patro|N pasxon|pasxo|N post|post|PRP pasxo|pasxo|N iri|iri|V en|en|PRP la|la|ART pereon|pereo|N ,|_|_ sen|sen|PRP povi|povi|V averti|averti|V la|la|ART multajn|multa|ADJ ,|_|_ al|al|PRP kiuj|kiu|PRON li|li|PRON alportis|alporti|V malfelicxon|malfelicxo|N .|_|_
+Kiam|kiam|KS li|li|PRON falis|fali|V ,|_|_ mi|mi|PRON sentis|senti|V min|mi|PRON kunkulpa|kunkulpa|ADJ ,|_|_ cxar|cxar|KS mi|mi|PRON estis|esti|V konscia|konscia|ADJ pri|pri|PRP la|la|ART krimo|krimo|N ,|_|_ kaj|kaj|KC se|se|KS la|la|ART jugxisto|jugxisto|N ne|ne|ADV estus|esti|V estinta|esti|V sagxa|sagxa|ADJ viro|viro|N ,|_|_ kiu|kiu|PRON komprenis|kompreni|V mian|mia|PRON malfacilan|malfacila|ADJ situacion|situacio|N kiel|kiel|PRP edzino|edzino|N ,|_|_ ankaux|ankaux|ADV mi|mi|PRON estus|esti|V punita|puni|V !|_|_
+Elis|eli|V Pro|pro|PRP kio|kio|PRON falis|fali|V nia|mia|PRON patro|patro|N ,|_|_ mi|mi|PRON neniam|neniam|ADV komprenis|kompreni|V tion|tion|PRON ?|_|_
+Sinjorino|sinjorino|N Heyst=Pro|Heyst=Pro|PROP fiero|fiero|N ,|_|_ kiel|kiel|PRP ni|ni|PRON cxiuj|cxiu|PRON !|_|_
+Elis|eli|V Kial|kial|ADV ni|ni|PRON senkulpaj|senkulpa|ADJ suferu|suferi|V pro|pro|PRP liaj|lia|PRON eraroj|eraro|N ?|_|_
+Sinjorino|sinjorino|N Heyst=Silentu|Heyst=Silentu|PROP !|_|_
+...|_|_
+(|_|_ Pauxzo|pauxzo|N ,|_|_ dum|dum|PRP kiu|kiu|PRON sxi|sxi|PRON prenas|preni|V la|la|ART gazeton|gazeto|N kaj|kaj|KC legas|legi|V .|_|_
+)|_|_ Elis|eli|V (|_|_ staras|stari|V unue|unue|ADV maltrankvila|maltrankvila|ADJ ,|_|_ poste|poste|ADV iras|iri|V tien|tien|ADV kaj|kaj|KC reen|ree|ADV )|_|_ Sinjorino|sinjorino|N Heyst=Kio|Heyst=Kio|PROP estas|esti|V tio|tio|PRON ?|_|_ ...|_|_
+Cxu|cxu|ADV mi|mi|PRON ne|ne|ADV diris|diri|V ,|_|_ ke|ke|KS interalie|interalie|ADV estis|esti|V flava|flava|ADJ tulipo|tulipo|N ,|_|_ kiun|kiu|PRON oni|oni|PRON sxtelis|sxteli|V en|en|PRP la|la|ART florvendejo|florvendejo|N ?|_|_
+Elis|eli|V Jes|jes|IN ,|_|_ tion|tion|PRON mi|mi|PRON certe|certe|ADV memoras|memori|V !|_|_
+Sinjorino|sinjorino|N Heyst=Sed|Heyst=Sed|PROP tie=cxi|cxi=tie|ADV staras|stari|V ...|_|_
+ke|ke|KS paska|paska|ADJ lilio|lilio|N !|_|_
+Elis|eli|V (|_|_ terurite|teruri|V )|_|_ Cxu|cxu|ADV staras|stari|V tiel|tiel|ADV ?|_|_
+Sinjorino|sinjorino|N Heyst|Heyst|PROP (|_|_ falsidigxas|falsidigxi|V sur|sur|PRP segxon|segxo|N )|_|_ Estas|esti|V Eleonora|Eleonora|PROP !|_|_
+Ho|ho|IN Dio|Dio|PROP !|_|_
+Mia|mia|PRON Dio|Dio|PROP !|_|_
+Elis|eli|V Do|do|ADV ,|_|_ ankoraux|ankoraux|ADV ne|ne|ADV finigxis|finigxi|V !|_|_
+Sinjorino|sinjorino|N Heyst=Al|Heyst=Al|PROP malliberejo|malliberejo|N aux|aux|KC azilo|azilo|N !|_|_
+Elis|eli|V Ne|ne|ADV estas|esti|V eble|eble|ADV ,|_|_ ke|ke|KS sxi|sxi|PRON tion|tion|PRON faris|fari|V !|_|_
+Ne|ne|ADV eble|eble|ADV !|_|_
+Sinjorino|sinjorino|N Heyst=Kaj|Heyst=Kaj|PROP nun|nun|ADV la|la|ART nomo|nomo|N de|de|PRP la|la|ART familio|familio|N denove|denove|ADV estos|esti|V traktata|trakti|V kaj|kaj|KC malhonorata|malhonori|V ,|_|_ ...|_|_
+Elis|eli|V Cxu|cxu|ADV oni|oni|PRON suspektas|suspekti|V sxin|sxi|PRON ?|_|_
+Sinjorino|sinjorino|N Heyst=La|Heyst=La|PROP suspekto|suspekto|N havas|havi|V certan|certa|ADJ direkton|direkto|N al|al|PRP ...|_|_
+estas|esti|V suficxe|suficxe|ADV klare|klare|ADV kien|kien|ADV .|_|_
+Elis|eli|V Mi|mi|PRON parolos|paroli|V kun|kun|PRP sxi|sxi|PRON !|_|_
+Sinjorino|sinjorino|N Heyst|Heyst|PROP (|_|_ levigxas|levigxi|V )|_|_ Parolu|paroli|V afable|afable|ADV !|_|_
+Cxar|cxar|KS mi|mi|PRON ne|ne|ADV povas|povi|V plu|plu|ADV !|_|_ ...|_|_
+Sxi|sxi|PRON estas|esti|V perdita|perdi|V ...|_|_
+retrovita|retrovi|V kaj|kaj|KC perdita|perdi|V ...|_|_
+Parolu|paroli|V kun|kun|PRP sxi|sxi|PRON !|_|_
+(|_|_ Eliras|eliri|V dekstre|dekstre|ADV .|_|_
+)|_|_ Elis|eli|V Ho|ho|IN !|_|_
+(|_|_ Iras|iri|V al|al|PRP la|la|ART maldekstra|maldekstra|ADJ pordo|pordo|N .|_|_ )|_|_ Eleonora|eleonora|ADJ ,|_|_ mia|mia|PRON infano|infano|N !|_|_
+Venu|veni|V ,|_|_ mi|mi|PRON volas|voli|V paroli|paroli|V kun|kun|PRP vi|vi|PRON !|_|_
+Eleonora|Eleonora|PROP (|_|_ envenas|enveni|V ;|_|_
+la|la|ART hararo|hararo|N disligita|disligi|V )|_|_ Mi|mi|PRON volis|voli|V arangxi|arangxi|V harkronon|harkrono|N !|_|_
+Elis|Elis|PROP Lasu|lasi|V tion|tion|PRON !|_|_
+...|_|_ Diru|diri|V ,|_|_ fratineto|fratineto|N ,|_|_ kie|kie|ADV vi|vi|PRON ricevis|ricevi|V tiun|tiu|PRON floron|floro|N ?|_|_
+Eleonora=Mi|Eleonora=Mi|PROP prenis|preni|V gxin|gxi|PRON ...|_|_
+Elis|Elis|PROP Ho=Dio|Ho=Dio|PROP !|_|_
+Eleonora|eleonora|ADJ (|_|_ kun|kun|PRP klinita|klinita|ADJ kapo|kapo|N ,|_|_ frakasita|frakasi|V ,|_|_ kun|kun|PRP la|la|ART brakoj|brako|N kruce|kruce|ADV sur|sur|PRP la|la|ART brusto|brusto|N )|_|_ Sed|sed|KC mi|mi|PRON metis|meti|V la|la|ART monon|mono|N apude|apude|ADV ...|_|_ Elis|eli|V Vi|vi|PRON do|do|ADV pagis|pagi|V gxin|gxi|PRON ?|_|_
+Eleonora=Jes|Eleonora=Jes|PROP ,|_|_ kaj|kaj|KC ne|ne|ADV !|_|_
+Cxiam|cxiam|ADV estas|esti|V tiel|tiel|ADV malagrable|malagrable|ADV ...|_|_
+sed|sed|KC mi|mi|PRON faris|fari|V nenion|nenio|PRON malbonan|malbona|ADJ ...|_|_
+mi|mi|PRON nur|nur|ADV bone|bone|ADV volis|voli|V ...|_|_
+Cxu|cxu|ADV vi|vi|PRON kredas|kredi|V min|mi|PRON ?|_|_
+Elis|eli|V Mi|mi|PRON kredas|kredi|V vin|vi|PRON ,|_|_ fratino|fratino|N ;|_|_
+sed|sed|KC la|la|ART gazeto|gazeto|N ne|ne|ADV scias|scii|V ,|_|_ ke|ke|KS vi|vi|PRON estas|esti|V senkulpa|senkulpa|ADJ !|_|_
+Eleonora=Kara|Eleonora=Kara|PROP ,|_|_ do|do|ADV mi|mi|PRON devas|devi|V suferi|suferi|V ankaux|ankaux|ADV tion|tion|PRON ...|_|_
+(|_|_ Sxi|sxi|PRON klinas|klini|V la|la|ART kapon|kapo|N ,|_|_ tiel|tiel|ADV ke|ke|KS la|la|ART hararo|hararo|N malsuprenpendas|malsuprenpendi|V antauxe|antauxe|ADV .|_|_
+)|_|_ Kion|kio|PRON oni|oni|PRON nun|nun|ADV volas|voli|V fari|fari|V al|al|PRP mi|mi|PRON ?|_|_
+Oni|oni|PRON do|do|ADV faru|fari|V tion|tion|PRON !|_|_
+Benjamin|Benjamin|PROP (|_|_ envenas|enveni|V de|de|PRP maldekstre|maldekstre|ADV ,|_|_ tre|tre|ADV ekscitita|ekscitita|ADJ )|_|_ Ne|ne|IN ,|_|_ ne|ne|ADV tusxu|tusxi|V sxin|sxi|PRON ,|_|_ cxar|cxar|KS sxi|sxi|PRON nenion|nenio|PRON malbonan|malbona|ADJ faris|fari|V .|_|_
+Eleonora=Ne|Eleonora=Ne|PROP kredu|kredi|V ,|_|_ kion|kio|PRON li|li|PRON diras|diri|V ...|_|_
+estis|esti|V mi|mi|PRON !|_|_
+Elis|eli|V Kion|kio|PRON mi|mi|PRON kredu|kredi|V ;|_|_ kiun|kiu|PRON mi|mi|PRON kredu|kredi|V ?|_|_
+Benjamin=Min|Benjamin=Min|PROP !|_|_
+min|mi|PRON !|_|_
+Eleonora=Min|Eleonora=Min|PROP !|_|_
+min|mi|PRON !|_|_
+Benjamin=Lasu|Benjamin=Lasu|PROP min|mi|PRON iri|iri|V al|al|PRP la|la|ART polico|polico|N ...|_|_
+Elis|Elis|PROP Silentu|silenti|V ,|_|_ silentu|silenti|V ...|_|_
+Benjamin=Ne|Benjamin=Ne|PROP ,|_|_ mi|mi|PRON volas|voli|V iri|iri|V ,|_|_ mi|mi|PRON voIas|voii|V iri|iri|V ...|_|_
+Elis|Elis|PROP Silentu|silenti|V ,|_|_ infanoj|infano|N !|_|_
+Patrino|patrino|N venas|veni|V !|_|_
+Sinjorino|sinjorino|N Heyst|Heyst|PROP (|_|_ envenas|enveni|V ,|_|_ tre|tre|ADV ekscitita|ekscitita|ADJ ,|_|_ cxirkauxbrakas|cxirkauxbraki|V Eleonoran|Eleonoran|PROP kaj|kaj|KC kisas|kisi|V sxin|sxi|PRON )|_|_ .|_|_
+Infano|infano|N ,|_|_ infano|infano|N ,|_|_ mia|mia|PRON kara|kara|ADJ infano|infano|N !|_|_
+Vi|vi|PRON estas|esti|V cxe|cxe|PRP mi|mi|PRON ,|_|_ kaj|kaj|KC vi|vi|PRON restos|resti|V cxe|cxe|PRP mi|mi|PRON !|_|_
+Eleonora=Vi|Eleonora=Vi|PROP kisas|kisi|V min|mi|PRON ,|_|_ patrino|patrino|N ?|_|_
+Tion|tio|PRON vi|vi|PRON ne|ne|ADV faris|fari|V dum|dum|PRP multaj|multa|ADJ jaroj|jaro|N .|_|_
+Kial|kial|ADV nur|nur|ADV nun|nun|ADV ?|_|_
+Sinjorino|sinjorino|N Heyst=Cxar=...|Heyst=Cxar=...|PROP cxar|cxar|KS la|la|ART floristo|floristo|N estas|esti|V tie|tie|ADV kaj|kaj|KC petas|peti|V pardonon|pardono|N pro|pro|PRP tio|tio|PRON ,|_|_ ke|ke|KS li|li|PRON kauxzis|kauxzi|V tiom|tiom|ADV da|da|PRP malagrablajxo|malagrablajxo|N ...|_|_
+la|la|ART perdita|perdi|V monero|monero|N estas|esti|V retrovita|retrovi|V kaj|kaj|KC via|via|PRON nomo|nomo|N ...|_|_
+Eleonora|Eleonora|PROP (|_|_ kuras|kuri|V en|en|PRP la|la|ART brakojn|brako|N de|de|PRP Elis|Elis|PROP kaj|kaj|KC kisas|kisi|V lin|li|PRON ;|_|_
+poste|poste|ADV sxi|sxi|PRON cxirkaux-|cxirkaux-|N prenas|preni|V la|la|ART kolon|kolo|N de|de|PRP Benjamin|Benjamin|PROP kaj|kaj|KC kisas|kisi|V lin|li|PRON supre|supre|ADV sur|sur|PRP la|la|ART kapo|kapo|N )|_|_ .|_|_
+Vi|vi|PRON bona|bona|ADJ infano|infano|N ,|_|_ kiu|kiu|PRON volis|voli|V suferi|suferi|V por|por|PRP mi|mi|PRON !|_|_
+Kiel|kiel|ADV vi|vi|PRON povis|povi|V tion|tion|PRON voli|voli|V ?|_|_
+Benjamin|Benjamin|PROP (|_|_ kasxigxeme|kasxigxeme|ADV ,|_|_ naive|naive|ADV )|_|_ Cxar|cxar|KS mi|mi|PRON tiel|tiel|ADV sxatas|sxati|V vin|vi|PRON ,|_|_ Eleonora|Eleonora|PROP !|_|_
+Sinjorino|sinjorino|N Heyst=Nun|Heyst=Nun|PROP surmetu|surmeti|V vestojn|vesto|N kaj|kaj|KC iru|iri|V en|en|PRP la|la|ART gxardenon|gxardeno|N ,|_|_ infanoj|infano|N .|_|_
+La|la|ART cxielo|cxielo|N klarigxas|klarigxi|V .|_|_
+Eleonora=Ho|Eleonora=Ho|PROP ,|_|_ klarigxas|klarigxi|V !|_|_
+Venu|veni|V ,|_|_ Benjamin|Benjamin|PROP !|_|_
+(|_|_ Prenas|preni|V lian|lia|PRON manon|mano|N ;|_|_
+manenmane|manenmane|ADV ili|ili|PRON eliras|eliri|V maldekstre|maldekstre|ADV .|_|_
+)|_|_ Elis|eli|V Cxu|cxu|ADV ni|ni|PRON baldaux|baldaux|ADV povos|povi|V jxeti|jxeti|V la|la|ART brancxeton|brancxeto|N sur|sur|PRP la|la|ART fajron|fajro|N ?|_|_
+Sinjorino|sinjorino|N Heyst=Ankoraux|Heyst=Ankoraux|PROP ne|ne|ADV !|_|_
+Iom|iom|ADV restas|resti|V !|_|_
+Elis|Elis|PROP Cxu=Lindkvist|Cxu=Lindkvist|PROP ?|_|_
+Sinjorino|sinjorino|N Heyst=Li|Heyst=Li|PROP atendas|atendi|V tie|tie|ADV !|_|_
+Sed|sed|KC li|li|PRON estas|esti|V tre|tre|ADV stranga|stranga|ADJ kaj|kaj|KC nekompreneble|nekompreneble|ADV milda|milda|ADJ ;|_|_
+domagxe|domagxe|ADV nur|nur|ADV ,|_|_ ke|ke|KS li|li|PRON estas|esti|V tiel|tiel|ADV multvorta|multvorta|ADJ kaj|kaj|KC tiom|tiom|ADV parolas|paroli|V pri|pri|PRP si|si|PRON mem|mem|PRON .|_|_
+Elis|eli|V Nun|nun|ADV ,|_|_ kiam|kiam|ADV mi|mi|PRON vidis|vidi|V sunradion|sunradio|N ,|_|_ mi|mi|PRON ne|ne|ADV timas|timi|V renkonti|renkonti|V la|la|ART giganton|giganto|N .|_|_ Li|li|PRON venu|veni|V !|_|_
+Sinjorino|sinjorino|N Heyst=Sed|Heyst=Sed|PROP ne|ne|ADV incitu|inciti|V lin|li|PRON ...|_|_
+La|la|ART providenco|providenco|N metis|meti|V nian|nia|PRON sorton|sorto|N en|en|PRP liajn|lia|PRON manojn|mano|N ,|_|_ kaj|kaj|KC la|la|ART pacemuloj|pacemulo|N ...|_|_
+nu|nu|ADV ,|_|_ vi|vi|PRON scias|scii|V ,|_|_ kien|kien|ADV iras|iri|V la|la|ART fieruloj|fierulo|N !|_|_
+Elis|eli|V Mi|mi|PRON scias|scii|V !|_|_
+...|_|_
+Auxdu|auxdi|V !|_|_
+Tiujn|tiu|PRON galosxojn|galosxo|N :|_|_ lupoj|lupo|N ,|_|_ lup'|lup'|N lup'|lup'|N vitsx|vitsx|N !|_|_
+Cxu|cxu|ADV li|li|PRON intencas|intenci|V eniri|eniri|V kun|kun|PRP ili|ili|PRON .|_|_
+Kial|kial|ADV ne|ne|ADV ?|_|_
+Estas|esti|V liaj|lia|PRON tapisxoj|tapisxo|N kaj|kaj|KC mebloj|meblo|N ...|_|_
+Sinjorino|sinjorino|N Heyst=Elis|Heyst=Elis|PROP !|_|_
+Pensu|pensi|V pri|pri|PRP ni|ni|PRON cxiuj|cxiu|PRON !|_|_
+(|_|_ Eliras|eliri|V dekstre|dekstre|ADV .|_|_
+)|_|_ Elis|eli|V Tion|tio|PRON mi|mi|PRON faras|fari|V ,|_|_ patrino|patrino|N !|_|_
+Lindkvist|Lindkvist|PROP (|_|_ eniras|eniri|V de|de|PRP dekstre|dekstre|ADV .|_|_
+Estas|esti|V iom|iom|ADV maljuna|maljuna|ADJ ,|_|_ serioza|serioza|ADJ viro|viro|N kun|kun|PRP terura|terura|ADJ aspekto|aspekto|N .|_|_
+Li|li|PRON havas|havi|V grizajn|griza|ADJ harojn|haro|N kun|kun|PRP surfrunta|surfrunta|ADJ hartufo|hartufo|N kaj|kaj|KC huzartemploj|huzartemplo|N .|_|_ Grandaj|granda|ADJ nigraj|nigra|ADJ tufaj|tufa|ADJ brovoj|brovo|N .|_|_
+Malgrandaj|malgranda|ADJ mallongtrancxitaj|mallongtrancxi|V nigraj|nigra|ADJ vangharoj|vangharo|N .|_|_ Okulvitroj|okulvitro|N kun|kun|PRP nigra|nigra|ADJ kadrajxo|kadrajxo|N ,|_|_ rondaj|ronda|ADJ .|_|_
+Grandaj|granda|ADJ karneolbrelokoj|karneolbreloko|N sur|sur|PRP la|la|ART horlogxa|horlogxa|ADJ cxeno|cxeno|N ;|_|_ kanbastono|kanbastono|N ,|_|_ en|en|PRP la|la|ART mano|mano|N .|_|_ Nigre|nigre|ADV vestita|vestita|ADJ kun|kun|PRP pelto|pelto|N ;|_|_ cilindra|cilindra|ADJ cxapelo|cxapelo|N en|en|PRP la|la|ART mano|mano|N ;|_|_
+altaj|alta|ADJ botoj|boto|N kun|kun|PRP galosxoj|galosxo|N ,|_|_ kiuj|kiu|PRON knaras|knari|V .|_|_
+Enirante|eniri|V li|li|PRON scivoleme|scivoleme|ADV rigardas|rigardi|V Elison|Eliso|PROP kaj|kaj|KC dum|dum|PRP la|la|ART tuta|tuta|ADJ tempo|tempo|N restas|resti|V staranta|stari|V )|_|_ .|_|_ Lindkvist|Lindkvist|PROP estas|esti|V mia|mia|PRON nomo|nomo|N !|_|_
+Elis|eli|V (|_|_ defendeme|defendeme|ADV )|_|_ Kandidato|kandidato|N Heyst|Heyst|PROP la|la|ART mia|mia|PRON !|_|_
+...|_|_ Bonvolu|bonvoli|V sidigxi|sidigxi|V .|_|_
+Lindkvist|Lindkvist|PROP (|_|_ sidigxas|sidigxi|V sur|sur|PRP la|la|ART segxon|segxo|N dekstre|dekstre|ADV de|de|PRP la|la|ART kudrotablo|kudrotablo|N kaj|kaj|KC fikse|fikse|ADV rigardas|rigardi|V Elison|Elison|PROP )|_|_ .|_|_
+(|_|_ Pauxzo|pauxzo|N .|_|_
+)|_|_ Elis|eli|V Per|per|PRP kio|kio|PRON mi|mi|PRON povas|povi|V servi|servi|V ?|_|_
+Lindkvist|Lindkvist|PROP (|_|_ solene|solene|ADV )|_|_ Hm|Hm|PROP !|_|_
+-R|_|_ Mi|mi|PRON havis|havi|V la|la|ART honoron|honoro|N jam|jam|ADV hieraux|hieraux|ADV vespere|vespere|ADV anonci|anonci|V mian|mia|PRON intencitan|intencita|ADJ viziton|vizito|N ;|_|_ sed|sed|KC je|je|PRP plua|plua|ADJ pripenso|pripenso|N mi|mi|PRON trovis|trovi|V nedece|nedece|ADV komenci|komenci|V interparolon|interparolo|N pri|pri|PRP monaferoj|monafero|N en|en|PRP festotago|festotago|N .|_|_
+Elis|eli|V Ni|ni|PRON estas|esti|V tre|tre|ADV dankaj|danka|ADJ ...|_|_
+Lindkvist|Lindkvist|PROP (|_|_ akre|akre|ADV )|_|_ Ni|ni|PRON ne|ne|ADV estas|esti|V dankaj|danka|ADJ !|_|_
+Jes|jes|IN !|_|_
+(|_|_ Pauxzo|pauxzo|N )|_|_ Nu|nu|ADV ,|_|_ antauxhieraux|antauxhieraux|ADV mi|mi|PRON okaze|okaze|ADV vizitis|vizi|V la|la|ART guberniestron|guberniestro|N ...|_|_
+(|_|_ Pauxzas|pauxzi|V por|por|PRP vidi|vidi|V ,|_|_ kian|kia|PRON impreson|impreso|N la|la|ART vorto|vorto|N faras|fari|V al|al|PRP Elis|Elis|PROP .|_|_ )|_|_ ...|_|_
+cxu|cxu|ADV vi|vi|PRON konas|koni|V la|la|ART guberniestron|guberniestro|N ?|_|_
+Elis|eli|V (|_|_ senrespekte|senrespekte|ADV )|_|_ .|_|_
+Mi|mi|PRON ne|ne|ADV havas|havi|V la|la|ART honoron|honoro|N !|_|_
+Lindkvist=Do|Lindkvist=Do|PROP vi|vi|PRON havos|havi|V tiun|tiu|PRON honoron|honoro|N !|_|_
+...|_|_
+Tie|tie|ADV ni|ni|PRON parolis|paroli|V pri|pri|PRP via|via|PRON patro|patro|N !|_|_
+Elis|eli|V Tion|tio|PRON mi|mi|PRON kredas|kredi|V !|_|_
+Lindkvist|Lindkvist|PROP (|_|_ prenas|preni|V paperon|papero|N el|el|PRP la|la|ART posxo|posxo|N kaj|kaj|KC metas|meti|V gxin|gxi|PRON sur|sur|PRP la|la|ART tablon|tablo|N )|_|_ .|_|_
+Kaj|kaj|KC tie|tie|ADV mi|mi|PRON ricevis|ricevi|V tiun=cxi|cxi=tiu|PRON paperon|papero|N !|_|_
+Elis|eli|V Gxin|gxi|PRON mi|mi|PRON longe|longe|ADV atendis|atendi|V !|_|_
+Sed|sed|KC antaux=ol|antaux=ol|KS ni|ni|PRON dauxrigos|dauxrigi|V ,|_|_ mi|mi|PRON petas|peti|V permeson|permeso|N demandi|demandi|V pri|pri|PRP io|io|PRON !|_|_
+Lindkvist|Lindkvist|PROP (|_|_ abrupte|abrupte|ADV )|_|_ Bonvolu|bonvoli|V !|_|_
+Lindkvist=Aha|Lindkvist=Aha|PROP ,|_|_ juna|juna|ADJ viro|viro|N !|_|_
+Elis|eli|V Juna|juna|ADJ aux|aux|KC ne|ne|IN ,|_|_ mi|mi|PRON ne|ne|ADV petas|peti|V kompaton|kompato|N ,|_|_ nur|nur|ADV justecon|justeco|N !|_|_
+Lindkvist=Tiel|Lindkvist=Tiel|PROP !|_|_
+Rigardu|rigardi|V la|la|ART paperon|papero|N ,|_|_ kiun|kiu|PRON mi|mi|PRON metis|meti|V sur|sur|PRP la|la|ART tablorandon|tablorando|N !|_|_
+Jen|jen|ADV mi|mi|PRON re-enmetas|re-enmeti|V gxin|gxi|PRON !|_|_
+...|_|_
+Do|do|ADV justecon|justeco|N !|_|_
+Nur|nur|ADV justecon|justeco|N !|_|_
+Auxskultu|auxskulti|V ,|_|_ amiko|amiko|N ;|_|_
+iam|iam|ADV oni|oni|PRON rabis|rabi|V de|de|PRP mi|mi|PRON ,|_|_ en|en|PRP malagrabla|malagrabla|ADJ maniero|maniero|N ,|_|_ rabis|rabi|V de|de|PRP mi|mi|PRON mian|mia|PRON monon|mono|N !|_|_
+Kiam|kiam|KS ,|_|_ mi|mi|PRON tiam|tiam|ADV gxentile|gxentile|ADV skribis|skribi|V al|al|PRP vi|vi|PRON kaj|kaj|KC demandis|demandi|V ,|_|_ kiom|kiom|ADV da|da|PRP prokrasto|prokrasto|N vi|vi|PRON bezonas|bezoni|V ,|_|_ vi|vi|PRON respondis|respondi|V malgxentile|malgxentile|ADV !|_|_
+Kaj|kaj|KC traktis|trakti|V min|mi|PRON ,|_|_ kvazaux|kvazaux|KS mi|mi|PRON estus|esti|V procentegisto|procentegisto|N ,|_|_ kiu|kiu|PRON volas|voli|V prirabi|prirabi|V vidvinojn|vidvino|N kaj|kaj|KC senpatrulojn|senpatrulo|N ,|_|_ kvankam|kvankam|KS ja|ja|ADV mi|mi|PRON estis|esti|V la|la|ART prirabito|prirabito|N kaj|kaj|KC vi|vi|PRON apartenis|aparteni|V al|al|PRP la|la|ART rabanta|rabi|V parto|parto|N .|_|_
+Sed|sed|KC ,|_|_ cxar|cxar|KS mi|mi|PRON estis|esti|V pli|pli|ADV prudenta|prudenta|ADJ ,|_|_ mi|mi|PRON respondis|respondi|V vian|via|PRON malgxentilan|malgxentila|ADJ alparolon|alparolo|N per|per|PRP gxentila|gxentila|ADJ ,|_|_ sed|sed|KC akra|akra|ADJ !|_|_
+Vi|vi|PRON konas|koni|V mian|mia|PRON bluan|blua|ADJ paperon|papero|N ;|_|_
+cxu|cxu|ADV ?|_|_
+Mi|mi|PRON povas|povi|V meti|meti|V stampojn|stampo|N sur|sur|PRP gxin|gxi|PRON ,|_|_ kiam|kiam|KS mi|mi|PRON volas|voli|V ,|_|_ sed|sed|KC foje|foje|ADV mi|mi|PRON ne|ne|ADV volas|voli|V !|_|_
+(|_|_ Cxirkauxrigardas|cxirkauxrigardi|V en|en|PRP la|la|ART cxambro|cxambro|N .|_|_
+)|_|_ Elis|Elis|PROP Bonvolu|bonvoli|V ,|_|_ la|la|ART mebloj|meblo|N estas|esti|V al|al|PRP via|via|PRON dispono|dispono|N !|_|_
+Lindkvist=Mi|Lindkvist=Mi|PROP ne|ne|ADV rigardis|rigardi|V la|la|ART meblojn|meblo|N !|_|_
+Mi|mi|PRON rigardis|rigardi|V ,|_|_ cxu|cxu|ADV via|via|PRON patrino|patrino|N estas|esti|V tie=cxi|cxi=tie|ADV ?|_|_
+Versxajne|versxajne|ADV sxi|sxi|PRON amas|ami|V justecon|justeco|N same|same|ADV forte|forte|ADV kiel|kiel|PRP vi|vi|PRON !|_|_
+Elis|eli|V Mi|mi|PRON esperas|esperi|V tion|tion|PRON !|_|_
+Lindkvist=Bone|Lindkvist=Bone|PROP !|_|_
+...|_|_
+Elis|eli|V Sed|sed|KC ne|ne|ADV !|_|_
+Lindkvist=Jes|Lindkvist=Jes|PROP ,|_|_ kaj|kaj|KC ankoraux|ankoraux|ADV ne|ne|ADV estas|esti|V tro|tro|ADV malfrue|malfrue|ADV !|_|_
+Elis|eli|V (|_|_ levigxas|levigxi|V )|_|_ .|_|_
+Mia|mia|PRON patrino|patrino|N !|_|_
+Lindkvist|Lindkvist|PROP (|_|_ elprenas|elpreni|V alian|alia|ADJ sed|sed|KC bluan|blua|ADJ paperon|papero|N kaj|kaj|KC metas|meti|V gxin|gxi|PRON sur|sur|PRP la|la|ART tablan|tabla|ADJ )|_|_ .|_|_
+tamen|tamen|ADV ankoraux|ankoraux|ADV mankas|manki|V stampoj|stampo|N !|_|_
+Elis|Elis|PROP Dio|Dio|PROP en|en|PRP cxielo|cxielo|N !|_|_
+Mia|mia|PRON patrino|patrino|N !|_|_
+Cxio|cxio|PRON revenas|reveni|V .|_|_
+Lindkvist=Jes|Lindkvist=Jes|PROP ,|_|_ mia|mia|PRON juna|juna|ADJ amanto|amanto|N de|de|PRP la|la|ART justeco|justeco|N ,|_|_ cxio|cxio|PRON revenas|reveni|V ,|_|_ cxio|cxio|PRON !|_|_
+...|_|_ Tiel|tiel|ADV estas|esti|V !|_|_ ...|_|_
+Se|se|KS mi|mi|PRON nun|nun|ADV farus|fari|V tiun|tiu|PRON demandon|demando|N al|al|PRP mi|mi|PRON :|_|_ Vi|vi|PRON ,|_|_ Anders=Johan=Lindkvist|Anders=Johan=Lindkvist|PROP ,|_|_ naskita|naskita|ADJ en|en|PRP malricxo|malricxo|N kaj|kaj|KC kreskinta|kreski|V en|en|PRP manko|manko|N kaj|kaj|KC laboro|laboro|N ,|_|_ cxu|cxu|ADV vi|vi|PRON rajtas|rajti|V en|en|PRP via|via|PRON maljunagxo|maljunagxo|N forpreni|forpreni|V de|de|PRP vi|vi|PRON kaj|kaj|KC viaj|via|PRON infanoj|infano|N ,|_|_ rimarku|rimarki|V :|_|_ viaj|via|PRON infanoj|infano|N ,|_|_ tiun|tiu|PRON monon|mono|N ,|_|_ kiun|kiu|PRON vi|vi|PRON per|per|PRP diligento|diligento|N ,|_|_ pripenso|pripenso|N kaj|kaj|KC rezignoj|rezigno|N ,|_|_ rimarku|rimarki|V :|_|_ rezignoj|rezigno|N ,|_|_ kolektis|kolekti|V oeron|oero|N post|post|PRP oero|oero|N ?|_|_
+Kion|kio|PRON vi|vi|PRON farus|fari|V ,|_|_ Anders=Johan=Lindkvist|Anders=Johan=Lindkvist|PROP ,|_|_ se|se|KS vi|vi|PRON volus|voli|V esti|esti|V justa|justa|ADJ ?|_|_
+Vi|vi|PRON prirabis|prirabi|V neniun|neniu|PRON ,|_|_ sed|sed|KC se|se|KS sxajnas|sxajni|V al|al|PRP vi|vi|PRON malagrable|malagrable|ADV ,|_|_ ke|ke|KS oni|oni|PRON prirabis|prirabi|V vin|vi|PRON ,|_|_ vi|vi|PRON ne|ne|ADV povos|povi|V plu|plu|ADV logxi|logxi|V en|en|PRP urboj|urbo|N ,|_|_ cxar|cxar|KS neniu|neniu|PRON volas|voli|V saluti|sali|V la|la|ART senkompatulon|senkompatulo|N ,|_|_ kiu|kiu|PRON repostulis|repostuli|V la|la|ART sian|sia|PRON .|_|_
+Cxu|cxu|ADV vi|vi|PRON do|do|ADV vidas|vidi|V ,|_|_ ke|ke|KS ekzistas|ekzisti|V kompato|kompato|N ,|_|_ kiu|kiu|PRON estas|esti|V kontraux|kontraux|PRP la|la|ART justeco|justeco|N ,|_|_ kaj|kaj|KC super|super|PRP gxi|gxi|PRON !|_|_
+...|_|_
+Tio|tio|PRON estas|esti|V la|la|ART graco|graco|N !|_|_
+Elis|eli|V Vi|vi|PRON pravas|pravi|V ,|_|_ prenu|preni|V cxion|cxio|PRON !|_|_
+Gxi|gxi|PRON apartenas|aparteni|V al|al|PRP vi|vi|PRON !|_|_
+Lindkvist=Mi|Lindkvist=Mi|PROP rajtas|rajti|V ,|_|_ sed|sed|KC mi|mi|PRON ne|ne|ADV kuragxas|kuragxi|V !|_|_
+Elis|eli|V Mi|mi|PRON pensos|pensi|V pri|pri|PRP viaj|via|PRON infanoj|infano|N kaj|kaj|KC ne|ne|ADV plendos|plendi|V !|_|_
+Lindkvist|Lindkvist|PROP (|_|_ enposxigas|enposxigi|V la|la|ART paperon|papero|N )|_|_ Bone|bone|ADV !|_|_
+Do|do|ADV ni|ni|PRON re-enmetos|re-enmeti|V la|la|ART bluan|blua|ADJ paperon|papero|N !|_|_
+...|_|_ Nun|nun|ADV ni|ni|PRON faru|fari|V pluan|plua|ADJ pagon|pago|N !|_|_
+Elis|Elis|PROP Pardonu=...|Pardonu=...|PROP cxu|cxu|ADV oni|oni|PRON vere|vere|ADV intencas|intenci|V akuzi|akuzi|V mian|mia|PRON patrinon|patrino|N ?|_|_
+Lindkvist=Nun|Lindkvist=Nun|PROP ni|ni|PRON faru|fari|V pluan|plua|ADJ pagon|pago|N ,|_|_ unue|unue|ADV !|_|_
+Vi|vi|PRON do|do|ADV ne|ne|ADV konas|koni|V la|la|ART guberniestron|guberniestro|N persone|persone|ADV ?|_|_
+Elis|eli|V Ne|ne|ADV ,|_|_ kaj|kaj|KC mi|mi|PRON ne|ne|ADV volas|voli|V koni|koni|V lin|li|PRON !|_|_
+Lindkvist|Lindkvist|PROP (|_|_ elprenas|elpreni|V la|la|ART bluan|blua|ADJ paperon|papero|N kaj|kaj|KC gestas|gesti|V per|per|PRP gxi|gxi|PRON )|_|_ Ne|ne|ADV tiel|tiel|ADV ,|_|_ ne|ne|ADV tiel|tiel|ADV !|_|_
+...|_|_
+Vidu|vidi|V ,|_|_ la|la|ART guberniestro|guberniestro|N estis|esti|V junagxa|junagxa|ADJ amiko|amiko|N de|de|PRP via|via|PRON patro|patro|N ,|_|_ kaj|kaj|KC li|li|PRON deziras|deziri|V konatigxi|konatigxi|V kun|kun|PRP vi|vi|PRON .|_|_
+Cxio|cxio|PRON revenas|reveni|V ,|_|_ cxio|cxio|PRON !|_|_
+Cxu|cxu|ADV vi|vi|PRON ne|ne|ADV volas|voli|V viziti|vizi|V lin|li|PRON ?|_|_
+Elis|eli|V Ne|ne|ADV !|_|_
+Lindkvist=La|Lindkvist=La|PROP guberniestro|guberniestro|N ...|_|_
+Elis|eli|V Ni|ni|PRON prenu|preni|V alian|alia|ADJ temon|temo|N ?|_|_
+Lindkvist=Estu|Lindkvist=Estu|PROP gxentila|gxentila|ADJ al|al|PRP mi|mi|PRON ,|_|_ cxar|cxar|KS mi|mi|PRON estas|esti|V sendefenda|sendefenda|ADJ ...|_|_
+nome|nome|ADV vin|vi|PRON subtenas|subteni|V la|la|ART publika|publika|ADJ opinio|opinio|N sed|sed|KC min|mi|PRON nur|nur|ADV la|la|ART justeco|justeco|N .|_|_
+Kion|kio|PRON vi|vi|PRON havas|havi|V kontraux|kontraux|PRP la|la|ART guberniestro|guberniestro|N ?|_|_
+Li|li|PRON ne|ne|ADV sxatas|sxati|V biciklojn|biciklo|N kaj|kaj|KC popolajn|popola|ADJ altlernejojn|altlernejo|N ,|_|_ tio|tio|PRON apartenas|aparteni|V al|al|PRP liaj|lia|PRON malgrandaj|malgranda|ADJ apartajxoj|apartajxo|N .|_|_
+Ni|ni|PRON ne|ne|ADV bezonas|bezoni|V precize|precize|ADV respekti|respekti|V la|la|ART apartajxojn|apartajxo|N ,|_|_ sed|sed|KC ni|ni|PRON preteriru|preteriri|V ilin|ili|PRON ,|_|_ preteriru|preteriri|V kaj|kaj|KC tenu|teni|V nin|ni|PRON al|al|PRP la|la|ART cxefaferoj|cxefafero|N ,|_|_ inter|inter|PRP homo|homo|N kaj|kaj|KC homo|homo|N !|_|_
+En|en|PRP la|la|ART grandaj|granda|ADJ krizoj|krizo|N de|de|PRP la|la|ART vivo|vivo|N ni|ni|PRON devas|devi|V akcepti|akcepti|V unu=la=alian|unu=la=alian|PRON kun|kun|PRP mankoj|manko|N kaj|kaj|KC malfortecoj|malforteco|N ,|_|_ engluti|engluti|V kun|kun|PRP hauxto|hauxto|N kaj|kaj|KC haroj|haro|N !|_|_
+...|_|_
+Iru|iri|V al|al|PRP la|la|ART guberniestro|guberniestro|N !|_|_
+Elis|eli|V Neniam|neniam|ADV !|_|_
+Lindkvist=Cxu|Lindkvist=Cxu|PROP vi|vi|PRON estas|esti|V tia|tia|PRON homo|homo|N !|_|_
+Elis|eli|V (|_|_ decide|decide|ADV )|_|_ Jes|jes|IN ,|_|_ tia|tia|PRON !|_|_
+Lindkvist|Lindkvist|PROP (|_|_ levigxas|levigxi|V kaj|kaj|KC komencas|komenci|V iri|iri|V tien|tien|ADV kaj|kaj|KC reen|ree|ADV sur|sur|PRP la|la|ART planko|planko|N kun|kun|PRP siaj|sia|PRON knarantaj|knari|V botoj|boto|N ,|_|_ gestante|gestante|ADV per|per|PRP la|la|ART blua|blua|ADJ papero|papero|N )|_|_ .|_|_
+Malfacila|malfacila|ADJ afero|afero|N !|_|_ Malfacila|malfacila|ADJ !|_|_
+...|_|_ Nu|nu|ADV ,|_|_ do|do|ADV mi|mi|PRON komencu|komenci|V de|de|PRP alia|alia|ADJ flanko|flanko|N !|_|_
+...|_|_ Venkema|venkema|ADJ persono|persono|N intencas|intenci|V akuzi|akuzi|V vian|via|PRON patrinon|patrino|N .|_|_
+Tion|tio|PRON vi|vi|PRON povas|povi|V malebligi|malebligi|V !|_|_
+Elis|eli|V Kiel|kiel|ADV ?|_|_
+Lindkvist=Iru|Lindkvist=Iru|PROP al|al|PRP la|la|ART guberniestro|guberniestro|N !|_|_
+Elis|eli|V Ne|ne|ADV !|_|_
+Lindkvist|Lindkvist|PROP (|_|_ aliras|aliri|V kaj|kaj|KC kaptas|kapti|V la|la|ART sxultrojn|sxultro|N de|de|PRP Elis|Elis|PROP )|_|_ Do|do|ADV vi|vi|PRON estas|esti|V la|la|ART plej|plej|ADV acxa|acxa|ADJ homo|homo|N ,|_|_ kiun|kiu|PRON mi|mi|PRON en|en|PRP mia|mia|PRON vivo|vivo|N renkontis|renkonti|V !|_|_
+Kaj|kaj|KC nun|nun|ADV mi|mi|PRON mem|mem|PRON iros|iri|V al|al|PRP via|via|PRON patrino|patrino|N !|_|_
+Elis|eli|V Ne|ne|ADV iru|iri|V !|_|_
+Lindkvist=Cxu|Lindkvist=Cxu|PROP vi|vi|PRON do|do|ADV volas|voli|V iri|iri|V al|al|PRP la|la|ART guberniestro|guberniestro|N ?|_|_
+Elis|eli|V Jes|jes|IN !|_|_
+Lindkvist=Diru|Lindkvist=Diru|PROP ankorauxfoje|ankorauxfoje|ADV ,|_|_ kaj|kaj|KC pli|pli|ADV lauxte|lauxte|ADV !|_|_
+Elis|eli|V Jes|jes|IN !|_|_
+Lindkvist=Do|Lindkvist=Do|PROP tiu|tiu|PRON afero|afero|N estas|esti|V klara|klara|ADJ !|_|_
+(|_|_ Transdonas|transdoni|V la|la|ART bluan|blua|ADJ paperon|papero|N .|_|_
+)|_|_ Tie|tie|ADV estas|esti|V tiu|tiu|PRON papero|papero|N !|_|_
+Elis|Elis|PROP (|_|_ prenas|preni|V la|la|ART paperon|papero|N sen|sen|PRP legi|legi|V )|_|_ Lindkvist=Poste|Lindkvist=Poste|PROP ni|ni|PRON havas|havi|V numeron|numero|N du|du|NUM ;|_|_
+kiu|kiu|PRON estis|esti|V numero|numero|N unu|unu|NUM !|_|_
+...|_|_
+Cxu|cxu|ADV ni|ni|PRON sidigxu|sidigxi|V !|_|_ .|_|_ .|_|_
+(|_|_ ili|ili|PRON sidigxas|sidigxi|V kiel|kiel|PRP antauxe|antauxe|ADV .|_|_
+)|_|_ Vidu|vidi|V ,|_|_ se|se|KS ni|ni|PRON nur|nur|ADV iras|iri|V renkonte|renkonte|ADV unu=al=la=alia|unu=al=la=alia|ADV ,|_|_ la|la|ART vojo|vojo|N mallongigxas|mallongigxi|V per|per|PRP duono|duono|N !|_|_
+Estas|esti|V tiu=cxi|cxi=tiu|PRON bonhavpostulo|bonhavpostulo|N pri|pri|PRP viaj|via|PRON hejmajxoj|hejmajxo|N !|_|_
+...|_|_
+Jes|jes|IN ,|_|_ neniujn|neniu|PRON iluziojn|iluzio|N ,|_|_ cxar|cxar|KS mi|mi|PRON nek|nek|KC povas|povi|V nek|nek|KC volas|voli|V fordonaci|fordonaci|V la|la|ART komunan|komuna|ADJ posedajxon|posedajxo|N de|de|PRP mia|mia|PRON familio|familio|N !|_|_
+Mi|mi|PRON devas|devi|V havi|havi|V mian|mia|PRON bonhavon|bonhavo|N gxis|gxis|PRP la|la|ART lasta|lasta|ADJ oero|oero|N .|_|_ Elis|eli|V Tion|tio|PRON mi|mi|PRON komprenas|kompreni|V !|_|_
+Lindkvist=Aha|Lindkvist=Aha|PROP ,|_|_ tion|tion|PRON vi|vi|PRON komprenas|kompreni|V ?|_|_
+Elis|eli|V Mi|mi|PRON ne|ne|ADV intencis|intenci|V ion|io|PRON ofendan|ofenda|ADJ Lindkvist=Ne|Lindkvist=Ne|PROP ,|_|_ mi|mi|PRON komprenas|kompreni|V tion|tion|PRON .|_|_ (|_|_ levas|levi|V la|la|ART okulvitrojn|okulvitro|N kaj|kaj|KC fiksrigardas|fiksrigardi|V Elison|Elison|PROP .|_|_ )|_|_ ...|_|_ La|la|ART lupo|lupo|N !|_|_
+Gluanta|glui|V ,|_|_ lupo|lupo|N !|_|_
+Vergoj|vergo|N ,|_|_ vergoj|vergo|N !|_|_
+Kaj|kaj|KC la|la|ART karnorugxa|karnorugxa|ADJ karneolo|karneolo|N ;|_|_
+la|la|ART giganto|giganto|N el|el|PRP la|la|ART montoj|monto|N ,|_|_ kiu|kiu|PRON ne|ne|ADV mangxas|mangxi|V infanojn|infano|N ,|_|_ nur|nur|ADV timigas|timigi|V ilin|ili|PRON !|_|_
+Mi|mi|PRON timigos|timigi|V vin|vi|PRON ,|_|_ jes|jes|IN ,|_|_ tiel|tiel|ADV ke|ke|KS vi|vi|PRON frenezigxos|frenezigxi|V .|_|_
+La|la|ART valoron|valoro|N de|de|PRP cxiu|cxiu|PRON meblopeco|meblopeco|N mi|mi|PRON elpremos|elpremi|V ...|_|_
+mi|mi|PRON havas|havi|V la|la|ART liston|listo|N tie=cxi|cxi=tie|ADV en|en|PRP la|la|ART posxo|posxo|N ,|_|_ kaj|kaj|KC se|se|KS mankos|manki|V iu|iu|PRON sola|sola|ADJ peco|peco|N ,|_|_ tiam|tiam|ADV vi|vi|PRON iros|iri|V en|en|PRP lokon|loko|N ,|_|_ kie|kie|ADV lumos|lumi|V nek|nek|KC la|la|ART suno|suno|N nek|nek|KC Cassiopeja|Cassiopeja|PROP !|_|_
+Jes|jes|IN ,|_|_ mi|mi|PRON povas|povi|V mangxi|mangxi|V infanojn|infano|N kaj|kaj|KC vidvinojn|vidvino|N ,|_|_ kiam|kiam|ADV oni|oni|PRON incitas|inciti|V min|mi|PRON ,|_|_ kaj|kaj|KC la|la|ART publika|publika|ADJ opinio|opinio|N ?|_|_
+pah|pah|N gxi|gxi|PRON ...|_|_
+mi|mi|PRON nur|nur|ADV translogxigxos|translogxigxi|V al|al|PRP alia|alia|ADJ urbo|urbo|N !|_|_
+Elis|Elis|PROP (|_|_ ne|ne|ADV povas|povi|V respondi|respondi|V )|_|_ Lindkvist=Vi|Lindkvist=Vi|PROP havis|havi|V ,|_|_ amikon|amiko|N ,|_|_ kiu|kiu|PRON nomigxis|nomigxi|V Petro|Petro|PROP ,|_|_ Petro|Petro|PROP Holmblad|Holmblad|PROP .|_|_
+Li|li|PRON estis|esti|V lingvisto|lingvisto|N kaj|kaj|KC via|via|PRON lernanto|lernanto|N en|en|PRP lingvoj|lingvo|N .|_|_
+Sed|sed|KC vi|vi|PRON volis|voli|V fari|fari|V ian|ia|PRON profeton|profeto|N el|el|PRP li|li|PRON ...|_|_
+Nu|nu|ADV ,|_|_ li|li|PRON estis|esti|V malfidela|malfidela|ADJ ;|_|_
+Elis|Elis|PROP (|_|_ silentas|silenti|V )|_|_ Lindkvist=La|Lindkvist=La|PROP homa|homa|ADJ naturo|naturo|N estas|esti|V nefidinda|nefidinda|ADJ kiel|kiel|PRP la|la|ART ajxoj|ajxo|N kaj|kaj|KC la|la|ART pensoj|penso|N ;|_|_
+Petro|Petro|PROP estis|esti|V malfidela|malfidela|ADJ ,|_|_ tion|tion|PRON mi|mi|PRON ne|ne|ADV neas|nei|V ,|_|_ kaj|kaj|KC ne|ne|ADV defendas|defendi|V lin|li|PRON .|_|_ En|en|PRP tiu|tiu|PRON punkto|punkto|N !|_|_
+Sed|sed|KC la|la|ART homa|homa|ADJ koro|koro|N estas|esti|V senfunda|senfunda|ADJ ,|_|_ kaj|kaj|KC tie|tie|ADV kusxas|kusxi|V oro|oro|N kaj|kaj|KC skorio|skorio|N intermikse|intermikse|ADV !|_|_
+Petro|Petro|PROP estis|esti|V por|por|PRP vi|vi|PRON malfidela|malfidela|ADJ amiko|amiko|N ,|_|_ sed|sed|KC tamen|tamen|ADV amiko|amiko|N !|_|_
+Elis|Elis|PROP Malfidela=...|Malfidela=...|PROP Lindkvist=Malfidela|Lindkvist=Malfidela|PROP ,|_|_ jes|jes|IN ,|_|_ sed|sed|KC tamen|tamen|ADV amiko|amiko|N !|_|_
+Tiu|tiu|PRON malfidela|malfidela|ADJ amiko|amiko|N sen|sen|PRP via|via|PRON scio|scio|N faris|fari|V al|al|PRP vi|vi|PRON grandan|granda|ADJ amikan|amika|ADJ servon|servo|N .|_|_
+Elis|eli|V Ankaux|ankaux|ADV tio|tio|PRON !|_|_
+Lindkvist|Lindkvist|PROP (|_|_ tiras|tiri|V sin|si|PRON pli|pli|ADV proksimen|proksime|ADV al|al|PRP Elis|Elis|PROP )|_|_ Cxio|cxio|PRON revenas|reveni|V ,|_|_ cxio|cxio|PRON !|_|_
+Elis|eli|V Cxio|cxio|PRON malbona|malbona|ADJ ,|_|_ jes|jes|IN !|_|_
+Kaj|kaj|KC rekompenco|rekompenco|N por|por|PRP bono|bono|N estas|esti|V malbono|malbono|N !|_|_
+Lindkvist=Ne|Lindkvist=Ne|PROP cxiam|cxiam|ADV ;|_|_
+ankaux|ankaux|ADV la|la|ART bono|bono|N revenas|reveni|V !|_|_
+Kredu|kredi|V min|mi|PRON !|_|_
+Elis|eli|V Versxajne|versxajne|ADV mi|mi|PRON devas|devi|V ,|_|_ alie|alie|ADV vi|vi|PRON elturmentus|elturmenti|V mian|mia|PRON vivon|vivo|N el|el|PRP mi|mi|PRON !|_|_
+Lindkvist=Ne|Lindkvist=Ne|PROP la|la|ART vivon|vivo|N ,|_|_ sed|sed|KC la|la|ART fieron|fiero|N kaj|kaj|KC la|la|ART malicon|malico|N mi|mi|PRON elpremos|elpremi|V el|el|PRP vi|vi|PRON !|_|_
+Elis|Elis|PROP Dauxrigu|dauxrigi|V !|_|_
+Lindkvist=Petro|Lindkvist=Petro|PROP faris|fari|V al|al|PRP vi|vi|PRON servon|servo|N ,|_|_ mi|mi|PRON diris|diri|V !|_|_
+Elis|eli|V Mi|mi|PRON ne|ne|ADV volas|voli|V akcepti|akcepti|V servojn|servo|N de|de|PRP tiu|tiu|PRON homo|homo|N !|_|_
+Lindkvist=Cxu|Lindkvist=Cxu|PROP ni|ni|PRON nun|nun|ADV denove|denove|ADV estas|esti|V tie|tie|ADV !|_|_ ...|_|_
+Auxskultu|auxskulti|V !|_|_
+Per|per|PRP perado|perado|N de|de|PRP via|via|PRON amiko|amiko|N Petro|Petro|PROP la|la|ART guberniestro|guberniestro|N estas|esti|V persvadita|persvadi|V pledi|pledi|V por|por|PRP via|via|PRON patrino|patrino|N !|_|_
+Tial|tial|ADV vi|vi|PRON devas|devi|V skribi|skribi|V leteron|letero|N al|al|PRP Petro|Petro|PROP por|por|PRP danki|danki|V lin|li|PRON !|_|_
+Promesu|promesi|V tion|tion|PRON !|_|_
+Elis|eli|V Ne|ne|ADV !|_|_
+Kiun|kiu|PRON ajn|ajn|ADV homon|homo|N en|en|PRP la|la|ART mondo|mondo|N sed|sed|KC lin|li|PRON ne|ne|ADV !|_|_
+Lindkvist|Lindkvist|PROP (|_|_ tiras|tiri|V sin|si|PRON pli|pli|ADV proksimen|proksime|ADV )|_|_ Mi|mi|PRON do|do|ADV ree|ree|ADV premu|premi|V vin|vi|PRON ...|_|_
+Jen|jen|ADV ,|_|_ vi|vi|PRON havas|havi|V monon|mono|N en|en|PRP la|la|ART banko|banko|N !|_|_
+Elis|eli|V Nu|nu|ADV ,|_|_ kio|kio|PRON koncernas|koncerni|V vin|vi|PRON !|_|_
+Mi|mi|PRON tamen|tamen|ADV ne|ne|ADV respondecas|respondeci|V pri|pri|PRP la|la|ART sxuldoj|sxuldo|N de|de|PRP mia|mia|PRON patro|patro|N !|_|_
+Lindkvist=Tiel|Lindkvist=Tiel|PROP !|_|_
+Tiel|tiel|ADV !|_|_
+Cxu|cxu|ADV vi|vi|PRON ne|ne|ADV kunestis|kunesti|V kaj|kaj|KC mangxis|mangxi|V kaj|kaj|KC trinkis|trinki|V ,|_|_ kiam|kiam|ADV oni|oni|PRON en|en|PRP tiu=cxi|cxi=tiu|PRON domo|domo|N elspezis|elspezi|V la|la|ART monon|mono|N de|de|PRP miaj|mia|PRON infanoj|infano|N ?|_|_
+Respondu|respondi|V !|_|_
+Elis|eli|V Tion|tio|PRON mi|mi|PRON ne|ne|ADV povas|povi|V nei|nei|V .|_|_
+Lindkvist=Kaj|Lindkvist=Kaj|PROP cxar|cxar|KS la|la|ART mebloj|meblo|N ne|ne|ADV suficxas|suficxi|V por|por|PRP pagi|pagi|V la|la|ART sxuldon|sxuldo|N ,|_|_ vi|vi|PRON tuj|tuj|ADV skribu|skribi|V cxekon|cxeko|N pri|pri|PRP la|la|ART resto|resto|N -L|_|_ la|la|ART sumon|sumo|N vi|vi|PRON konas|koni|V .|_|_
+Elis|eli|V (|_|_ frakasita|frakasi|V )|_|_ Ankaux|ankaux|ADV tio|tio|PRON !|_|_
+Lindkvist=Ankaux|Lindkvist=Ankaux|PROP tio|tio|PRON !|_|_
+Bonvolu|bonvoli|V skribi|skribi|V !|_|_
+Elis|eli|V Tamen|tamen|ADV ne|ne|ADV suficxos|suficxi|V !|_|_
+Lindkvist=Do|Lindkvist=Do|PROP vi|vi|PRON devas|devi|V iri|iri|V por|por|PRP prunti|prunti|V la|la|ART reston|resto|N !|_|_
+Cxiun|cxiu|PRON oeron|oero|N vi|vi|PRON devas|devi|V havi|havi|V !|_|_
+Elis|eli|V (|_|_ transdonas|transdoni|V la|la|ART cxekon|cxeko|N al|al|PRP Lindkvist|Lindkvist|PROP )|_|_ Jen|jen|ADV cxio|cxio|PRON ,|_|_ kion|kio|PRON mi|mi|PRON posedas|posedi|V !|_|_
+Estas|esti|V mia|mia|PRON somero|somero|N kaj|kaj|KC mia|mia|PRON fiancxino|fiancxino|N ;|_|_
+pli|pli|ADV mi|mi|PRON ne|ne|ADV havas|havi|V por|por|PRP doni|doni|V !|_|_
+Lindkvist=Mi|Lindkvist=Mi|PROP ja|ja|ADV diris|diri|V ,|_|_ ke|ke|KS do|do|ADV vi|vi|PRON devas|devi|V prunti|prunti|V !|_|_
+Elis|eli|V Ne|ne|ADV estas|esti|V eble|eble|ADV !|_|_
+Lindkvist=Do|Lindkvist=Do|PROP sercxu|sercxi|V garantianton|garantianto|N !|_|_
+Elis|eli|V Neniu|neniu|PRON volas|voli|V garantii|garantii|V por|por|PRP iu|iu|PRON Heyst|Heyst|PROP !|_|_
+Elis|eli|V Mi|mi|PRON ne|ne|ADV volas|voli|V interrilati|interrilati|V kun|kun|PRP Petro|Petro|PROP .|_|_
+Lindkvist=Vi|Lindkvist=Vi|PROP estas|esti|V la|la|ART plej|plej|ADV acxa|acxa|ADJ homo|homo|N ,|_|_ kiun|kiu|PRON mi|mi|PRON konas|koni|V !|_|_
+Per|per|PRP simpla|simpla|ADJ ago|ago|N de|de|PRP gxentileco|gxentileco|N vi|vi|PRON povas|povi|V savi|savi|V la|la|ART hejmon|hejmo|N de|de|PRP via|via|PRON patrino|patrino|N kaj|kaj|KC la|la|ART vivrimedojn|vivrimedo|N por|por|PRP via|via|PRON fiancxino|fiancxino|N ,|_|_ sed|sed|KC vi|vi|PRON ne|ne|ADV faras|fari|V tion|tion|PRON !|_|_
+Devas|devi|V ekzisti|ekzisti|V motivoj|motivo|N ,|_|_ kiujn|kiu|PRON vi|vi|PRON ne|ne|ADV volas|voli|V diri|diri|V !|_|_
+Kial|kial|ADV vi|vi|PRON malamas|malami|V Petron|Petro|PROP ?|_|_
+Elis|Elis|PROP Mortigu|mortigi|V min|mi|PRON ,|_|_ sed|sed|KC ne|ne|ADV turmentu|turmenti|V min|mi|PRON plu|plu|ADV !|_|_
+Lindkvist=Vi|Lindkvist=Vi|PROP estas|esti|V jxaluza|jxaluza|ADJ al|al|PRP li|li|PRON !|_|_
+Elis|Elis|PROP (|_|_ skuas|skui|V la|la|ART sxultrojn|sxultro|N )|_|_ Lindkvist=Estas|Lindkvist=Estas|PROP tiel|tiel|ADV !|_|_
+...|_|_
+(|_|_ Levigxas|levigxi|V kaj|kaj|KC iras|iri|V sur|sur|PRP la|la|ART planko|planko|N .|_|_
+Pauxzo|pauxzo|N .|_|_
+)|_|_ Cxu|cxu|ADV vi|vi|PRON legis|legi|V la|la|ART matenan|matena|ADJ gazeton|gazeto|N ?|_|_
+Elis|eli|V Jes|jes|IN ,|_|_ bedauxrinde|bedauxrinde|ADV !|_|_
+Lindkvist=La|Lindkvist=La|PROP tutan|tuta|ADJ gazeton|gazeto|N ?|_|_
+Elis|eli|V Ne|ne|ADV ,|_|_ ne|ne|ADV la|la|ART tutan|tuta|ADJ !|_|_
+Lindkvist=Aha|Lindkvist=Aha|PROP !|_|_
+...|_|_ Tiel|tiel|ADV ?|_|_
+Do|do|ADV vi|vi|PRON ne|ne|ADV scias|scii|V ,|_|_ ke|ke|KS Petro|Petro|PROP fiancxigxis|fiancxigxi|V ?|_|_
+Elis|eli|V Tion|tio|PRON mi|mi|PRON ne|ne|ADV sciis|scii|V !|_|_
+Lindkvist=Kaj|Lindkvist=Kaj|PROP ne|ne|ADV al|al|PRP kiu|kiu|PRON ?|_|_
+Divenu|diveni|V !|_|_
+Elis|eli|V Kial|kial|ADV tiel|tiel|ADV sekrete|sekrete|ADV ?|_|_
+Lindkvist=Cxu|Lindkvist=Cxu|PROP du|du|NUM junaj|juna|ADJ homoj|homo|N ne|ne|ADV rajtas|rajti|V havi|havi|V siajn|sia|PRON korsekretojn|korsekreto|N malgraux|malgraux|PRP vi|vi|PRON ?|_|_
+Elis|eli|V Kaj|kaj|KC por|por|PRP ilia|ilia|PRON felicxo|felicxo|N mi|mi|PRON devis|devi|V suferi|suferi|V tiujn|tiu|PRON turmentojn|turmento|N ?|_|_ Lindkvist=Jes|Lindkvist=Jes|PROP !|_|_
+Ili|ili|PRON ,|_|_ kiuj|kiu|PRON suferis|suferi|V por|por|PRP doni|doni|V felicxon|felicxo|N al|al|PRP vi|vi|PRON !|_|_
+...|_|_
+Via|via|PRON patrino|patrino|N ,|_|_ via|via|PRON patro|patro|N ,|_|_ via|via|PRON fiancxino|fiancxino|N ,|_|_ via|via|PRON fratino|fratino|N ...|_|_
+Sidigxu|sidigxi|V ,|_|_ kaj|kaj|KC mi|mi|PRON rakontos|rakonti|V al|al|PRP vi|vi|PRON historion|historio|N ,|_|_ tre|tre|ADV mallonge|mallonge|ADV !|_|_
+Elis|eli|V (|_|_ sidigxas|sidigxi|V nevolonte|nevoli|V )|_|_ (|_|_ Dum|dum|KS la|la|ART antauxa|antauxa|ADJ kaj|kaj|KC sekvonta|sekvi|V scenoj|sceno|N klarigxas|klarigxi|V ekstere|ekstere|ADV .|_|_
+)|_|_ Lindkvist=Estis|Lindkvist=Estis|PROP antaux|antaux|PRP kvardek|kvardek|NUM jaroj|jaro|N proksimume|proksimume|ADV !|_|_
+Mi|mi|PRON venis|veni|V kiel|kiel|PRP junulo|junulo|N al|al|PRP la|la|ART cxefurbo|cxefurbo|N ,|_|_ sola|sola|ADJ ,|_|_ nekonata|nekonata|ADJ kaj|kaj|KC sen|sen|PRP konatoj|konato|N ,|_|_ por|por|PRP sercxi|sercxi|V laboron|laboro|N .|_|_
+Mi|mi|PRON posedis|posedi|V nur|nur|ADV unu|unu|NUM taleron|talero|N ,|_|_ kaj|kaj|KC estis|esti|V malluma|malluma|ADJ vespero|vespero|N .|_|_
+Cxar|cxar|KS mi|mi|PRON ne|ne|ADV konis|koni|V malkaran|malkara|ADJ hotelon|hotelo|N ,|_|_ mi|mi|PRON demandis|demandi|V preterpasantojn|preterpasanto|N ;|_|_
+sed|sed|KC neniu|neniu|PRON respondis|respondi|V .|_|_
+Kiam|kiam|KS mia|mia|PRON malespero|malespero|N kulminis|kulmini|V ,|_|_ venis|veni|V viro|viro|N kaj|kaj|KC demandis|demandi|V ,|_|_ kial|kial|ADV mi|mi|PRON ploras|plori|V -R|_|_ nome|nome|ADV mi|mi|PRON ploris|plori|V .|_|_
+Mi|mi|PRON rakontis|rakonti|V al|al|PRP li|li|PRON pri|pri|PRP mia|mia|PRON mizero|mizero|N !|_|_ Tiam|tiam|ADV li|li|PRON reiris|reiri|V sian|sia|PRON vojon|vojo|N ,|_|_ akompanis|akompani|V min|mi|PRON al|al|PRP hotelo|hotelo|N kaj|kaj|KC konsolis|konsoli|V min|mi|PRON per|per|PRP afablaj|afabla|ADJ vortoj|vorto|N .|_|_
+Kiam|kiam|KS mi|mi|PRON trairis|trairi|V la|la|ART vestiblon|vestiblo|N ,|_|_ oni|oni|PRON malfermis|malfermi|V butikan|butika|ADJ vitropordon|vitropordo|N ,|_|_ kiu|kiu|PRON pusxis|pusxi|V mian|mia|PRON kubuton|kubuto|N ,|_|_ kaj|kaj|KC la|la|ART vitro|vitro|N rompigxis|rompigxi|V .|_|_
+La|la|ART furioza|furioza|ADJ butikisto|butikisto|N kaptis|kapti|V min|mi|PRON kaj|kaj|KC postulis|postuli|V pagon|pago|N ,|_|_ aux|aux|KC li|li|PRON vokos|voki|V la|la|ART policon|polico|N .|_|_
+Imagu|imagi|V mian|mia|PRON malesperon|malespero|N ,|_|_ kaj|kaj|KC antaux|antaux|PRP mi|mi|PRON nokto|nokto|N sur|sur|PRP la|la|ART strato|strato|N !|_|_
+Tiu|tiu|PRON viro|viro|N -R|_|_ estis|esti|V via|via|PRON patro|patro|N !|_|_
+...|_|_ Tiel|tiel|ADV cxio|cxio|PRON revenas|reveni|V ,|_|_ ankaux|ankaux|ADV la|la|ART bono|bono|N .|_|_
+Kaj|kaj|KC pro|pro|PRP via|via|PRON patro|patro|N ...|_|_
+mi|mi|PRON forstrekis|forstreki|V mian|mia|PRON bonhavon|bonhavo|N !|_|_ ...|_|_ Tial|tial|ADV ...|_|_
+akceptu|akcepti|V tiun=cxi|cxi=tiu|PRON paperon|papero|N ,|_|_ kaj|kaj|KC konservu|konservi|V cxi|cxi|ADV tiun|tiu|PRON cxekon|cxeko|N !|_|_
+(|_|_ Levigxas|levigxi|V .|_|_
+)|_|_ Cxar|cxar|KS vi|vi|PRON nur|nur|ADV malfacile|malfacile|ADV diras|diri|V dankon|danko|N ,|_|_ mi|mi|PRON tuj|tuj|ADV foriros|foriri|V ,|_|_ precipe|precipe|ADV cxar|cxar|KS danko|danko|N gxenas|gxeni|V min|mi|PRON !|_|_
+)|_|_ Iru|iri|V !|_|_
+Elis|eli|V (|_|_ elrapidas|elrapidi|V dekstre|dekstre|ADV )|_|_ (|_|_ La|la|ART fonpordoj|fonpordo|N malfermigxas|malfermigxi|V .|_|_ Eleonora|Eleonora|PROP kaj|kaj|KC Benjamin|Benjamin|PROP envenas|enveni|V ,|_|_ trankvilaj|trankvila|ADJ sed|sed|KC seriozaj|serioza|ADJ ;|_|_
+haltas|halti|V teruritaj|teruri|V ,|_|_ kiam|kiam|KS ili|ili|PRON ekvidas|ekvidi|V Lundkvist|Lundkvist|PROP .|_|_
+)|_|_ Lindkvist=Nu|Lindkvist=Nu|PROP ,|_|_ etuloj|etulo|N ,|_|_ eniru|eniri|V kaj|kaj|KC ne|ne|ADV timu|timi|V ...|_|_
+Cxu|cxu|ADV vi|vi|PRON scias|scii|V ,|_|_ kiu|kiu|PRON estas|esti|V ,|_|_ mi|mi|PRON ?|_|_ .|_|_
+.|_|_ (|_|_ Per|per|PRP sxangxita|sxangxi|V vocxo|vocxo|N .|_|_
+)|_|_ Mi|mi|PRON estas|esti|V la|la|ART giganto|giganto|N el|el|PRP la|la|ART montoj|monto|N ,|_|_ kiu|kiu|PRON timigas|timigi|V infanojn|infano|N !|_|_
+Muh|Muh|PROP !|_|_ Muh|Muh|PROP !|_|_
+...|_|_ Sed|sed|KC mi|mi|PRON ne|ne|ADV estas|esti|V dan-|dan-|N gxera|gxera|ADJ !|_|_ -L|_|_ Venu|veni|V ,|_|_ Eleonora|Eleonora|PROP !|_|_
+(|_|_ Prenas|preni|V sxian|sxia|PRON kapon|kapo|N inter|inter|PRP siaj|sia|PRON manoj|mano|N kaj|kaj|KC rigardas|rigardi|V en|en|PRP sxiajn|sxia|PRON okulojn|okulo|N .|_|_ )|_|_ Vi|vi|PRON havas|havi|V la|la|ART bonajn|bona|ADJ okulojn|okulo|N de|de|PRP via|via|PRON patro|patro|N ,|_|_ kaj|kaj|KC li|li|PRON estis|esti|V bona|bona|ADJ homo|homo|N -R|_|_ sed|sed|KC malforta|malforta|ADJ !|_|_
+(|_|_ Kisas|kisi|V sxian|sxia|PRON frunton|frunto|N .|_|_
+)|_|_ Tiel|tiel|ADV !|_|_
+Eleonora=Ho|Eleonora=Ho|PROP ,|_|_ li|li|PRON parolas|paroli|V bone|bone|ADV pri|pri|PRP patro|patro|N !|_|_
+Cxu|cxu|ADV iu|iu|PRON povas|povi|V pensi|pensi|V bone|bone|ADV pri|pri|PRP li|li|PRON ?|_|_
+Lindkvist=Tion|Lindkvist=Tio|PROP povas|povi|V mi|mi|PRON !|_|_
+Demandu|demandi|V fraton|frato|N Elis|Elis|PROP !|_|_
+Eleonora=Do|Eleonora=Do|PROP vi|vi|PRON ne|ne|ADV povas|povi|V voli|voli|V malbonon|malbono|N al|al|PRP ni|ni|PRON !|_|_
+Lindkvist=Ne|Lindkvist=Ne|PROP ,|_|_ mia|mia|PRON kara|kara|ADJ infano|infano|N !|_|_
+Eleonora=Nu|Eleonora=Nu|PROP ,|_|_ sed|sed|KC helpu|helpi|V nin|ni|PRON do|do|ADV !|_|_
+Lindkvist=Infano|Lindkvist=Infano|PROP ,|_|_ mi|mi|PRON ne|ne|ADV povas|povi|V liberigi|liberigi|V vian|via|PRON patron|patro|N de|de|PRP la|la|ART puno|puno|N ,|_|_ nek|nek|KC Benjaminon|Benjamino|PROP de|de|PRP la|la|ART latinskribo|latinskribo|N ...|_|_
+sed|sed|KC la|la|ART alia|alia|ADJ jam|jam|ADV estas|esti|V helpita|helpi|V .|_|_
+La|la|ART vivo|vivo|N ne|ne|ADV donas|doni|V cxion|cxio|PRON kaj|kaj|KC nenion|nenio|PRON senpage|senpage|ADV .|_|_
+Tial|tial|ADV vi|vi|PRON helpu|helpi|V min|mi|PRON ,|_|_ cxu|cxu|ADV vi|vi|PRON volas|voli|V tion|tion|PRON ?|_|_
+Eleonora=Kion|Eleonora=Kio|PROP povas|povi|V fari|fari|V mi|mi|PRON ,|_|_ kompatinda|kompatinda|ADJ ?|_|_
+Lindkvist=Kiu|Lindkvist=Kiu|PROP dato|dato|N estas|esti|V hodiaux|hodiaux|ADV ?|_|_
+Rigardu|rigardi|V !|_|_
+Eleonora|Eleonora|PROP (|_|_ prenas|preni|V la|la|ART kalendaron|kalendaro|N de|de|PRP la|la|ART muro|muro|N )|_|_ Estas|esti|V la|la|ART deksesa|deksesa|ADJ !|_|_
+Lindkvist=Bone|Lindkvist=Bone|PROP !|_|_
+Eleonora=Nur|Eleonora=Nur|PROP tion|tion|PRON !|_|_
+Lindkvist=Ho|Lindkvist=Ho|PROP ,|_|_ infano|infano|N !|_|_
+Sed|sed|KC se|se|KS li|li|PRON preterlasos|preterlasi|V tion|tion|PRON ,|_|_ tiam|tiam|ADV venos|veni|V la|la|ART giganto|giganto|N kaj|kaj|KC diros|diri|V Muh|Muh|PROP !|_|_
+Eleonora=Kial|Eleonora=Kial|PROP la|la|ART giganto|giganto|N venas|veni|V por|por|PRP timigi|timigi|V la|la|ART infanojn|infano|N ?|_|_
+Lindkvist=Por|Lindkvist=Por|PROP ke|ke|KS la|la|ART infanoj|infano|N farigxu|farigxi|V bonaj|bona|ADJ !|_|_
+Eleonora=Estas|Eleonora=Estas|PROP vere|vere|ADV !|_|_
+La|la|ART giganto|giganto|N pravas|pravi|V !|_|_
+(|_|_ Kisas|kisi|V la|la|ART peltmanikon|peltmaniko|N de|de|PRP Lindkvist|Lindkvist|PROP .|_|_
+)|_|_ Dankon|danko|N ,|_|_ kara|kara|ADJ giganto|giganto|N !|_|_
+Benjamin=Sed|Benjamin=Sed|PROP vi|vi|PRON devas|devi|V diri|diri|V sinjoro|sinjoro|N Lindkvist|Lindkvist|PROP !|_|_
+Eleonora=Ne|Eleonora=Ne|PROP ,|_|_ tiu|tiu|PRON nomo|nomo|N estas|esti|V tiel|tiel|ADV ordinara|ordinara|ADJ ...|_|_
+Lindkvist=Gxis|Lindkvist=Gxis|PROP revido|revido|N ,|_|_ infanoj|infano|N !|_|_
+Nun|nun|ADV vi|vi|PRON povas|povi|V jxeti|jxeti|V la|la|ART bran-|bran-|N cxeton|cxeto|N sur|sur|PRP la|la|ART fajron|fajro|N !|_|_
+Eleonora=Ne|Eleonora=Ne|PROP ,|_|_ gxi|gxi|PRON restu|resti|V tie|tie|ADV ,|_|_ cxar|cxar|KS la|la|ART infanoj|infano|N estas|esti|V tiel|tiel|ADV forgesemaj|forgesema|ADJ .|_|_
+Lindkvist=Kiel|Lindkvist=Kiel|PROP bone|bone|ADV vi|vi|PRON konas|koni|V la|la|ART infanojn|infano|N ,|_|_ etulino|etulino|N !|_|_ (|_|_ Foriras|foriri|V .|_|_
+)|_|_ Eleonora=Ni|Eleonora=Ni|PROP povos|povi|V iri|iri|V en|en|PRP la|la|ART kamparon|kamparo|N ,|_|_ Benjamin|Benjamin|PROP !|_|_
+Post|post|PRP du|du|NUM monatoj|monato|N !|_|_
+Ho|ho|IN ,|_|_ se|se|KS ili|ili|PRON volus|voli|V iri|iri|V rapide|rapide|ADV !|_|_
+(|_|_ Sxiras|sxiri|V slipojn|slipo|N de|de|PRP la|la|ART kalendaro|kalendaro|N kaj|kaj|KC sxutas|sxuti|V ilin|ili|PRON en|en|PRP la|la|ART sunstrion|sunstrio|N ,|_|_ kiu|kiu|PRON falas|fali|V en|en|PRP la|la|ART cxambron|cxambro|N .|_|_ )|_|_ Vidu|vidi|V ,|_|_ kiel|kiel|ADV pasas|pasi|V la|la|ART tagoj|tago|N !|_|_
+Aprilo|aprilo|N !|_|_
+Majo|majo|N !|_|_
+Junio|junio|N !|_|_
+Kaj|kaj|KC la|la|ART suno|suno|N lumas|lumi|V sur|sur|PRP cxiujn|cxiu|PRON !|_|_
+Vidu|vidi|V !|_|_
+Nun|nun|ADV danku|danki|V Dion|dio|N ,|_|_ kiu|kiu|PRON ebligis|ebligi|V al|al|PRP ni|ni|PRON iri|iri|V al|al|PRP la|la|ART kamparo|kamparo|N !|_|_
+Benjamin|Benjamin|PROP (|_|_ kasxigxeme|kasxigxeme|ADV )|_|_ Cxu|cxu|ADV mi|mi|PRON ne|ne|ADV povas|povi|V diri|diri|V tion|tion|PRON silente|silente|ADV ?|_|_
+Eleonora=Jes|Eleonora=Jes|PROP ,|_|_ vi|vi|PRON povas|povi|V diri|diri|V gxin|gxi|PRON silente|silente|ADV !|_|_
+Cxar|cxar|KS nun|nun|ADV la|la|ART nuboj|nubo|N estas|esti|V for|for|ADV ,|_|_ kaj|kaj|KC tiam|tiam|ADV gxi|gxi|PRON estas|esti|V auxdebla|auxdebla|ADJ en|en|PRP la|la|ART alto|alto|N !|_|_
+(|_|_ Kristina|Kristina|PROP envenis|enveni|V de|de|PRP maldekstre|maldekstre|ADV kaj|kaj|KC haltis|halti|V .|_|_
+Elis|eli|V kaj|kaj|KC Sinjorino=Heyst|Sinjorino=Heyst|PROP de|de|PRP dekstre|dekstre|ADV .|_|_
+Kristina|Kristina|PROP kaj|kaj|KC Elis|Elis|PROP iras|iri|V kun|kun|PRP afablaj|afabla|ADJ mienoj|mieno|N unu=al=la=alia|unu=al=la=alia|ADV ,|_|_ sed|sed|KC la|la|ART kurteno|kurteno|N falas|fali|V ,|_|_ antaux=ol|antaux=ol|KS ili|ili|PRON renkontigxas|renkontigxi|V .|_|_
+)|_|_

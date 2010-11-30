@@ -1,0 +1,1643 @@
+LA=AVARULO PERSONOJ Harpagono , patro de Kleanto kaj Elizo , kaj amindumanto de Mariano .
+Kleanto , filo de Harpagono kaj amanto de Mariano .
+Valero , filo de Anselmo kaj amanto de Elizo .
+Anselmo , patro de Valero kaj Mariano .
+Simono , makleristo .
+Jakobo , kuiristo kaj veturigisto de Harpagono .
+La Flèche , lakeo de Kleanto .
+Brindavoine kaj La Merluche , lakeoj de Harpagono .
+Komisaro ( policestro ) .
+Elizo , filino de Harpagono .
+Mariano , filino de Anselmo .
+Frozino , intrigantino .
+S-ino Klauxdo , servistino de Harpagono .
+La agado okazas en Parizo , en la domo de Harpagono .
+AKTO=I SCENO=I Valero , Elizo VALERO=Kiel !
+Cxarma Elizo , vi farigxis melankolia post la afabla certigo pri via amo , kiun vi bonvole donis al mi !
+Ha !
+Meze de mia gxojo mi aux- das vin sopiranta !
+Diru , cxu tio estas pro bedauxro , cxar vi faris min felicxa ?
+Cxu vi pentas pri cxi=tiu promeso , kiun eble mia pasio eldevigis de vi ?
+ELIZO=Ne , Valero , mi ne povas penti pri io ajn , kion mi faras por vi ;
+mi sentas min logata al tio de tre dolcxa potenco ;
+kaj mi ecx ne havas la forton deziri , ke ne ekzistu tiuj aferoj .
+VALERO=Sed kion vi povas timi , Elizo , pro la boneco , kiun vi havas por mi ?
+ELIZO=Ho , ve !
+Cent aferojn kune ;
+koleron de patro , riprocxojn de familio , kritikojn de la mondo ;
+sed pli=ol cxion , Valero , la sxangxigxon de via koro kaj tiun malvarmon kriman , per kiu viaj samseksuloj plej ofte rekompencas tro varmajn signojn de naiva amo .
+VALERO=Ho !
+Ne ofendu min kaj min jugxu laux la ceteraj ;
+suspektu cxion pri mi , Elizo , nur ne mian forgeson de tio , kion mi sxuldas al vi .
+Mi amas vin tro por tiel agi , kaj mia amo dauxros same longe kiel mia vivo .
+ELIZO=Ha !
+Valero , cxiu parolas same .
+VALERO=Cxar nur la faroj montras , kiaj ni estas , atendu do almenaux , gxis vi per ili povos jugxi mian koron , kaj ne sercxu krimojn cxe mi , pro maljusta timo kaj maloportuna antaux- videmo .
+ELIZO=Ho , ve !
+Kiel facile oni lasas sin konvinki de la personoj amataj !
+Jes , Valero , mi fidas , ke via koro estas nekapabla min trompi .
+Mi pensas , ke vi min amas per vera amo , kaj ke vi cxiam estos fidela , mi tute ne volas dubi pri tio , kaj mi nur restas maltrankvila pro la mallauxdo , kiun oni donos al mi .
+VALERO=Kaj kial tiu maltrankvilo ?
+ELIZO=Mi nenion timus , se cxiuj vin vidus per samaj okuloj kiel mi , kaj mi trovas en vi sufi- cxe por pravigi , kion mi faras por vi .
+Mia koro havas kiel senkulpigon vian grandan meriton , subtenatan de la danksento , kiun inspiras al mi la cxielo kontraux vi .
+Cxio tio sendube faras sur min impreson profundan kaj suficxas laux miaj okuloj por pravigi la promeson , al kiu mi konsentis , sed eble ne suficxos por pravigi tion antaux la ceteraj , kaj mi ne estas certa , ke oni pensos pri tio , same kiel mi .
+VALERO=El cxio , kion vi diris , per mia sola amo mi volas ion meriti de vi , kaj rilate viajn konsciencajn dubojn , via patro mem zorgas pri via pravigo antaux cxiuj , cxar lia troa avareco kaj la severa maniero , laux kiu li vivas kun siaj gefiloj , povus permesi pli strangajn farojn .
+Pardonu min , cxarma Elizo , se mi tiel parolas al vi .
+Vi scias ke , pri tio=cxi , oni nenion bonan povas diri , tamen se mi sukcesos , kiel mi esperas , retrovi miajn gepatrojn , ni tiam ne havos grandan penadon por fari lin favora al ni .
+Novajxon pri ili mi senpacience atendas kaj iros mem sercxi , se mi ne ricevos baldaux .
+ELIZO=Ha !
+VALERO=Vi scias , kiel mi agas kaj per kia lerta komplezo mi sukcesis enkonduki min en lian servadon , sub kia masko de simpatio kaj de sameco de inklinoj mi kasxas min por placxi al li , kaj kian rolon mi cxiutage ludas por akiri lian amon .
+Mi faras mirindajn progresojn , kaj mi rimarkas , ke , por favorigi la homojn , ne ekzistas pli bona rimedo , ol se oni sxajnigas antaux ili havi la samajn inklinojn , se oni aprobas iliajn ideojn , lauxdegas iliajn malbonajn ecojn kaj aplauxdas cxiujn iliajn farojn .
+Oni neniom devas timi troigi la komplezon ;
+kiel ajn videbla estas la maniero , en kiu oni trompas ilin , la plej prudentaj cxiam estas per la flato facilaj trompatoj , ne estas io tiel aroganta kaj tiel ridinda , ke ili gxin ne englutus , se nur oni gxin spicis per lauxdoj .
+VALERO=Oni ne povas kontentigi ambaux ;
+kaj la animoj de la patro kaj de la filo estas tiel malsimilaj , ke malfacile estas akiri kune la konfidon de ambaux .
+Sed , viaflanke , vi agu al via frato , kaj uzu la amikecon , kiu vin ligas kune , por lin altiri en niajn interesojn .
+Jen li venas . Mi foriras .
+ELIZO=Mi ne scias , cxu mi havos la kuragxon fari al li tiun konfidon .
+SCENO=II Kleanto , Elizo KLEANTO=Mi estas tre kontenta , ke mi vin trovas sola , mia fratino , cxar mi varmege deziris paroli kun vi , por komuniki al vi sekreton .
+ELIZO=Jen estas mi preta vin auxskulti , mia frato .
+Kion vi havas por diri al mi ?
+KLEANTO=Multajn aferojn , fratino , cxiuj enhavataj en unu vorto : mi amas .
+ELIZO=Vi amas ?
+KLEANTO=Jes , mi timas .
+Sed antaux=ol dauxrigi , mi bone scias , ke mi dependas de patro , kaj ke la nomo filo min metas sub lian volon ;
+ke ni ne rajtas forpromesi nian koron sen la permeso de tiuj , kiuj naskis nin , ke la cxielo faris ilin mastroj de niaj deziroj , kaj ke estas ordonite , ke pri tio ni agu nur sub ilia konduko , cxar ili , ne malhelpataj de la freneza pasio , povas multe pli facile ol ni eviti eraron kaj pli bone vidi , kio konvenas por ni ;
+ke oni prefere devas fidi je la lumo de ilia prudento ol je la blindeco de nia pasio , kaj ke la senmodereco de la juneco nin forkondukas plej ofte al bedauxrindaj profundajxoj .
+Cxion tion , mia fratino , mi diras al vi , por ke vi ne donu al vi la laboron gxin diri al mi , cxar fine mia amo nenion volas auxdi , kaj mi vin petas , ne faru al mi riprocxojn .
+ELIZO=Cxu vi fiancxigxis , mia frato , kun tiu , kiun vi amas ?
+KLEANTO=Ne , sed mi decidis tion fari , kaj mi petegas vin denove , ne elvoku motivojn por deturni min de tio .
+ELIZO=Cxu mi estas do tiel stranga persono ?
+KLEANTO=Ne , fratino , sed vi ne amas .
+Vi ne konas la dolcxan perforton de delikata amo sur niajn korojn , kaj mi timas vian sagxon .
+ELIZO=Ha !
+Mia frato , ni ne parolu pli mia sagxo .
+Neniu estas , al kiu sagxo ne mankas almenaux unufoje en la vivo , kaj se mi malfermos por vi mian koron , mi eble aperos antaux viaj okuloj malpli sagxa ol vi mem .
+KLEANTO=Ho ! Placxu al la cxielo , ke via koro , kiel mia .
+.
+.
+ELIZO=Ni antauxe finu vian aferon , kaj diru al mi , kiu estas sxi , kiun vi amas .
+KLEANTO=Juna persono , kiu de mallonga tempo logxas en tiu=cxi kvartalo kaj kiu sxajnas esti farita por inspiri amon al cxiuj , kiuj sxin vidas .
+La naturo , mia fratino , neniam naskis ion pli amindan , kaj mi sentis min ravita tuj de la momento , kiam mi sxin ekvidis .
+Sxi estas nomata Mariano kaj vivas sub la direkto de bona virino , sxia patrino , kiu estas preskaux cxiam malsana , kaj al kiu tiu aminda knabino havas amiksenton neimageblan .
+Sxi sxin flegas , kompatas kaj konsolas kun delikateco , kiu tusxus vian animon .
+Sxi estas cxarma en kio ajn sxi faras , kaj mil cxarmoj brilas en cxiuj sxiaj agoj , alloga dolcxeco , invita boneco , adorinda gxentileco .
+Ho !
+Mia fratino , mi volus , ke vi sxin vidu .
+ELIZO=Mi jam vidas multe da sxi , frato , el viaj paroloj , kaj por kompreni , kia sxi estas , suficxas por mi , ke vi sxin amas .
+Imagu , mia fratino , kia gxojo estus levi la situacion de persono , kiun oni amas , doni gxentile kelkan helpon al la modestaj bezonoj de virta familio , kaj komprenu , kiel malfelicxa mi estas , vidante ke , pro la patra avareco , estas al mi neeble eksenti tiun gxojon kaj doni al la belulino iun signon de mia amo .
+ELIZO=Jes , mi komprenas ja , mia frato , kia devas esti via malplezuro .
+He !
+Al kio utilos , ke ni havas posedajxon , se ni gxin ricevos nur kiam ni ne estos plu en la bela agxo por profiti gxin , kaj se ecx por min vesti , mi devas nun sxuldigxi je cxiuj flankoj , se mi estas devigata , same kiel vi , sercxi la helpon de vendistoj por vestigxi dece !
+Fine mi volis paroli kun vi , por=ke vi helpu min sondi mian patron pri miaj sentoj , kaj se mi lin trovos malfavora , mi decidis iri en alian landon kun tiu aminda persono kaj gxui la vivon , kiun placxos al la cxielo doni al ni .
+ELIZO=Estas vere , ke cxiutage pli li donas al ni kaux- zon por bedauxri la morton de nia patrino , kaj .
+. .
+KLEANTO=Mi auxdas lian vocxon .
+Ni foriru iom por dauxrigi nian konfidencajxojn , kaj poste ni kunigos niajn fortojn por ataki la malmolecon de lia karaktero .
+SCENO=III Harpagono , La Flèche HARPAGONO=For de cxi=tie tuj , kaj ne respondu .
+Nu , forkuru pli rapide el mia domo , fripono jxurinta , vera nutrajxo de esxafodo .
+HARPAGONO=Cxu vi murmuras inter viaj dentoj ?
+LA=FLÈCHE=Kial vi min elpelas ?
+HARPAGONO=Bone konvenas al vi , pendindulo , postuli de mi klarigojn !
+Eliru tuj , aux mi vin bucxos .
+LA=FLÈCHE=Kion mi faris al vi ?
+HARPAGONO=Vi faris , ke mi volas , ke vi eliru .
+LA=FLÈCHE=Mia mastro , via filo , ordonis al mi , ke mi lin atendu .
+HARPAGONO=Atendu lin sur la strato , kaj ne restu en mia domo , starante kiel fosto , rigardante , kio okazas kaj profitante je cxio .
+Mi ne volas vidi sencxese antaux mi spionon de miaj aferoj , perfidulon , kies malbenitaj okuloj siegxas cxiujn miajn farojn , englutas , kion mi posedas , kaj sercxas je cxiuj flankoj por vidi , cxu li povos ion sxteli .
+LA=FLÈCHE=Kiel , je la diablo , vi volas , ke oni faru por vin prisxteli ?
+Cxu vi estas prisxtelebla homo , kiam vi cxion ensxlosas , kaj staras garde tage kaj nokte .
+HARPAGONO=Mi povas sxlosi , kion mi volas , kaj stari garde , kiam al mi placxas .
+Jen estas spionoj , kiuj sin okupas pri tio , kion oni faras !
+( mallauxte flanken ) Mi timas , ke li suspektis ion pri mia mono .
+( lauxte ) Cxu vi ne estus homo kapabla dissemi la famon , ke mi havas cxe mi monon kasxitan .
+LA=FLÈCHE=Cxu vi havas monon kasxitan ?
+HARPAGONO=Ne , fripono , mi ne diras tion .
+( mallauxte ) Mi furiozas . ( lauxte ) Mi demandas , cxu vi ne dissemus malice la famon , ke mi gxin havas .
+LA=FLÈCHE=He !
+Laux kio nin interesas , cxu vi gxin havas aux ne , por ni estas tute same .
+HARPAGONO ( levante la manon por doni vangofrapon al la Flèche ) Vi argumentadas !
+Mi redonos al vi tiun argumentadon sur la vangon .
+For de tie=cxi , mi rediras .
+LA=FLÈCHE=Nu , mi eliras .
+HARPAGONO=Haltu !
+Cxu vi nenion forportas ?
+LA=FLÈCHE=Kion mi povus forporti ?
+HARPAGONO=Venu tien cxi , por=ke mi vidu ;
+montru viajn manojn .
+LA=FLÈCHE=Jen .
+HARPAGONO=La aliajn .
+LA=FLÈCHE=La aliajn ?
+HARPAGONO=Jes .
+LA=FLÈCHE=Jen .
+HARPAGONO ( montrante la pantalonon de La Flèche ) Cxu vi ne metis ion en gxin ?
+LA=FLÈCHE=Vidu mem .
+HARPAGONO ( palpante la pantalonon de La Flèche ) Tia lar- gxa pantalono estus tauxga por kasxi en gxi sxtelitajn objektojn , kaj mi dezirus , ke oni jam pendigu kelkajn el ili .
+LA=FLÈCHE ( flanken ) Ho !
+Kiom meritus tiaspeca homo , kion li timas .
+Kiel plezure mi lin prisxtelus !
+HARPAGONO=He ?
+LA=FLÈCHE=Kion ?
+HARPAGONO=Kion vi parolas pri sxtelo ?
+LA=FLÈCHE=Mi diras , ke vi zorge sercxas cxie por vidi , cxu mi prisxtelis vin .
+HARPAGONO=Tion mi volas fari .
+( Harpagono sercxadas en la posxoj de La Flèche ) LA=FLÈCHE ( flanken ) La pesto prenu la avarecon kaj la avarulojn !
+HARPAGONO=Kiel ?
+Kion vi diras ?
+LA=FLÈCHE=Kion mi diras ?
+HARPAGONO=Jes .
+Kion vi diras pli avareco kaj avaruloj ?
+LA=FLÈCHE=Mi diras , ke la pesto prenu la avarecon kaj la avarulojn .
+HARPAGONO=Pri kiu vi intencas paroli ?
+LA=FLÈCHE=Pri avaruloj .
+HARPAGONO=Kaj kiuj estas tiuj avaruloj ?
+LA=FLÈCHE=Malnobluloj kaj maldonemuloj .
+HARPAGONO=Sed kiun vi komprenas sub tio=cxi ?
+LA=FLÈCHE=Pri kio vi vin okupas ?
+HARPAGONO=Mi okupas min pri kio mi devas .
+LA=FLÈCHE=Cxu vi pensas , ke mi parolas pri vi ?
+HARPAGONO=Mi pensas , kion mi pensas , sed mi volas , ke vi diru al mi , al kiu vi parolas , dirante tion .
+LA=FLÈCHE=Mi parolas .
+.
+.
+mi parolas al mia cxapo . HARPAGONO=Kaj mi ankaux tuj parolos al via cxapo .
+LA=FLÈCHE=Cxu vi malpermesas , ke mi malbenu la avarulojn ?
+HARPAGONO=Ne , sed mi malhelpos vin babiladi kaj esti aroganta ; silentu !
+LA=FLÈCHE=Mi neniun nomas .
+HARPAGONO=Mi vin batos , se vi parolos .
+LA=FLÈCHE=Al kiu jukas , tiu sin gratu .
+HARPAGONO=Cxu vi silentos ?
+LA=FLÈCHE=Jes , kontrauxvole .
+HARPAGONO=Ha !
+Ha !
+LA=FLÈCHE ( montrante al Harpagono posxon de sia jako ) Vidu , jen estas ankoraux posxo .
+Cxu vi estas kontenta ?
+HARPAGONO=Nu , redonu gxin , ne devigante min sercxadi .
+LA=FLÈCHE=Kion ?
+HARPAGONO=Tion , kion vi prenis .
+LA=FLÈCHE=Mi absolute nenion prenis .
+HARPAGONO=Vere ?
+LA=FLÈCHE=Vere .
+HARPAGONO=Adiaux .
+Iru al cxiuj diabloj !
+HARPAGONO=Mi metas gxin sur vian konsciencon , almenaux .
+SCENO=IV HARPAGONO ( sola ) Jen estas pendiginda lakeo , kiu min tre gxenas ;
+kaj al mi ne placxas vidi tiun laman hundon .
+Certe ne estas malpeza zorgo gardi hejme grandan sumon da mono , kaj tre felicxa estas tiu , kiu havas sian tutan posedajxon bone sxparmetita kaj nur tenas cxe si la monon necesan por siaj elspezoj .
+Oni ne estas malmulte embarasata por eltrovi en tuta domo unu sendangxeran kasxlokon , cxar laux mia opinio la monkestoj estas suspektindaj , kaj mi neniam volas fidi je ili , mi gxuste vidas en ili veran allogajxon por sxtelistoj , kaj ili estas cxiam la unua objekto , kiun oni atakas .
+SCENO=V Harpagono , Elizo kaj Kleanto , interparolante kune kaj restante en la fono de la scenejo HARPAGONO ( pensante ke li estas sola ) Tamen mi ne scias , cxu mi bone faris enfosigante en mia gxardeno dek mil eskudojn , kiujn oni redonis al mi hieraux .
+Dek mil eskudoj el oro , hejme , estas sumo suficxe .
+.
+. ( flanken , ekvidinte Elizon kaj Kleanton ) Cxielo !
+Mi perfidis min mem , la flameco min forportis , kaj mi pensas , ke mi parolis laux- te , rezonante sola .
+( al Kleanto kaj Elizo ) Kio estas ?
+KLEANTO=Nenio , mia patro .
+HARPAGONO=Cxu vi jam de longe estas cxi=tie ?
+ELIZO=Ni jxus alvenis .
+HARPAGONO=Cxu vi auxdis .
+. .
+KLEANTO=Kion , patro ?
+HARPAGONO=Tie .
+. .
+ELIZO=Kion ?
+HARPAGONO=Kion mi jxus diris .
+KLEANTO=Ne .
+HARPAGONO=Jes , tamen ;
+jes .
+ELIZO=Pardonu .
+HARPAGONO=Mi bone vidas , ke vi kelkajn vortojn auxdis .
+KLEANTO=Ni hezitis proksimigxi , timante , ke ni vin gxenos .
+KLEANTO=Ni ne okupas nin je viaj aferoj .
+HARPAGONO=Placxu al Dio , ke mi ilin havu , dek mil eskudojn !
+KLEANTO=Mi ne pensas .
+HARPAGONO=Estus bona afero por mi .
+ELIZO=Estas afero .
+. .
+HARPAGONO=Mi tre bezonus ilin .
+KLEANTO=Mi pensas , ke .
+. .
+HARPAGONO=Tio helpus min forte .
+ELIZO=Vi estas .
+. .
+HARPAGONO=Kaj mi tiam ne plendus , kiel mi nun faras , ke nia tempo estas mizera .
+KLEANTO=Je=Dio !
+HARPAGONO=Kiel !
+Mi havas suficxe da posedajxo !
+Tiuj , kiuj diris tion , estas mensogantoj .
+Nenio estas malpli vera , kaj friponoj estas tiuj , kiuj dissemas tiajn famojn .
+ELIZO=Ne kolerigxu .
+HARPAGONO=Estas strange , ke miaj propraj infanoj min perfidas kaj farigxas miaj malamikoj !
+KLEANTO=Cxu diri , ke vi havas posedajxon , suficxas por esti via malamiko ?
+HARPAGONO=Jes .
+KLEANTO=Kiun grandan elspezon mi faris ?
+HARPAGONO=Kiun ?
+Cxu estas io pli skandala ol tiu ricxega vestajxo , kiun vi promenigas tra la urbo ?
+Mi riprocxis hieraux vian fratinon , sed tio=cxi estas ankoraux pli malbona .
+Tio=cxi elvokas punon de la cxielo , cxar , prenante vin je la kapo gxis la piedoj , oni trovus suficxe por ricevi bonan renton .
+Dudekfoje mi diris al vi , mia filo , ke cxiuj viaj manieroj tre malplacxas al mi ;
+vi pretendas vivi kiel markizo , kaj por iri tiel vestita , estas ja necese , ke vi min prisxtelu .
+KLEANTO=He !
+Kiamaniere vin prisxteli ?
+KLEANTO=Mia patro , mi ludas , kaj cxar mi estas tre bonsxanca cxe la ludo , mi metas sur min cxion , kion mi gajnas .
+HARPAGONO=Tio estas tre malprudenta agado .
+Se vi estas bonsxanca cxe la ludo , vi devus profiti tion kaj sxparmeti je bonaj procentoj la monon , kiun vi gajnas , por gxin retrovi iun tagon .
+Mi tre volus scii , sen paroli pli la cetero , por kio utilas cxiuj tiuj rubandoj , per kiuj vi estas traligita de la piedoj gxis la kapo , kaj cxu duona dekduo da sxnuroj ne suficxas por ligi pantalonon .
+Cxu necesas elspezi monon por perukoj , kiam oni povas porti la propran hararon , kiu nenion kostas !
+Mi vetas , ke vi havas perukojn kaj rubandojn almenaux por dudek ormoneroj , kaj dudek ormoneroj liveras cxiujare dekok frankojn , ses soldojn kaj ok denarojn , ecx metinte ilin nur po unu denaro por dekdu .
+KLEANTO=Vi estas prava .
+HARPAGONO=Ni lasu tion , kaj parolu pri aliaj aferoj .
+( vidante ke Kleanto kaj Elizo faras signojn unu=al=la=alia ) He ! ( mallauxte flanken ) Mi pensas , ke ili faras signojn unu=al=la=alia por sxteli mian monujon . ( lauxte ) Kion signifas tiuj=cxi signoj ?
+ELIZO=Ni disputas , mia frato kaj mi , pri tio , kiu parolos unue , cxar ni ambaux havas ion por diri al vi .
+HARPAGONO=Kaj ankaux mi havas ion por diri al vi ambaux .
+KLEANTO=Pri edzigxo , patro , ni deziras paroli kun vi .
+HARPAGONO=Ankaux pli edzigxo mi intencas paroli kun vi .
+ELIZO=Ha !
+Mia patro !
+HARPAGONO=Kial tiu ekkrio ?
+Cxu la vorto , filino , aux la afero vin timigas ?
+HARPAGONO=Iom da pacienco .
+Ne malkvietigxu .
+Mi scias kion vi ambaux bezonas , kaj nek unu nek la alia havos kauxzon plendi pri tio , kion mi intencas fari .
+Kaj por komenci je unu flanko . ( al Kleanto ) Cxu vi vidis , diru al mi , junan personon nomatan Mariano , kiu logxas ne malproksime=de cxi=tie ?
+KLEANTO=Jes , mia patro .
+HARPAGONO ( al Elizo ) Kaj vi ?
+ELIZO=Mi auxdis paroli pri sxi .
+HARPAGONO=Kiel , filo mia , vi trovas tiun=cxi knabinon ?
+KLEANTO=Tre cxarma persono .
+HARPAGONO=Sxian mienon !
+KLEANTO=Tute honesta kaj sprita .
+HARPAGONO=Sxian aspekton kaj konduton ?
+KLEANTO=Admirindaj , sendube .
+HARPAGONO=Cxu vi ne pensas , ke tia knabino suficxe meritus , ke oni pensu pri sxi ?
+KLEANTO=Jes , patro .
+HARPAGONO=Ke sxi estus edzino dezirinda ?
+KLEANTO=Tre dezirinda .
+HARPAGONO=Ke sxi sxajnas havi cxion por farigxi bona dommastrino ?
+KLEANTO=Sendube .
+HARPAGONO=Kaj ke edzo estus kontenta per sxi ?
+KLEANTO=Certe . HARPAGONO=Ekzistas ja unu malhelpajxeto ;
+cxar mi timas , ke sxi ne havas tiom da posedajxo , kiom oni povus deziri .
+KLEANTO=Ho !
+Patro , posedajxo ne estas grava , kiam oni estas edzigxonta kun honesta persono .
+HARPAGONO=Permesu , permesu !
+KLEANTO=Kompreneble .
+HARPAGONO=Fine , mi estas kontenta vidi , ke vi konsentas kun mi ;
+cxar sxia deca aspekto kaj sxia gxentileco kaptis mian koron , kaj mi decidis edzigxi kun sxi , se nur mi trovas cxe sxi iom da posedajxo .
+KLEANTO=He !
+HARPAGONO=Kiel ?
+KLEANTO=Vi diras , ke vi decidis .
+. .
+HARPAGONO=Edzigxi je Mariano .
+KLEANTO=Kiu ?
+Vi ?
+Vi ?
+HARPAGONO=Jes , mi , mi , mi ;
+kion signifas tio ?
+KLEANTO=Min kaptis kapturnigxo .
+Tial mi eliras .
+HARPAGONO=Tio ne estos grava .
+Iru rapide en la kuirejon , kaj trinku grandan glason da pura akvo .
+SCENO=VI Harpagono , Elizo HARPAGONO=Tiaj estas niaj delikataj frauxletoj , kiuj ne estas pli fortaj ol kokinoj . Tion=cxi , filino , mi decidis por mi .
+Rilate vian fraton mi elektis por li vidvinon , pri kiu oni parolis al mi hodiaux matene ;
+kaj koncerne vin , mi vin donos al sinjoro Anselmo .
+ELIZO=Al sinjoro Anselmo ?
+HARPAGONO=Jes , li estas homo matura , prudenta kaj sagxa , li ne estas pli=ol kvindekjara , kaj oni tre lauxdas liajn grandajn bienojn .
+ELIZO ( farante riverencon ) Mi ne volas edzinigxi , patro , se vi permesas .
+HARPAGONO ( imitante Elizon ) Kaj mi , filineto , amikino mia , mi volas , ke vi edzinigxu , se vi permesas .
+ELIZO ( farante novan riverencon ) Pardonu min , patro mia .
+HARPAGONO ( imitante Elizon ) Pardonu min , filino mia .
+ELIZO=Mi estas tre humila servantino de sinjoro Anselmo ;
+sed ( farante denove riverencon ) kun via permeso mi ne edzinigxos kun li .
+HARPAGONO=Mi estas via tre humila servanto ;
+sed ( imitante Elizon ) kun via permeso vi edzinigxos kun li jam hodiaux vespere .
+ELIZO=Hodiaux vespere ?
+HARPAGONO=Hodiaux vespere .
+ELIZO ( kun riverenco ) Tio ne okazos , patro .
+HARPAGONO ( imitante sxin ) Tio okazos , filino .
+ELIZO=Ne !
+HARPAGONO=Jes !
+ELIZO=Ne , mi diras .
+HARPAGONO=Jes , mi diras .
+ELIZO=Tio estas afero , al kiu vi min ne devigos .
+HARPAGONO=Tio estas afero , al kiu mi vin devigos .
+ELIZO=Mi prefere mortigos min ol edzinigxos kun tiu viro .
+HARPAGONO=Vi ne mortigos vin , kaj vi edzinigxos kun li .
+Sed vidu tian kuragxon !
+Cxu oni iam auxdis filinon parolanta tiamaniere kun sia patro ?
+ELIZO=Cxu oni vidis iam patron edzinigi sian filinon tiamaniere ?
+HARPAGONO=Tio estas partio , en kiu nenio estas ripro- cxinda , kaj mi vetas , ke cxiuj aprobos mian elekton .
+ELIZO=Kaj mi vetas , ke de neniu prudenta homo gxi povos esti aprobata .
+HARPAGONO ( vidante Valeron malproksime ) Jen venas Valero .
+Cxu vi volas , ke ni du faru lin jugxanto pri tiu afero ?
+ELIZO=Mi konsentas .
+HARPAGONO=Cxu vi akceptos lian jugxon ?
+ELIZO=Jes , mi faros , kion li diros .
+HARPAGONO=Decidite .
+SCENO=VII Valero , Harpagono , Elizo HARPAGONO=Tien cxi , Valero .
+Ni vin elektis , por=ke vi diru al ni , kiu estas prava , cxu mi aux mia filino .
+VALERO=Tio estas vi , sinjoro , sen kontrauxdiro .
+HARPAGONO=Cxu vi scias , pri kio ni parolas ?
+VALERO=Ne , sed vi ne povas esti malprava , cxar vi estas la praveco mem .
+HARPAGONO=Mi volas doni al sxi hodiaux vespere , kiel edzon , homon ricxan kaj prudentan , kaj la friponino diras al mi sub la nazo , ke sxi rifuzas lin akcepti .
+Kion vi diras pri tio ?
+VALERO=Kion mi diras ?
+HARPAGONO=Jes . VALERO=He ! He !
+HARPAGONO=Kion ?
+VALERO=Mi diras , ke en la fundo mi samopinias kun vi , kaj vi ne povas ne esti prava , sed ankaux sxi ne estas tute malprava ; kaj .
+.
+.
+HARPAGONO=Kiel !
+Sinjoro Anselmo estas rimarkinda partio , li estas nobela , gxentila , eminenta , prudenta kaj tre ricxa sinjoro , al kiu restas neniu infano de lia unua edzigxo .
+Cxu sxi povus renkonti ion pli bonan ?
+VALERO=Tio estas vera ;
+sed sxi povus diri al vi , ke tio cxi estas iom tro rapidigi la aferojn , kaj ke sxi almenaux bezonas kelkan tempon por vidi , cxu sxia korinklino povos konformigxi al .
+. .
+HARPAGONO=Tian okazon oni devas kapti rapidege .
+Mi trovas cxi=tie profiton , kiun mi ne trovis aliloke ;
+cxar li promesas akcepti sxin sen doto .
+VALERO=Sen doto ?
+HARPAGONO=Sen doto .
+VALERO=Ha !
+Mi ne diras ion plu .
+Vidu !
+Jen estas argumento tute konvinka ;
+post tio oni devas kapitulaci .
+HARPAGONO=Tio cxi estos por mi rimarkinda sxparo .
+VALERO=Efektive , tio=cxi ne permesas kontrauxdiron .
+Via filino povas tamen rimarkigi , ke edzinigxo estas pli grava afero ol oni povus pensi , ke estas en gxi motivo por esti felicxa aux malfelicxa en la tuta vivo , kaj ke kontrakto dauxronta gxis la morto neniam devas esti farata sen tre granda singardemo .
+HARPAGONO=Sen doto !
+VALERO=Vi estas prava .
+Tio=cxi decidas pri cxio , kompreneble .
+. . HARPAGONO=Sen doto ?
+VALERO=Ha ! Neniu respondo al tio ;
+oni gxin ja scias .
+Kiu , je diablo , povas iri kontraux tio ?
+Multaj patroj tamen preferus rigardi la felicxon de siaj filinoj ol la monon , kiun ili devus doni ;
+ili ne volus ilin oferi pro la financa utilo , kaj penadus , antaux cxio alia , kunigi cxe la geedzoj tiun dolcxan konformecon , kiu sencxese dauxrigos inter ili honoron , pacon kaj gxojon ;
+kaj .
+. .
+HARPAGONO=Sen doto !
+VALERO=Estas vere , tio=cxi fermigas la busxon ;
+sen doto !
+Kio povas kontrauxstari tian argumenton ?
+HARPAGONO ( flanken , rigardante al la gxardeno ) He !
+Sxajnas al mi , ke mi auxdas bojadon de hundo .
+Cxu oni volas ataki mian monon ?
+( al Valero ) Ne movigxu , mi tuj revenos .
+SCENO=VIII Elizo , Valero ELIZO=Cxu vi sxercas , Valero , parolante tiamaniere kun li ?
+VALERO=Tio estas por ne fari lin maldolcxa , kaj por pli bone lin venki .
+Kontrauxstari rekte al liaj intencoj estus rimedo malbonigi cxion ;
+kaj kelkajn homojn oni devas ataki deflanke ; tiaj temperamentoj malamas la kontraux- staron ; tiaj obstinaj animoj ne volas akcepti la veron , kaj rigidigxas kontraux la rekta vojo de la prudento ;
+oni nur per kurba vojo povas ilin konduki al la dezirata celo .
+Sxajnigu , ke vi konsentas kun lia deziro kaj vi pli bone atingos vian celon , kaj .
+. .
+ELIZO=Sed tiu edzigxo , Valero ?
+VALERO=Oni trovos pretekstojn por rompi gxin .
+ELIZO=Sed kion elpensi , cxar gxi estas okazonta hodiaux vespere ?
+VALERO=Vi devas peti pri prokrasto , aux sxajnigi vin malsana .
+ELIZO=Sed oni eltrovos la sxajnigon , se oni venigos kuracistojn .
+VALERO=Cxu vi sxercas ?
+Cxu ili scias ion pri tio ?
+Trankviligxu .
+Vi povos havi antaux ili kian ajn malsanon vi volas ;
+ili trovos argumentojn por klarigi , de kio gxi devenas .
+SCENO=IX Harpagono , Elizo , Valero HARPAGONO ( flanken , en la fono de la scenejo ) Estis nenio , dank' al Dio .
+VALERO ( ne vidante Harpagonon ) Fine , nia lasta rimedo estos forkuro , kiu povas nin sxirmi kontraux cxio ;
+( ekvidante Harpagonon ) Jes , cxiu filino devas obei sian patron . Sxi ne rajtas rigardi kia estas la edzo ;
+kaj se cxeestas la granda argumento sen doto , sxi devas esti preta akcepti cxion , kion oni proponos al sxi .
+HARPAGONO=Bone !
+Jen estas bona parolado .
+VALERO=Mia sinjoro , mi petas pri pardono , se mi ekscitigxas iom , kaj kuragxas paroli tiamaniere kun sxi .
+HARPAGONO=Kiel ?
+Mi estas ravita , kaj mi volas , ke vi prenu sur sxin plenegan povon .
+( al Elizo ) Jes , kien ajn vi iras , mi transdonas al li la auxtoritaton , kiun la cxielo donis al mi super vi , kaj mi volas , ke vi faru cxion , kion li ordonos .
+VALERO=Cxu vi post tio kontrauxstaros al miaj admonoj ?
+SCENO=X Harpagono , Valero VALERO=Mia sinjoro , mi sxin sekvos por dauxrigi la lecionon , kiun mi estis faranta al sxi .
+HARPAGONO=Jes , vi faros servon al mi , certe .
+VALERO=Estas bone teni sin iom forte per la brido .
+HARPAGONO=Estas vere .
+Oni devas .
+. .
+VALERO=Ne malkvietigxu .
+Mi pensas , ke mi sxin konvinkos .
+HARPAGONO=Faru , faru , mi promenos iom en la urbo kaj baldaux revenos .
+VALERO ( parolante al Elizo kaj elirante je la sama flanko kiel sxi ) Jes , mono estas la plej valora afero en la mondo , kaj vi devas danki al la cxielo pro la prudenta patro , kiun gxi donis al vi .
+Li scias , kio estas la vivo .
+Kiam viro proponas preni ies filinon sen doto , oni ne devas rigardi pluen .
+Tio=cxi enhavas cxion , kaj sen doto anstatauxas belecon , junecon , altnaskon , honoron , sagxon kaj honestecon .
+HARPAGONO ( sola ) Ho !
+la brava knabo !
+Jen estas paroli kiel orakolo .
+Felicxa tiu , kiu povas havi tian serviston !
+AKTO=II SCENO=I Kleanto , La Flèche KLEANTO=Ha !
+Perfidulo , kie do vi kasxis vin ?
+Cxu mi ne ordonis al vi .
+. .
+KLEANTO=Kiel statas nia afero ?
+La okazo estas pli urgxa ol iam . De la tempo , kiam mi vidis vin , mi eltrovis , ke mia patro estas mia konkuranto .
+LA=FLÈCHE=Via patro enamigxis !
+KLEANTO=Jes , kaj mi tre malfacile sukcesis kasxi antaux li la malkvieton , kiun tiu novajxo kauxzis al mi .
+LA=FLÈCHE=Li sin okupas pri amo !
+Kion , diablo , li pensas ?
+Cxu li mokas ?
+Cxu amo estas farita por tiel konstruitaj homoj ?
+KLEANTO=Pro miaj pekoj estis necese , ke tiu pasio venu en lian kapon .
+LA=FLÈCHE=Sed kial kasxi al li vian amon ?
+KLEANTO=Por doni al li malpli da suspekto , kaj rezervi al mi , se mi gxin bezonos , pli oportunan okazon por malhelpi tiun geedzigxon .
+Kian respondon oni faris al vi ?
+KLEANTO=Cxu la prunto ne farigxos ?
+LA=FLÈCHE=Pardonu .
+Simono , la makleristo , kiun oni montris al ni , homo agema kaj fervorplena , diras , ke li faris por vi cxion ;
+kaj li certigas , ke via sola vizagxo kaptis lian koron .
+KLEANTO=Mi havos do la dekkvin mil frankojn , kiujn mi petas ?
+LA=FLÈCHE=Jes , sed sub kelkaj kondicxetoj , kiujn vi devos akcepti , se vi volas , ke tio farigxu .
+KLEANTO=Cxu li igis vin paroli kun tiu , kiu pruntos la monon ?
+LA=FLÈCHE=Ha , vere !
+Tio ne okazas tiel .
+Li , ankoraux pli ol vi , zorgas sin kasxi , kaj tio estas mistero multe pli granda , ol vi pensas .
+KLEANTO=Kaj precipe cxar nia patrino jam mortis , kies posedajxon oni ne povas forpreni de mi .
+" KLEANTO=Nenio direnda kontraux tio .
+" KLEANTO=Unu por dekok !
+Certe , tio estas honesta , kaj estas neniu kauxzo plendi .
+LA=FLÈCHE=Estas vere .
+Sed , cxar la dirita pruntanto ne havas cxe si la menciitan sumon , kaj cxar li , por kontentigi la pruntoprenanton , estas devigata gxin pruntepreni de alia persono por 20 procentoj , konvenos , ke la dirita unua prunteprenanto pagu tiun=cxi procenton , krom la alia , tial ke , nur por fari servon al li , la pruntanto kontraktos tiun prunton .
+" KLEANTO=Kiel , je la diablo !
+Kia hebreo !
+Kia arabo estas tiu !
+Tio farigxas ja pli=ol 25 procentoj ?
+LA=FLÈCHE=Estas vere , tion mi diris .
+Vi pensu pri tio .
+KLEANTO=Kion vi volas , ke mi pensu ?
+Mi bezonas monon , mi estas do devigata konsenti je cxio .
+LA=FLÈCHE=Tian respondon mi faris .
+KLEANTO=Cxu estas io plia ?
+KLEANTO=Kion signifas tio=cxi ?
+LA=FLÈCHE=Auxskultu la katalogon .
+Unue , lito kvarpieda kun kurtenoj el hungara brodajxo tre lerte arangxita sur olivkolora drapo , kun ses segxoj kaj samsxtofa littegajxo , cxio bone fasonita kaj subtegita per rugxe-blue sxangigxanta tafteto .
+" KLEANTO=Kion li volas , ke mi faru el tio ?
+LA=FLÈCHE=Atendu .
+Plie teksita tapeto figuranta la Kupidojn de Gombaud kaj Macé . Plie , granda tablo el juglando , kun dek du tornitaj kolonoj aux kolonegoj , kiu estas detirebla je la du finoj , kaj provizita malsupre de ses benketoj . " KLEANTO=Kion mi faru , je Dio !
+.
+. .
+LA=FLÈCHE=Havu paciencon .
+Plie , tri grandaj pafiloj tute ornamitaj de perlamoto , kun la tri apartenaj forkoj .
+" KLEANTO=Mi furiozas !
+LA=FLÈCHE=Kviete !
+Plie , liuto el Bolono , havanta cxiujn aux preskaux cxiujn kordojn .
+Plie , trumadamo , kaj ludo de damoj , kun anserludo laux la greka modo , tre konvena por pasigi la tempon , kiam oni nenion havas por fari .
+Plie , hauxto de lacerto longa tri kaj duonan futojn , plena de fojno , agrabla kuriozajxo por pendigi sur plafonon de cxambro .
+" KLEANTO=La pesto lin sufoku kun lia modereco , la perfidulon , la turmentiston !
+Cxu oni iam auxdis pri tia monavideco ?
+Cxu ne suficxas al li la hontiga procento , kiun li postulas , ke li volas plie devigi min akcepti por tri mil frankoj la malnovajn rubojn , kiujn li kolektas ?
+Mi ne ricevos ducent eskudojn por cxio tio .
+LA=FLÈCHE=Mi vidas vin , sinjoro , tio ne vin ofendu , precize sur la granda vojo , sur kiu Panurgo iris , kiam li ruinigis sin , prunteprenante monon , acxetante kare , vendante malkare kaj mangxante sian grenon ankoraux verda .
+KLEANTO=Kion vi volas , ke mi faru ?
+Al tio la junuloj estas devigataj de la malbenita avareco de la patroj , kaj post tio=cxi oni miras , kiam la filoj deziras ilian morton !
+LA=FLÈCHE=Mi konfesas , ke via patro ekscitus per sia malnobleco la plej kvietan homon en la mondo .
+KLEANTO=Donu iom cxi=tiun katalogon , por=ke mi gxin tralegu denove .
+SCENO=II Harpagono , Simono , Kleanto kaj La Flèche ( en la fono de la scenejo ) SIMONO=Jes , sinjoro , li estas junulo , kiu bezonas monon ;
+HARPAGONO=Sed cxu vi pensas , Simono , ke estas neniu dangxero en tio ?
+SIMONO=Ne , mi ne povas informi vin funde pri tio , kaj nur okaze mi estis sendita al li , sed pri cxio vi estos sciigata de li mem , kaj lia lakeo min certigis , ke vi estos kontenta , kiam vi lin konos .
+Nur tion mi povas diri , ke lia familio estas tre ricxa , ke li ne=plu havas patrinon kaj ke li promesos , se vi volos , ke ankaux lia patro estos mortinta post ok monatoj .
+HARPAGONO=Tio estas io .
+Bonfaremo , Simono , necesigas nin fari plezuron al la homoj , kiam ni povas .
+SIMONO=Kompreneble .
+LA=FLÈCHE ( mallauxte al Kleanto rekonanta Simonon ) Kion signifas tio=cxi ?
+Nia Simono parolanta kun via patro !
+KLEANTO ( mallauxte al La Flèche ) Cxu vi eble scigis lin , kiu mi estas ?
+Cxu vi estas kapabla min perfidi ?
+SIMONO ( al Kleanto kaj La Flèche ) Ho !
+Ho !
+Vi estas tre senpaciencaj .
+Kiu diris al vi , ke estas cxi tie ?
+( al Harpagono ) Ne mi almenaux , sinjoro , malkovris al ili vian nomon kaj vian logxejon .
+Sed , laux mia opinio , ne estas io bedaux- rinda en tio=cxi , ili estas nebabilemaj homoj , kaj vi povas cxi=tie interparoli .
+HARPAGONO=Kiel ?
+HARPAGONO=Kiel , kanajlo !
+Estas vi , tiu kiu kuragxas vin doni al tiaj kulpaj ekstremoj !
+KLEANTO=Kiel , patro !
+Vi estas tiu , kiu sin dedicxas al tiaj hontigaj faroj !
+KLEANTO=Kaj vi penadas ricxigxi per tiel krimaj procentegoj !
+HARPAGONO=Cxu vi post tio riskas aperi antaux mi ?
+KLEANTO=Cxu vi post tio kuragxas prezenti vin antaux la okuloj de la mondo ?
+HARPAGONO=Cxu vi ne hontas , diru , vin donante al tiaj dibocxoj , kurante al teruraj elspezoj kaj hontige dissemante la posedajxojn , kiujn viaj gepatroj akiris per tiel multaj sxvitoj ?
+KLEANTO=Cxu vi ne rugxigxas , malhonorante vian situacion per la komercoj , kiujn vi faras , oferante gloron kaj bonfamon pro la nesatigebla avideco kunmeti eskudon sur eskudon , kaj superante pri la procentajxoj la plej abomenajn artifikojn iam elpensitajn de la plej famaj procenteguloj !
+HARPAGONO=For de miaj okuloj , fripono , for de miaj okuloj !
+HARPAGONO=Foriru , mi diras , kaj ne min kolerigu .
+( sola ) Mi ne bedauxras cxi=tiun aventuron , gxi estas por mi admono , ke mi havu pli=ol iam la okulojn sur cxiujn liajn farojn .
+SCENO=IV Frozino , Harpagono FROZINO=Sinjoro .
+HARPAGONO=Atendu momenton ;
+mi tuj revenos kaj parolos kun vi .
+( flanken ) Estas gxustatempe , ke mi iru iom observi mian monon .
+SCENO=V La Flèche , Frozino LA=FLÈCHE ( ne vidante Frozinon ) Estas vere amuza aventuro .
+Li devas havi ie vastan magazenon da vestajxoj , cxar ni nenion rekonis en la katalogo , kiun ni havas .
+FROZINO=He !
+Estas vi , mizera La Flèche !
+Kiel okazas tiu renkontigxo ?
+LA=FLÈCHE=Ha !
+Estas vi , Frozino !
+Kion vi deziras fari cxi tie ?
+FROZINO=Kion mi faras en cxiu alia loko : min okupi je traktoj , fari servojn al personoj kaj profiti kiel=eble=plej bone la ecojn , kiujn mi povas havi .
+Vi scias , ke en cxi=tiu mondo estas necese vivi per artifikoj , kaj ke , al personoj kiel mi , la cxielo ne donis aliajn rentojn ol intrigon kaj lertecon .
+LA=FLÈCHE=Cxu vi havas iun negocon kun la mastro de tiu=cxi domo ?
+FROZINO=Jes , mi traktas por li iun afereton , pro kiu mi esperas havi rekompencon .
+LA=FLÈCHE=De li ?
+Ho !
+FROZINO=Estas kelkaj servoj , kiuj mirinde trafas .
+LA=FLÈCHE=Mi estas via servanto , sed vi ne konas ankoraux sinjoron Harpagono .
+Sinjoro Harpagono estas el cxiuj homoj la homo malplej homa , la mortulo el cxiuj mortuloj plej malmola kaj plej maldonema .
+Ne estas servo , kiu povas tiel instigi lian dankemon , ke li malfermu siajn manojn .
+Lauxdon , estimon , bonvolon en paroloj , kaj amikecon , tiel multe kiel vi deziros , sed pri mono ne parolu .
+FROZINO=Dio !
+Mi konas la arton melki homojn , mi konas sekreton por malfermi ilian sentemon , por tikli ilian koron , por trovi la lokojn , en kiuj ili estas vundeblaj .
+LA=FLÈCHE=Bagateloj cxi=tie .
+Mi vetas , ke vi ne povos moligi , koncerne monon , la homon pri kiu ni parolas .
+Pri tio li estas turko , sed de turkeco , kiu cxiujn malesperigus .
+Oni povus krevi , ne lin sxanceligante .
+. .
+Sed li revenas , mi foriras .
+SCENO=VI Harpagono , Frozino HARPAGONO ( mallauxte ) Cxio statas bone .
+Dio !
+Kiel bone vi fartas kaj kian vere sanoplenan vizagxon vi havas !
+HARPAGONO=Kiu ?
+Cxu mi ?
+FROZINO=Mi neniam vidis vin kun mieno tiel fresxa kaj tiel brava .
+HARPAGONO=Cxu vere ?
+FROZINO=Kiel !
+Vi neniam en via vivo estis tiel juna , kiel vi estas nun , kaj oni vidas dudekkvinjarajn junulojn , kiuj estas pli maljunaj ol vi .
+HARPAGONO=Tamen , Frozino , mi estas sesdekjara , bone kalkulante .
+FROZINO=Nu , kio estas tio ?
+Sesdek jaroj ? Bela afero !
+Tio estas la florado de la agxo , kaj vi nun eniras la belan sezonon de la homa vivo .
+HARPAGONO=Estas vere ;
+sed mi opinias , ke dudek jaroj malpli tamen ne estus maloportunaj .
+FROZINO=Cxu vi sxercas ?
+Vi ne bezonas tion , kaj vi estas farita el tia pasto , ke vi vivos gxis cent jaroj .
+HARPAGONO=Cxu vi kredas tion ?
+FROZINO=Certe ;
+vi havas cxiujn antauxsignojn por tio .
+Levu la kapon .
+Ho !
+Jen kiel bone vidigxas inter viaj okuloj la signo de longa vivo !
+HARPAGONO=Cxu vi estas certa pri tio ?
+FROZINO=Sendube .
+Montru vian manon .
+Ha !
+Dio !
+Kia vivolinio !
+HARPAGONO=Kiel ?
+FROZINO=Cxu vi ne vidas , gxis kie sin etendas cxi=tiu linio ?
+HARPAGONO=Nu ?
+Kion tio=cxi signifas ?
+FROZINO=Je=Dio !
+Mi diris cent jarojn ;
+sed vi superos cent=dudek .
+HARPAGONO=Cxu estas eble ?
+FROZINO=Oni estos devigata vin bucxi , mi vetas .
+Vi enterigos viajn infanojn kaj la infanojn de viaj infanoj .
+HARPAGONO=Des pli bone !
+Kiel statas nun nia afero ?
+FROZINO=Cxu vi bezonas demandi pri gxi ?
+Cxu oni vidas , ke mi okupas min je afero , kiun mi ne kondukas al felicxa fino ?
+Precipe pri geedzigxoj mi havas mirindan lerton .
+Ne estas en la mondo partioj , kies kunigxon mi ne sukcesas en mallonga tempo , kaj mi pensas ke , se mi metus tion en mian kapon , mi edzigus la Grandan Turkon kun la Respubliko de Venecio .
+Ne estis certe tiel grandaj malhelpajxoj en nia afero .
+Cxar mi havas rilatojn kun tiuj sinjorinoj , mi funde interparolis kun ili pri vi , kaj mi raportis al la patrino pri la intenco , kiun vi ekhavis pri Mariano nur tial , ke vi vidis sxin pasanta sur la strato kaj sin aerumanta cxe sia fenestro .
+HARPAGONO=Kaj sxi respondis .
+. .
+?
+FROZINO=Sxi goje akceptis la proponon , kaj kiam mi sxin sciigis pri via forta deziro , ke sxia filino atestu hodiaux vespere al la edzigxkontrakto de via propra filino , sxi volonte konsentis kaj konfidis sxin al mi por tio .
+FROZINO=Vi estas prava .
+Sxi venos post tagmangxo por viziti vian filinon , de cxi=tie sxi intencas iri promeni al la foiro , kaj sxi poste revenos por la vespermangxo .
+HARPAGONO=Tiam ili iros kune en mia kalesxo , kiun mi pruntos al ili .
+FROZINO=Tio tre placxos al sxi .
+HARPAGONO=Sed , Frozino , cxu vi parolis kun la patrino pri la doto , kiun sxi povas doni al sia filino ?
+Cxu vi diris al sxi , ke sxi devas iom peni , klopodi , fari oferon en tia okazo ?
+Cxar oni ja ne edzigxas kun knabino ne alportanta iom da posedajxo .
+FROZINO=Kiel !
+Tiu=cxi knabino alportos al vi renton de dekdu mil frankoj .
+HARPAGONO=Renton de dekdu mil frankoj ?
+FROZINO=Jes .
+Unue , sxi estis nutrata kaj edukata en granda sxparemo de mangxajxo , sxi estas knabino kutiminta vivi per salato , lakto , froma- gxo kaj pomoj , kaj por kiu do ne estos necesaj tablo bone provizita nek supoj bongustegaj , nek cxiutagaj hordeo-kukoj , nek similaj frandajxoj , kiujn bezonus alia virino , kaj tio ne estas tiel negrava , ke gxi ne atingos cxiujare almenaux tri mil frankojn .
+Aliparte , sxi nur sxatas tre simplan purecon , kaj ne amas belegajn vestojn , multekostajn juvelojn nek luksajn meblojn , kiujn tre varme deziras sxiaj similaj .
+Kaj tiu=cxi fakto valoras pli=ol kvar mil frankojn cxiujare .
+Plie sxi terure malamas ludojn , kio ne estas ofta cxe la nuntempaj virinoj , cxar mi scias , ke unu el niaj najbarinoj perdis cxi jare cxe hazardkartludo dudek mil frankojn !
+Sed ni prenu nur la kvaronon de tio .
+HARPAGONO=Jes , tio ne estas malbona , sed tiu kalkulo havas nenion efektivan .
+FROZINO=Pardonu .
+HARPAGONO=Estas moko voli fari doton el cxiuj elspezoj , kiujn sxi ne faros .
+Mi ne kvitancos pri io , kion mi ne ricevas , kaj mi tamen devas ion palpi .
+FROZINO=Dio !
+gxi estos via apartenajxo .
+HARPAGONO=Estos necese tion ekzameni .
+Sed , Frozino , ankoraux io maltrankviligas min .
+La knabino estas juna , kiel vi vidas , kaj la gejunuloj gxenerale nur amas siajn samagxulojn , kaj nur kun ili volonte iras .
+Mi timas , ke viro en mia agxo ne estos laux sxia gusto , kaj ke tio=cxi kauxzos en mia domo kelkajn eksterordajxetojn , kiuj ne placxus al mi .
+FROZINO=Ha !
+Kiel malbone vi sxin konas !
+Estas ankoraux unu apartajxo , kiun mi estis dironta al vi : sxi havas teruran antipation por cxiuj junuloj kaj amas nur maljunulojn .
+HARPAGONO=Cxu sxi ?
+FROZINO=Jes , sxi !
+Mi volus , ke vi estu auxdinta sxin paroli pri tio .
+Sxi tute ne povas elporti la vidon de junulo , sxi diras , ke sxi neniam estas pli kontenta , ol kiam sxi povas vidi belan maljunulon kun majesta barbo .
+La plej maljunaj estas la plej cxarmaj por sxi , kaj mi vin avertas , ke vi ne sxajnigu vin pli juna ol vi estas .
+Sxi volas , ke oni estu almenaux sesdekjara , kaj antaux malpli=ol kvar monatoj , kiam sxi estis tuj edzinigxonta , sxi subite rompis la edzigxon , cxar montrigxis , ke sxia amanto estas nur kvindeksesjara , kaj ne prenis okulvitrojn por subskribi la kontrakton .
+HARPAGONO=Nur tial ?
+FROZINO=Jes .
+Sxi diras , ke kvindek=ses jaroj ne kontentigas sxin , kaj sxi precipe amas la nazojn , kiuj portas okulvitrojn .
+HARPAGONO=Certe vi diras al mi aferon tute novan .
+FROZINO=Tio cxi estas pli forta , ol oni povas diri .
+En sxia cxambro oni vidas kelkajn pentrajxojn kaj desegnajxojn .
+Sed kion vi pensas , ke ili figuras ?
+Adonisojn ? Cefalojn ?
+Parisojn kaj Apolonojn ?
+HARPAGONO=Tio cxi estas mirinda !
+Tion mi neniam estus imaginta , kaj mi estas tre kontenta ekscii , ke sxi havas tian karakteron .
+Efektive , se mi estus virino , mi ne amus junajn virojn .
+FROZINO=Mi tion ja kredas !
+Jen estas belaj drogoj , tiuj junuloj , por=ke oni amu ilin !
+Ili estas belaj vantuloj , belaj dandoj , por=ke oni deziru ilian hauxton !
+Kaj mi tre volus scii , kia allogo kusxas en ili !
+HARPAGONO=Rilate min , mi nenian trovas , kaj mi ne scias , kial kelkaj virinoj tiel forte amas ilin .
+FROZINO=Oni devas esti tute freneza por trovi la junulojn agrablaj , cxu tio estas prudenta ?
+Cxu tiuj junaj blonduloj estas viroj ?
+Kaj cxu oni povas ami tiajn bestojn ?
+HARPAGONO=Tion mi cxiutage diras .
+Kun ilia vocxo de juna kokino , iliaj tri maldikaj lipharoj levitaj kiel katbarbo , iliaj perukoj de kanabo , iliaj pantalonoj falantaj , kaj iliaj ventroj malbone vestitaj !
+FROZINO=He !
+Bele konstruitaj ili estas , kompare kun persono kiel vi !
+Jen estas viro , kiun oni plezure rigardas .
+Tiel farita kaj vestita oni devas esti , se oni volas inspiri amon .
+HARPAGONO=Vi trovas min bela ?
+FROZINO=Kiel ?
+Vi estas cxarma kaj via vizagxo estas pentrinda .
+Turnigxu iom , mi petas , pli bela estas neeble .
+HARPAGONO=Neniun gravan mi havas , dank' al Dio , estas nur mia gorgxosxvelo , kiu min prenas kelkfoje .
+HARPAGONO=Diru ion , cxu Mariano vidis min jam ?
+Cxu sxi rimarkis min , pasante ?
+HARPAGONO=Vi faris bone , mi dankas .
+FROZINO=Malgrandan peton mi devas fari al vi , sinjoro .
+Mi havas proceson , kiun mi baldaux perdos pro manko de iom da mono ( Harpagono farigxas serioza ) kaj vi facile povus liveri al mi la gajnon de tiu proceso , havante por mi kelkan komplezon .
+. .
+Vi ne povas imagi la plezuron , kiun sxi havos , vin vidante . ( Harpagono refaras gajan vizagxon ) Ho !
+kiel vi placxos al sxi , kaj kian admiran impreson faros sur sxian animon via krispo laux la antikva modo !
+HARPAGONO=Certe , vi ravas min , tion dirante .
+FROZINO=Vere , sinjoro , tiu proceso havas por mi grandan gravecon .
+( Harpagono refaras viza- gxon seriozan ) Mi estos ruinigita , se mi gxin perdos , kaj iom da helpo restarigus miajn aferojn .
+Mi volus , ke vi estu vidinta sxian plezuron , kiam sxi auxdis min paroli pri vi .
+( Harpagono refaras vizagxon gajan ) Gxojo brilis en sxiaj okuloj , dum mi rakontis pri viaj meritoj , kaj fine mi vekis cxe sxi grandegan senpaciencon , ke tiu=cxi edzigxo estu jam afero farita .
+FROZINO=Mi petas vin , sinjoro , donu al mi la malgrandan helpon , pri kiu mi petas .
+HARPAGONO=Adiaux .
+Mi iras fini miajn leterojn .
+FROZINO=Mi certigas vin , sinjoro , ke vi neniam povus helpi al mi el pli granda embaraso .
+HARPAGONO=Mi ordonos , ke mia kalesxo estu tute preta por konduki vin al la foiro .
+FROZINO=Mi vin tiel ne tedus , se mi ne estus devigata de la neceso .
+HARPAGONO=Kaj mi zorgos , ke oni vespermangxu frue , por ne fari vin malsanaj .
+FROZINO=Ne rifuzu , sinjoro , la helpon , kiun mi petegas ;
+vi ne povas imagi , sinjoro , la plezuron , kiun .
+. .
+HARPAGONO=Mi foriras .
+Jen oni min vokas .
+Gxis posttagmezo .
+FROZINO ( sola ) La febro vin premu , malnobla hundo ;
+al cxiuj diabloj !
+La maldonemulo firme kontrauxstaris al cxiuj miaj atakoj .
+Venu cxiuj tien cxi , por=ke mi disdonu al vi miajn ordonojn por la vespero kaj klarigu al cxiu sian rolon .
+Alproksimigxu , sinjorino Klauxdo .
+Ni komencu kun vi .
+Bone , vi havas la batalilon jam en mano .
+Mi vin komisias purigi cxie , kaj precipe evitu froti tro forte , por ne eluzi la meblojn .
+Krom tio , mi rajtigas vin dum la vespermangxo regi la botelojn , kaj se unu el ili perdigxos aux se io rompigxos , mi sxuldigos vin , kaj forprenos gxian valoron el via salajro .
+JAKOBO ( flanken ) Politika puno !
+HARPAGONO ( al sinjorino Klauxdo ) Iru .
+SCENO=II Harpagono , Kleanto , Elizo , Valero , Jakobo , Brindavoine , La Merluche HARPAGONO=Vi , Brindavoine , kaj vi La Merluche , mi donas al vi la oficon lavi la glasojn kaj doni por trinki , sed nur kiam oni soifos , kaj ne laux la kutimo de kelkaj arogantaj lakeoj , kiuj elvokas la gastojn kaj ilin instigas trinki , kiam neniu pensas pri tio .
+Atendu gxis oni petos tion de vi pli=ol unufoje , kaj memoru cxiam doni multe da akvo .
+JAKOBO ( flanken ) Jes , senakva vino ebriigas .
+LA=MERLUCHE=Cxu ni formetos niajn kitelojn , sinjoro ?
+HARPAGONO=Jes , kiam vi vidos la gastojn venantaj , kaj zorge evitu malbonigi viajn vestojn .
+LA=MERLUCHE=Kaj ke mia pantalono estas truigita malantauxe kaj ke , ne vin ofendante , oni vidas mian .
+. .
+HARPAGONO ( al La Merluche ) Silentu ;
+turnu tion lerte al la muro , kaj montru cxiam al la gastoj la antauxan parton .
+SCENO=III Harpagono , Kleanto , Elizo , Valero , Jakobo HARPAGONO=Vi , filino , vi tenos la okulojn sur tio , kion oni prenos de la tablo kaj vi zorgos , ke nenio difektigxu .
+Tio konvenas bone al frauxlinoj . Sed , dume , pretigxu akcepti bone mian amatinon , kiu venos viziti vin kaj akompanos vin al la foiro .
+Cxu vi komprenas , kion mi diras ?
+ELIZO=Jes , patro .
+KLEANTO=Mi , patro , malbonan vizagxon ?
+Pro kiu kaux- zo ?
+HARPAGONO=Nu !
+Mi konas la humoron de filoj , kies patro reedzigxas , kaj per kiaj okuloj ili ordinare rigardas tiun , kiun oni nomas duonpatrino .
+KLEANTO=Por diri al vi la veron , mia patro , mi ne povas promesi esti tre kontenta pri tio , ke sxi farigxos mia duonpatrino , mi mensogus se mi tion dirus , sed por akcepti sxin dece kaj montri al sxi afablan vizagxon , mi promesas obei al vi precize en tiu=cxi rilato .
+HARPAGONO=Vi atentu bone , almenaux .
+KLEANTO=Vi vidos , ke vi havos neniun kauxzon por plendi .
+HARPAGONO=Vi faros prudente .
+SCENO=V Harpagono , Valero , Jakobo HARPAGONO=Valero , helpu min pri tio=cxi .
+Nu , Jakobo , proksimigxu ;
+mi lasis vin por la fino .
+JAKOBO=Cxu al via veturigisto , sinjoro , aux al via kuiristo vi deziras paroli , cxar mi estas ambaux .
+HARPAGONO=Al ambaux .
+JAKOBO=Sed al kiu komence ?
+HARPAGONO=Al la kuiristo .
+JAKOBO=Bonvolu do atendi , mi petas .
+( Jakobo formetas sian livreon de kondukisto kaj aperas vestita kiel kuiristo ) .
+HARPAGONO=Kia ceremonio estas tio ?
+JAKOBO=Vi povas paroli .
+HARPAGONO=Jakobo , mi invitis gastojn al vespermangxo hodiaux .
+JAKOBO ( flanken ) Mirindajxo !
+HARPAGONO=Diru iom : cxu vi regalos nin bone ?
+JAKOBO=Jes , se vi donos al mi multe da mono .
+HARPAGONO=Al la diablo !
+Cxiam monon !
+Sxajnas kvazaux ili nenion pli havus por diri ol monon !
+monon ! monon !
+Ili cxiam havas tiun=cxi vorton en la busxo , monon !
+Cxiam paroli pri mono .
+Gxi estas ilia granda batalilo , mono !
+VALERO=Mi neniam auxdis respondon pli arogantan ol tiu=cxi .
+Kia mirindajxo estas regali bone per multe da mono ?
+Tio estas afero plej facila en la mondo , kaj ne ekzistas tiel malsprita homo , ke li ne povus tiel fari , sed por montri sin lerta , oni devas proponi regali bone per malmulte da mono .
+JAKOBO=Regali bone per malmulte da mono ?
+VALERO=Jes .
+JAKOBO=Je honoro , sinjoro majordomo , vi farus servon al ni , montrante vian sekreton kaj prenante sur vin mian oficon de kuiristo .
+Cetere vi pretendas esti la cxiofaranto en tiu=cxi domo .
+HARPAGONO=Silentu .
+Kion ni bezonos ?
+JAKOBO=Jen estas lia majordoma mosxto , kiu regalos vin bone per malmulte da mono .
+HARPAGONO=Ha !
+Mi volas , ke vi respondu al mi !
+JAKOBO=Kiom da gastoj sidos cxe la vespermangxo ?
+HARPAGONO=Ni estos ok aux dek ;
+sed vi devas acxeti nur por ok. Kio estas suficxa por ok suficxas ankaux por dek .
+VALERO=Kompreneble . JAKOBO=Nu , ni bezonos kvar grandajn supojn kaj kvin mangxajxetojn ;
+buljonojn .
+. .
+sauxcajxojn . .
+. HARPAGONO=Je la diablo ! Tio estus suficxa por nutri tutan urbon .
+JAKOBO=Rostajxon .
+. .
+HARPAGONO ( metante la manon sur la busxon de Jakobo ) Ha ! Perfidulo , vi mangxas mian tutan posedajxon .
+JAKOBO=Dolcxajxojn .
+.
+.
+HARPAGONO ( metante denove la manon sur lian busxon ) Ankoraux .
+. .
+VALERO ( al Jakobo ) Cxu vi deziras krevigi cxiujn ?
+Kaj cxu nia sinjoro invitis gastojn por ilin mortigi per troa mangxajxo ?
+Legu do iom la konsilojn por bonfarto kaj demandu la kuracistojn , cxu estas io pli malsaniga por la homo ol la troa mangxado .
+HARPAGONO=Li estas prava .
+VALERO=Sciu , Jakobo , vi kaj viaj similaj , ke tablo kovrita per troa viando estas insido , por montri sin amiko de siaj gastoj , estas bezonate , ke modereco regu cxe la mangxo , kaj , laux la diro de antikva sagxulo : Oni devas mangxi por vivi kaj ne vivi por mangxi .
+HARPAGONO=Ha !
+Kiel bone dirita estas tio=cxi !
+Proksimi- gxu , por=ke mi vin kisu pro tiu parolo .
+Tio estas la plej bela sentenco , kiun mi iam aux- dis : Oni devas vivi por mangxi , kaj ne mangxi por vi .
+. .
+Ne , ne estas tiel .
+Kiel vi diras ?
+VALERO=Ke oni devas mangxi por vivi kaj ne vivi por mangxi .
+HARPAGONO ( al Jakobo ) Jes ;
+cxu vi auxdas ?
+( al Valero ) Kiu eminenta homo diris tion ?
+VALERO=Mi ne=plu memoras lian nomon .
+HARPAGONO=Memoru skribi por mi tiujn vortojn ;
+mi volas , ke oni ilin gravuru per oraj literoj sur la kameno de mia mangxosalono .
+VALERO=Mi ne forgesos , kaj rilate la vespermangxon , vi nur lasu min fari .
+Mi arangxos cxion konvene .
+HARPAGONO=Faru do .
+JAKOBO=Des pli bone , mi havos malpli grandan laboron .
+HARPAGONO ( al Valero ) Vi elektos tiajn objektojn , el kiuj oni malmulte mangxas kaj kiuj baldaux satigas , kelkajn bonajn fazeolojn tre grasajn , kun iu pastajxo en poto bone provizita per kasxtanoj .
+VALERO=Fidu al mi .
+HARPAGONO=Nun , Jakobo , vi devas purigi mian kalesxon .
+JAKOBO=Atendu .
+Tio=cxi koncernas la veturigiston .
+( Jakobo remetas sian livreon ) Vi diras .
+. .
+? HARPAGONO=Ke vi devas purigi mian kalesxon kaj havi miajn cxevalojn tute pretaj por iri al la foiro .
+JAKOBO=Viajn cxevalojn , sinjoro ;
+mi jxuras , ke ili absolute ne estas en stato por marsxado .
+Mi ne diras , ke ili kusxas sur pajlo , la mizeraj bestoj neniun havas , kaj tio estus malgxusta diro .
+Sed vi trudas al ili tiel severajn fastojn , ke ili jam ne estas pli=ol similajxoj aux fantomoj , ombroj de cxevaloj .
+HARPAGONO=Tre kompatindaj ili estas !
+Ili nenion faras .
+JAKOBO=Kaj tial , ke oni ne faras ion , sinjoro , cxu oni ne bezonas mangxi ?
+Multe pli bone estus por ili , la mizeraj bestoj , se ili laborus multe kaj mangxus same .
+HARPAGONO=Ne estos granda laboro iri gxis la foiro .
+JAKOBO=Ne , sinjoro , mi ne havas la kuragxon ilin konduki , kaj mi sentus riprocxojn de konscienco , se mi vipus ilin en ilia nuna stato .
+Kiel vi volus , ke ili tiru kalesxon ?
+Sin mem ili ne povas treni .
+VALERO=Sinjoro , mi petos la najbaron Pikardo , ke li bonvolu ilin konduki , cetere ni bezonos lin ankaux por pretigi la vespermangxon .
+JAKOBO=Tiel estu .
+Mi preferas , ke ili mortu sub alies mano ol sub la mia .
+VALERO=Cxu sinjoro Jakobo prezentas sin kiel prudentulon ?
+JAKOBO=Lia majordoma mosxto prezentas sin kiel homon necesan !
+HARPAGONO=Silentu .
+JAKOBO=Sinjoro , mi ne povas toleri la flatemulojn , kaj mi bone vidas , kion tiu=cxi volas .
+Liaj konstantaj observoj pri la pano , vino , ligno , salo kaj kandelo celas nur vin tikli kaj vin flati .
+HARPAGONO=Cxu mi povus scii , Jakobo , kion oni diras pri mi ?
+JAKOBO=Jes , sinjoro , se mi estus certa , ke tio ne vin cxagrenus .
+HARPAGONO=Neniel .
+JAKOBO=Pardonu , sed mi bone scias , ke mi vin kolerigus .
+HARPAGONO=Tute ne , tio=cxi , kontrauxe , faros al mi plezuron , kaj mi estas kontenta ekscii , kiamaniere oni parolas pri mi .
+JAKOBO=Sinjoro , cxar vi tion volas , mi diros al vi sincere , ke oni mokas vin , ke oni de cxiu flanko jxetas al ni cent pikantajn sxercojn pri vi , kaj ke oni neniam estas tiel kontenta , kiel kiam oni vin senmodere mallauxdas , kaj faras anekdotojn pri via avareco .
+Unu diras , ke vi presigas specialajn kalendarojn , en kiuj vi duobligas la jarsezonojn kaj la vigilojn por profiti pli ofte la fastojn , kiujn vi trudas al via domanaro , alia pretendas , ke vi cxiam havas disputon preta por fari al viaj servistoj en la tempo de la novjardonacoj aux kiam ili prenas forpermeson de vi , por tiel havi motivon nenion doni al ili ;
+tiu=cxi rakontas , ke iun tagon vi vokis al jugxejo la katon de najbaro , cxar gxi mangxis restajxon de kruro de sxafido ;
+tiu , ke oni vin surprizis nokte , kiam vi mem sxtelis la avenon de viaj cxevaloj , kaj ke via veturigisto , tiu , kiu servis cxi=tie antaux mi , donis al vi en la mallumo mi ne scias kiom da batoj per bastono , pri kiuj vi neniam volis paroli .
+Fine , cxu vi volas , ke mi diru ?
+Oni nenien povas iri , ne auxdante mallauxde paroli pri vi en cxia maniero , vi estas la fablo kaj la ridobjekto de cxiuj , kaj oni nur parolas pri vi per la alnomoj avarulo , maldonemulo , malnoblulo kaj procentegulo .
+HARPAGONO ( batante Jakobon ) Vi estas malsagxulo , friponego , sentauxgulo kaj arogantulo .
+JAKOBO=Nu !
+Cxu mi tion ne antauxdiris ?
+Vi ne volis kredi al mi .
+Mi ja diris , ke mi vin kolerigus , dirante la veron .
+HARPAGONO=Mi instruos vin paroli .
+JAKOBO=Je=Dio , via noveveninta mosxto , kiu prezentas sin kiel homon necesan , tio=cxi ne estas via afero .
+Ridu je la batoj , kiujn vi ricevos , kaj ne ridu je miaj .
+VALERO=Ha !
+Sinjoro Jakobo , ne koleru , mi petas .
+JAKOBO ( flanken ) Li cedas .
+Mi volas ludi kuragxulon , kaj se li estas tiel malsagxa , ke li min timos , mi lin batos iom .
+( lauxte ) Cxu vi scias , sinjoro ridemulo , ke mi ne ridas , kaj se vi min kolerigas , mi igos vin ridi alimaniere ( Jakobo pusxas Valeron gxis la fono de la scenejo lin minacante ) VALERO=He !
+Kviete !
+JAKOBO=Kiel , kviete ?
+Tio ne placxas al mi .
+VALERO=Mi petas .
+JAKOBO=Vi estas arogantulo .
+VALERO=Sinjoro=Jakobo !
+JAKOBO=Neniu sinjoro Jakobo helpos .
+Se mi prenos bastonon , mi vin konvene batigos .
+VALERO=Kiel la bastonon ? ( Valero siavice pusxas Jakobon ) JAKOBO=He !
+Mi ne diras tion .
+VALERO=Cxu vi scias , sinjoro vantulo , ke mi mem estas kapabla bategi vin ?
+JAKOBO=Mi ne dubas pri tio .
+VALERO=Ke vi entute estas nur malnobla kuiristo ?
+JAKOBO=Mi ja scias tion .
+VALERO=Kaj ke vi min ankoraux ne konas ?
+JAKOBO=Pardonu .
+VALERO=Vi min batos , vi diras ?
+JAKOBO=Sxerce mi tion diris . VALERO=Kaj al mi ne placxas via sxerco .
+( frapante Jakobon per bastono ) Sciu , ke vi estas malbona sxercisto .
+JAKOBO ( sola ) La pesto forprenu la sincerecon !
+Gxi estas malbona metio ;
+de nun mi gxin forlasas kaj ne=plu diros la veron .
+. se mi povos .
+SCENO=VII Mariano , Frozino , Jakobo FROZINO=Cxu vi scias , Jakobo , cxu via sinjoro estas hejme ?
+JAKOBO=Jes , certe li estas , mi scias tion ecx troe .
+FROZINO=Diru al li , mi petas , ke ni estas cxi=tie .
+SCENO=VIII Mariano , Frozino MARIANO=Ha !
+FROZINO=Sed kial ?
+Kion vi timas ?
+MARIANO=Ha !
+Cxu vi demandas ?
+Cxu vi ne komprenas la malkvieton de persono tuj vidonta la turmentilon , al kiu oni sxin kondukas ?
+MARIANO=Jes , Frozino , tion mi ne volas nei , kaj mi konfesas , ke la respektaj vizitoj , kiujn li faris al mi , iom impresis mian animon .
+FROZINO=Sed cxu vi eksciis , kiu li estas ?
+MARIANO=Ne , mi ne scias , kiu li estas , sed mi scias , ke li havas mienon tian , ke oni lin amu , ke , se oni lasus min elekti , mi lin akceptus prefere al iun ajn , kaj ke li ne malmulte kunhelpas , por igi min rigardi kiel teruran turmentilon la edzon , kiun oni volas doni al mi .
+FROZINO=He !
+Cxiuj tiuj blonduloj estas agrablaj , kaj babiladas tre lerte ; sed plej multaj estas malricxaj kiel ratoj .
+Kaj estas pli bone por vi preni maljunan edzon , kiu donos al vi multe da posedajxo .
+Mi konfesas , ke la sentoj ne trovas cxe tiuj tiel grandan plezuron , kaj ke oni devas ja suferi kelkajn negravajn naux- zajxojn kun tia edzo , sed tio ne longe daux- ros , kaj kredu al mi , lia morto baldaux ebligos al vi preni alian edzon pli amindan , kiu rebonigos cxion .
+MARIANO=Dio mia !
+Frozino , estas stranga situacio kiam , por farigxi felicxa , oni devas deziri aux atendi ies morton !
+Kaj morto ne konformi- gxas al cxiuj niaj projektoj .
+FROZINO=Cxu vi sxercas ?
+Vi edzinigxas kun li nur sub la kondicxo , ke li baldaux lasos vin vidvino , kaj tio devas esti unu el la paragrafoj de la kontrakto .
+Tre aroganta li estus , se li ne mortus post tri monatoj .
+Jen li mem venas .
+MARIANO=Ha !
+Frozino , kia vizagxo !
+SCENO=IX Harpagono , Mariano , Frozino HARPAGONO ( al Mariano ) Ne estu ofendita , belulino , se mi venas al vi kun okulvitroj .
+. Frozino , sxi neniun vorton respondas , kaj sxajnas al mi , ke sxi ne montras gxojon , min vidante ?
+FROZINO=Cxar sxi estas ankoraux tute konfuzita ;
+plie la frauxlinoj cxiam hontas por tuj montri , kion ili sentas en la animo .
+HARPAGONO ( al Frozino ) Vi estas prava .
+( al Mariano ) Bela cxarmulino , jen venas mia filino por vin saluti .
+SCENO=X Harpagono , Elizo , Mariano , Frozino MARIANO=Mi malfrue venas , frauxlino , por fari al vi tian viziton .
+ELIZO=Vi faris tion , frauxlino , kion mi mem devus esti farinta , kaj mia devo estus viziti vin unue .
+HARPAGONO=Vi vidas , ke sxi estas jam alta ;
+cxar malbona herbo rapide kreskas .
+MARIANO ( mallauxte al Frozino ) Ho !
+La malplacxa homo !
+HARPAGONO ( al Frozino ) Kion diras la belulino ?
+FROZINO=Ke sxi trovas vin admirinda .
+HARPAGONO=Vi faras al mi troan honoron , adorinda gxentilulino .
+MARIANO ( flanken ) Kia besto !
+HARPAGONO=Mi tre dankas al vi pro cxiuj cxi sentoj .
+MARIANO ( flanken ) Mi ne povas plu tion elporti .
+MARIANO ( mallauxte al Frozino ) Ha , Frozino , kia renkontigxo !
+Estas gxuste tiu , pri kiu mi parolis al vi .
+FROZINO ( al Mariano ) La aventuro estas mirinda .
+HARPAGONO=Mi vidas , ke vi miras , ke mi havas tiel grandajn gefilojn , sed mi baldaux estos liberigita de ambaux .
+KLEANTO ( al Mariano ) Frauxlino , por diri al vi la veron , tio=cxi estas okazo , kiun mi tute ne atendis , kaj mia patro ne malmulte surprizis min , dirante al mi hodiaux sian projekton .
+MARIANO=Mi povas diri same : tiu=cxi neatendita renkonto min surprizis same multe kiel vin ;
+kaj mi tute ne antauxvidis tiun aventuron .
+KLEANTO=Estas vere , frauxlino , ke mia patro ne povus fari pli belan elekton , kaj ke estas por mi granda gxojo havi la honoron vin vidi , sed malgraux cxio , mi ne certigos al vi , ke mi gxojas pri via intenco , se vi deziras farigxi mia duonpatrino .
+La gratuldiro , mi konfesas , estas iom tro malfacila por mi , kaj tio=cxi estas titolo , kiun mi ne deziras al vi .
+Mian paroladon kelkaj personoj eble trovos mal- gxentila , sed mi estas certa , ke vi gxin komprenos , kiel estas konvene ;
+HARPAGONO=Jen estas tre aroganta komplimento !
+Bela konfeso por fari al sxi ! MARIANO=Kiel respondo , mi devas diri al vi , ke niaj situacioj estas tre similaj .
+Se vi sentas vin malinklina ricevi min kiel vian duonpatrinon , mi sendube ne pli inklinas havi vin kiel duonfilon .
+Ne pensu , mi petas , ke mi mem penas fari al vi tiun malgxojon .
+Mi tre bedauxrus kauxzi al vi malplezuron ; kaj mi jxuras , ke mi ne konsentos je tiu=cxi edzinigxo , kiu vin cxagrenas , se al gxi ne devigus min nekontrauxstarebla potenco .
+HARPAGONO=Sxi estas prava ;
+malsagxa komplimento postulas samspecan respondon .
+Mi petas vin , belulino , pardonu la arogantecon de mia filo , li estas juna malsagxulo , kiu ankoraux ne komprenas la gravecon de siaj vortoj .
+MARIANO=Mi promesas , ke tio , kion li diris , tute ne ofendis min , kontrauxe li faris al mi plezuron , montrante tiel siajn verajn sentojn .
+HARPAGONO=Estas granda boneco de via flanko , tiel klopodi senkulpigi liajn kulpojn .
+La tempo faros lin pli sagxa , kaj vi vidos , ke liaj sentoj sxangxigxos .
+HARPAGONO=Vidu kia frenezo !
+Li dauxrigas ankoraux pli forte .
+KLEANTO=Cxu vi volas , ke mi perfidu mian koron ?
+HARPAGONO=Denove !
+Cxu vi faros la komplezon sxangxi vian manieron paroli ?
+KLEANTO=Nu !
+Jes , frauxlino , la felicxo posedi vin estas , laux mia opinio , la plej bela el cxiuj feli- cxoj , al tio celas cxiuj miaj deziroj .
+Nenio estas , kion mi ne estus kapabla fari por tiel trezora akiro , kaj la plej potencaj kontraux- ajxoj .
+. .
+HARPAGONO=Moderigu vin , mia filo , mi petas .
+KLEANTO=Tio estas komplimento , kiun por vi mi faras al sxia frauxlina mosxto .
+HARPAGONO=Dio !
+Mi , havas langon por paroli mem , kaj mi ne bezonas advokaton kiel vi .
+Nu , donu segxojn .
+FROZINO=Ne , estos pli bone se ni tuj iros al la foiro , por=ke ni revenu pli frue kaj havu poste plenan tempon por interparoli .
+HARPAGONO ( al Brindavoine ) Oni do jungu la cxevalojn al la kalesxo .
+SCENO=XII Harpagono , Mariano , Elizo , Kleanto , Valero , Frozino HARPAGONO ( al Mariano ) Mi petas vin pardoni al mi , belulino , ke mi ne pensis doni al vi kelkan mangxajxeton antaux=ol vi eliros .
+KLEANTO=Mi zorgis pli tio , patro , mi alportigis cxi tien kelkajn korbojn da cxinaj orangxoj , dolcxaj citronoj kaj konfitajxoj , kiujn mi mendis en via nomo .
+HARPAGONO ( mallauxte al Valero ) Valero !
+VALERO ( al Harpagono ) Li perdis la prudenton .
+KLEANTO=Cxu vi trovas , mia patro , ke tio=cxi ne suficxas ?
+Sxia frauxlina mosxto havos la bonecon pardoni al ni .
+MARIANO=Tio ne estis necesa .
+KLEANTO=Cxu vi vidis iam , frauxlino , diamanton pli luman ol tiu=cxi sur la fingro de mia patro ?
+MARIANO=Estas vere , ke gxi tre brilas .
+KLEANTO ( forprenante la ringon de la fingro de sia patro kaj donante gxin al Mariano ) Estas necese , ke vi gxin vidu de proksime .
+MARIANO=Gxi estas tre bela , sendube , kaj jxetas multe da fajreroj .
+KLEANTO ( sin metante antaux Marianon , kiu volas redoni la ringon ) Ne , frauxlino , gxi estas en tro belaj manoj , gxi estas donaco , kiun mia patro faras al vi .
+HARPAGONO=Mi ?
+KLEANTO=Cxu ne estas vere , patro , ke vi volas , ke sxia frauxlina mosxto gxin konservu pro amo al vi ?
+HARPAGONO ( mallauxte al sia filo ) Kiel ?
+KLEANTO ( al Mariano ) Bela demando !
+Li signas al mi , ke mi akceptigu gxin al vi .
+MARIANO=Mi ne volas . .
+. KLEANTO ( al Mariano ) Cxu vi sxercas ?
+Li neniel volas repreni gxin .
+HARPAGONO ( flanken ) Mi furiozas .
+MARIANO=Tio estus .
+.
+.
+KLEANTO ( cxiam malhelpante Marianon redoni la ringon ) Ne , mi diras al vi , tio estus ofenda al li .
+MARIANO=Permesu .
+. .
+KLEANTO=Neniel .
+HARPAGONO ( flanken ) Je la pesto !
+KLEANTO ( al Mariano ) Li komencas cxagrenigxi pro via malakcepto .
+HARPAGONO ( mallauxte al sia filo ) Ha !
+Perfidulo !
+KLEANTO ( al Mariano ) Vi vidas , ke li malesperigxas .
+HARPAGONO ( al Kleanto , minacante lin ) Vi turmentisto !
+KLEANTO=Mia patro !
+Tio ne estas mia kulpo , mi faras cxion , kion mi povas , por=ke sxi konservu gxin , sed sxi estas obstina .
+HARPAGONO ( mallauxte al sia filo kun gestoj koleraj ) Kanajlo !
+KLEANTO=Vi estas kauxzo , frauxlino , ke mia patro malpacas kun mi .
+HARPAGONO ( mallauxte al sia filo , kun la samaj gesto .
+) Friponego !
+KLEANTO ( al Mariano ) Vi faros lin malsana .
+Mi petegas , frauxlino , ne rifuzu plu .
+FROZINO ( al Mariano ) Je Dio !
+Kiom da ceremonioj !
+Konservu la ringon , cxi=tiu sinjoro deziras tion .
+MARIANO ( al Harpagono ) Por ne kolerigi vin , mi gxin konservas nun , kaj elektos pli oportunan tempon por redoni gxin al vi .
+SCENO=XIII Harpagono , Mariano , Elizo , Kleanto , Valero , Frozino , Brindavoine BRINDAVOINE=Sinjoro !
+Jen estas homo , kiu volas paroli kun vi .
+HARPAGONO=Diru al li , ke mi estas okupita , ke li revenu pli malfrue .
+BRINDAVOINE=Li diras , ke li alportas monon al vi .
+. .
+HARPAGONO ( al Mariano ) Mi petas pri pardono , mi tuj revenos .
+SCENO=XIV Harpagono , Mariano , Elizo , Kleanto , Valero=Frozino , La Merluche LA=MERLUCHE ( kurante kaj faligante Harpagonon ) Sinjoro .
+HARPAGONO=Ha !
+Mi estas mortinta !
+KLEANTO=Kio estas , patro ?
+Cxu vi vundigxis ?
+HARPAGONO=Tiu perfidulo certe ricevis monon de miaj sxuldintoj por rompigi al mi la kolon .
+VALERO ( al Harpagono ) Tio ne estos grava !
+LA=MERLUCHE ( al Harpagono ) Sinjoro , mi petas pri pardono , mi pensis fari bone alkurante rapide .
+HARPAGONO=Kial vi venas cxi tien , turmentisto ?
+LA=MERLUCHE=Por diri al vi , ke ambaux viaj cxevaloj perdis siajn hufferajxojn .
+HARPAGONO=Oni konduku ilin rapide al la hufferisto .
+KLEANTO=Gxis ili estos pretaj , mi vin anstatauxos kiel dommastro kaj kondukos sian frauxlinan mosxton en la gxardenon , kien mi portigos la mangxajxeton .
+SCENO=XV Harpagono , Valero HARPAGONO=Valero , havu la okulojn sur cxion tion , kaj penu , mi petas , savi kiel=eble=plej multon por gxin redoni al la vendisto .
+VALERO=Mi faros .
+HARPAGONO ( sola ) Ho !
+Aroganta filo !
+Cxu vi do volas ruinigi min !
+AKTO=IV SCENO=I Kleanto , Mariano , Elizo , Frozino KLEANTO=Ni eniru cxi tien , al ni estos multe pli oportune , cxirkaux ni ne estas plu iu suspektinda , kaj ni povas interparoli sengxene .
+ELIZO=Jes , frauxlino , mia frato konfidis al mi la pasion , kiun li sentas por vi .
+Mi konas la cxagrenojn kaj la malgxojojn , kiujn povas kauxzi tiaj okazoj , kaj mi vin certigas , ke mi kun grandega simpatio interesas min pri via aventuro .
+MARIANO=Dolcxa konsolo estas por mi la simpatio de persono kiel vi , kaj mi petegas vin , frauxlino , ke vi cxiam konservu por mi tiun afablan amikecon tiel kapablan dolcxigi al mi la kruelecon de la sorto .
+FROZINO=Vi estas vere malfelicxuloj , ambaux , ne sciiginte min pli frue pri via afero .
+KLEANTO=Kion vi volas ?
+Mia malbona sorto tion ordonis .
+Sed , bela Mariano , kiaj estas viaj intencoj ?
+MARIANO=Ho ve !
+Cxu mi estas kapabla havi intencojn en mia dependeco ?
+Mi povas nur havi dezirojn .
+KLEANTO=Neniu plua apogo por mi en via koro , krom simplaj deziroj ?
+Neniu kompleza kompato ?
+Neniu helpanta boneco ?
+Neniu agema amo ?
+MARIANO=Kion mi povas diri ?
+Imagu vin en mia loko , kaj vidu , kion mi povas fari .
+Decidu , ordonu mem , mi fidis je vi , kaj mi pensas , ke vi estas tro prudenta por postuli de mi ion , kion ne permesos la honoro kaj la deco .
+KLEANTO=Ha !
+MARIANO=Sed kion vi volas , ke mi faru ?
+Ecx se mi povus preterlasi multajn devojn , al kiu nia sekso estas devigata , mi portas tamen respekton al mia patrino : sxi cxiam min edukis kun ekstrema amo , kaj mi ne povus konsenti fari al sxi malplezuron .
+Faru , agu kontraux sxi , penu per cxiuj fortoj gajni sxian animon , vi povas fari kaj diri cxion , kion vi volos ;
+mi tion permesas al vi , kaj se suficxas , ke mi klarigos min favora al vi , mi konsentas konfesi mem al sxi mian tutan senton por vi .
+KLEANTO=Frozino , kara Frozino , cxu vi volus helpi al ni ?
+FROZINO=Je mia honoro , cxu vi bezonas demandi pri tio ?
+Mi volus tion per mia tuta koro .
+Vi scias , ke mi de naturo estas suficxe homama .
+La cxielo ne donis al mi koron el bronzo , kaj mi ecx estas tro inklina fari malgrandajn servojn , kiam mi vidas personojn amantaj unu la alian dece kaj honeste .
+Kion ni povus fari pri tio=cxi ?
+KLEANTO=Pensu iom pri tio , mi petas .
+MARIANO=Lumigu nin per via sperto .
+ELIZO=Eltrovu ion por malfari , kion vi faris .
+FROZINO=Tio estas iom malfacila .
+FROZINO=Mi volas diri , ke li estos cxagrenita , se li vidos , ke oni lin malakceptas , kaj pro tio li ne estos inklina konsenti pri via edzigxo .
+Por fari bone estus necese , ke la forlaso venu de li mem ;
+ni devus trovi manieron mallogi lin de via persono .
+KLEANTO=Vi estas prava .
+FROZINO=Jes , mi estas prava , mi scias tion .
+Se ni havus virinon maljunetan , kiu estus lerta kiel mi kaj kapabla ludi la rolon de nobela sinjorino , kun helpo de rapide arangxita vestajxo , kaj de stranga nomo de markizino aux de vicgrafino , kiun ni supozus veninta el malsupra Britujo , mi havus suficxan lerton kredigi al via patro , ke sxi estas ricxa virino posedanta , krom siaj domoj , cent mil eskudojn en kontanta mono ;
+ke sxi lin amas freneze kaj deziras farigxi lia edzino , donante al li ecx sian tutan posedajxon per geedzigxa kontrakto , mi ne dubas , ke li akceptus tian proponon .
+Cxar fine li amas vin tre forte , mi scias tion ;
+KLEANTO=Tio cxi estas bone elpensita .
+FROZINO=Lasu min fari .
+Mi jxus rememoris unu el miaj amikinoj , sxi estas tio , kion ni bezonas .
+KLEANTO=Estu certa , Frozino , pri mia danksento , se vi sukcesos en tio .
+Sed , cxarma Mariano , ni komencu , mi petas , favorigante vian patrinon .
+Tre grave estos iam rompi tiun edzi- gxon .
+Mi petegas vin , donu al tio viaflanke cxiujn viajn penadojn , uzu la potencon , kiun liveras al vi sxia amikeco por vi .
+Malvolvu sen escepto la elokventan belecon kaj la cxiopovajn cxarmojn , kiujn la cxielo metis en viajn okulojn kaj busxon , kaj volu forgesi neniun el tiuj amemaj paroloj , el tiuj dolcxaj petegoj , el tiuj tusxantaj karesoj , al kiuj mi estas certa , ke oni nenion povus rifuzi .
+MARIANO=Mi faros cxion , kion mi povas , kaj nenion forgesos .
+SCENO=II Harpagono , Kleanto , Mariano , Elizo , Frozino HARPAGONO ( nevidate de la aliaj ;
+flanken ) Ho !
+Mia filo kisas la manon de sia farigxonta duonpatrino , kaj la farigxonta duonpatrino ne forte sin defendas de tio .
+Cxu ne estas iu mistero sub tio=cxi ?
+ELIZO=Jen estas mia patro .
+HARPAGONO=La kalesxo estas tute preta , vi povos iri , kiam vi volos .
+KLEANTO=Cxar vi ne iras , patro , mi volas ilin akompani .
+HARPAGONO=Ne ;
+vi restu !
+Ili iros solaj , kaj mi bezonas vin .
+SCENO=III Harpagono , Kleanto HARPAGONO=Nu , lasante aparte la duonpatrinecon , kiel sxajnas al vi tiu persono ?
+KLEANTO=Kiel sxi sxajnas al mi ?
+HARPAGONO=Jes , pri sxia mieno , talio , beleco , spirito ?
+KLEANTO=He !
+He !
+HARPAGONO=Sed plue ?
+KLEANTO=Por diri la veron , mi ne trovis sxin tia , kia mi pensis .
+Sxi havas sxajnon de vera koketulino , sxia talio estas negracia , sxia beleco negranda , kaj sxia spirito tre ordinara .
+HARPAGONO=Vi tamen jxus diris al sxi .
+. .
+KLEANTO=Mi diris al sxi kelkajn afablajxojn en via nomo , sed tio estis por fari al vi plezuron .
+HARPAGONO=Vi do ne sentus inklinon al sxi ?
+KLEANTO=Mi ?
+Tute ne .
+HARPAGONO=Mi tion bedauxras , cxar tio malhelpas projekton , kiu venis en mian kapon ;
+vidante sxin , mi pripensis pri mia agxo kaj mi ektimis , ke oni eble mallauxdos min pro mia edzigxo kun tiel juna persono .
+Pro tio mi estus forlasonta mian decidon , tamen , cxar mi sxin svatis kaj estas ligita al sxi de promeso , mi donus sxin al vi , se ne estus via malinklino kontraux sxi .
+KLEANTO=Al mi ?
+HARPAGONO=Al vi .
+KLEANTO=Kiel edzinon ?
+HARPAGONO=Kiel edzinon . KLEANTO=Auxskultu !
+Estas vere , ke sxi ne estas tute laux mia gusto , sed por fari al vi plezuron , mia patro , mi edzigxos kun sxi , se vi volos .
+HARPAGONO=Mi ?
+Mi estas pli prudenta , ol vi pensas ;
+mi ne volas trudi vian inklinon .
+KLEANTO=Pardonu min ;
+mi faros tiun=cxi klopodon pro amo al vi .
+HARPAGONO=Ne , ne !
+Edzigxo , en kiu ne estas korinklino , ne povas esti felicxa .
+KLEANTO=Tio cxi , patro , povas veni poste ; kaj oni diras , ke amo estas ofte frukto de geedzeco .
+HARPAGONO=Ne , je la flanko de la viro oni ne devas riski la aferon ;
+kaj estas en tio bedauxrindaj sekvoj , kies kauxzon mi zorgos eviti . Se vi sentus iom da inklino al sxi , tio estus bona ;
+mi edzigus vin kun sxi anstataux mi ; sed cxar ne estas tiel , mi restos cxe mia unua intenco kaj edzigxos mem kun sxi .
+KLEANTO=Nu , patro , cxar tiel staras la aferoj , mi devas malkovri al vi mian koron , mi devas diri al vi mian sekreton .
+La vero estas , ke mi sxin amas de la tago , kiam mi sxin vidis dum promeno , ke mi intencis hodiaux peti sxin de vi kiel edzinon ;
+HARPAGONO=Cxu vi sxin vizitis ?
+KLEANTO=Jes , patro .
+HARPAGONO=Multajn fojojn ?
+KLEANTO=Suficxe multajn por la mallonga tempo .
+HARPAGONO=Cxu oni vin akceptis bone ?
+KLEANTO=Tre bone , sed ne sciante , kiu mi estas , kaj tio kauxzis hodiaux la surprizon de Mariano .
+HARPAGONO=Cxu vi esprimis al sxi vian amon kaj vian intencon edzigxi kun sxi .
+KLEANTO=Sendube , kaj mi ecx iom aludis pri tio al sxia patrino .
+HARPAGONO=Cxu sxi auxskultis vian proponon ?
+KLEANTO=Jes , tre gxentile .
+HARPAGONO=Kaj cxu la filino respondas al via amo ?
+KLEANTO=Se mi devas jugxi laux la sxajno , mi estas certa , patro , ke sxi havas iom da amo por mi .
+HARPAGONO ( mallauxte flanken ) Mi estas tre kontenta ekscii tian sekreton , precize tion mi deziris .
+( lauxte ) Nu , filo mia , cxu vi scias ion ?
+Vi devas penadi , mi petas , lasi vian amon , cxesante vian amindumadon al la persono , kiun mi mem intencas preni kiel edzinon , kaj edzigxante baldaux kun tiu , kiun mi elektis por vi .
+KLEANTO=Ha !
+Mia patro !
+Tiamaniere vi trompas min !
+Nu !
+HARPAGONO=Kiel ?
+Kanajlo !
+Cxu vi kuragxas konkuri kun mi ?
+KLEANTO=Estas vi , kiu konkuras kun mi , mi estis la unua laux la dato .
+HARPAGONO=Cxu mi ne estas via patro ?
+Cxu vi ne sxuldas al mi respekton ?
+KLEANTO=En tiuj=cxi aferoj la filoj ne estas devigataj obei la patrojn , kaj amo konas neniun .
+HARPAGONO=Per bonaj batoj mi certe igos vin koni min .
+KLEANTO=Cxiuj viaj minacoj neniom helpos .
+HARPAGONO=Vi lasos Marianon .
+KLEANTO=Tute ne .
+HARPAGONO=Oni donu al mi bastonon , tuj !
+SCENO=IV Harpagono , Kleanto , Jakobo JAKOBO=He !
+He !
+He !
+Sinjoroj , kio estas ?
+Kion vi pensas ?
+KLEANTO=Mi ridas je tio .
+JAKOBO ( al Kleanto ) Ha !
+Sinjoro , kviete !
+HARPAGONO=Al mi paroli kun tia senhonto !
+JAKOBO ( al Harpagono ) Ha !
+Sinjoro , mi petegas .
+KLEANTO=Mi neniel deflankigxos de tio .
+JAKOBO ( al Kleanto ) Kiel !
+Al via patro !
+HARPAGONO=Lasu min fari .
+JAKOBO ( al Harpagono ) Kiel !
+Al via filo !
+Tio=cxi konvenis por mi .
+HARPAGONO=Mi volas fari vin jugxanto en tiu=cxi afero , Jakobo , por montri , kiel prava mi estas .
+JAKOBO=Mi konsentas .
+( al Kleanto ) Malproksimigxu iom .
+HARPAGONO=Mi amas knabinon , kun kiu mi volas edzigxi , kaj tiu kanajlo havas la arogantecon ami sxin samtempe kaj amindumi sxin malgraux miaj ordonoj .
+JAKOBO=Ha !
+Li esta malprava .
+HARPAGONO=Cxu ne estas abomene , se filo volas konkuri kun sia patro , kaj cxu li ne devas , pro respekto , eviti meti sin en miajn inklinojn ?
+JAKOBO=Vi estas prava .
+Lasu min paroli kun li kaj restu tie .
+KLEANTO ( al Jakobo kiu proksimigxas al li ) Nu !
+Bone ;
+cxar li volas elekti vin kiel jugxanton , mi ne rifuzis , kiu ajn egalvaloras por mi kaj mi ankaux konsentas , Jakobo , fidi al vi pri nia disputo .
+JAKOBO=Grandan honoron vi faras al mi .
+KLEANTO=Mi portas amon por frauxlino , kiu respondas al miaj deziroj kaj gxentile akceptas la proponojn de mia koro , kaj mia patro intencas veni kaj gxeni nian amon , sxin ankaux svatante .
+JAKOBO=Li estas malprava , certe .
+KLEANTO=Cxu li ne hontas , en sia agxo , pensi pri edzi- gxo !
+Cxu decas por li esti amema ?
+Cxu li ne devus lasi tiun okupon al la junuloj ?
+JAKOBO=Vi estas prava , li sxercas , lasu min paroli du vortojn kun li .
+( al Harpagono ) Nu !
+via filo ne estas tiel stranga , kiel vi diras , kaj li refarigxas sagxa ;
+li diras , ke li konas la respekton , kiun li sxuldas al vi , li nur kolerigxis en la unua flamigxo , kaj li ne rifuzos submetigxi al tio , kio placxos al vi , se nur vi konsentas trakti lin pli bone , kaj doni al li kiel edzino personon , kiu povos kontentigi lin .
+HARPAGONO=Ha !
+Diru al li , Jakobo , ke sub tiu kondicxo li povos esperi cxion de mi , kaj , krom Mariano , mi lasas lin plene libera elekti tiun , kiun li volos .
+JAKOBO=Lasu min fari .
+( al Kleanto ) Nu , via patro ne estas tiel malprudenta , kiel vi lin pentras , li klarigis al mi , ke pro via kolero li ekscitigxis , kaj li nur riprocxas vian farmanieron ;
+li estas tre inklina konsenti je tio , kion vi deziras , se nur vi volas agxi gxentile kaj montri al li la submetigxon , respekton , kaj obeemon , kiujn cxiu filo sxuldas al sia patro .
+HARPAGONO=Ha !
+Jakobo , vi povas lin certigi , ke , se li donos al mi Marianon , li cxiam trovos min la plej obea el cxiuj homoj , kaj ke mi neniam faros ion escepte laux lia volo .
+JAKOBO ( al Harpagono ) Tio estas farita , li konsentas je tio , kion vi deziras .
+HARPAGONO=Tio estas plej bone .
+JAKOBO ( al Kleanto ) Do estas arangxita , li estas kontenta je viaj promesoj .
+KLEANTO=Dank' al la cxielo !
+JAKOBO=Sinjoroj .
+Vi nur bezonas interparoli kune , cxar vi nun konsentas ;
+vi estis tuj malpaci- gxontaj pro malkomprenigxo .
+KLEANTO=Mia kara Jakobo , mi estos danka al vi dum mia tuta vivo .
+JAKOBO=Ne estas kauxzo por tio .
+HARPAGONO=Vi faris al mi plezuron , Jakobo , kaj tio=cxi meritas rekompencon .
+( Harpagono sercxas en sia posxo .
+Jakobo prezentas la manon , sed Harpagono eltiras nur sian posxtukon kaj diras ) Mi promesas memori gxin .
+JAKOBO=Mi kisas al vi la manojn .
+SCENO=V Harpagono , Kleanto KLEANTO=Mi petas vin pardoni al mi la ekscitigxon , kiun mi vidigis .
+HARPAGONO=Estas nenio .
+KLEANTO=Mi certigas vin , ke mi gxin treege bedauxras .
+HARPAGONO=Kaj mi estas treege kontenta vidi vin tiel sagxa .
+KLEANTO=Kiel bona vi estas , cxar vi tiel rapide forgesas mian kulpon .
+HARPAGONO=Oni facile forgesas la kulpojn de siaj infanoj , kiam ili revenas al sia devo .
+KLEANTO=Kiel !
+Vi ne konservas ian koleron pro cxiuj miaj malsagxajxoj ?
+HARPAGONO=Vi devigas min al tio per la submetigxo kaj la respekto , en kiujn vi metas vin .
+KLEANTO=Mi promesas , patro , ke gxis la tombo mi konservos en mia koro la memoron pri via boneco .
+HARPAGONO=Kaj mi promesas , ke neniu afero estas , kiun vi ne ricevos de mi .
+KLEANTO=Ha !
+Patro , mi ne postulas ion plu , vi donis ja suficxe al mi , donante Marianon .
+HARPAGONO=Kiel ?
+KLEANTO=Mi diras , patro , ke mi jam estas tre kontenta , kaj mi tion trovas en via boneco , kiam vi donas al mi Marianon .
+HARPAGONO=Kiu parolis pri dono al vi de Mariano ?
+KLEANTO=Vi , patro .
+HARPAGONO=Mi ?
+KLEANTO=Sendube .
+HARPAGONO=Kiel ?
+Estas vi , kiu promesis sxin lasi .
+KLEANTO=Mi sxin lasi ?
+HARPAGONO=Jes .
+KLEANTO=Tute ne .
+HARPAGONO=Vi ne cxesis deziri sxin ?
+KLEANTO=Kontrauxe , mi deziras sxin pli=ol iam .
+HARPAGONO=Kiel , kanajlo , denove ?
+KLEANTO=Nenio povas min sxangxi .
+HARPAGONO=Lasu min fari , perfidulo .
+KLEANTO=Faru cxion , kio placxos al vi .
+HARPAGONO=Mi malpermesas al vi vidi min iam .
+KLEANTO=Des pli bone .
+HARPAGONO=Mi vin forlasas .
+KLEANTO=Forlasu .
+HARPAGONO=Mi malkonfesas vin kiel filon .
+KLEANTO=Tiel estu !
+HARPAGONO=Mi vin malheredontigas .
+KLEANTO=Tiom , kiom vi volos .
+HARPAGONO=Kaj mi donas al vi mian malbenon .
+KLEANTO=Mi ne bezonas viajn donacojn .
+SCENO=VI Kleanto , La Flèche LA=FLÈCHE ( elirante el la gxardeno kun kesteto ) Ha !
+Sinjoro ;
+kiel gustatempe mi trovas vin !
+Sekvu min rapide .
+KLEANTO=Kio estas ?
+LA=FLÈCHE=Sekvu min , ni estas felicxaj .
+KLEANTO=Kiel ?
+LA=FLÈCHE=Jen estas via afero .
+KLEANTO=Kio ?
+LA=FLÈCHE=Mi enbuskis por tio dum la tuta tago .
+KLEANTO=Kio estas tio ?
+LA=FLÈCHE=La trezoro de via patro , kiun mi kaptis .
+KLEANTO=Kiel vi faris ?
+LA=FLÈCHE=Vi scios cxion .
+Ni forkuru ;
+mi auxdas lin krianta .
+SCENO=VII HARPAGONO ( kriante en la gxardeno ) Sxtelisto !
+Sxtelisto !
+Oni mortigas !
+Bucxas !
+Justeco !
+Justa cxielo !
+Mi pereis , mi estas mortigita ;
+oni trancxis al mi la gorgxon , oni forrabis de mi mian monon .
+Kiu povas esti ?
+Kien li pasis ?
+Kie li estas ?
+Kie li sin kasxas ?
+Kion mi faros por trovi lin ?
+Kien kuri ?
+Kien ne kuri ? Cxu li ne estas tie ?
+Cxu ne tie=cxi ?
+Kiu estas ?
+Arestu ! ( al si mem , prenanta sian brakon ) Redonu mian monon , kanajlo .
+.
+. Ha !
+Estas mi .
+. .
+Mia animo estas konfuzita kaj mi ne scias , kie mi staras , kiu mi estas , kaj kion mi faras .
+Ho ve ! Mia mizera mono , mia mizera mono , mia kara amiko , oni senigis min je vi ;
+kaj cxar oni vin forprenis de mi , mi perdis mian subtenon , mian konsolon , mian gxojon ;
+cxio estas finita por mi , kaj mi nenion plu havas por fari en la mondo !
+Sen vi mi ne povas vivi .
+Cxio estas perdita ;
+mi ne vivas plu , mi mortas , mi estas mortinta , mi estas enterigita .
+Cxu ne estas iu , kiu volos revivigi min , redonante al mi mian monon aux dirante , kiu gxin prenis ?
+He !
+Kion vi diras ?
+Estas neniu .
+Kiu ajn tion faris , li devas esti tre zorge observinta la horon , kaj elektinta gxuste la tempon , kiam mi parolis kun mia perfida filo .
+Ni eliru !
+Mi volas venigi la jugx- istaron kaj turmentigi mian tutan domon , servistinojn , lakeojn , filon , filinon kaj ankaux min .
+Kiom da personoj kune !
+Mi ne vidas iun , kiu ne vekas miajn suspektojn , kaj cxiu sxajnas esti mia sxtelisto .
+He !
+Pri kio oni parolas tie ?
+Pri tiu , kiu min prisxtelis ?
+Kian bruadon oni faras tie supre ?
+Cxu tie estas mia sxtelisto ?
+Pro kompato , se oni scias novajxon pri mia sxtelisto , mi petegas , ke oni gxin diru al mi .
+Cxu li ne estas kasxita inter vi ?
+Ili cxiuj rigardas min kaj komencas ridi .
+Vi vidos , ke ili sendube portoprenis en la sxtelo , kiun mi suferis .
+Nu rapidu !
+Komisaroj , pafarkistoj , policistoj , jugxistoj , turmentiloj , pendigiloj kaj ekzekutistoj .
+Mi volas , ke oni pendigu cxiujn , kaj se mi ne retrovos mian monon , mi poste pendigos min mem .
+AKTO=V SCENO=I Harpagono , Komisaro KOMISARO=Lasu min fari , mi konas mian metion , dank' al Dio .
+Ne estas hodiaux la unua fojo , ke mi min okupas je malkovro de sxteloj , kaj mi dezirus havi tiom da sakoj da mil frankoj , kiom da personoj , kiujn mi pendigis .
+HARPAGONO=Estas intereso de cxiuj jugxistoj preni en siajn manojn tian aferon ;
+kaj se oni ne retrovigos mian monon , mi ankaux procesos kontraux la jugxistaro .
+KOMISARO=Oni devas fari cxiujn necesajn esplorojn .
+Vi diras , ke estis en tiu kesteto .
+. .
+HARPAGONO=Dek mil eskudoj bone kalkulitaj .
+KOMISARO=Dek mil eskudoj !
+HARPAGONO=Dek mil eskudoj .
+KOMISARO=La sxtelajxo estas grava .
+HARPAGONO=Ne ekzistas turmento suficxe granda por la graveco de la krimo ;
+kaj se gxi restas nepunita , la plej respektaj objektoj ne=plu estos en sendangxereco .
+KOMISARO=El kiaj moneroj konsistis tiu sumo ?
+HARPAGONO=El bonaj ormoneroj kaj bonpezaj ormoneroj .
+KOMISARO=Kiun vi suspektas pri tiu sxtelo ?
+HARPAGONO=Cxiujn ;
+mi volas , ke vi arestu la urbon kaj la antauxurbon .
+KOMISARO=Ni devas , se vi fidas al mi , ne timigi iun , kaj peni akiri kelkajn pruvojn , por=ke ni poste rehavu perforte la monerojn , kiujn oni forprenis de vi .
+HARPAGONO ( al Jakobo ) Kiun ?
+Tiun , kiu min prisxtelis ?
+JAKOBO=Mi parolas pri la laktoporkido , kiun via majordomo jxus sendis al mi , kaj kiun mi volas prepari laux mia bontrovo .
+HARPAGONO=Ne pri tio estas la parolo .
+Jen estas tiu sinjoro , al kiu vi devas paroli pri io alia .
+KOMISARO ( al Jakobo ) Ne timigxu , mi estas homo , kiu vin ne cxagrenos , kaj faros la aferojn tute gxentile .
+JAKOBO=Cxu tiu=cxi sinjoro partoprenos en la vespermangxo ?
+KOMISARO=Vi devas , kara amiko , nenion kasxi al via mastro .
+JAKOBO=Je mia honoro , sinjoro , mi montros cxion , kion mi scias fari , kaj mi regalos vin tiel bone , kiel mi povos .
+HARPAGONO=Tio ne estas la demando .
+JAKOBO=Se mi ne donos al vi tiel bonan mangxajxon , kiel mi volus , en tio estas kulpa via sinjoro majordomo , kiu trancxetis al mi la flugilojn per la tondilo de sia sxparemo .
+HARPAGONO=Perfidulo !
+JAKOBO=Cxu oni forprenis monon de vi ?
+HARPAGONO=Jes , fripono , kaj oni tuj pendigos vin , se vi gxin ne redonos .
+KOMISARO=Ne traktu lin malbone , mi vidas el lia mieno , ke li estas honesta homo , kaj ke li , ne devigante nin meti lin en malliberejon malkasxos al vi , kion vi volas scii .
+Jes , amiko , se vi konfesos la fakton , oni nenion malbonan faros al vi , kaj vi estos rekompencita konvene de via mastro .
+Oni forprenis hodiaux lian monon , kaj vi certe scias ion pri tio .
+JAKOBO ( mallauxte , flanken ) Jen estas gxuste la okazo por vengxi min je nia majordomo .
+HARPAGONO=Pri kio vi murmuras ?
+JAKOBO=Sinjoro , se vi volas , ke mi diru la veron , mi pensas , ke via kara majordomo tion faris .
+HARPAGONO=Valero ?
+JAKOBO=Jes .
+HARPAGONO=Li , kiu sxajnas tiel fidela al mi ?
+JAKOBO=Li mem .
+Mi pensas , ke li prisxtelis vin .
+HARPAGONO=Kial vi tion pensas ?
+JAKOBO=Kial ?
+HARPAGONO=Jes .
+JAKOBO=Mi tion pensas pro tio , ke mi tion pensas .
+KOMISARO=Sed vi devas diri la signojn , kiujn vi havas .
+HARPAGONO=Cxu vi vidis lin vaganta cxirkaux la loko , en kiu mi metis mian monon ?
+JAKOBO=Jes , vere !
+Kie estis via mono ?
+HARPAGONO=En la gxardeno .
+JAKOBO=Gxuste .
+Mi vidis lin vaganta en la gxardeno .
+Kaj en kio estis tiu mono ?
+HARPAGONO=En kesteto .
+JAKOBO=Jen estas la afero .
+Mi vidis lin kun kesteto .
+HARPAGONO=Kaj kia estas tiu kesteto ?
+Mi jam vidos , cxu gxi estas la mia .
+JAKOBO=Kia gxi estas ?
+HARPAGONO=Jes .
+JAKOBO=Gxi estas . . .
+gxi estas kiel kesteto .
+KOMISARO=Kompreneble .
+Sed rakontu iom pri gxi , por ke ni vidu .
+JAKOBO=Gxi estas granda kesteto .
+. .
+HARPAGONO=Tiu , kiun oni sxtelis de mi , estas malgranda .
+JAKOBO=Ho !
+Jes , gxi estas malgranda , se oni gxin tiel komprenas , sed mi nomas gxin granda pro tio , kion gxi enhavas .
+KOMISARO=Kian koloron gxi havas ?
+JAKOBO=Kian koloron ?
+KOMISARO=Jes .
+JAKOBO=Gxi havas koloron .
+. .
+Ja , unu koloron .
+.
+.
+cxu vi ne povus helpi al mi ?
+HARPAGONO=He !
+JAKOBO=Cxu gxi ne estas rugxa ?
+HARPAGONO=Ne , griza .
+JAKOBO=Jes , grizrugxa , tion mi volis diri .
+HARPAGONO=Neniu dubo , tio estas gxi , certe .
+Skribu , sinjoro , skribu lian atestadon .
+Cxielo , al kiu de nun sin fidi ?
+Oni ne devas plu jxuri pri io , kaj post tio=cxi mi jugxas min ankaux kapabla prisxteli min mem .
+JAKOBO ( al Harpagono ) Sinjoro , jen li revenas .
+Ne diru al li , almenaux , ke ili malkovris tion al vi .
+SCENO=III Harpagono , Komisaro , Valero , Jakobo HARPAGONO=Alproksimigxu , venu konfesi la plej nigran agon , la plej abomenan krimon , kiu plenumigxis iam .
+VALERO=Kion vi volas , sinjoro ?
+HARPAGONO=Kiel , perfidulo !
+Cxu vi ne rugxigxas pro via krimo !
+VALERO=Pri kiu krimo vi parolas ?
+HARPAGONO=Pri kiu krimo mi parolas , kanajlo !
+Kvazaux vi ne scius , kion mi volas diri .
+Vane vi volas kasxi gxin .
+La afero estas malkovrita , kaj oni jxus min sciigis pri cxio . Fi !
+VALERO=Sinjoro , cxar oni tion malkovris al vi , mi ne volas sercxi deflankigxojn kaj nei la aferon .
+JAKOBO ( flanken ) Ho !
+Ho !
+Cxu mi divenis gxuste , ne sciante tion ?
+VALERO=Mia intenco estis paroli kun vi pri tio , kaj mi volis atendi oportunan okazon por fari tion , sed cxar tiel estas , mi petegas vin ne kolerigxi kaj voli auxskulti miajn klarigojn .
+HARPAGONO=Kiajn belajn kiarigojn vi povas doni al mi , sxtelisto , kanajlo ?
+VALERO=Ha !
+Sinjoro , tiajn alnomojn mi ne meritis .
+Estas vere , ke mi faris ofendon al vi ;
+sed mia kulpo tamen estas pardonebla .
+HARPAGONO=Kiel pardonebla !
+Tiaspeca insido , mortigo !
+VALERO=Mi petegas , ne kolerigxu .
+Kiam vi estos auxdinta min , vi vidos , ke la malfelicxo ne estas tiel granda , kiel vi diras .
+HARPAGONO=La malfelicxo ne estas tiel granda , kiel mi diras !
+Kiel !
+Mia sango , mia internajxo , kanajlo !
+VALERO=Via sango , sinjoro , ne falis en malbonajn manojn .
+HARPAGONO=Estas ja mia intenco , ke vi redonu , kion vi sxtelis .
+VALERO=Via honoro , sinjoro , estos plene kontentigita .
+HARPAGONO=Ne estas afero de honoro en tio=cxi .
+Sed , diru al mi ;
+kio vin instigis al tia ago ?
+VALERO=Ha !
+Cxu vi demandas min pri tio ?
+HARPAGONO=Jes , certe , mi demandas vin pri tio .
+VALERO=Dio , kiu senkulpigas cxion , kion li instigas fari , Amo .
+HARPAGONO=Amo !
+VALERO=Jes .
+HARPAGONO=Bela amo , certe , amo al miaj ormoneroj !
+VALERO=Ne , sinjoro , ne via ricxeco min allogis , ne tio min blindigis ;
+HARPAGONO=Mi ne faros , je cxiuj diabloj ;
+mi certe ne lasos gxin al vi . Vidu kian arogantecon ;
+li volus konservi la sxtelajxon forprenitan de mi !
+VALERO=Cxu vi nomas tion sxtelajxo ?
+HARPAGONO=Cxu mi nomas tion sxtelajxo !
+Tian trezoron ! VALERO=Trezoro , certe ;
+kaj la plej valora , kiun vi posedas , sendube ;
+sed vi ne perdos gxin , lasante gxin al mi .
+HARPAGONO=Tion mi neniel faros !
+Kion signifas tio ?
+VALERO=Ni reciproke promesis fidelan amon , kaj ni jxuris ne forlasi unu=la=alian .
+HARPAGONO=La jxuro estas admirinda , kaj la promeso amuza !
+VALERO=Jes , ni promesis aparteni por eterne unu al la alia .
+HARPAGONO=Mi ja vin malhelpos , mi certigas .
+VALERO=Nur morto povos disigi nin .
+HARPAGONO=Tio estas vere diabla pasio por mia mono .
+VALERO=Mi jam diris al vi , sinjoro , ke ne monavido instigis min fari tion , kion mi faris .
+Mia koro ne agis pro la motivoj , kiujn vi pensas , kaj pli nobla intenco inspiris al mi tian decidon .
+HARPAGONO=Vi vidos , ke pro kristana bonfaremo li volas havi mian posedajxon .
+Sed mi tion reordigos , kaj , senhonta fripono , la jugxistaro tuj vengxos min je cxio .
+sed mi petas vin kredi almenaux , ke , se en tio estas io malbona , min solan vi devas kulpigi , kaj via filino neniel estas kulpa en cxio tio=cxi .
+HARPAGONO=Mi tion ja kredas , certe ;
+estus tre strange , se mia filino partoprenus en tiu krimo .
+Sed mi volas rehavi mian posedajxon , kaj vi devas konfesi en kiun lokon vi gxin forportis .
+VALERO=Mi ?
+Mi ne forportis sxin ; sxi estas ankoraux cxe vi .
+HARPAGONO ( flanken ) Ho , mia kara kesteto !
+( lauxte ) Gxi ne eliris el mia domo ?
+VALERO=Ne , sinjoro .
+HARPAGONO=He ! Diru ion ;
+vi ne tusxis gxin ?
+VALERO=Mi sxin tusxi !
+Ha , vi ofendas sxin tiom , kiom min ;
+mi brulis por sxi per flamo tute pura kaj respekta .
+HARPAGONO ( flanken ) Li brulis por mia kesteto !
+VALERO=Mi volus morti prefere ol montri al sxi ofendan penson ;
+sxi estas por tio tro sagxa kaj honesta .
+HARPAGONO ( flanken ) Mia kesteto tro honesta .
+VALERO=Cxiuj miaj deziroj limigxis al sxia vido , kaj neniu krima penso makulis la pasion , kiun inspiris al mi sxiaj belaj okuloj .
+HARPAGONO ( flanken ) La belaj okuloj de mia kesteto !
+Li parolas pri gxi kiel amanto pri sia amatino .
+VALERO=Sinjorino=Klauxdo konas la veron de tiu aventuro ;
+sxi povas atesti .
+. .
+HARPAGONO=Kiel ! Mia servistino estas kunkulpa en la afero !
+VALERO=Jes , sinjoro , sxi cxeestis en nia promeso ;
+kaj nur eksciinte la honestecon de mia amo , sxi helpis al mi decidigi vian filinon , ke sxi donu al mi sian promeson kaj akceptu mian .
+HARPAGONO=He !
+( flanken ) Cxu la limo de la jugxo lin delirigas ? ( al Valero ) Kion vi enmiksas cxi=tie kun mia filino ?
+VALERO=Mi diras , ke mi havis cxiujn eblajn malfacilajxojn por konsentigi sxian hontemon al tio , kion volis mia amo .
+HARPAGONO=La hontemo de kiu ?
+VALERO=De via filino ;
+kaj nur hieraux sxi konsentis al nia reciproka subskribo de promeso de geedzigxo .
+HARPAGONO=Mia filino subskribis al vi promeson de geedzigxo ?
+VALERO=Jes , sinjoro ;
+same kiel mi ankaux subskribis al sxi .
+HARPAGONO=Ho !
+Cxielo ! Alia malfelicxo .
+JAKOBO ( al la komisaro ) Skribu , sinjoro , skribu !
+HARPAGONO=Pliigxo de malbono , kresko de malespero !
+( al la komisaro ) Nu , sinjoro , faru la devon de via ofico kaj skribu kulpigon kontraux li kiel sxtelisto kaj delogisto .
+JAKOBO=Kiel sxtelisto kaj delogisto .
+VALERO=Tiajn alnomojn mi ne meritas ;
+kaj kiam oni scios , kiu mi estas .
+. .
+SCENO=IV Harpagono , Elizo , Mariano , Valero , Frozino , Jakobo , Komisaro HARPAGONO=Ha !
+fripona filino !
+Malinda de tia patro kiel mi !
+Tiel vi profitas la instruadon , kiun mi donis al vi ?
+Vi lasas vin kaptigxi de amo por kanajla sxtelisto kaj forpromesas vian koron , sen peti pri mia konsento !
+Sed vi ambaux estos trompitaj . ( al Elizo ) Kvar fortaj muroj respondos al mi por via konduto .
+( al Valero ) Kaj bona pendigilo , senhonta fripono ! punos vin pro via aroganteco .
+VALERO=Ne via pasio jugxos la aferon ;
+kaj oni almenaux min auxskultos , antaux=ol kondamni min .
+HARPAGONO=Mi eraris dirante pendigilo ; vi estos tute viva ligata al rado !
+ELIZO ( surgenue antaux Harpagono ) Ha !
+Mia patro , havu pli homajn sentojn , mi petegas ; kaj ne pelu la aferojn gxis la ekstrema severeco de la patra povo .
+Ne lasu la unuan movon de kolero forkonduki vin , kaj prenu la tempon por bone pripensi , kion vi faros .
+Penu koni pli bone tiun , pro kiu vi koleras .
+Li estas tute alia , ol vi lin jugxas , kaj vi malpli miros , ke mi donis min al li , kiam vi scios ke , sen li , jam de longe vi plu ne havus min .
+Jes , patro , estas li , kiu min savis el tiu granda dangxero , de kiu mi estis minacata en la akvo ;
+kaj al li vi sxuldas la vivon de tiu filino , kies .
+. .
+ELIZO=Mia patro , mi petegas vin pro la patra amo , ke vi .
+. .
+HARPAGONO=Ne , ne , mi nenion volas auxdi ; estas necese , ke la jugxistaro plenumu sian devon .
+JAKOBO ( flanken ) Vi pagos al mi por la ricevitaj batoj .
+FROZINO ( flanken ) Tio=cxi estas stranga embaraso .
+SCENO=V Anselmo , Harpagono , Elizo , Mariano , Frozino , Valero , Komisaro , Jakobo ANSELMO=Kio estas , sinjoro Harpagono ?
+Mi vidas vin tute ekscitita .
+HARPAGONO=Ha !
+Sinjoro Anselmo , vi vidas en mi la plej malfelicxan el cxiuj homoj , kaj jen estas multe da konfuzo kaj malordo en la kontrakto , pro kiu vi venas .
+Oni mortigas min en la proprajxo ;
+oni mortigas min en la honoro ;
+jen estas perfidulo , kanajlo , kiu malrespektis la plej sanktajn rajtojn ;
+VALERO=Kiu pensas pri via mono , pri kiu vi parolas tiel konfuze ?
+HARPAGONO=Jes , ili donis unu=al=la=alia promeson de geedzigxo .
+Tiu=cxi ofendo koncernas vin , sinjoro Anselmo , kaj vi devas procesi kontraux li kaj fari je viaj kostoj .
+Cxiujn jugxajn persekutojn , por vengxi vin de lia aroganteco .
+ANSELMO=Mi ne intencas edzigxi perforte kaj postuli koron , kiu sin jam fordonis . Sed viajn interesojn mi estas preta defendi kiel miajn proprajn .
+( al la komisaro , montrante Valeron ) Kulpigu lin dece , sinjoro , kaj faru la fakton tre krima .
+HARPAGONO=Mi mokas je cxiuj tiuj rakontoj , kaj la nuna mondo estas plena da cxiuj sxtelistoj de nobleco , da cxiuj trompistoj , kiuj profitas sian nekonatecon kaj sin vestas arogante per la unua fama nomo , kiun ili intencas preni .
+VALERO=Sciu , ke mia koro estas tro alta , por=ke mi min ornamu per io , kio ne apartenas al mi , kaj tuta Napolo povas doni ateston pri mia rango .
+ANSELMO=Haltu !
+Atentu , kion vi diros .
+Vi riskas cxi=tie pli=ol vi pensas , vi parolas antaux homo , kiu konas la tutan Napolon , kaj povos facile vidi klare en la rakonto , kiun vi faros .
+ANSELMO=Sendube mi scias kaj malmultaj personoj lin konis pli bone ol mi .
+( Ekvidinte , ke du kandeloj brulas , Harpagono estingas unu ) ANSELMO=Mi petegas , lasu lin paroli , ni vidu , kion li per tio volas diri .
+VALERO=Mi volas diri , ke al li mi sxuldas la vivon .
+ANSELMO=Al li ?
+VALERO=Jes .
+ANSELMO=Iru , vi mokas .
+VALERO=Bonvolu paroli pli konvene .
+Tio=cxi ne estas trompo , kaj mi ne diras ion , kion mi ne povos facile pruvi .
+ANSELMO=Kiel !
+Vi riskas diri , ke vi estas la filo de sinjoro Tomaso=d'=Alburci .
+VALERO=Jes , mi tion riskas , kaj estas preta defendi tiun veron kontraux kiu ajn .
+ANSELMO=La kuragxo estas mirinda !
+VALERO=Jes , sed sciu , por konfuzi vin , ke lia sepjara filo , kun unu servisto , estis savita el tiu sxippereo de hispana sxipo , kaj ke tiu savita filo estas tiu mem , kiu parolas kun vi .
+Sciu , ke la sxipestro , tusxita de mia sorto , ekhavis amon por mi , li edukigis min kiel propran filon , tuj kiam mi estis kapabla je tio , la militado estis mia profesio , antaux ne longe mi eksciis , ke mia patro ne mortis , kiel mi cxiam pensis ;
+kiam mi pasis cxi=tie por iri ser- cxi lin , aventuro arangxita de la cxielo kauxzis , ke mi vidis la cxarman Elizon , tiu vido faris min sklavo de sxia beleco , kaj la forto de mia amo kaj la severeco de sxia patro instigis min preni la decidon akceptigi min en sxia domo kaj sendi alian homon por sercxi miajn gepatrojn .
+ANSELMO=Sed kiaj pluaj atestoj , krom viaj paroloj , povas certigi nin , ke tio ne estas fabelo konstruita sur vero !
+VALERO=La hispana sxipestro ;
+rubena sigelilo , kiu apartenis al mia patro ;
+agata cxirkauxmanumo , kiun mia patrino estis metinta sur mian brakon , la maljuna Pedro , tiu servisto , kiu savigxis kun mi el la sxippereo .
+MARIANO=Ha !
+El viaj paroloj mi povas cxi=tie atesti , ke vi ne mensogas , kaj cxio , kion vi diras , vidigas al mi tre klare , ke vi estas mia frato .
+VALERO=Vi , mia fratino !
+MARIANO=Jes , mia koro tusxigxis tuj de la momento , kiam vi malfermis la busxon , kaj nia patrino , kiun via vido ravos , milfoje raportis al mi pri la malfelicxoj de nia familio .
+Ankaux nin la cxielo ne lasis morti en tiu terura sxippereo ;
+sed ni nur savis nian vivon , perdante nian liberecon ;
+korsaroj ricevis mian patrinon kaj min sur fragmento de la sxipo .
+Post dekjara sklaveco , felicxa okazo redonis al ni la liberecon kaj ni revenis en Napolon , kie ni eksciis , ke nia tuta posedajxo estis vendita , kaj ni ne povis havi novajxojn pri nia patro .
+Ni pasis en Gxenovon , kie mia patrino kolektis kelkajn mizerajn restajxojn de dis- sxirita heredajxo ;
+kaj de tie , forkurante de la barbara maljusteco de siaj parencoj , sxi venis cxi tien , kie sxi nur vivas per velkinta vivo .
+ANSELMO=Ho !
+cxielo , kiaj estas la montroj de via potenco ;
+kaj kiel bone vi pruvas , ke nur al vi apartenas fari mirindajxojn !
+Kisu min , infanoj , kaj enmiksu vian gxojon kun tiu de via patro .
+VALERO=Vi estas nia patro !
+MARIANO=Pro vi mia patrino tiel longe funebris !
+ANSELMO=Jes filino , jes filo ;
+mi estas Tomaso=d'=Alburci , kiun la cxielo savis el la ondoj kun la tuta mono , kiun li portis .
+Kredinte , ke vi cxiuj mortis antaux pli=ol dekses jaroj , mi pretigxis , post longaj vojagxoj , por sercxi en edzigxo kun gxentila kaj sagxa persono la konsolon de nova familio .
+Pro manko de sendangxereco por mia vivo en Napolo , mi decidis neniam reveni tien , kaj sukcesinte vendigi tie mian tutan posedajxon , mi kutimis vivi cxi=tie , kie , sub la nomo de Anselmo , mi klopodis forigi la cxagrenojn de tiu alia nomo , kiu kauxzis al mi tiom da malfelicxoj .
+HARPAGONO ( al Anselmo ) Tiu=cxi estas via filo ?
+ANSELMO=Jes .
+ANSELMO=Li vin prisxtelis ?
+HARPAGONO=Li mem .
+VALERO=Kiu diras tion ?
+HARPAGONO=Jakobo .
+VALERO ( al Jakobo ) Cxu vi diras tion=cxi ? JAKOBO=Vi bone vidas , ke mi nenion diras .
+HARPAGONO=Jes , jen estas lia komisara mosxto , kiu jxus ricevis lian ateston .
+VALERO=Cxu vi povas kredi min kapabla je ago tiel malhonesta ?
+HARPAGONO=Kapabla aux nekapabla , mi volas rehavi mian monon .
+SCENO=VI Harpagono , Anselmo , Elizo , Mariano , Kleanto , Valero , Frozino , Komisaro , Jakobo , La Flèche KLEANTO=Ne malkvietigxu , patro , kaj ne kulpigu iun .
+Mi eksciis novajxojn pri via afero , kaj mi venas cxi tien por diri al vi , ke , se vi permesos , ke mi edzigxu kun Mariano , via mono estos redonita al vi .
+HARPAGONO=Kie gxi estas ?
+KLEANTO=Ne estu malkvieta pri tio ;
+gxi kusxas en loko , pri kiu mi respondas , kaj cxio dependas de mi sola ;
+HARPAGONO=Cxu oni nenion forprenis el gxi ?
+KLEANTO=Absolute nenion .
+Vidu , cxu vi intencas aprobi tiun geedzigxon , kaj aldoni vian konsenton al tiu de sxia patrino , kiu lasas sxin libera elekti inter ni du .
+MARIANO ( al Kleanto ) Sed vi ne scias , ke tiu konsento ne suficxas , kaj ke la cxielo , ( montrante Valeron ) samtempe kiel fraton , kiun vi vidas , jxus redonis al mi patron , ( montrante Anselmon ) kies konsenton vi devas ricevi .
+ANSELMO=La cxielo , miaj infanoj , ne redonas min al vi por kontrauxstari al viaj deziroj .
+Sinjoro Harpagono , vi komprenas ja , ke la elekto de juna frauxlino prefere falos sur la filon ol sur la patron .
+Nu , ne lasu diri al vi tion , kion ne estas necese auxdi , kaj konsentu kiel mi al tiu duobla geedzigxo .
+HARPAGONO=Por decidigxi , mi bezonas vidi mian kesteton .
+KLEANTO=Vi gxin vidos tute sanan .
+HARPAGONO=Mi havas neniun monon , por doni dote al miaj gefiloj .
+ANSELMO=Nu , mi havas suficxe da gxi por ambaux ;
+tio ne malkvietigu vin .
+HARPAGONO=Cxu vi promesas pagi cxiujn elspezojn de tiuj du geedzigxoj ?
+ANSELMO=Jes , mi promesas .
+Cxu vi estas kontentigita ?
+HARPAGONO=Jes , se nur vi pagos al mi festan veston por la geedzigxo .
+ANSELMO=Konsentite .
+Ni iru gxui la gxojon , kiun prezentas al ni cxi=tiu felicxa tago .
+KOMISARO=He , sinjoroj , atendu , mi petas , kiu pagos al mi por mia skribo ?
+HARPAGONO=Ni neniel bezonas viajn skribajxojn .
+KOMISARO=Jes , sed mi ne volas esti skribinta ilin por nenio .
+HARPAGONO ( montrante Jakobon ) Kiel pago , jen estas homo , kiun mi donas al vi por pendigo .
+JAKOBO=Ho , ve !
+Kiel do mi devas fari ?
+Pro verdiro oni min batas , kaj pro mensogo oni volas pendigi min .
+ANSELMO=Sinjoro=Harpagono , vi devas pardoni al li tiun trompon .
+HARPAGONO=Cxu vi do pagos la komisaron ?
+ANSELMO=Tiel estu !
+Ni iru rapide komuniki nian gxojon al via patrino .
+HARPAGONO=Kaj mi vidi mian karan kesteton .

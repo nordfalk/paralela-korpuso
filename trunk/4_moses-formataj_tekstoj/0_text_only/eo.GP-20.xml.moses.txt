@@ -1,0 +1,3124 @@
+LA=KOLONOJ=DE=LA=SOCIO
+Dramo en kvar aktoj
+ROLOJ :
+BURGxOJ kaj ALIAJ=LOGxANTOJ , FREMDAJ=MARISTOJ , PASAGxEROJ sur VAPORSxIPO k.t.p. .
+( La agado okazas en la domo de konsulo Bernick en eta norvega cxemara urbo .
+)
+UNUA=AKTO
+( Spaca gxarden-salono en la domo de konsulo Bernick .
+Maldekstre en la antauxo pordo kondukas al la cxambro de la konsulo ;
+pli malantauxe en la sama muro estas simila pordo .
+Meze sur la kontrauxa pordo estas pli granda enir-pordo .
+La fona muro estas preskaux tute el spegula vitro kun malferma pordo al largxa gxarden-sxtuparo , super kiu estas etendita sunsxirmilan velon .
+Sube de la sxtuparo vidigxas parto de la gxardeno , enkadrigita de krado kun mallargxa enir-pordego .
+Ekstere kaj laux la krado lauxas strato , kies kontrauxa flanko havas malgrandajn hele-koloritajn lignajn domojn .
+Estas somero kaj varma sunbrilo .
+Kelkaj homoj foje preterpasas en la strato ;
+oni haltas kaj interparolas ;
+farigxas komerco en vendejo situanta cxe la angulo k.t.p. )
+( Ene en la gxardena salono sidas cxirkaux tablo aro da sinjorinoj .
+Meze antaux la tablo sidas sinjorino Bernick .
+Cxe sxia maldekstra flanko sidas sinjorino Holt kun filino , kaj lauxvice sinjorino Rummel kaj frauxlino Rummel . Dekstre de sinjorino Bernick sidas sinjorino Lynge , frauxlino Bernick kaj Dina=Dorf .
+Cxiuj sinjorinoj estas okupataj pri manlaboro .
+Sur la tablo kusxas grandaj amasoj da duone pretigitaj kaj prettonditaj linajxoj kaj aliaj vestajxoj .
+Pli fone , cxe malgranda tablo sur kiu staras du florpotoj kaj glaso da suker-akvo , sidas adjunkto Roerlund legante el libro ore randita , tamen tiel ke nur opaj vortoj auxdigxas de la publiko .
+( Post momento venas sxipkonstruisto Auxne kviete enen tra la pordo dekstre .
+Okazas ioma interrompigxo de la legado ;
+sinjorino Bernick kapsignas al li kaj montras al la pordo maldekstre .
+Auxne trankvile iras tien kaj frapas kelkajn fojojn sur la pordon de la konsulo kviete kaj kun interspacoj .
+PLENRAJTIGITO=KRAP Cxu estas vi , kiu frapas ?
+SxIPKONSTRUISTO=AUxNE La konsulo sercxas min .
+PLENRAJTIGITO=KRAP Li faris ;
+sed ne povas akcepti Vin ;
+li transdonis al mi -L -R
+SxIPKONSTRUISTO=AUxNE Al Vi ?
+Mi preferus -L -R
+PLENRAJTIGITO=KRAP -L -R transdonis al mi diri , ke Vi devas cxesi pri tiuj sabat-tagaj prelegoj por la laboristoj .
+SxIPKONSTRUISTO=AUxNE Cxu ?
+Mi pensis ke mi povus uzi mian libertempon -L -R
+PLENRAJTIGITO=KRAP Vi ne devas uzi Vian libertempon por fari la laboristojn sentauxgaj en la labortempo .
+Lastan sabaton Vi parolis pri la damagxo , kiun la laboristoj ricevus de niaj novaj masxinoj kaj de la nova labormetodo en la sxipfarejo .
+Kial Vi tion faras ?
+SxIPKONSTRUISTO=AUxNE Tion mi faras por subteni la socion .
+PLENRAJTIGITO=KRAP Strange ! La konsulo diras , ke tio estas soci-disrompo .
+SxIPKONSTRUISTO=AUxNE Mia socio ne estas tiu de la konsulo , sinjoro plenrajtigito !
+Kiel estro de la laborista asocio mi devas -L -R
+PLENRAJTIGITO=KRAP Vi unue kaj cxefe estas laborestro de la sxipfarejo de konsulo Bernick .
+Vi unue kaj cxefe faru Vian devon al la socio , kiu nomigxas la firmao de konsulo Bernick ;
+cxar estas de tiu ke ni cxiuj vivas .
+-L Jes , nun Vi scias kion la konsulo dirus al Vi .
+SxIPKONSTRUISTO=AUxNE La konsulo ne estus tion tiel dirinta , sinjoro plenrajtigito !
+Sed mi ja komprenas kiun mi povas danki por tio=cxi .
+Estas la damnita usona averiulo .
+Tiuj homoj volas progresigi la laboron , kiel ili kutimigxis tie transe , kaj tio -R
+PLENRAJTIGITO=KRAP Nu ja , nu ja ;
+mi ne povas lasi min tirigxi enen en detalojn . Nun Vi konas la opinion de la konsulo ;
+jen suficxe ! Bonvolu returni al la farejo ;
+certe bezonigxas ;
+mi baldaux mem venos . -L Pardonu sinjorinoj !
+( Li salutas kaj eliras tra la gxardeno kaj malsupren laux la strato .
+Sxipkonstruisto Auxne eliras silente dekstre .
+La adjunkto , kiu dum la pasinta mallauxta interparolo dauxrigis la legadon , baldaux poste finlegis la libron , kaj batfermas gxin .
+)
+ADJUNKTO=ROERLUND Jen , miaj karaj auxskultantinoj , pri tio finite .
+SINJORINO=RUMMEL Oh , kia instruplena rakonto !
+SINJORINO=HOLT Kaj kun bona moralo !
+SINJORINO=BERNICK Tia libro vere donas multon pripensindan .
+ADJUNKTO=ROERLUND Ho jes ;
+gxi estas bonfara kontrauxeco al tio , kion ni bedauxrinde cxiutage povas vidi , kaj en gazetoj kaj en periodajxoj .
+Cxi=tiu sxminkita eksterajxo , kiun la grandaj socioj vidigas , -R kion gxi vere kasxas ?
+Vantecon kaj putrecon , se mi povas min tiel esprimi .
+Neniu morala fundamento sub la piedoj .
+Per unu vorto , -L ili estas kalkumitaj tombejoj , tiuj grandaj socioj nuntempe .
+SINJORINO=HOLT Jes tutcerte .
+SINJORINO=RUMMEL Ni ja nur bezonas rigardi al la usona sxipanaro , kiu nun trovigxas cxi=tie .
+ADJUNKTO=ROERLUND Nu , pri tia kanajlaro el la homaro mi ne degnas paroli .
+Sed ecx en la plej altaj tavoloj , kiel statas tie ?
+Dubo kaj fermanta maltrankvilo en cxiuj lokoj ;
+malpaco en la animoj kaj necerteco en cxiuj rilatoj .
+Kiel ja estas subfosita la familia vivo tie ?
+Kiel ja esprimas sin auxdacaj deziroj renversi ecx la plej gravajn verojn ?
+DINA ( sen suprenrigardi ) Tamen cxu ne ankaux multaj grandaj faroj okazas ?
+ADJUNKTO=ROERLUND Grandaj faroj -R ?
+Mi ne komprenas -L
+SINJORINO=HOLT ( surprizita ) Sed , Dio , Dina -R !
+SINJORINO=RUMMEL ( sammomente ) Tamen , Dina , kiel Vi do povas -L ?
+ADJUNKTO=ROERLUND Mi opinias ke ne estus sane se tiaj faroj trovis enlason cxe ni .
+Ne , ni cxi-hejme devas danki al Dio , ke statas cxe ni kiel estas .
+Certe kreskas fiherboj inter la tritiko ankaux cxi=tie , bedauxrinde ;
+sed gxin ni sincere klopodas sarki plej eble bone .
+Gravas ke ni tenu la socion pura , miaj sinjorinoj , -R teni ekstere cxion tion neprovitan , kiun senpacienca tempo volas trudi al ni .
+SINJORINO=HOLT Kaj el tio bedauxrinde trovigxas pli=ol suficxe .
+SINJORINO=RUMMEL Jes , pasintan jaron pendis de hareto , ke ni ricevus fervojon al la urbo .
+SINJORINO=BERNICK Nu , tion ja Karsten sukcesis malhelpi .
+ADJUNKTO=ROERLUND La providenco , sinjorino Bernick .
+Vi povas esti certa , ke Via edzo estis ilo en la mano de iu pli alta , kiam li rifuzis okupigxi pri tiu kaprico .
+SINJORINO=BERNICK Kaj tamen li spertis suficxe da malico el la gazetoj .
+Sed ni tute forgesas danki Vin , sinjoro adjunkto .
+Vere estas tre afable de Vi , ke Vi oferas tiom da tempo por ni .
+ADJUNKTO=ROERLUND Ho nu , nun dum la lerneja ferio -L
+SINJORINO=BERNICK Ja , ja , tamen estas ja ofero , sinjoro adjunkto .
+ADJUNKTO=ROERLUND ( lokigas sian segxon pli proksimen .
+) Ne parolu pri tio , kara sinjorino .
+Cxu Vi mem ne faras oferon por la bona afero ?
+Kaj cxu Vi gxin ne donas gxoje ? Tiuj morale koruptitaj , por kies plibonigo Vi laboras , estas rigardendaj kiel vunditaj soldatoj sur batalkampo ;
+Vi , karaj sinjorinoj estas la diakoninoj , la kompatemaj fratinoj , kiuj sxirkolektas cxarpion por tiuj malfelicxaj vunditoj , metas la bandagxon milde sur la vundon , kuracas kaj sanigas ilin -R
+SINJORINO=BERNICK Certe estas granda donaco de graco vidi cxion en tia bela lumo .
+ADJUNKTO=ROERLUND Multo estas denaska tiurilate ; sed multo eblas esti akirata .
+Gravas vidi la aferojn en la lumo de sincera vivotasko . Jes , kion nun Vi diras , frauxlino Bernick ?
+Cxu Vi ne trovis kvazaux pli sekuran fundamenton kiam Vi oferis vin al la tasko instrui ?
+FRAUxLINO=BERNICK Ahx , mi ne scias kion respondi .
+Ofte kiam mi iras tie en la lerneja cxambro , mi deziras esti ege fore sur la sovagxa maro .
+ADJUNKTO=ROERLUND Nu auxdu , estas la malkvieto , kara frauxlino .
+Sed kontraux tiaj maltrankvilaj gastoj oni devas fermi la pordon . La sovagxa maro , -L tion Vi kompreneble ne pensas litere ;
+Vi pensas pri la granda ondanta homa socio , kie multaj submergigxas .
+Kaj cxu Vi vere tiom alte taksas la vivon , kiun Vi auxdas zumi kaj brui ekstere ?
+Rigardu nur la straton .
+Tie la homoj iras en la sunbrulo , sxvitantaj kaj baraktantaj kun siaj etaj aferoj .
+Por ni vere estas pli kontentige sidi malvarmete cxi=tie interne turnante la dorson al tiu flanko , de kie venas la perturbo .
+FRAUxLINO=BERNICK Jes , Dio , vi ja eble tute pravas -R
+ADJUNKTO=ROERLUND Kaj en domo kia tiu=cxi , -L en bona kaj pura hejmo , kie la familia vivo montras sin en la plej bela aspekto , -R kie paco kaj konkordo regas -L -R ( al sinjorino Bernick ) Al kio Vi auxskultas , sinjorino ?
+SINJORINO=BERNICK ( turnita al la plej antauxa pordo maldekstre ) Kiel lauxtvocxaj ili farigxas tie interne .
+ADJUNKTO=ROERLUND Cxu io aparte okazas ?
+SINJORINO=BERNICK Mi ne scias .
+Mi auxdas ke estas iuj ene cxe mia edzo .
+( Hilmar=Toennesen , kun cigaro en la busxo , envenas tra la pordo dekstre , sed haltas je la vido de tiom da sinjorinoj .
+)
+SINJORINO=BERNICK Ne , Hilmar , proksimu do ;
+vi ne gxenas . Cxu vi ion volas ?
+HILMAR=TOENNESEN Ne , mi nur volis enrigardi .
+Saluton , sinjorinoj .
+( al sinjorino Bernick ) Nu , kio do farigxos ?
+SINJORINO=BERNICK Pri kio ?
+HILMAR=TOENNESEN Bernick estas ja kunvokinta kunvenon .
+SINJORINO=BERNICK Cxu ?
+Pri kio do ?
+HILMAR=TOENNESEN Ho , estas ja denove tiu fervoj-sensencajxo .
+SINJORINO=RUMMEL Ne , cxu eblas ?
+SINJORINO=BERNICK Bedauxrinda Karsten , cxu li havu ecx pliajn malagrablajxojn -R
+ADJUNKTO=ROERLUND Sed kiel ni komprenu tion=cxi , sinjoro Toennesen ?
+Konsulo Bernick jam lastan jaron konigis , ke li ne volas havi iun fervojon .
+HILMAR=TOENNESEN Jes , tion ankaux mi opinias ;
+sed mi renkontis plenrajtigiton Krap , kaj li rakontis , ke la fervoja afero denove traktigxos , kaj ke Bernick havas kunvenon kun tri el la monhavantoj en la urbo .
+SINJORINO=RUMMEL Jes , cxu ne estas kiel sxajnis al mi , ke mi auxdis la vocxon de Rummel .
+HILMAR=TOENNESEN Jes , kompreneble Rummel kunestas , kaj ankaux komercisto Sandstad el la deklivo kaj Mikkel=Vigeland , -L Mikelo Sanktulo , kiel oni nomas lin .
+ADJUNKTO=ROERLUND Hm -R
+HILMAR=TOENNESEN Pardonu , sinjoro adjunkto .
+SINJORINO=BERNICK Kaj nun estis ja tie=cxi tiel bone kaj trankvile .
+HILMAR=TOENNESEN Nu ja , miaparte mi ne bedauxrus , ke ili komencus denove kvereli .
+Estus ja ioma amuzado .
+ADJUNKTO=ROERLUND Nu , tiajn amuzadojn mi pensas , ke oni povas senesti .
+HILMAR=TOENNESEN Tio estas laux natura emo .
+Certaj naturoj bezonas foje sxirantaj bataloj .
+Sed de tio la etburgxa vivo ne havas multe oferenda , kaj ne estas por cxiu donita -L ( foliumas la libron de la adjunkto ) La virino kiel la servantino de la socio .
+Kia sensencajxo estas tio ?
+SINJORINO=BERNICK Dio , Hilmar , tion vi ne diru .
+Vi sendube ne legis tiun libron .
+HILMAR=TOENNESEN Ne kaj mi ne intencas legi gxin .
+SINJORINO=BERNICK Vi versxajne ne bone fartas hodiaux .
+HILMAR=TOENNESEN Ne , mi ne fartas .
+SINJORINO=BERNICK Cxu vi eble ne bone dormis cxi-nokte ?
+HILMAR=TOENNESEN Ne , mi dormis vere malbone .
+Mi faris promenadon hieraux vespere pro mia malsano .
+Poste mi pasxadis al la klubo kaj legis vojagxpriskribon pri la norda poluso .
+Estas io hardanta en tio sekvi la homojn en ilia lukto kontraux la elementoj .
+SINJORINO=RUMMEL Sed tio ne bone efikis al Vi , sinjoro Toennesen .
+HILMAR=TOENNESEN Ne ;
+gxi malbone efikis ; la tutan nokton mi turnadis duondorme songxante , ke min persekutis abomena rosmaro .
+OLAF ( kiu envenis supre sur la gxardena sxtuparo ) Cxu persekutis vin rosmaro , onklo ?
+HILMAR=TOENNESEN Mi tion songxis , vi stultulo !
+Sed cxu vi dauxre cxirkauxiras ludante per tiu ridinda arko ?
+Kial vi ne havigis al vi veran pafilon ?
+OLAF Jes , mi volus , sed -R
+HILMAR=TOENNESEN Cxar vera pafilo , tiu do havas iun sencon ;
+cxiam estas io nervostrecxa kiam oni estas pafonta .
+OLAF Kaj tiam mi povus pafi ursojn , onklo .
+Sed patro ne permesos al mi .
+SINJORINO=BERNICK Vi ne devas meti tiajxojn en lian kapon , Hilmar .
+HILMAR=TOENNESEN Hm , -L tiela parencaro edukigxas hodiaux !
+Oni parolas pri sporto kaj sporto , -R Ho Dio , -L sed cxio estas nur ludo ;
+neniam serioza urgxo al tio hardanta , kio trovigxas en kuragxa renkonto okulon al okulo antaux la dangxero .
+Ne staru celante al mi per la arko , vi stultulo ; vi povus malpreni .
+OLAF Ne , onklo , gxi ne havas sagon .
+HILMAR=TOENNESEN Vi ne povas scii ; gxi tamen povas havi sagon .
+Forprenu gxin , mi diras !
+-R Kial pro diablo vi neniam vojagxis transen al Ameriko en iu el la sxipoj de via patro ?
+Tie vi povus vidi cxason al bizonoj aux lukto kontraux la rugxuloj .
+SINJORINO=BERNICK Tamen Hilmar do -L
+OLAF Tion mi volonte farus , onklo ;
+kaj eble mi renkontus onklon Johan kaj onklinon Lona .
+HILMAR=TOENNESEN Hm -R ;
+sensencajxo .
+SINJORINO=BERNICK Nun vi povas reen iri en la gxardenon , Olaf .
+OLAF Panjo , cxu mi ankaux povos eliri sur la straton ?
+SINJORINO=BERNICK Jes ;
+sed ne tro foren . ( Olaf kuras elen tra la kradpordo .
+)
+ADJUNKTO=ROERLUND Vi ne devus meti tiajn kapricojn en la kapon de la infano , sinjoro Toennesen .
+HILMAR=TOENNESEN Ne , kompreneble , li devas iri cxi=tie kaj farigxi fornosidulo , kiel tiom da aliuloj .
+ADJUNKTO=ROERLUND Sed kial Vi mem ne transvojagxos ?
+HILMAR=TOENNESEN Mi ?
+Kun mia malsano ?
+Nu , tio komprenigxas ; gxin oni ne multe konsideras en la urbo .
+Sed tamen , -L oni havas ja certajn devojn al la socio al kiu oni apartenas .
+Devas almenaux esti iuj kiuj tenas la standardon alte .
+Usx , nun li denove krias !
+LA=SINJORINOJ Kiu krias ?
+HILMAR=TOENNESEN Nu ja , mi ne scias .
+Ili estas iom lauxtvocxaj tie interne , kaj tio igas min nervoza .
+SINJORINO=RUMMEL Certe estas mia edzo , sinjoro Toennesen .
+Sed mi diru al Vi , li tiom kutimigxis paroli en grandaj kunvenoj -R
+ADJUNKTO=ROERLUND Ankaux la aliaj ne estas mallauxtaj , sxajnas al mi .
+HILMAR=TOENNESEN Ne , Dio gardu , kiam temas pri defendo de la monujo , jen -L ;
+cxio ja rezultas en kalkulo de bagatelajxoj cxi=tie .
+Usx !
+SINJORINO=BERNICK Estas almenaux pli bone ol pasinte , kiam cxio foruzigxis en amuzadoj .
+SINJORINO=LYNGE Cxu vere estis tiel malbone pasinte ?
+SINJORINO=RUMMEL Jes , Vi kredu , sinjorino Lynge .
+Nomu Vin felicxa , ke Vi tiam ne logxis cxi=tie .
+SINJORINO=HOLT Jes , vere okazis sxangxoj ! Ho , kiam mi pensas pri miaj knabinaj tagoj -R
+SINJORINO=RUMMEL Ho pensu nur antaux dekkvar -L dekkvin jaroj .
+Dio gardu nin kia vivo estis cxi=tie !
+Tiam ekzistis kaj la pilk-klubo kaj la muzik-asocio -R
+FRAUxLINO=BERNICK Kaj la drama-asocio .
+Gxin mi bone memoras .
+SINJORINO=RUMMEL Jes , estas tie ke via teatrajxo prezentigxis , sinjoro Toennesen .
+HILMAR=TOENNESEN ( iras al la fono ) Nu , kio , kio -L !
+ADJUNKTO=ROERLUND Teatrajxo de studento Toennesen ?
+SINJORINO=RUMMEL Jes , estis longe antaux=ol Vi venis cxi tien , sinjoro adjunkto .
+Cetere gxi prezentigxis nur unu fojon .
+SINJORINO=LYNGE Cxu ne estis en tiu teatrajxo , ke Vi aktoris kiel amorantino , laux kio Vi diris , sinjorino Rummel ?
+SINJORINO=RUMMEL ( ekrigardas post la adjunkto ) Mi ?
+Tion mi vere ne memoras , sinjorino Lynge . Sed mi bone memoras la bruantaj sociaj arangxoj en la familioj .
+SINJORINO=HOLT Jes , mi ecx scias pri la domoj , kie ili prezentis du grandajn tagmangxojn semajne .
+SINJORINO=LYNGE Kaj ankaux venis cxi tien vojagxanta aktor-grupo lauxdire .
+SINJORINO=RUMMEL Jes , tio estis ja la plej malbona -R !
+SINJORINO=HOLT ( maltrankvila ) Hm , hm -L
+SINJORINO=RUMMEL Nu , aktoroj ?
+Ne , tion mi tute ne memoras .
+SINJORINO=LYNGE Jes , tiuj homoj lauxdire faris tiom da petolajxoj .
+Kiel efektive statas pri tiuj historioj ?
+SINJORINO=RUMMEL Ho , vere estas nenio , sinjorino Lynge .
+SINJORINO=HOLT Kara Dina , donu al mi tiun linajxon .
+SINJORINO=BERNICK ( samtempe ) Kara Dina , eliru kaj petu al Katrine enporti la kafon .
+FRAUxLINO=BERNICK Mi iru kun vi , Dina . ( Dina kaj frauxlino Bernick eliras tra la plej supera pordo maldekstre .
+)
+SINJORINO=BERNICK ( ekstaras ) Kaj nun vi pardonu al mi momenton , miaj sinjorinoj ;
+mi pensas , ke ni trinku kafon tie ekstere . ( Sxi eliras sur la gxardenan sxtuparon kaj pretigas tablon ;
+la adjunkto staras cxe la pordo kaj parolas kun sxi .
+Hilmar=Toennesen sidas tie ekstere fumante .
+)
+SINJORINO=RUMMEL ( mallauxte ) Dio , sinjorino Lynge , kiel Vi timigis min !
+SINJORINO=LYNGE Mi ?
+SINJORINO=HOLT Jes , sed estis ja Vi mem kiu komencis , sinjorino Rummel .
+SINJORINO=RUMMEL Mi ?
+Ne , kiel Vi povas tion diri , sinjorino Holt ?
+Venis ecx ne vivanta vorto el mia busxo .
+SINJORINO=LYNGE Sed kio do estas ?
+SINJORINO=RUMMEL Kiel povis Vi komenci paroli -R !
+Pensu , -L cxu Vi ne vidis , ke Dina cxeestas ?
+SINJORINO=LYNGE Dina ?
+Sed Dio gardu , cxu estas io pri -R ?
+SINJORINO=HOLT Kaj ecx gxuste en tiu=cxi domo !
+Cxu Vi do ne scias , ke estis la frato de sinjorino Bernick -L ?
+SINJORINO=LYNGE Cxu li ?
+Mi ja scias nenion ;
+mi estas ja tute nova -R
+SINJORINO=RUMMEL Cxu Vi do ne auxdis ke -L ?
+Hm -R ( al la filino ) Iru en la gxardenon , vi Hilda .
+SINJORINO=HOLT Kaj ankaux vi , Netta .
+Kaj estu gxentilaj al la bedauxrinda Dina , kiam sxi revenas . ( Frauxlino Rummel kaj frauxlino Holt eliras en la gxardenon .
+)
+SINJORINO=LYNGE Nu , kio do estis pri la frato de sinjorino Bernick ?
+SINJORINO=RUMMEL Cxu Vi ne scias ke li estis tiu en la terura afero ?
+SINJORINO=LYNGE Cxu studento Toennesen estis en terura afero ?
+SINJORINO=RUMMEL Ne , je Dio , la studento estas ja sxia kuzo , sinjorino Lynge .
+Mi parolas pri la frato -L
+SINJORINO=HOLT -R la perditulo Toennesen -L
+SINJORINO=RUMMEL Johan li nomigxis .
+Li fugxis al Ameriko .
+SINJORINO=HOLT Devis fugxi , pripensu .
+SINJORINO=LYNGE Kaj li do estis en terura afero ?
+SINJORINO=RUMMEL Jes , estis io tia -R ;
+kiel mi do nomu gxin ?
+Estis io pri la patrino de Dina .
+Ho , mi memoras kvazaux tio estus hodiaux .
+Johan Toennesen tiam estis en la oficejo de maljuna sinjorino Bernick ;
+Karsten Bernick jxus estis veninta de Parizo , -L ankoraux ne estis fiancxigxinta -R
+SINJORINO=LYNGE Nu , sed tiu terura historio ?
+SINJORINO=RUMMEL Jes , vidu , -L tiun vintron la aktora trupo de Moeller cxeestis en la urbo -R
+SINJORINO=HOLT -L kaj en tiu trupo estis la aktoro Dorf kaj lia edzino .
+Cxiuj junaj homoj profunde cxarmigxis de sxi .
+SINJORINO=RUMMEL Jes , Dio scias kiel ili povis trovi , ke sxi estas bela .
+Sed jen la aktoro Dorf revenis hejmen malfrue iun vesperon -R
+SINJORINO=HOLT -L tute neatendite -R
+SINJORINO=RUMMEL -L Kaj li trovas -R ; ne ; tio vere ne estas rakontinda .
+SINJORINO=HOLT Ne , sinjorino Rummel , li trovis nenion , cxar la pordo estis sxlosita interne .
+SINJORINO=RUMMEL Jes , estas ja tio kion mi diras ; li trovis la pordon sxlosita .
+Kaj pensu , sinjorino , tiu , kiu estis interne , devas salti tra la fenestro .
+SINJORINO=HOLT Tute supre de mansardo !
+SINJORINO=LYNGE Kaj tiu estis la frato de sinjorino Bernick ?
+SINJORINO=RUMMEL Jes , efektive estis .
+SINJORINO=LYNGE Kaj post tio li fugxis al Ameriko ?
+SINJORINO=HOLT Jes , li ja devis fugxi , komprenu .
+SINJORINO=RUMMEL Cxar poste malkovrigxis io preskaux same malbona ;
+imagu , li estis atencinta la kason -L
+SINJORINO=HOLT Sed tion oni ne certe scias , sinjorino Rummel ;
+eble estis nur onidiroj .
+SINJORINO=RUMMEL Sed nun auxdu do -R !
+Cxu tio ne estis konata en la tuta urbo ?
+Cxu maljuna sinjorino Bernick ne preskaux bankrotis pro tiu afero ?
+Tion mi ja auxdis de Rummel mem . Sed Dio gardu mian busxon .
+SINJORINO=HOLT Nu , al sinjorino Dorf la mono almenaux ne iris , cxar sxi -L
+SINJORINO=RUMMEL Ja , Dorf forvojagxis de edzino kaj de infanoj .
+Sed la sinjorino tamen estis tiel auxdaca resti cxi=tie tutan jaron .
+Montri sin en la teatro sxi ne=plu kuragxis ; sed sxi vivtenis sin lavante kaj kudrante por homoj -R
+SINJORINO=HOLT Kaj sxi provis komenci danc-lernejon .
+SINJORINO=RUMMEL Tio kompreneble ne sukcesis .
+Kiuj gepatroj volus konfidi siajn infanojn al iu tia ?
+Sed ne dauxris longe pri sxi ;
+la bela sinjorino ne estis kutimita al laboro ;
+kaptigxis sxia brusto , kaj sxi mortis .
+SINJORINO=LYNGE Hu , estas vere teruraj historioj !
+SINJORINO=RUMMEL Jes , kredu , estis severe elteni por la familio Bernick .
+Estas la malluma makulo en la suno de ilia felicxo , kiel Rummel iam esprimis sin .
+Tial neniam parolu pri tiuj aferoj cxi=tie en la domo , sinjorino Lynge .
+SINJORINO=HOLT Kaj pro Dio ankaux ne pri la duonfratino !
+SINJORINO=LYNGE Jes , sinjorino Bernick havas ja ankaux duonfratinon ?
+SINJORINO=RUMMEL Havis -L felicxe ; cxar nun la parenceco certe estas finita inter la du .
+Jes , sxi estis iu precipa !
+Imagu , sxi fortondis la harojn , kaj iris en viraj botoj en pluva vetero .
+SINJORINO=HOLT Kaj kiam la duonfrato -R la perdita subjekto -L estis forkurinta , kaj la tuta urbo kompreneble sxokigxis pro li , -R cxu Vi scias kion sxi tiam faras ?
+Sxi vojagxas transen al li !
+SINJORINO=RUMMEL Jes , kaj la skandalo , kiun sxi faris antaux=ol forvojagxi , sinjorino Holt !
+SINJORINO=HOLT Tsxsx , ne parolu pri tio .
+SINJORINO=LYNGE Dio , cxu sxi ankaux faris skandalon ?
+SINJORINO=RUMMEL Jes , nun Vi auxdu , sinjorino Lynge .
+Bernick estis jxus sin fiancxigxinta al Betty=Toennesen ; kaj gxuste kiam li venis kun sxi cxe la brako enen al sxia onklino por informi -L
+SINJORINO=HOLT La gefratoj Toennesen estis orfaj , Vi sciu -R
+SINJORINO=RUMMEL -L kaj Lona=Hessel ekstaras de la segxo kie sxi sidas , kaj donas al la gxentila , kulturita Karsten=Bernick vangofrapon , ke resonis en li .
+SINJORINO=LYNGE Ne , nun mi neniam -R !
+SINJORINO=HOLT Estas tute certe .
+SINJORINO=RUMMEL Kaj sxi pakis sian kofron kaj forvojagxis al Ameriko .
+SINJORINO=LYNGE Sed do sxi ja mem estus havinta inklinon al li .
+SINJORINO=RUMMEL Jes , kredu ke sxi havis .
+Sxi imagis ke farigxus paro el tiuj du , kiam li revenus el Parizo .
+SINJORINO=HOLT Jes , imagu , ke sxi kredus tiajxon !
+Bernick , -L tiu juna bonkonduta grandmonda sinjoro , -R perfekta galantulo , -L favorato de cxiuj virinoj -R
+SINJORINO=RUMMEL -L kaj tamen deca , sinjorino Holt ; kaj tiel morala .
+SINJORINO=LYNGE Sed pri kio okupigxis tiu frauxlino Hessel en Ameriko ?
+SINJORINO=RUMMEL Nu , vidu , super tio kusxas , kiel Rummel iam esprimis sin , vualo , kiu ne estas levinda .
+SINJORINO=LYNGE Kion tio signifas ?
+SINJORINO=RUMMEL Sxi ja ne=plu havas iun rilaton kun la familio , Vi komprenu ;
+sed tiom scias ja la tuta urbo , ke sxi kantis por mono en la gastejoj tie -R
+SINJORINO=HOLT -L kaj sxi faris prelegojn en la salonoj -R
+SINJORINO=RUMMEL -L kaj sxi eldonis nenormalan libron .
+SINJORINO=LYNGE Cxu vere -R !
+SINJORINO=RUMMEL Ho jes , Lona=Hessel efektive estas unu el la sunmakuloj en la familia felicxo de la Bernikoj .
+Sed nun Vi ja scias pri la aferoj , sinjorino Lynge .
+Je Dio , mi nur parolis pri tio=cxi , por=ke Vi gardu Vin .
+SINJORINO=LYNGE Jes , pri tio Vi povas esti certa ke mi faru .
+-L Sed tiu bedauxrinda Dina=Dorf !
+Mi vere sentas bedauxron por sxi .
+SINJORINO=RUMMEL Nu , por sxi estis ja pura felicxo .
+Imagu se sxi restus en la manoj de la gepatroj !
+Ni cxiuj kompreneble zorgis pri sxi , admonis sxin plej eble bone .
+Post ioma tempo frauxlino Bernick decidigis , ke sxi venu en cxi=tiun domon .
+SINJORINO=HOLT Sed malfacila infano sxi cxiam estis .
+Imagu , -R cxiuj la malbonaj ekzemploj .
+Tia infano ja ne estas kiel unu el niaj propraj ;
+oni devas preni sxin per la bono , sinjorino Lynge .
+SINJORINO=RUMMEL Tsxsx , -L jen sxi .
+( lauxte ) Jes , tiu Dina vere estas diligenta knabino .
+Nu , cxu vi venas , Dina ?
+Ni sidas cxi=tie formetante la kudrajxojn .
+SINJORINO=HOLT Ho , kiel bonodoras via kafo , dolcxa Dina .
+Tia antauxtagmeza taso da kafo -R
+SINJORINO=BERNICK ( ekstere sur la gxardena sxtuparo ) Bonvolu , sinjorinoj ! ( Frauxlino Bernick kaj Dina estas jam helpinta al la servistino enporti la kafajxojn .
+Cxiuj sinjorinoj prenas lokon tie ekstere ; ili parolas supermezure amike al Dina .
+Iom poste sxi iras en la salonon kaj sercxas sian manlaboron .
+)
+SINJORINO=BERNICK ( ekstere apud la kafotablo ) Dina , cxu ne ankaux vi -L ?
+DINA Ne , dankon ;
+mi ne volas .
+( Sxi eksidas kun sia kudrajxo . Sinjorino=Bernick kaj la adjunkto intersxangxas kelkajn vortojn ;
+momenton poste li eniras en la salonon .
+)
+ADJUNKTO=ROERLUND ( improvizas pretekston por iri al la tablo kaj diras mallauxte : ) Dina .
+DINA Jes .
+ADJUNKTO=ROERLUND Kial Vi ne volas sidi tie ekstere ?
+DINA Kiam mi envenis kun la kafo , mi povis vidi sur la fremda sinjorino , ke ili estis parolintaj pri mi .
+ADJUNKTO=ROERLUND Kaj cxu Vi ne ankaux vidis , kiel amike sxi kondutis al Vi tie ekstere ?
+DINA Sed tion mi ne toleras !
+ADJUNKTO=ROERLUND Vi havas obstinan animon , Dina .
+DINA Jes .
+ADJUNKTO=ROERLUND Sed kial Vi kondutas tiel ?
+DINA Mi ne estas alia .
+ADJUNKTO=ROERLUND Cxu Vi ne povus konduti alimaniere ?
+DINA Ne .
+ADJUNKTO=ROERLUND Kial ne ?
+DINA ( rigardas lin ) Mi ja apartenas al la morale perdituloj .
+ADJUNKTO=ROERLUND Fi , Dina !
+DINA Ankaux patrino apartenis al la morale perdituloj .
+ADJUNKTO=ROERLUND Kiu parolis al Vi pri tiajxoj ?
+DINA Neniuj ;
+ili neniam parolas .
+Kial ili tion ne faras ?
+Cxiuj ili kondutas al mi tiel konvene , kvazaux mi rompigxus , se -R .
+Ho , kiom mi malamas tiun bonkorecon .
+ADJUNKTO=ROERLUND Kara Dina , mi bone komprenas , ke Vi sentas premon cxi=tie , sed -L
+DINA Jes , se mi povus iri longe foren .
+Mi certe helpus min mem antauxen , se mi ne vivus inter homoj , kiuj estas tiel -R tiel -L
+ADJUNKTO=ROERLUND Kiel kiaj ?
+DINA Tiel decaj kaj tiel moralaj .
+ADJUNKTO=ROERLUND Tamen Dina , tion Vi ne pensas .
+DINA Ho , Vi bone komprenas kiel mi pensas .
+Cxiun tagon Hilda kaj Netta venas , por=ke mi prenu ilin kiel modelojn .
+Mi neniam povos farigxi tiel deca kiel ili .
+Mi ne volas tiel farigxi .
+Ho , se mi estus longe fore , mi certe farigxus sagxa .
+ADJUNKTO=ROERLUND Vi ja estas sagxa , kara Dina .
+DINA Kiel tio helpas min cxi=tie ?
+ADJUNKTO=ROERLUND Do vojagxi -R .
+Cxu Vi pensas serioze pri tio ?
+DINA Mi ne restus tagon pli longe , se Vi ne estus .
+ADJUNKTO=ROERLUND Diru Dina , -L kial Vi vere tiel volonte estas kune kun mi ?
+DINA Cxar Vi lernigas al mi tiom da belajxoj .
+ADJUNKTO=ROERLUND Belajxoj ?
+Cxu Vi nomas tion kion mi povas lernigi al Vi belajxoj ?
+DINA Jes .
+Aux vere -R Vi lernigas al mi ion ;
+sed kiam mi auxdas vin paroli , mi ekrigardas tiom da belajxoj .
+ADJUNKTO=ROERLUND Kio do estas por Vi belajxo ?
+DINA Tion mi neniam pripensis .
+ADJUNKTO=ROERLUND Pripensu do nun .
+Kio do estas por Vi belajxo ?
+DINA Belajxo estas io granda -L kaj tre fora .
+ADJUNKTO=ROERLUND Hm. -R Kara Dina , mi kore sentas zorgon pro Vi .
+DINA Nur tio ?
+ADJUNKTO=ROERLUND Vi certe bone scias kiel nedireble kara Vi estas por mi .
+DINA Se mi estus Hilda=aux=Netta , Vi ne timus observigi tion al aliuloj .
+ADJUNKTO=ROERLUND Ho Dina , Vi ne povas facile prijugxi la mil konsiderojn -L .
+Kiam viro estas starigita kiel morala subteno por la socio en kiu li vivas , jen -R ; oni ne povas esti tro singardema .
+Se mi nur estus certa , ke oni gxuste komprenus kaj interpretus miajn motivojn -L .
+Sed egale ;
+Vi devas esti kaj estos helpata supren .
+Dina , cxu estas interkonsento , ke kiam mi venos -R kiam la kondicxoj permesos al mi veni -L kaj mi diros : jen mia mano , -R Vi volos akcepti gxin kaj farigxi mia edzino ?
+-L Cxu Vi tion promesas al mi Dina ?
+DINA Jes .
+ADJUNKTO=ROERLUND Dankon , dankon !
+Cxar ankaux por mi -R . Ho Dina , mi tenas Vin kara -L .
+Tsxsx ;
+iu venas .
+Dina , pro mi , -R eliru al la aliuloj . ( Sxi eliras al la kafotablo .
+En la sama momento venas grandkomercisto Rummel , komercisto Sandstad kaj komercisto Vigeland el la antauxa cxambro maldekstre , sekvataj de konsulo Bernick , kiu tenas amaseton da paperoj en la mano .
+)
+KONSULO=BERNICK Nu ; do la afero estas decidita .
+KOMERCISTO=VIGELAND Jes , je la nomo de Dio , lasu gxin nun tia .
+GRANDKOMERCISTO=RUMMEL Gxi estas decidita , Bernick !
+Vorto de norvego staras fikse kiel la rokoj de la Dovre montaro , tion vi scias !
+KONSULO=BERNICK Kaj neniu perfidos ; neniu retiros sin , kia ajn opozicio ni renkontos .
+GRANDKOMERCISTO=RUMMEL Ni staras kaj falas kune , Bernick !
+HILMAR=TOENNESEN ( kiu venas de la gxardena pordo ) Falas ?
+Permesu , cxu ne estas la fervojo , kiu falas ?
+KONSULO=BERNICK Ne , kontrauxe , gxi estos iranta -L
+GRANDKOMERCISTO=RUMMEL -R per vaporo , sinjoro Toennesen .
+HILMAR=TOENNESEN ( pli proksime ) Cxu ?
+ADJUNKTO=ROERLUND Kiel ?
+SINJORINO=BERNICK ( cxe la gxardena pordo ) Sed , kara Karsten , kio do vere estas -L ?
+KONSULO=BERNICK Ho , kara Betty , kiel tio do interesas vin ?
+( al la tri sinjoroj ) Sed nun ni devas ellabori la listojn , ju pli frue , des pli bone .
+Estas memsekvo , ke ni kvar subskribas unue .
+La pozicio , kiun ni havas en la socio , devigas nin strecxi nin tiel foren kiel eblas .
+KOMERCISTO=SANDSTAD Kompreneble , sinjoro konsulo .
+GRANDKOMERCISTO=RUMMEL Farigxos , Bernick ;
+jxurite .
+KONSULO=BERNICK Jes ja , mi ne dubas pri la rezulto .
+Ni devas agi cxiu en sia rondo de konatuloj ;
+kaj se ni fine povos montri al vigla partopreno en cxiuj tavoloj de la socio , sekvos de si mem , ke ankaux la komunumo devos kontribui .
+SINJORINO=BERNICK Tamen , Karsten , vi nepre devas veni por rakonti al ni -R
+KONSULO=BERNICK Ho kara Betty , estas io en kio sinjorinoj ne povas trovi komprenon .
+HILMAR=TOENNESEN Vi tamen zorgos pri la fervoja afero ?
+KONSULO=BERNICK Jes , kompreneble .
+ADJUNKTO=ROERLUND Sed lastan jaron , sinjoro konsulo -L ?
+KONSULO=BERNICK Lastan jaron estis tute alia afero .
+Tiam temis pri marborda linio -R
+KOMERCISTO=VIGELAND -L kiu estus tute superflua , sinjoro adjunkto ;
+cxar ni ja havas vapor-sxipojn -R
+KOMERCISTO=SANDSTAD -L kaj kiu farigxus ekstreme multekosta , -R
+GRANDKOMERCISTO=RUMMEL -L jes kaj kiu malutilus al gravaj interesoj en nia urbo .
+KONSULO=BERNICK La esenca afero estis , ke gxi ne utilus al la pli granda socio .
+Tial mi kontrauxis gxin , kaj tial la intern-landa linio elektigxis .
+HILMAR=TOENNESEN Jes , sed tiu ne tusxos la urbojn en nia regiono .
+KONSULO=BERNICK Gxi tusxos nian urbon , mia kara Hilmar ; cxar nun ni konstruos flankan fervojon cxi tien .
+HILMAR=TOENNESEN Aha ; nova elpensajxo do .
+GRANDKOMERCISTO=RUMMEL Jes , cxu ne estas bonega elpensajxo ?
+Cxu ?
+ADJUNKTO=ROERLUND Hm -R
+KOMERCISTO=VIGELAND Ne estas neinde , ke la providenco arangxis la terenon por flanka fervojo .
+ADJUNKTO=ROERLUND Cxu vere ke tiel estas , sinjoro Vigeland ?
+KONSULO=BERNICK Jes , mi devas konfesi , ke ankaux mi rigardas tion kiel providencan arangxon , ke mi cxi=tiun printempon veturis lauxvale en komerco , kaj hazarde mi venis en valon , kie mi neniam antauxe estis .
+Frapis min kvazaux fulmo , ke tie ni povus konstrui flankan fervojon al ni .
+Mi dungis ingxenieron por inspekti la terenon ;
+jen mi havas la intertempajn kalkulojn kaj taksojn ;
+nenio kontrauxas . SINJORINO=BERNICK ( dauxre kune kun la sinjorinoj cxe la gxardena pordo ) Sed , kara Karsten , ke vi tenis cxion tion kasxita por ni .
+KONSULO=BERNICK Ho , mia bona Betty , vi tamen ne povus kapti la veran konekson .
+Cetere mi ne priparolis tion al iu ajn vivanta homo antaux hodiaux .
+Sed nun la decida momento venis ; nun ni agu nekasxite kaj plenforte .
+Jes , ecx se mi metu cxiun mian ekziston sur tiun aferon , mi realigu gxin .
+GRANDKOMERCISTO=RUMMEL Ni kune , Bernick ;
+pri tio vi fidu .
+ADJUNKTO=ROERLUND Cxu Vi do atendas tiom multe el tiu=cxi entrepreno , sinjoroj ?
+KONSULO=BERNICK Jes , tion mi devus pensi .
+Kia levstango tio estu por nia tuta socio !
+Imagu nur la vastajn arbarejojn , kiuj farigxos atingeblaj ;
+imagu la ricxajn erc-ejojn , kiujn ni povos ekspluati ;
+imagu la riveron kun aro da akvofaloj lauxvice en la valo !
+Kia fabrikado tie povos esti efektivigata !
+ADJUNKTO=ROERLUND Kaj vi ne timas , ke pli ofta interrilato kun malvirta ekstera mondo -L ?
+KONSULO=BERNICK Ne ; estu tute trankvila , sinjoro adjunkto .
+Nia eta laborema loko kusxas , lauxdo al Dio , nuntempe sur sana morala fundo ;
+ni ja cxiuj kunhelpis por dreni gxin , se mi rajtas tion diri ;
+kaj tion ni faros estonte , cxiu siamaniere .
+Vi , sinjoro adjunkto dauxrigos Vian benoricxan agadon en la lernejo kaj en la hejmoj .
+Ni , la homoj de la praktika laboro , subtenas la socion disvastigante bonfarton en plej eble vastan rondon ; -R kaj niaj virinoj , -L jes , nur proksimigxu , miaj sinjorinoj ;
+SINJORINO=BERNICK Ho , nun dum la feritagoj ne eblas teni lin hejme .
+KONSULO=BERNICK Do li certe estas malsupre cxe la maro !
+Vidu , li ne finos antaux=ol okazos akcidento .
+HILMAR=TOENNESEN Bah -L eta ludo kun la naturfortoj -R
+SINJORINO=RUMMEL Kiel bele de Vi , ke Vi havas tiom da familia sento , sinjoro Bernick .
+KONSULO=BERNICK Nu , la familio estas ja la kerno de la socio .
+Bona hejmo , honestaj kaj fidelaj amikoj , eta dense kunligita rondo , kie neniuj maltrankviligaj elementoj enjxetas sian ombron -L
+( Plenrajtigito=Krap envenas de dekstre kun leteroj kaj gazetoj .
+)
+PLENRAJTIGITO=KRAP Eksterlandaj posxtajxoj , sinjoro konsulo ;
+-R kaj telegramo el New York . KONSULO=BERNICK ( prenas ) Ah , de la sxipa societo de Indian Girl .
+GRANDKOMERCISTO=RUMMEL Nu , la posxto venis ?
+Jes , do mi petas permeson .
+KOMERCISTO=VIGELAND Jes , ankaux mi .
+KOMERCISTO=SANDSTAD Adiaux , sinjoro konsulo .
+KONSULO=BERNICK Adiaux , adiaux , miaj sinjoroj .
+Kaj memoru do nian kunvenon hodiaux posttagmeze je la kvina . LA=TRI=SINJOROJ Jes ; bone ;
+kompreneble . ( Ili foriras dekstre .
+)
+KONSULO=BERNICK ( Li legis la telegramon ) Ne , tio=cxi estas vere pure usona !
+Vere sxoka -L
+SINJORINO=BERNICK Dio , Karsten , kio estas ?
+KONSULO=BERNICK Jen , vidu , sinjoro Krap ;
+legu !
+PLENRAJTIGITO=KRAP ( legas ) Faru nur plej etan riparon , sendu Indian=Girl transen tuj kiam flosebla ;
+bona sezono ; okaze nagxas sur la kargo .
+" Nu , tion mi diru -R
+KONSULO=BERNICK Nagxas sur la kargo !
+Tiuj sinjoroj bone scias , ke kun tia kargo la sxipo sinkos funden kiel sxtono , se io okazos .
+ADJUNKTO=ROERLUND Jen ni vidas kiel statas en tiuj lauxdataj grandaj socioj .
+KONSULO=BERNICK Vi pravas ;
+ecx ne respekto por homa vivo , tuj kiam profito venas en la ludon . ( al Krap ) Cxu Indian Girl estos mar-preta post kvar -L kvin tagoj ?
+PLENRAJTIGITO=KRAP Jes , se komercisto Vigeland akceptas , ke ni haltigas la laboron sur La Palmo intertempe .
+KONSULO=BERNICK Hm , tion li ne faros .
+Nu , bonvolu tralegi la posxtajxojn .
+Auxdu , cxu Vi ne vidis Olaf tie sur la kajo ? PLENRAJTIGITO=KRAP Ne , sinjoro konsulo .
+( Li iras en la plej antauxan cxambron maldekstre .
+)
+KONSULO=BERNICK ( denove legas la telegramon ) Riski la vivon de dek=ok homoj ! Por tio tiuj sinjoroj ne hezitas -R
+HILMAR=TOENNESEN Nu , estas la destino de maristo spiti la elementojn ;
+devas esti io nervostrecxa en tio , kun maldika tabulo inter si kaj la abismo -L
+KONSULO=BERNICK Jes , mi dezirus vidi tiun sxipposedanton cxe ni , kiu povus decidigi sin al tiajxo !
+Ecx ne unu , ecx ne unu sola -R ( ekvidas Olaf ) Nu , lauxdo al Dio , la knabo cxeestas .
+( Olaf kun fisxsxnuro en la mano venis kurante laux la strato kaj enen tra la gxardena pordego .
+)
+OLAF ( ankoraux en la gxardeno ) Onklo=Hilmar , mi malsupreniris kaj rigardis la vapor-sxipon .
+KONSULO=BERNICK Cxu vi nun denove iris sur la kajon .
+OLAF Ne , mi nur estis en boato .
+Sed imagu , onklo Hilmar ;
+venis surkajen tuta aro da cirkistoj kun cxevaloj kaj bestoj ;
+kaj estis multaj pasagxeroj . SINJORINO=RUMMEL Ho , cxu ni vere vidos cirkon !
+ADJUNKTO=ROERLUND Ni ?
+Tion mi ne supozas .
+SINJORINO=RUMMEL Ne , kompreneble ne ni , sed -L
+DINA Mi sxatus vidi cirkon .
+OLAF Jes , ankaux mi .
+HILMAR=TOENNESEN Vi estas stultulo .
+Cxu tio estas io rigardinda ?
+Nura dreso .
+Ne , kontrauxe estas io alia vidi la gauxcxon flugi trans la Pampo sur sia spireganta mustango .
+Sed Dio gardu , cxi=tie en la urbetoj -R
+OLAF ( tiras la jupon de frauxlino Bernick ) Onklino=Marta , vidu , vidu -L jen ili venas !
+SINJORINO=HOLT Jes , je Dio , jen ni havas ilin .
+SINJORINO=LYNGE Hu , la teruraj homoj !
+( Multaj pasagxeroj kaj aro da urbanoj venas supren laux la strato .
+)
+SINJORINO=RUMMEL Jes , certe estas arlekenoj el la gxusta specio .
+Rigardu tiun en la griza robo , sinjorino Holt ; sxi portas la valizon sur la dorso .
+SINJORINO=HOLT Jes , imagu , sxi portas gxin sur la ombreltenilo !
+Kompreneble sxi estas la edzino de la direktoro .
+SINJORINO=RUMMEL Kaj jen estas la direktoro mem ;
+tiu kun la barbo .
+Nu , li ja aspektas kiel rabisto .
+Ne rigardu lin , Hilda ! SINJORINO=HOLT Ankaux vi ne , Netta .
+OLAF Panjo , la direktoro salutas al ni .
+KONSULO=BERNICK Kion do ?
+SINJORINO=BERNICK Kion vi diras , infano ?
+SINJORINO=RUMMEL Jes , je Dio , jen ankaux la virino salutas !
+KONSULO=BERNICK Ne , tio estas do tro senhonta !
+FRAUxLINO=BERNICK ( kun nevolonta ekkrio ) Ah -R !
+SINJORINO=BERNICK Kio estas , Marta ?
+SINJORINO=BERNICK Ho ne , nenio ;
+sxajnis nur al mi -L
+OLAF ( krias el gxojo ) Vidu , vidu , jen venas la aliuloj kun la cxevaloj kaj la bestoj !
+Kaj jen ankaux la usonanoj !
+Cxiuj la maristoj sur Indian Girl -R ( Oni auxdas Yankee Doodle akompanata de klarneto kaj tamburo .
+)
+HILMAR=TOENNESEN ( kovras la orelojn ) Uf , uf , uf !
+ADJUNKTO=ROERLUND Mi kredas , ke ni izolu nin iomete , miaj sinjorinoj ;
+tio=cxi ne estas io por ni .
+Ni reiru al nia laboro .
+SINJORINO=BERNICK Cxu ni eble antauxen tiru la kurtenojn ?
+ADJUNKTO=ROERLUND Jes , jen gxuste kion mi pensis .
+( La sinjorinoj trovas siajn sidlokojn cxe la tablo ;
+la adjunkto fermas la gxardenan pordon kaj antauxen tiras la kurtenojn al gxi kaj al la fenestroj ; farigxas duone mallume en la cxambro .
+)
+OLAF ( kiu sxtele rigardas ) Panjo , nun la direktor-edzino staras cxe la akvokrano lavante sian vizagxon .
+SINJORINO=BERNICK Cxu !
+Meze sur la vendoplaco !
+SINJORINO=RUMMEL Kaj tio dum brile hela tago !
+HILMAR=TOENNESEN Nu , se mi vojagxis en dezerto kaj trovis cisternon , ankaux mi ne hezitus -L .
+Uf , tiu terura klarneto !
+ADJUNKTO=ROERLUND Estas vere evidenta kauxzo por la polico por procedi .
+KONSULO=BERNICK Nu do ;
+kun eksterlandanoj oni ne devas esti tro severa ;
+tiuj homoj ja ne havas la enradikitan senton de deco , kiu tenas nin ene inter la gxustaj baroj .
+Lasu ilin nur devojigxi . Kiel tio afektas nin ?
+Tiu gxena konduto , kiu kontrauxas kutimon kaj bonajn morojn , felicxe ne rilatas al nia socio , se mi rajtas tiel paroli .
+-R Jen kio ! ( La fremda sinjorino rapide envenas tra la pordo dekstre .
+)
+LA=SINJORINOJ ( timigite sed mallauxte ) La rajdistino !
+La direktoredzino !
+SINJORINO=BERNICK Dio , kion tio signifu !
+FRAUxLINO=BERNICK ( eksaltas ) Ah -L !
+LA=SINJORINO Bonan tagon , kara Betty !
+Bonan tagon , Marta !
+Bonan tagon bofrato !
+SINJORINO=BERNICK ( ekkrie ) Lona -R !
+KONSULO=BERNICK ( ekretirigxas ) Je mia vivo -L !
+SINJORINO=HOLT Sed Dio kompatu -R !
+SINJORINO=RUMMEL Vere ne eblas -L !
+HILMAR=TOENNESEN Nu !
+Uf !
+SINJORINO=BERNICK Lona -R !
+Cxu vere -L ?
+FRAUxLINO=HESSEL Cxu estas mi ?
+Jes , efektive ke estas mi ;
+Vi bonvole povas cxirkauxbraki min por tio .
+HILMAR=TOENNESEN Uf ;
+uf ! SINJORINO=BERNICK Kaj nun vi venas cxi tien kiel -R ?
+KONSULO=BERNICK -L kaj vere volas ludi rolon -R ?
+FRAUxLINO=HESSEL Ludi rolon ?
+Kiel ludi rolon ?
+KONSULO=BERNICK Jes , mi pensas -L kun la rajdistoj -R
+FRAUxLINO=HESSEL Hahaha !
+Cxu vi estas freneza , bofrato ?
+Cxu vi kredas , ke mi apartenas al la rajdistoj ?
+Ne ; vere faris mi multajn artajxojn , kaj arlekenis multmaniere -L
+SINJORINO=RUMMEL Hm -R
+FRAUxLINO=HESSEL -L sed akrobatajxojn sur cxevaldorso mi neniam faris .
+KONSULO=BERNICK Do ne -R
+SINJORINO=BERNICK Ah , dank' al Dio !
+FRAUxLINO=HESSEL Ne , ni venis gxuste kiel aliaj decaj homoj , -L tamen kun dualoka bileto , sed al tio ni estas kutimitaj .
+SINJORINO=BERNICK Vi diras ni ?
+KONSULO=BERNICK ( pasxon pli proksimen ) Kiuj ni ?
+FRAUxLINO=HESSEL Mi kaj la infano , kompreneble .
+LA=SINJORINOJ ( ekkrie ) La infano !
+HILMAR=TOENNESEN Kio !
+ADJUNKTO=ROERLUND Nu , jen io direnda -R !
+SINJORINO=BERNICK Sed kion vi aludas , Lona ?
+FRAUxLINO=HESSEL Kompreneble mi aludas al John ;
+mi ja ne havas alian infanon ol John , mi scias , -L aux Johan , kiel vi nomis lin .
+SINJORINO=BERNICK Johan -R !
+SINJORINO=RUMMEL ( mallauxte al sinjorino Lynge ) La perdita frato !
+KONSULO=BERNICK ( hezite ) Cxu Johan kunvenis ?
+FRAUxLINO=HESSEL Nu jes ;
+nu jes ; mi ja ne vojagxas sen li .
+Sed vi aspektas tiel triste .
+Kaj vi sidas en krepusko kudrante ion blankan .
+Cxu estas morto en la familio ?
+ADJUNKTO=ROERLUND Frauxlino , vi trovas vin en la asocio por morale perditaj -L
+FRAUxLINO=HESSEL ( duonlauxte ) Kion vi diras ?
+Tiuj belaj , silentemaj sinjorinoj estus -R ?
+SINJORINO=RUMMEL Ne nun mi diru -L !
+FRAUxLINO=HESSEL Ah , komprenas , komprenas !
+Sed diable , estas ja sinjorino Rummel !
+Kaj jen ankaux sinjorino Holt !
+Nu , ni tri ne junigxis de post lastfoje .
+Sed auxskultu nun bonuloj ;
+lasu nun la morale perditaj atendi almenaux tagon ; ili ne plimalbonigxos pro tio .
+Gxoja momento kiel tiu=cxi -R
+ADJUNKTO=ROERLUND Hejmenveno ne cxiam estas gxoja momento .
+FRAUxLINO=HESSEL Cxu ?
+Kiel vi legas vian biblion , pastoro ?
+ADJUNKTO=ROERLUND Mi ne estas pastoro .
+FRAUxLINO=HESSEL Nu ;
+tamen tia vi certe farigxos .
+-L Sed fi , fi , fi , -R tiu=cxi morala linajxo odoras tiel putre , -L gxuste kiel mortotuko .
+Mi kutimigxis al la aero sur la prerioj , mi ; mi diru .
+KONSULO=BERNICK ( sekigas la frunton ) Jes vere estas iom nauxze cxi ene .
+FRAUxLINO=HESSEL Atendu , atendu ; ni tamen elvenu el la tomba kelo .
+( tiras la kurtenojn flanken ) Plenan taglumon ni havu , kiam la knabo venos .
+Kaj vi vidos knabon kiu forlavis la infanecon -R
+HILMAR=TOENNESEN Uf !
+FRAUxLINO=HESSEL ( malfermas pordon kaj fenestrojn ) -L Nu , tio signifas , kiam li estos sin lavinta -R tie supre en la hotelo ; cxar sur la vapor-sxipo li farigxis malpura kiel porko .
+HILMAR=TOENNESEN Uf , uf !
+FRAUxLINO=HESSEL Uf ?
+Jes vere , cxu ne estas -L ! ( montras al Hilmar kaj demandas al la aliuloj ) Cxu li dauxre drivas dirante sian uf ?
+HILMAR=TOENNESEN Mi ne drivas ;
+mi estas cxi=tie pro mia malsano .
+ADJUNKTO=ROERLUND Hm , miaj sinjorinoj , mi opinias ke ne -R
+FRAUxLINO=HESSEL ( ekvidante Olaf ) Cxu tiu estas la via , Betty ?
+-L Donu la manegon , knabo !
+Aux cxu vi timas vian maljunan , malbelan onklinon ?
+ADJUNKTO=ROERLUND ( metante sian libron sub la brakon ) Miaj sinjorinoj , mi opinias ke ne estas animstato por pluen labori hodiaux .
+Sed morgaux ni ja denove kunvenos ?
+FRAUxLINO=HESSEL ( dum la fremdaj sinjorinoj levas sin por adiauxi ) Jes , tion ni faru .
+Mi gxuste estos sur la loko .
+ADJUNKTO=ROERLUND Vi ?
+Permesu , frauxlino , kion Vi volas fari en nia asocio ?
+FRAUxLINO=HESSEL Mi volas aerumi , sinjoro pastoro .
+DUA=AKTO
+( La gxardena salono de la domo de konsulo Bernick .
+)
+( Sinjorino Bernick sidas sola cxe la labortablo kun sia kudrajxo .
+Iom poste venas de dekstre konsulo Bernick kun cxapelo sur la kapo kaj kun gantoj kaj bastono .
+)
+SINJORINO=BERNICK Cxu vi jam revenas hejmen , Karsten ?
+KONSULO=BERNICK Jes . Estas iu , kiun mi petis veni .
+SINJORINO=BERNICK ( kun sopiro ) Ho jes . Johan certe venos , mi pensas .
+KONSULO=BERNICK Estas iu viro , mi diras .
+( demetas la cxapelon ) Kie estas cxiuj la sinjorinoj hodiaux !
+SINJORINO=BERNICK Sinjorino Rummel kaj Hilda ne havas tempon .
+KONSULO=BERNICK Nu ?
+Sendis ekskuzon ?
+SINJORINO=BERNICK Jes ; ili havas tiom da farendajxoj en la domo .
+KONSULO=BERNICK Kompreneble .
+Kaj la aliaj ankaux ne venos ?
+SINJORINO=BERNICK Ne , ankaux ili havas ekskuzojn .
+KONSULO=BERNICK Tion mi estus povinta diri antauxe .
+Kie estas Olaf ?
+SINJORINO=BERNICK Mi permesis al li iomete promeni kun Dina .
+KONSULO=BERNICK Hm ;
+Dina , tiu acxa flirtulino -R . Imagu ke hieraux sxi tuj ligis sin al Johan -L !
+SINJORINO=BERNICK Sed kara Karsten , Dina ja tute ne scias ke -R
+KONSULO=BERNICK Nu , sed Johan almenaux devus havi la takton ne montri al sxi iun atenton .
+Mi ja vidis la okuljxetojn de komercisto Vigeland .
+SINJORINO=BERNICK ( kun la kudrajxo sur la genuoj ) Karsten , cxu vi povas imagi kion ili volas cxi-hejme ?
+KONSULO=BERNICK Hm ; li havas ja bienon tie transe , kiu ne bone prosperas ;
+kaj sxi ja diris hieraux , ke ili devis vojagxi duaklase -L
+SINJORINO=BERNICK Jes , bedauxrinde , eble estas io tia .
+Sed ke sxi akompanis !
+Sxi !
+Post tiu sanga insulto kiun sxi faris al vi -R !
+KONSULO=BERNICK Ho , ne pensu pri tiuj malnovaj historioj .
+SINJORINO=BERNICK Kiel povas mi pensi pri aliajxoj nuntempe ?
+Li ja estas mia frato ; -L ne estas pro li ; sed cxiuj malagrablajxoj kiuj kauxzigxus al vi -R .
+Karsten , mi ege timas ke -L
+KONSULO=BERNICK Por kio vi timas ?
+SINJORINO=BERNICK Cxu oni imagus meti lin en karceron pro la mono , kiu malaperis por via patrino ?
+KONSULO=BERNICK Ho , babilajxo !
+Kiu povas pruvi ke mono malaperis ?
+SINJORINO=BERNICK Ahx=Dio , tion scias ja la tuta urbo , bedauxrinde ;
+kaj vi mem ja diris -R
+KONSULO=BERNICK Mi nenion diris .
+La urbo scias nenion pri tiuj aferoj ;
+cxio estis nur senfundaj onidiroj .
+SINJORINO=BERNICK Ho kiel grandanima vi estas , Karsten !
+KONSULO=BERNICK Cxesu pri tiuj memorajxoj , mi diras !
+Vi ne scias , kiom vi turmentas min revivigi cxion tian ! ( Li pasxas tien kaj reen sur la planko ;
+jen li forjxetas la bastonon .
+) Cxagrene ke ili venis hejmen gxuste nun , -L nun kiam mi bezonas bonvoleman animstaton kaj en la urbo kaj en la gazetaro .
+Korespondigxos al la gazetoj en la najbaraj urboj .
+Cxu mi akceptas ilin bone aux cxu mi akceptas ilin malbone , ambauxkaze tio pridiskutigxos kaj interpretigxos .
+Oni kirlas cxion tion malnovan , -R tiel kiel vi faras .
+En socio kiel la nia -L .
+( jxetas la gantojn sur la tablon ) Kaj ecx neniun homon mi havas kun kiu mi povas paroli kaj cxe kiu sercxi apogon .
+SINJORINO=BERNICK Ecx neniu , Karsten ?
+KONSULO=BERNICK Ne , kiu tiu estus ?
+-R Ekhavi ilin sur la nukon gxuste nun !
+Ne estas dubo ke ili iel faros skandalon , -L precipe sxi .
+Cxu ne estas malfelicxo havi tiajn homojn en sia familio !
+SINJORINO=BERNICK Jes , mi ja ne povas kulpigxi ke -R
+KONSULO=BERNICK Pro kio vi ne povas kulpigxi ?
+Ke vi estas parenca al ili ?
+Jen vera vorto .
+SINJORINO=BERNICK Kaj mi ankaux ne petis ilin veni hejmen .
+KONSULO=BERNICK Auxdu ;
+jen ni estas ! Mi ne petis ilin veni hejmen ;
+mi ne skribis por revenigi ilin ;
+mi ne tiris ilin hejmen per la haroj !
+Ho , mi scias la tutan cxenon parkere .
+SINJORINO=BERNICK ( ekploras ) Sed nun vi ja estas tiel senkoreca -L
+KONSULO=BERNICK Ja , gxuste ;
+ekploru , tiel ke la urbo ricevos ankaux tion por priparoli .
+Finu tiun stultecon , Betty .
+Eliru ;
+eble venos iu . Cxu oni vidu la sinjorinon kun rugxaj okuloj ?
+Jes , tio estus bonege , se disvastigxus inter la homoj ke -R .
+Nu , jen mi auxdas iun en la koridoro .
+( iu frapas ) Envenu !
+( Sinjorino Bernick eliras sur la gxardenan sxtuparon kun sia kudrajxo .
+Sxipkonstruisto=Auxne envenas de dekstre .
+)
+SxIPKONSTRUISTO=AUxNE Bonan tagon , sinjoro konsulo .
+KONSULO=BERNICK Bonan tagon .
+Nu , Vi certe divenas , kion mi volas pri Vi ?
+SxIPKONSTRUISTO=AUxNE La plenrajtigito menciis hieraux , ke la konsulo ne estus kontenta pri -L
+KONSULO=BERNICK Mi estas malkontenta pri la tuta organizado en la sxipfarejo , Auxne .
+Vi ja neniel progresas pri la averiuloj .
+La Palmo devus ja esti sub velo antaux longe .
+Komercisto Vigeland venas cxiun tagon cxagrenante min ;
+estas malfacila viro havi kiel kunpartoprenanto en sxipasocio .
+SxIPKONSTRUISTO=AUxNE La Palmo povos forveli postmorgaux .
+KONSULO=BERNICK Nu fine .
+Sed la usonano Indian Girl , kiu atendis kvin semajnojn kaj -R
+SxIPKONSTRUISTO=AUxNE La usonano ?
+Mi komprenigxis , ke ni unue faru la laboron sur Via propra sxipo .
+KONSULO=BERNICK Al tio mi ne donis al vi iun kauxzon kredi .
+Farigxus cxiu ebla progresigo ankaux pri la usonano ;
+sed tio ne okazas .
+SxIPKONSTRUISTO=AUxNE La sxipo estas traputrita en la fundo , sinjoro konsulo ;
+ju pli ni flikas , des pli da putrajxo ni trovas .
+KONSULO=BERNICK Tio ne estas la kialo .
+Plenrajtigito Krap diris al mi la tutan veron .
+Vi ne kapablas labori per la novaj masxinoj , kiujn mi havigis , -L aux pli gxuste , vi ne volas labori per ili .
+SxIPKONSTRUISTO=AUxNE Sinjoro konsulo , mi estas nun en la kvindekaj jaroj ;
+ecx de la knabaj jaroj mi kutimigxis al la malnovaj labormetodoj -R
+KONSULO=BERNICK Ilin ni ne povas uzi nuntempe .
+Ne kredu , Auxne , ke estas pro la profito ;
+gxin mi ne bezonas , felicxe ;
+sed mi havas konsiderojn al la socio en kiu mi vivas , kaj al la firmao , kiun mi estras .
+Estas de mi , ke la progresoj venos , alie ili neniam venos .
+SxIPKONSTRUISTO=AUxNE Ankaux mi bonvenigas progreson , sinjoro konsulo .
+KONSULO=BERNICK Jes , por via limigita rondo , por la laborista profesio .
+Ho , mi bone konas vian agitadon ;
+Vi faras paroladojn ; Vi agitigas la laboristojn ;
+sed kiam evidenta progreso ofertas sin , kiel nun niaj novaj masxinoj , vi ne volas kunlabori ;
+kaj vi farigxas timema .
+SxIPKONSTRUISTO=AUxNE Jes , mi efektive farigxas timema , sinjoro konsulo ;
+mi timas pro tiuj multaj , de kiuj la masxinoj prenas la panon .
+La konsulo ofte parolas pri la devo atenti pri la socio ;
+sed mi pensas , ke ankaux la socio havas siajn devojn .
+Kiel kuragxas la tekniko kaj la kapitalo instali la novajn inventajxojn en la laboron , antaux=ol la socio povas lernigi novan generacion uzi ilin ?
+KONSULO=BERNICK Vi tro multe legas kaj cerbumas , Auxne ;
+ne estas bone por Vi ; estas tio kio igas vin malkontenta pri via stato .
+SxIPKONSTRUISTO=AUxNE Ne estas tio , sinjoro konsulo ;
+sed mi ne toleras ke unu=post=la=alia el lertaj laboristoj maldungigxas kaj farigxas mankohavaj pro tiuj masxinoj .
+KONSULO=BERNICK Hm ;
+kiam la presarto elpensigxis , multaj skribistoj perdis la laboron .
+SxIPKONSTRUISTO=AUxNE Cxu la konsulo sxatus tiun arton , se Vi tiam estus skribisto ?
+KONSULO=BERNICK Mi ne vokis Vin por disputi .
+Mi vokis Vin por diri al Vi , ke nia averiulo Indian Girl estu preta forveli postmorgaux .
+SxIPKONSTRUISTO=AUxNE Sed , sinjoro konsulo -L
+KONSULO=BERNICK Postmorgaux , Vi auxdas ;
+samtempe kun nia propra sxipo ; ne horon pli malfrue .
+Mi havas miajn bonajn kialojn por antauxenigi tiun aferon .
+Cxu Vi legis la gazeton de hodiaux matene ?
+Nu , do Vi scias ke la usonanoj cxi=tie denove faris tumultojn .
+Tiu malmorala kanajlaro kvazaux renversigas la tutan urbon ;
+ne pasas nokto sen iu interbatado en la gastejoj kaj sur la stratoj ; pri cxiu alia abomenajxo mi ne volas paroli .
+SxIPKONSTRUISTO=AUxNE Jes , estas certe , ke ili estas fiuloj .
+KONSULO=BERNICK Kaj kiu kulpigxas pro tiu malordajxo ?
+Estas mi !
+Jes , estas mi kiu kulpigxas .
+Tiuj gazetskribajxoj aludacxas kasxvorte , ke ni centrigas la laboron al La Palmo .
+Mi , kiu havas la taskon per la ekzemplo influi la kuncivitanojn , devas lasi jxetigxi tiajon al mi en la nazon .
+Tion mi ne toleras .
+Ne servas al mi , ke mia nomo tiel makuligxas .
+SxIPKONSTRUISTO=AUxNE Ho , la nomo de la konsulo estas tiel bona , ke gxi povas porti tion kaj ankaux pli .
+KONSULO=BERNICK Ne nun ;
+gxuste en tiu=cxi tempo mi bezonas cxiun estimon kaj bonvolon , kiun povas montri al mi miaj kunurbanoj .
+Mi havas en preparo grandan entreprenon , kiel vi eble auxdis ;
+sed se sukcesigxas al malbonvolemaj homoj skui la nepran fidon al mia persono , tio povos okazigi al mi la plej grandajn malfacilajxojn .
+Tial mi volas por kiu ajn prezo eviti tiujn malicajn kaj kalumniantajn gazetskribajxojn , kaj tial mi fiksis la datolimon al postmorgaux .
+SxIPKONSTRUISTO=AUxNE Sinjoro konsulo , Vi povus same bone fiksi la daton al hodiaux posttagmeze .
+KONSULO=BERNICK Vi aludas ke mi postulas neeblecon ?
+SxIPKONSTRUISTO=AUxNE Jes , kun tiu laboristaro , kiun ni nun havas -R
+KONSULO=BERNICK Bone , bone ;
+-L do ni devas sercxi aliloke .
+SxIPKONSTRUISTO=AUxNE Cxu Vi vere volas maldungi ankoraux pliajn el la malnovaj laboristoj ?
+KONSULO=BERNICK Ne , pri tio mi ne pensas .
+SxIPKONSTRUISTO=AUxNE Cxar mi certe kredas , ke tio metus malbonan sangon kaj en la urbo kaj en la gazetoj , se Vi tion farus .
+KONSULO=BERNICK Eble , kaj tial mi tion ne faros .
+Sed se Indian Girl ne estos kvite vojagxpreta postmorgaux , mi maldungos Vin .
+SxIPKONSTRUISTO=AUxNE ( kun ekskuo ) Mi !
+( Li ridas ) Nun Vi sxercas , sinjoro konsulo .
+KONSULO=BERNICK Pri tio Vi ne fidu .
+SxIPKONSTRUISTO=AUxNE Vi povus pensi pri maldungo de mi ?
+Mi , kies patro kaj avo estis en la servo de la sxipfarejo cxiujn siajn vivotagojn , kaj same pri mi -R
+KONSULO=BERNICK Kiu nun devigas min al tio ?
+SxIPKONSTRUISTO=AUxNE Vi postulas neeblecon , sinjoro konsulo .
+KONSULO=BERNICK Ho , bona volo ne konas neeblecon .
+Jes aux ne ;
+respondu definite , aux Vi havas Vian maldungon surloke .
+SxIPKONSTRUISTO=AUxNE ( pasxon pli proksimen ) Sinjoro konsulo , cxu Vi vere pripensis , kion signifas maldungi malnovan laboriston .
+Vi pensas ke li devas sercxi por trovi ion alian ?
+Nu ja , tion li ja povas ;
+sed cxu estas per tio farite ?
+Vi devus iam esti en la domo de tia maldungita laboristo la vesperon kiam li venas hejmen kaj metas la ilarkeston interne de la pordo .
+KONSULO=BERNICK Cxu vi opinias , ke mi maldungas Vin kun senzorga koro ?
+Cxu mi ne cxiam estis bona mastro ?
+SxIPKONSTRUISTO=AUxNE Tiel ju pli malbone , sinjoro konsulo .
+Gxuste tial tiuj hejme ne volas kulpigi Vin ;
+ili ne diros ion al mi , cxar tion ili ne kuragxas ;
+sed ili rigardos min , kiam mi tion ne rimarkas , kaj pensos tiel : certe estas merite .
+Jenon Vi vidos -L tion mi ne povas elteni .
+Tia simpla viro kia mi estas , mi tamen estas konsiderata kiel la unua inter la miaj .
+Mia modesta hejmo ankaux estas eta socio , sinjoro konsulo .
+Tiun etan socion mi povis apogi kaj subteni , cxar mia edzino fidis min , kaj cxar miaj infanoj fidis min .
+Kaj nun cxio ruinigxos .
+KONSULO=BERNICK Jes , se ne povas esti alie , la minoro devas fali por la majxoro ;
+la specialajxo estu je la nomo de Dio oferata por la gxereralajxo .
+Iun alian respondon mi ne scias doni al Vi , kaj alimaniere ne okazas en tiu=cxi mondo .
+Sed Vi estas obstina viro , Auxne !
+Vi kontrauxstaras min , ne cxar Vi nenion alian povas , sed cxar Vi ne volas realigi la superecon de masxinoj kontraux la manforto .
+SxIPKONSTRUISTO=AUxNE Kaj Vi persistas je tio , sinjoro konsulo , cxar Vi scias , ke se Vi forcxasas min , Vi almenaux pruvis por la gazetaro Vian bonan volon .
+KONSULO=BERNICK Kaj ja se tiel estus ?
+Vi ja auxdas , kiom tio gravas por mi , -R aux ekhavi la gazetaron sur la nukon aux bonvoligi gxin por mi en la momento , kiam mi laboras por granda afero por progresigi la komunan bonon .
+Kio do ? Cxu mi povas agi alimaniere ol mi faras ?
+Mi povas diri al Vi , ke cxi=tie estas demando cxu subteni Vian hejmon , kiel Vi esprimas Vin , aux eble teni centojn da novaj hejmoj malsupre , centojn da hejmoj , kiuj neniam povos fondigxi , neniam ricevos fumantan tubon , se mi ne sukcesos realigi , tion por kio mi nun laboras .
+Tial mi donis al Vi la elekton .
+SxIPKONSTRUISTO=AUxNE Jes , cxar tiel estas , mi ne havas plian kontrauxdiron .
+KONSULO=BERNICK Hm -L ; Mia kara Auxne , vere cxagrenigas min ke ni devas disigxi .
+SxIPKONSTRUISTO=AUxNE Ni ne disigxos , sinjoro konsulo .
+KONSULO=BERNICK Kiel ?
+SxIPKONSTRUISTO=AUxNE Ankaux simpla viro havas ion por defendi en la mondo .
+KONSULO=BERNICK Nu do , nu do ; -R kaj vi do opinias , ke vi kuragxas promesi -L ?
+SxIPKONSTRUISTO=AUxNE Indian Girl kvitigxos por forvelo postmorgaux . ( Li salutas kaj eliras dekstre .
+)
+KONSULO=BERNICK Aha , jen mi ekmastris tiun obstinulon .
+Tio estas por mi bona auxguro -R ( Hilmar=Toennesen , kun cigaro en la busxo , venas tra la gxardena pordego .
+)
+HILMAR=TOENNESEN ( sur la gxardena sxtuparo ) Bonan tagon , Betty !
+Bonan tagon , Bernick !
+SINJORINO=BERNICK Bonan tagon .
+HILMAR=TOENNESEN Nu , vi ploris , mi vidas . Vi sekve scias ?
+SINJORINO=BERNICK Kion mi scias ?
+HILMAR=TOENNESEN Ke la skandalo vigle evoluas ?
+Uf !
+KONSULO=BERNICK Kion tio signifas ?
+HILMAR=TOENNESEN ( envenas ) Jes , la du usonanoj cxirkauxiras en la stratoj , kaj montras sin kune kun Dina=Dorf .
+SINJORINO=BERNICK ( postsekvas lin ) Sed , Hilmar , cxu eblas -L ?
+HILMAR=TOENNESEN Jes , bedauxrinde , estas pura vero .
+Lona ecx estis tiel senkonsidera krii post min ; sed kompreneble mi sxajnigis ne auxdi .
+KONSULO=BERNICK Kaj certe ne pasis nerimarkate .
+HILMAR=TOENNESEN Ne , tion vi ja komprenas .
+La homoj staris trankvile postrigardante ilin .
+Aspekte onidiro kuris fulme tra la urbo , -R kiel fajro sur la prerioj .
+En cxiuj domoj homoj staris cxe la fenestroj atendante ke la aro pretermarsxu ; kapon cxe kapo malantaux la kurtenoj -L uf !
+Jes , pardonu , Betty ;
+mi diras uf ; cxar tio=cxi igas min nervoza ; -R se tio dauxru , mi devas pripensi entrepreni iom longan vojagxon .
+SINJORINO=BERNICK Sed vi estus devinta paroli al li kaj admoni lin -L
+HILMAR=TOENNESEN Meze en la strato ?
+Ne , vi devas pardoni .
+Sed ke tiu homo entute kuragxas aperi en la urbo !
+Nu , ni vidu cxu la gazetaro faros finon pri li ;
+jes , pardonu , Betty ; sed -R
+KONSULO=BERNICK La gazetaro , vi diras ?
+Cxu vi auxdis aludojn pri tiajxo ?
+HILMAR=TOENNESEN Jes , versxajne .
+Kiam mi foriris de vi hieraux vespere , mi pasxadis al la klubo pro mia malsano .
+Mi bone komprenis per la tuja silento , ke ili estis parolintaj pri la usonanoj .
+Kaj jen envenas la impertinenta redaktoro Hammer . Li gratulas min tute lauxte pri la hejmenveno de mia ricxa kuzo .
+KONSULO=BERNICK Ricxa -L ?
+HILMAR=TOENNESEN Jes , tiel li esprimis sin .
+Kompreneble mi mezure rigardis lin lauxmerite , kaj komprenigis al li , ke mi nenion scias pri la ricxeco de Johan=Toennesen .
+Cxu ? " li diras , jen strangajxo ;
+en usono oni kutime trabatas sin , kiam oni havas ion komence , kaj via kuzo ja ne transvojagxis senhava .
+"
+KONSULO=BERNICK Hm , faru nun al mi la servon -R
+SINJORINO=BERNICK ( maltrankvila ) Jen , vi povas vidi , Karsten -L
+HILMAR=TOENNESEN Jes , mi almenaux havis sendorman nokton pro tiu persono .
+Kaj li tamen cxirkauxiras en la stratoj kun vizagxo kvazaux nenio gxenis lin .
+Kial li ne tuj malaperis ?
+Estas ja netolereble kiel vivpersistaj iuj homoj estas .
+SINJORINO=BERNICK Dio , Hilmar , kion vi diras ?
+HILMAR=TOENNESEN Ho , mi diras nenion .
+Sed jen li forsavas sin senvunde el fervojaj akcidentoj kaj de atakoj de kaliforniaj ursoj kaj de Nigrapied-Indianoj ; ecx ne senskalpigita -R .
+Uf , jen ili estas .
+KONSULO=BERNICK ( rigardas laux la strato ) Ankaux Olaf estas kun ili !
+HILMAR=TOENNESEN Jes , kompreneble ;
+ili volas ja memorigi al la homoj , ke ili apartenas al la plej altstara familio de la urbo .
+Vidu , jen venas cxiuj neniofarantoj el la apoteko por rigardi ilin kaj fari siajn rimarkojn .
+Tio vere ne estas por miaj nervoj ;
+kiel viro sub tiaj cirkonstancoj kapablu teni la standardon de la ideo alta , tio -L
+KONSULO=BERNICK Ili iros rekte cxi tien .
+Auxdu nun , Betty , estas mia definitiva deziro , ke vi montru al ili cxian afablecon .
+SINJORINO=BERNICK Vi permesas , cxu , Karsten ?
+KONSULO=BERNICK Jes certe ;
+certe ; kaj ankaux vi , Hilmar .
+Espereble ili ne restos longe ;
+kaj kiam kune inter ni mem -R ; neniuj aludoj ;
+neniel ni devas ilin ofendeti .
+SINJORINO=BERNICK Ho , Karsten , kiel grandanima vi estas .
+KONSULO=BERNICK Nu , nu , lasu tion .
+SINJORINO=BERNICK Ho , ke mi danku vin ;
+kaj pardonu , ke mi antauxe farigxis impeta .
+Ho , vi ja havis cxian kauxzon por -L
+KONSULO=BERNICK Lasu , lasu , mi diras !
+HILMAR=TOENNESEN Uf !
+( Johan=Toennesen kaj Dina , poste frauxlino Hessel kaj Olaf venas tra la gxardeno .
+)
+FRAUxLINO=HESSEL Bonan tagon , bonan tagon .
+Vi karaj homoj . JOHAN=TOENNESEN Nun ni cxirkauxiris por viziti la malnovajn ejojn , Karsten .
+KONSULO=BERNICK Jes , mi auxdas tion .
+Multaj sxangxoj ; cxu ne ?
+FRAUxLINO=HESSEL Cxie la grandaj bonfaroj de konsulo Bernick .
+Ni vizitis la establajxojn , kiujn vi donis al la urbo -R
+KONSULO=BERNICK Nu tie ?
+FRAUxLINO=HESSEL Donaco de Karsten=Bernick , kiel skribigxis super la enirejo .
+Jes , vi certe estas la viro malantaux cxio en la loko .
+JOHAN=TOENNESEN Kaj belaj sxipoj vi ankaux havas .
+Mi renkontis la sxipestron de La Palmo , mia malnova amiko de la lernejo -L
+FRAUxLINO=HESSEL Jes , kaj nova lernejo vi ankaux konstruigis ;
+kaj ankaux la gas-kondukilo kaj la akvo-kondukilo farigxis dank' al vi , mi auxdas .
+KONSULO=BERNICK Nu , oni devas ja labori por la komunumo en kiu oni vivas .
+FRAUxLINO=HESSEL Jes , bele , bofrato ; sed estas ankaux gxojo vidi , kiel la homoj montras al vi rekonon .
+Mi ne estas vanta , mi opinias ;
+sed mi ne povis min deteni memorigi al iu kaj alia kun kiuj ni parolis , ke ni apartenas al la familio .
+HILMAR=TOENNESEN Uf -R !
+FRAUxLINO=HESSEL Cxu vi diras Uf !
+al tio ? HILMAR=TOENNESEN Ne , mi diris hm -L
+FRAUxLINO=HESSEL Nu , tion vi rajtas , povrulo .
+Sed hodiaux vi aspekte estas solaj en la domo ?
+SINJORINO=BERNICK Jes , hodiaux ni estas solaj .
+FRAUxLINO=HESSEL Jes , efektive ni renkontis moralajn parojn supre sur la foirplaco ;
+aspekte urgxis por ili .
+Sed ni mem ankoraux ne suficxe kunparolis ;
+hieraux ja cxeestis tiuj fervoj-planantoj , kaj aldone ni havis tiun pastoron -R
+HILMAR=TOENNESEN La adjunkto .
+FRAUxLINO=HESSEL Mi nomas lin la pastoro .
+Sed kion vi opinias pri mia faro dum tiuj=cxi dek=kvin jaroj ?
+Cxu li ne farigxis brava knabo ?
+Kiu rekonus la petolulon , kiu forkuris de la hejmo ?
+HILMAR=TOENNESEN Hm -L !
+JOHAN=TOENNESEN Ho , Lona , ne tro fanfaronu .
+FRAUxLINO=HESSEL Jes , pri tio mi estas fiera .
+Je Dio , tio ja estas la sola , kion mi faris en la mondo ;
+sed tio almenaux donas al mi iun rajton ekzisti .
+Jes , Johan , kiam mi pensas kiel ni du tie transe komencis per niaj kvar nudaj manacxoj -R
+HILMAR=TOENNESEN Manoj .
+FRAUxLINO=HESSEL Mi diras manacxoj ;
+cxar malpuraj ili estis -L
+HILMAR=TOENNESEN Uf !
+FRAUxLINO=HESSEL -R kaj malplenaj ili ankaux estis .
+HILMAR=TOENNESEN Malplenaj ?
+Ne , nun mi devas diri -L !
+FRAUxLINO=HESSEL Kion vi devas diri ?
+KONSULO=BERNICK Hm !
+HILMAR=TOENNESEN Nun mi devas diri -R uf ! ( Li eliras sur la gxardenan sxtuparon .
+)
+FRAUxLINO=HESSEL Kio estas al li ?
+KONSULO=BERNICK Ne atentu lin ;
+li estas iom nervoza cxi-tempe .
+Sed cxu vi ne volas iomete cxirkauxrigardi en la gxardeno ?
+Tie vi ankoraux ne estis , kaj gxuste nun mi havas liberan horon .
+FRAUxLINO=HESSEL Jes , sxatinde ;
+vi sciu ke en miaj pensoj mi ofte estis en la gxardeno cxe vi .
+SINJORINO=BERNICK Ankaux tie estas grandaj sxangxoj , vi vidos .
+( La konsulo , la sinjorino kaj frauxlino Hessel eliras en la gxardenon , kie oni foje vidas ilin dum kio sekvas .
+)
+OLAF ( cxe la gxardena pordo ) Onklo=Hilmar , cxu vi scias kion onklo Johan demandis al mi ?
+Li demandis , cxu mi volas akompani lin al Ameriko .
+HILMAR=TOENNESEN Vi mallertulo , ankoraux tirante la jupon de via patrino -L
+OLAF Jes , sed tion mi ne=plu faros .
+Vi vidos , kiam mi farigxos granda -R
+HILMAR=TOENNESEN Ho , babilajxo ;
+vi ne havas iun seriozan deziron por tiu sxtalhardigxo en -L ( Ili eliras en la gxardenon .
+)
+JOHAN=TOENNESEN ( al Dina , kiu deprenis la cxapelon starante cxe la pordo kaj skuante la polvon de sia robo ) Vi farigxis suficxe varma dum la promenado .
+DINA Jes , estis gxuinda promenado ;
+tian gxuindan promenadon mi neniam havis antauxe .
+JOHAN=TOENNESEN Vi eble kutime ne faras matenajn promenadojn .
+DINA Ho jes ; sed nur kun Olaf .
+JOHAN=TOENNESEN Nu .
+-R Cxu Vi eble pli emas eliri en la gxardenon ol resti cxi=tie ?
+DINA Ne , mi pli deziras resti cxi=tie .
+JOHAN=TOENNESEN Ankaux mi .
+Tamen nun estas interkonsento , ke ni cxiun matenon faros tian promenadon kune .
+DINA Ne , sinjoro Toennesen , tion Vi ne farus .
+JOHAN=TOENNESEN Kion mi ne farus ?
+Vi ja promesis .
+DINA Jes , sed kiam mi pripensas , -L Vi ne eliru kune kun mi .
+JOHAN=TOENNESEN Sed kial ne ?
+DINA Nu , Vi estas fremdulo ; Vi ne povas kompreni ;
+sed mi diru al Vi -R
+JOHAN=TOENNESEN Ja ?
+DINA Ne , mi preferas ne paroli pri tio .
+JOHAN=TOENNESEN Ho certe ;
+al mi Vi povas ja paroli pri kio ajn .
+DINA Jes , mi diru al Vi , ke mi ne estas kiel la aliaj junaj knabinoj ;
+estas io -L io tia pri mi .
+Tial vi ne faru .
+JOHAN=TOENNESEN Sed tion=cxi mi tute ne komprenas .
+Vi do ne faris ion malbonan ?
+DINA Ne mi , sed -R ; ne , nun mi ne volas paroli pli pri tio .
+Vi certe sciigxos de aliuloj .
+JOHAN=TOENNESEN Hm.
+DINA Sed estas io alia , pri kio mi volus demandi vin .
+JOHAN=TOENNESEN Kaj kio estas tio ?
+DINA Lauxdire estas facile akiri iun lertecon tie transe en Ameriko ?
+JOHAN=TOENNESEN Nu , tiel facile tio tamen ne cxiam estas ;
+oni devas ofte suferi kaj pene labori en la komenco .
+DINA Jes , tion mi emus -L
+JOHAN=TOENNESEN Vi ?
+DINA Mi certe povas labori ;
+mi estas forta kaj sana , kaj onklino Marta multe legis kun mi .
+JOHAN=TOENNESEN Sed je diablo , venu kaj forvojagxu kun ni .
+DINA Ho , Vi nur sxercas ;
+tion Vi ankaux diris al Olaf .
+Sed tion kion mi volus scii , estas cxu la homoj estas tre -R tre moralecaj tie transe ?
+JOHAN=TOENNESEN Moralecaj ?
+DINA Jes , mi pensas , cxu ili estas tiel -L decaj kaj konvenkondutaj , kiel cxi=tie .
+JOHAN=TOENNESEN Nu , ili tamen ne estas tiel malbonaj , kiel oni cxi=tie kredas .
+Pri tio Vi ne timu .
+DINA Vi ne komprenas min .
+Mi dezirus , ke ili ne estus tiel decaj kaj moralecaj .
+JOHAN=TOENNESEN Do ne ?
+Kiel dezirus Vi ke ili estus ?
+DINA Mi volus ke ili estu naturaj .
+JOHAN=TOENNESEN Nu ja , eble gxuste tiaj ili estas .
+DINA Cxar tial estus bone por mi se mi venus transen .
+JOHAN=TOENNESEN Jes , certe estus !
+Tial vi akompanu nin .
+DINA Ne , kun Vi mi ne volus vojagxi ;
+mi devus vojagxi sola .
+Ho , mi certe atingus ion ;
+mi certe farigxus -R
+KONSULO=BERNICK ( antaux la gxardena sxtuparo kun la du sinjorinoj ) Restu , restu ; mi sercxos gxin , kara Betty .
+Vi facile malvarmumigxus . ( Li venas en la salonon kaj sercxas la sxalon de la sinjorino .
+)
+SINJORINO=BERNICK ( ekstere en la gxardeno ) Ankaux vi kunvenu , Johan ;
+ni iros en la groton .
+KONSULO=BERNICK Ne , Johan devas resti .
+Jen vidu , Dina ;
+prenu la sxalon de mia edzino kaj kuniru .
+Johan restos cxe mi , kara Betty .
+Mi ja bezonas auxdi ion pri la kondicxoj tie transe . SINJORINO=BERNICK Jes , jes ;
+sed venu do poste ;
+vi ja scias kie vi trovos nin .
+( Sinjorino Bernick , frauxlino Hessel kaj Dina foriras tra la gxardeno dekstren .
+)
+KONSULO=BERNICK ( momenton postrigardas ilin , iras por fermi la plej internan pordon maldekstre , poste iras al Johan , kaptas liajn manojn , skuas kaj premas ilin ) Johan , nun ni estas solaj ; permesu al mi danki vin .
+JOHAN=TOENNESEN Pro kio ?
+KONSULO=BERNICK Mia domo kaj hejmo , mia familia felicxo , mia tuta civitana stato en la socio , -L cxion mi sxuldas al vi .
+JOHAN=TOENNESEN Nu , tio gxojigas min , kara Karsten ;
+sekvis do io bona el tiu freneza historio .
+KONSULO=BERNICK ( denove skuas liajn manojn ) Dankon , tamen dankon !
+Ne unu inter dek mil farus , kion vi tiam faris por mi .
+JOHAN=TOENNESEN Jen babilajxo !
+Cxu ni ne ambaux estis junaj kaj facilanimaj ?
+Unu el ni devis ja preni sur sin la kulpon -R
+KONSULO=BERNICK Sed kiu estis pli proksima ol la kulpulo ?
+JOHAN=TOENNESEN Haltu !
+Tiam la senkulpulo estis pli proksima .
+Mi ja estis libera kiel birdo , orfa ;
+eskapi el tiu penego en la oficejo estis por mi felicxo .
+Vi kontrauxe havis vian maljunan patrinon en vivo , kaj krome vi ja estis sekrete fiancxigxiinta al Betty , kiu multe sxatis vin .
+Kiel okazus pri sxi , se sxi estus sciigxinta -L ?
+KONSULO=BERNICK Vere , vere , vere ; sed -R
+JOHAN=TOENNESEN Kaj cxu ne estis gxuste pro Betty , ke vi rompis tiun kasxrilaton kun sinjorino Dorf ?
+Estis ja gxuste por rompi , ke vi vizitis sxin tiun vesperon -L
+KONSULO=BERNICK Jes , tiun malfelicxan vesperon , kiam tiu drinkemulo venas hejmen -R !
+Jes , Johan , estis pro Betty ;
+sed tamen , -L ke vi tiel grandanime povis turni la sxajnon kontraux vin mem kaj forvojagxi -R
+JOHAN=TOENNESEN Neniuj skrupuloj , kara Karsten .
+Ni ja samopiniis , ke tiel estu ;
+savenda vi ja estis , kaj vi ja estis mia amiko .
+Nu , pri tiu amikeco mi fieris ! Cxi=tie mi penegis kiel hejmasidulo ;
+kaj jen vi revenas , eleganta kaj nobla , de via granda vojagxo eksterlanden ; vizitis Londonon kaj Parizon .
+Kaj vi elektas min via amiko , kvankam mi estis kvar jarojn pli juna ol vi ; -L nu , tio do estis cxar vi amindumis al Betty ;
+nun mi ja komprenas .
+Sed ho , kiel fiera mi estis pro tio ! Kaj kiu ne estus ? Kiu ne volonte oferus sin por vi ;
+precipe kiam nur temis pri ne pli=ol monat-dauxra urba klacxado , kaj ke oni tuj povis forkuri en la vastan mondon .
+KONSULO=BERNICK Hm , mia kara Johan , mi sincere diru al vi , ke tiu historio ankoraux ne estas tute forgesita .
+JOHAN=TOENNESEN Cxu ne ?
+Nu , kiel tio koncernas min , kiam mi sidas tie transe sur mia bieno -R
+KONSULO=BERNICK Vi do revojagxos ?
+JOHAN=TOENNESEN Kompreneble .
+KONSULO=BERNICK Sed tamen ne tiel frue , mi esperas ?
+JOHAN=TOENNESEN Kiel=eble=plej frue .
+Estis ja nur por kontentigi al Lona , ke mi akompanis sxin cxi tien .
+KONSULO=BERNICK Nu ?
+Kiel do ?
+JOHAN=TOENNESEN Jes , vidu , Lona ne=plu estas juna , kaj lastatempe la sopiro al la hejmo komencis sorcxi kaj tiri sxin ;
+sed sxi neniam volis konfesi tion ;
+( ridetas ) kiel kuragxus sxi postlasi min , facilanimulon , min , kiu jam en la agxo de dek=naux eniris en -L
+KONSULO=BERNICK Kaj sekve ?
+JOHAN=TOENNESEN Nu , Karsten , nun mi faros konfeson , pri kiu mi hontas .
+KONSULO=BERNICK Vi do ne konfesis al sxi la konekson ?
+JOHAN=TOENNESEN Jes .
+Ne estis gxuste de mi , sed mi ne povis alion fari .
+Vi ne povas imagi al vi , kio Lona estis por mi .
+Vi neniam toleris sxin ;
+sed por mi sxi estis kvazaux patrino .
+En la unuaj jaroj , kiam estis pene por ni tie transe , -R ho ! kiel sxi laboris !
+Kaj kiam mi estis malsana dum longa tempo , kaj nenion enspezis , kaj ne povis protesti , sxi komencis kanti kanzonojn en la kafejoj , -L prezenti prelegojn , pri kiuj la homoj sxercadis ;
+kaj sxi ankaux verkis libron , pri kiu sxi poste kaj ridis kaj ploris , -R cxion por subteni la vivon en mi .
+Cxu mi do povus rigardi , ke sxi , cxi=tiun vintron marasmigxu , sxi , kiu penegadis por mi ?
+Ne , tion mi ne povis , Karsten .
+Kaj jen mi diris : Vojagxu vi , Lona ;
+ne timu pro mi ; mi ne estas nepripensema , kiel vi pensas .
+Kaj jen -L jen sxi sciigxis .
+KONSULO=BERNICK Kiel sxi prenis tion ?
+JOHAN=TOENNESEN Nu , sxi opiniis , kiel vere estis , ke kiam mi scias ke mi estas senkulpa , ne povus esti embaraso por mi fari ekskurseton cxi tien .
+Sed estu trankvila ;
+Lona nenion malkasxos , kaj mi gardos mian busxon la duan fojon .
+KONSULO=BERNICK Nu ja ; mi fidas tion .
+JOHAN=TOENNESEN Jen mia mano .
+Kaj nun ni ne=plu parolu pri tiu malnova historio ;
+felicxe gxi estas la sola petolajxo pri kiu iu el ni estas kulpa , mi pensas .
+Nun mi volas gxui la malmultajn tagojn , kiujn mi restos cxi tie .
+Vi ne imagas kian bonegan ekskurson ni havis cxi-matene .
+Kiu imagus ke tiu knabineto , kiu cxirkauxkuris ludante angxelon en la teatro -R !
+Sed diru , -L kio poste okazis pri sxiaj gepatroj ?
+KONSULO=BERNICK Ho , kara , mi ne scias pri io pli rakontinda , ol tio kion mi skribis al vi tuj post=kiam vi estis forvojagxinta .
+Nu , vi ja ricevis la du leterojn ?
+JOHAN=TOENNESEN Jes , ja , mi havas ambaux .
+La drinkemulo ja forkuris de sxi ?
+KONSULO=BERNICK Kaj poste mortigxis en ebrieco .
+JOHAN=TOENNESEN Ankaux sxi mortis mallonge poste ?
+Sed vi certe faris por sxi tion kion vi kasxe povus fari ? KONSULO=BERNICK Sxi estis fiera ;
+sxi nenion perfidis , kaj volis akcepti nenion .
+JOHAN=TOENNESEN Nu , tamen estis gxuste de vi preni Dina en la domon .
+KONSULO=BERNICK Jes , efektive estis .
+Cetere estis vere Marta , kiu efektivigis tion .
+JOHAN=TOENNESEN Do estis Marta ?
+Jes , Marta -R vere -L kie sxi estas hodiaux ?
+KONSULO=BERNICK Nu sxi , -R kiam sxi ne devas atenti pri la lernejo , sxi havas siajn malsanulojn .
+JOHAN=TOENNESEN Do estas Marta , kiu okupis sin pri sxi .
+KONSULO=BERNICK Jes . Marta ja cxiam havis emon por edukado .
+Tial sxi ankaux akceptis oficon en la lernejo .
+Tio estis ege malsagxa de sxi .
+JOHAN=TOENNESEN Jes , sxi aspektis ege laca hieraux ;
+mi ankaux timas , ke sxi ne havas sanon por tio .
+KONSULO=BERNICK Ho , pri la sano , sxi eble eltenus .
+Sed estas malagrable por mi ;
+sxajnas kvazaux mi , sxia frato , ne volus subteni sxin .
+JOHAN=TOENNESEN Subteni ?
+Mi kredis , ke sxi havas tioman kapitalon mem -L
+KONSULO=BERNICK Ecx ne sxilingon .
+Vi certe memoras , kiel pene estis por patrino , kiam vi forvojagxis .
+Sxi dauxrigis ioman tempon per kunhelpo de mi ; sed per tio mi ne longe povus esti kontenta .
+Kaj mi akceptis anigxi en la firmaon ; sed ecx ne tio estis sukceso .
+Mi tial devis transpreni cxion , kaj kiam ni faris la bilancon , montrigxis , ke restis preskaux nenio el la parto de patrino .
+Kiam patrino mallonge poste mortis , ankaux Marta staris senrimeda .
+JOHAN=TOENNESEN Kompatinda Marta !
+KONSULO=BERNICK Kompatinda ?
+Kial tio ?
+Vi do ne pensas , ke mi lasas sxin ion malhavi ?
+Ho ne , tion mi kuragxas diri , ke mi estas bona frato .
+Kompreneble sxi logxas kune kun ni kaj mangxas cxe nia tablo ;
+per sia instru-salajro sxi povas abunde vestigi sin , kaj sola virino , -R kion pli sxi bezonas ?
+JOHAN=TOENNESEN Tiel ni ne pensas en Ameriko .
+KONSULO=BERNICK Ne , tion mi ja kredas ; en strecxe agitita socio kiel la usonana .
+Sed cxi=tie en nia eta rondo , kie , dank' al Dio , la koruptigxo gxis nun almenaux ne enpenetris ;
+cxi=tie la virinoj kontentigxas per deca kvankam modesta stato .
+Cetere Marta mem kulpas ; sxi estis povinta sekurigi prizorgon antaux longe , se sxi mem volus .
+JOHAN=TOENNESEN Vi aludas , ke sxi povus edzinigxi ?
+KONSULO=BERNICK Jes , krome sxi estus povinta ege favore establigxi ;
+sxi ricevis plurajn bonajn ofertojn ; suficxe strange ; senrimeda knabino , ne=plu juna , kaj krome tute sensignifa .
+JOHAN=TOENNESEN Sensignifa ?
+KONSULO=BERNICK Nu , mi ne malestimas sxin pro tio .
+Mi tute ne deziras sxin alia .
+Sciu , -L en granda domo , kiel la nia , -R estas cxiam bone havi tian ordinaran homon , kiun oni povas igi labori pri okazajxoj .
+JOHAN=TOENNESEN Jes , sed sxi -L ?
+KONSULO=BERNICK Sxi ?
+Kiel ?
+Nu ja , sxi kompreneble ja havas suficxe por sin interesi ;
+sxi havas ja min kaj Betty kaj Olaf kaj min .
+La homoj ne devas unue pensi pri si mem , precipe ne la virinoj .
+Ni havas ja cxiuj iun grandan aux malgrandan socion por kiu labori kaj gxin subteni .
+Tiel almenaux mi faras .
+( montras al plenrajtigito Krap , kiu venas de dekstre ) Nu , jen vi havas pruvon .
+Cxu vi opinias , ke estas miaj propraj aferoj , kiuj okupas min ?
+Neniel .
+( rapide al Krap ) Nu ?
+PLENRAJTIGITO=KRAP ( mallauxte ; montras amaseton da paperoj ) Cxiuj acxetkontraktoj en ordo .
+KONSULO=BERNICK Bonege !
+Superbe !
+-R Nu , bofrato , vi devas ekskuzi min dumtempe .
+( mallauxte kaj kun manpremo ) Dankon , dankon , Johan ;
+kaj estu konvinkita , ke cxio , cxio pri kio mi povos servi vin , -L nu , vi certe komprenas min .
+-R Venu , sinjoro Krap . ( ili iras en la cxambron de la konsulo )
+JOHAN=TOENNESEN ( dum tempeto postrigardas lin ) Hm -L
+( Li intencas iri en la gxardenon .
+JOHAN=TOENNESEN Jen , Marta !
+FRAUxLINO=BERNICK Ah -R Johan , -L cxu estas vi ? JOHAN=TOENNESEN Tiel frue surpiede ankaux vi .
+FRAUxLINO=BERNICK Jes .
+Atendu iomete ; nun eble tuj venos la aliuloj .
+( volas eliri maldekstre )
+JOHAN=TOENNESEN Auxdu , Marta , cxu cxiam urgxas por vi ?
+FRAUxLINO=BERNICK Por mi ?
+JOHAN=TOENNESEN Hieraux vi kvazaux evitis min , kaj mi povis intersxangxi ecx ne vorton kun vi , kaj hodiaux -R
+FRAUxLINO=BERNICK Jes , sed -L
+JOHAN=TOENNESEN Antauxe ni do cxiam estis kune , -R ni du malnovaj ludgeamikoj . FRAUxLINO=BERNICK Ho , Johan , post tiam estas multaj , multaj jaroj .
+JOHAN=TOENNESEN Nu , je Dio , estas dek=kvin jaroj post tiam , ne pli , ne malpli .
+Cxu sxajnas al vi , ke mi multe sxangxigxis ?
+FRAUxLINO=BERNICK Vi ?
+Nu jes , ankaux vi , kvankam -L
+JOHAN=TOENNESEN Kion vi pensas ?
+FRAUxLINO=BERNICK Ho , estas nenio .
+JOHAN=TOENNESEN Aspekte vi ne multe gajigxis revidi min .
+FRAUxLINO=BERNICK Mi atendis tiom longe , Johan , -R tro longe .
+JOHAN=TOENNESEN Atendis ?
+Ke mi revenus ?
+FRAUxLINO=BERNICK Jes .
+JOHAN=TOENNESEN Kaj kial vi pensis ke mi revenus ?
+FRAUxLINO=BERNICK Por pentofari vian delikton .
+JOHAN=TOENNESEN Mi ?
+FRAUxLINO=BERNICK Cxu vi forgesis , ke virino mortis en sufero kaj honto pro via kulpo ?
+Cxu vi forgesis , ke pro via kulpo la plej bonaj jaroj de kreskanta infano amarigxis ?
+JOHAN=TOENNESEN Kaj tion mi auxdu de vi ?
+Marta , cxu via frato neniam -L ?
+FRAUxLINO=BERNICK Cxu li ?
+JOHAN=TOENNESEN Cxu li neniam -R ;
+nu ja , mi pensas , cxu li neniam diris ecx unu vorton senkulpigan por mi ?
+FRAUxLINO=BERNICK Ho , Johan , vi ja konas la severajn principojn de Karsten .
+JOHAN=TOENNESEN Hm -L , certe , certe mi konas la severajn principojn de mia malnova amiko Karsten .
+-R Sed tio=cxi estas ja -L !
+Nu .
+Mi jxus nun parolis kun li .
+Sxajnas al mi , ke li multe sxangxigxis .
+FRAUxLINO=BERNICK Kiel vi povas tion diri ?
+Karsten cxiam estis honesta viro .
+JOHAN=TOENNESEN Jes , mi nenion aludis ; sed lasu tion .
+-R Hm ;
+nun mi do komprenas , en kiu lumo vi vidis min : estas la hejmenveno de la perditulo , kiun vi atendadis .
+FRAUxLINO=BERNICK Auxskultu , Johan , mi diros en kia lumo mi vidis vin .
+( montras al la gxardeno ) Cxu vi vidas sxin , kiu ludas tie en la herbaro kune kun Olaf ?
+Estas Dina .
+Cxu vi memoras la kapturnitan leteron , kiun vi skribis al mi , kiam vi forvojagxis ?
+Vi skribis , ke mi fidu vin .
+Mi fidis vin , Johan .
+Cxio malbona , kio poste onidirigxis , certe okazis en kapturnigxo , sencerbe , senpripense -L
+JOHAN=TOENNESEN Kion vi sugestas ?
+FRAUxLINO=BERNICK Ho , vi certe komprenas min ;
+-R ne=plu vorto pri tio .
+Sed forvojagxi vi ja devis ; komenci denove -L novan vivon .
+Vidu , Johan , mi estis via anstatauxanto cxi-hejme , mi , via malnova ludamikino .
+La devoj , kiujn vi ne memoris prizorgi cxi=tie aux ne povis prizorgi , tiujn mi prizorgis por vi .
+Mi diras tion al vi , por=ke vi ne havu tion por riprocxi al vi .
+Por la neglektita infano mi estis patrino , mi edukis sxin kiel=eble=plej bone -R
+JOHAN=TOENNESEN Kaj forjxetis vian vivon por tiu afero -L
+FRAUxLINO=BERNICK Gxi ne estas forjxetita .
+Sed vi revenis malfrue , Johan .
+JOHAN=TOENNESEN Marta , -R se mi povus diri al vi -L .
+Nu , unue mi danku vin pro via fidela amikeco .
+FRAUxLINO=BERNICK ( ridetas peze ) Hm , -R Jes , nun ni do elparolis , Johan .
+Tsx ; jen iu venas .
+Adiaux ; mi ne povas nun -L
+( Sxi eliras tra la malantauxa pordo maldekstre .
+Lona=Hessel envenas de la gxardeno akompanata de sinjorino Bernick .
+)
+SINJORINO=BERNICK ( ankoraux en la gxardeno ) Sed , pro Dio=Lona , pri kio vi pensas !
+FRAUxLINO=HESSEL Lasu min , mi diras ;
+mi volas kaj devas paroli kun li .
+SINJORINO=BERNICK Sed estus grandega skandalo !
+Ho , Johan , cxu vi ankoraux cxeestas ?
+FRAUxLINO=HESSEL Eliru , knabo ;
+ne restadu cxi=tie en la cxambra aero ;
+eliru en la gxardenon , kaj parolu kun Dina .
+JOHAN=TOENNESEN Jes , mi gxuste intencis tion .
+SINJORINO=BERNICK Sed -R
+FRAUxLINO=HESSEL Auxdu nun , John , cxu vi vere rigardis al Dina ?
+JOHAN=TOENNESEN Jes , mi kredas .
+FRAUxLINO=HESSEL Jes , vi vere devus bone rigardi sxin , knabo .
+Jen io por vi !
+SINJORINO=BERNICK Sed Lona -L !
+JOHAN=TOENNESEN Io por mi ?
+FRAUxLINO=HESSEL Jes , por rigardi , mi pensas . Iru nun !
+JOHAN=TOENNESEN Nu ja , mi iros voleme .
+( Li iras elen en la gxardenon .
+)
+SINJORINO=BERNICK Lona , mi konsternigxas pro vi .
+En tio vi do ne povas esti serioza .
+FRAUxLINO=HESSEL Jes , efektive tiel estas .
+Cxu sxi ne estas sana kaj sincera ?
+Jen edzino gxuste por John .
+Estas iu tia , kiun li bezonas tie en la Okcidento ;
+tio estus io alia ol maljuna duonfratino .
+SINJORINO=BERNICK Dina !
+Dorf !
+Pripensu do -R
+FRAUxLINO=HESSEL Unue mi pripensas la felicxon de la knabo .
+Cxar kunhelpi , tion mi devas ;
+li mem ne estas precipe entreprenema en tiajxoj ;
+knabinetoj kaj virinoj li neniam vere komprenis .
+SINJORINO=BERNICK Li ?
+Johan !
+Nu , aspekte ni havas bedauxrindajn pruvojn por -L
+FRAUxLINO=HESSEL Ho , inferen kun tiu stulta historio !
+Kie estas Bernick ?
+Mi volas paroli kun li .
+SINJORINO=BERNICK Lona , vi ne faru , mi diras !
+FRAUxLINO=HESSEL Mi faros .
+Se la knabo sxatas sxin , -R kaj sxi lin , -L ili sekve havu unu=la=alian .
+Bernick estas ja tia sagxa viro ; li devas trovi solvon -R
+SINJORINO=BERNICK Kaj vi imagus , cxu tiuj usonaj maldecajxoj estus tolerataj cxi=tie -L
+FRAUxLINO=HESSEL Babilajxo , Betty -R
+SINJORINO=BERNICK -L ke viro , kiel Karsten , kun sia severa morala pensmaniero -R
+FRAUxLINO=HESSEL Ho , pa , gxi certe ne estas tiel senmezure severa .
+SINJORINO=BERNICK Kion vi kuragxas diri ?
+FRAUxLINO=HESSEL Mi kuragxas diri , ke Bernick certe ne estas multe pli morala ol aliaj viroj .
+SINJORINO=BERNICK Tiel profunde sidas do ankoraux la malamo al li !
+Sed kion vi do volas cxi=tie , cxar vi ja neniam povis forgesi ke -L ?
+Mi ne komprenas , ke vi kuragxis rigardi lin rekte en la okulojn post tiu hontinda insulto , kiun vi tiam alportis al li .
+FRAUxLINO=HESSEL Jes , Betty , tiam mi senpripense acxe faris .
+SINJORINO=BERNICK Kaj kiel grandanime li pardonis vin , li , kiu ja neniam faris delikton !
+Cxar li ja ne povas kulpigxi pro tio , ke vi pri io esperadis .
+Sed depost tiam vi malamis ankaux min .
+( ekploras ) Vi neniam malenviis al mi mian felicxon .
+Kaj nun vi venas cxi tien por renversi cxion tion super min , -R por montri al la urbo , en kiun familion mi enkondukis Karsten .
+Jes , estas super min ke cxio falos , kaj estas tio , kion vi volas .
+Kaj tio estas acxa de vi ! ( Sxi eliras plorante tra la fona pordo maldekstre .
+)
+FRAUxLINO=HESSEL ( postrigardas sxin ) Kompatinda=Betty .
+( Konsulo Bernick venas el sia cxambro .
+)
+KONSULO=BERNICK ( ankoraux cxe la pordo ) Jes , jes , bone , sinjoro Krap ;
+bonege . Sendu 400 kronojn por mangxigado al la povruloj .
+( turnas sin ) Lona !
+( pli proksime ) Vi sola ?
+Cxu Betty ne venas ?
+FRAUxLINO=HESSEL Ne . Eble mi sercxu sxin ?
+KONSULO=BERNICK Ne , ne , ne , lasu tion !
+Ho , Lona , vi ne scias , kiel mi arde sopiris paroli malferme kun vi , -L petegi vian pardonon .
+FRAUxLINO=HESSEL Auxskultu , Karsten , ni ne estu sentimentalaj ;
+tio ne konvenas al ni .
+KONSULO=BERNICK Vi devas auxskulti min , Lona .
+Mi ja scias , kiel mi havas la sxajnon kontraux mi nun , kiam vi sciigxis pri la okazajxo kun la patrino de Dina .
+Sed mi jxuras , ke tio estis nur mallonga erarigxo ;
+efektive mi vere kaj sincere iam sxatis vin .
+FRAUxLINO=HESSEL Kial vi kredas ke mi estas veninta hejmen ?
+KONSULO=BERNICK Ecx se ion ajn vi intencas , mi petas vin nenion fari , antaux=ol mi justigis min .
+Mi povas , Lona ;
+mi almenaux povas senkulpigi min .
+FRAUxLINO=HESSEL Nun vi estas en timo .
+-R Vi iam sxatis min , vi diras .
+Jes , pri tio vi certigis min suficxe ofte en viaj leteroj ;
+kaj eble tio estis vero -L iamaniere , tiom longe kiom vi vivis tie en granda liberigita mondo , kiu donis al vi kuragxon mem pensi libere kaj alte .
+Vi eble trovis en mi iom pli da karaktero kaj volo kaj memdependeco , ol cxe la plimulto cxi-hejme .
+Kaj estis ja ankaux sekreto nur inter ni du ;
+neniu povis sxercacxi pri via malbona gusto .
+KONSULO=BERNICK Lona , kiel vi povas do kredi -R ?
+FRAUxLINO=HESSEL Sed kiam vi revenis ; kiam vi auxdis la mokadon , kiu hajlis super min ; kiam vi spertis la ridadon super cxion , kion oni cxi=tie nomis miajn absurdajxojn -L
+KONSULO=BERNICK Vi estis senkonsidera tiam .
+FRAUxLINO=HESSEL Pleje por cxagreni tiujn jupvestitajn kaj pantalonvestitajn geprudulojn , kiuj trotadis cxirkauxe en la urbo .
+Kaj kiam vi renkontis la juna alloga aktorino -R
+KONSULO=BERNICK Estis nur danda petolajxo ; nenio pli ;
+mi jxuras al vi , ecx ne la dekono estis vero de tiu klacxo kaj tiuj onidiroj , kiuj cirkuligxis .
+FRAUxLINO=HESSEL Nu , bone ;
+sed kiam Betty venis hejmen , bela , floranta , adorata de cxiuj , -L kaj farigxis konate , ke sxi heredus la monon post onklino , kaj ke mi ricevus nenion -R -L
+KONSULO=BERNICK Nu , jen ni estas cxe la afero , Lona ;
+kaj nun vi auxdu senvuale .
+Mi ne amis Betty tiam ;
+mi ne rompis kun vi por iu nova inklino .
+Estis rekte por la mono ;
+estis devige ; mi devis havigi ilin al mi .
+FRAUxLINO=HESSEL Kaj tion vi diras al mi rekte antaux la okuloj ?
+KONSULO=BERNICK Jes , mi faras .
+Auxskultu min , Lona -R
+FRAUxLINO=HESSEL Kaj vi tamen skribis al mi , ke nesubigebla amo al Betty kaptis vin , kaj vi alvokis mian grandanimon , kaj petegis min pro Betty silenti pri tio kio antauxe estis inter ni -L
+KONSULO=BERNICK Mi devis , mi diras .
+FRAUxLINO=HESSEL Nu , je la vivanta Dio , nun mi ne pentas , ke mi tiam agis senpripense .
+KONSULO=BERNICK Lasu min fride kaj trankvile diri al vi , kiel la stato estis en tiuj tagoj .
+Mia patrino , kiel vi memoras , estris la komercon ;
+sed tute mankis al sxi komerca kompreno .
+Rapide mi vokigxis hejmen de Parizo ; la tempoj estis krizaj ;
+mi metus la aferojn sur firmajn piedojn . Kion mi trovis ?
+Mi trovis ion , kio devus esti tenata en la plej profunda sekreto : firmaon preskaux ruinigita .
+Jes , gxi estis preskaux ruinigita , tiu=cxi malnova respektata firmao , kiu staris dum tri generacioj .
+Kion povis mi fari , la filo , la sola filo , krom cxirkauxrigardi por savrimedo .
+FRAUxLINO=HESSEL Kaj vi savis la firmaon Bernick je ofero de virino .
+KONSULO=BERNICK Vi bone scias , ke Betty amis min .
+FRAUxLINO=HESSEL Sed mi ?
+KONSULO=BERNICK Kredu min , Lona , -R vi neniam farigxus felicxa kun mi .
+FRAUxLINO=HESSEL Cxu estis el zorgemo por mia felicxo , ke vi forlasis min ?
+KONSULO=BERNICK Cxu eble vi kredas , ke el egoismaj motivoj mi agis kiel mi faris ?
+Se mi tiam starus sola , mi brave rekomencus .
+Sed vi ne komprenas kiel komercisto sub senmezura respondeco kunkreskas kun la komerco , kiun li heredas .
+Cxu vi scias ke la bonfarto de centoj , ecx miloj dependas de li ?
+Cxu vi ne pripensas , ke la tuta socio , kiun kaj vi kaj mi nomas nian hejmon , tusxigxus severe , se la firmao Bernick ruinigxus ?
+FRAUxLINO=HESSEL Cxu estas ankaux pro la socio , ke vi dum tiuj dek=kvin jaroj restis staranta en la mensogo ?
+KONSULO=BERNICK En mensogo ?
+FRAUxLINO=HESSEL Kion scias Betty pri cxio , kio kusxas sube kaj antauxe de sxia kunligo kun vi ?
+KONSULO=BERNICK Cxu vi opinias ke mi por neniu utilo vundus sxin malkovrante tiujn aferojn ?
+FRAUxLINO=HESSEL Por neniu utilo vi diras ?
+Nu ja , vi ja estas komercisto ;
+vi certe komprenas kio estas utila .
+-L Sed auxdu nun , Karsten , nun ankaux mi volas paroli fride kaj trankvile .
+Diru , -R cxu vi ankaux vere estas felicxa ?
+KONSULO=BERNICK En la familio , vi pensas ?
+FRAUxLINO=HESSEL Nu ja.
+KONSULO=BERNICK Mi estas , Lona .
+Vi ne senutile estas estinta tia sindonema amikino por mi .
+Mi kuragxas diri , ke mi farigxis pli=kaj=pli felicxa laux la jaroj .
+Betty estas bona kaj cedema .
+Kaj kiel sxi dum la jaroj lernis kurbi sian konduton laux tio , kio estas karakteriza en mi -L
+FRAUxLINO=HESSEL Hm.
+KONSULO=BERNICK Antauxe sxi ja nutris kelkajn romantikajn imagajxojn pri la amo ;
+sxi ne povis akordigxi kun la ideo , ke gxi iom=post=iom transirus al trankvila amikecflamo .
+FRAUxLINO=HESSEL Sed nun sxi estas kontenta ?
+KONSULO=BERNICK Komplete .
+Sciu , ke la cxiutaga rilato kun mi ne estas sen maturiga influo al sxi .
+La homoj devas reciproke lerni malaltigi siajn postulojn , se oni volas agi kontentige en la socio en kiu oni trovigxas .
+Tion ankaux Betty lauxe lernis kompreni , kaj tial nia domo estas nun modelo por niaj samcivitanoj .
+FRAUxLINO=HESSEL Sed tiuj samcivitanoj nenion scias pri la mensogo ?
+KONSULO=BERNICK Pri la mensogo ?
+FRAUxLINO=HESSEL Jes , pri la mensogo en kiu vi nun stara dum dek=kvin jaroj .
+KONSULO=BERNICK Kaj tion vi nomas -R -L ?
+FRAUxLINO=HESSEL Mensogo mi gxin nomas .
+La triobla mensogo .
+Unue la mensogo kontraux mi ; poste la mensogo kontraux Betty ;
+kaj fine la mensogo kontraux Johan . KONSULO=BERNICK Betty neniam postulis , ke mi parolu .
+FRAUxLINO=HESSEL Cxar sxi nenion sciis .
+KONSULO=BERNICK Kaj vi tion ne postulos ; -R pro konsidero rilate sxin vi tion ne postulos .
+FRAUxLINO=HESSEL Ho ne , mi certe scios toleri la ridsalvojn ;
+mi havas fortan dorson .
+KONSULO=BERNICK Kaj ankaux Johan ne postulos ;
+li jam promesis al mi .
+FRAUxLINO=HESSEL Sed vi mem , Karsten ?
+Cxu ne estas io interne en vi , kio postulas eliri el la mensogo ?
+KONSULO=BERNICK Cxu mi libervole oferus mian familian felicxon kaj mian staton en la socio !
+FRAUxLINO=HESSEL Kiun rajton havas vi stari en la loko kie vi nun staras ?
+KONSULO=BERNICK Dum dek=kvin jaroj mi tage acxetis al mi eron de rajto -L per mia konduto , kaj per tio kion mi faris kaj progresigis .
+FRAUxLINO=HESSEL Jes , vi multe faris kaj progresigis , por vi mem kaj por aliuloj .
+Vi estas la plej ricxa kaj potenca homo en la urbo ;
+sub via volo ili kuragxas nenion alian fari ol kurbigxi , cxiuj , cxar vi estas konsiderata esti sen makulo kaj perfekta ;
+via hejmo estas konsiderata kiel modela hejmo , via konduto kiel modela konduto .
+Sed cxiu tiu gloro , kaj ecx vi mem samtempe , staras kvazaux sur sxanceligxanta marcxo .
+Momenteto povos okazi , vorto povos esti dirata , -R kaj vi kune kun la tuta glorajxo suben sinkos , se vi ne savos vin gxustatempe .
+KONSULO=BERNICK Lona , -L kion vi vere volas cxi=tie ?
+FRAUxLINO=HESSEL Mi volas helpi vin al firma grundo sub la piedoj , Karsten .
+KONSULO=BERNICK Vengxo !
+Vi volas vengxi vin ?
+Mi ja suspektis .
+Sed vi ne sukcesos !
+Estas nur unu cxi=tie , kiu povas paroli kun auxtoritato , kaj li estas silenta .
+FRAUxLINO=HESSEL Johan ?
+KONSULO=BERNICK Jes , Johan .
+Se aliulo kulpigos min , mi cxion neas .
+Se oni volas detrui min , mi luktos je la vivo .
+Sed vi neniam sukcesos , mi diras !
+Li , kiu povus faligi min , li silentas -R kaj li reen forvojagxos .
+( Grandkomercisto Rummel kaj komercisto Vigeland venas de dekstre .
+)
+GRANDKOMERCISTO=RUMMEL Bonan tagon , bonan tagon , kara Bernick ;
+vi devas veni kun ni en la komerca asocio ;
+ni havas kunvenon pri la fervoja afero , vi ja scias .
+KONSULO=BERNICK Mi ne povas .
+Ne eblas nun .
+KOMERCISTO=VIGELAND Vi vere devas , sinjoro konsulo -L
+GRANDKOMERCISTO=RUMMEL Vi devas , Bernick .
+Jen estas homoj , kiuj laboras kontraux nin .
+Redaktoro Hammer kaj la aliaj , kiuj preferis la marbordan linion , pretendas , ke kasxas sin privataj interesoj malantaux la nova propono .
+KONSULO=BERNICK Nu , do klarigu al ili -R
+KOMERCISTO=VIGELAND Ne tauxgas kion ni klarigas , sinjoro konsulo -L
+GRANDKOMERCISTO=RUMMEL Ne , ne , vi devas mem veni ;
+vin ja neniu kuragxas suspekti pri tiajxo .
+FRAUxLINO=HESSEL Ho ne , mi tion opinius .
+KONSULO=BERNICK Mi ne povas , mi diras ;
+mi ne estas tute sana ;
+-R aux almenaux , atendu -L lasu min restitui min . ( Adjunkto Roerlund envenas de dekstre .
+)
+ADJUNKTO=ROERLUND Pardonu , sinjoro konsulo ;
+Vi jen vidas min en la plej impeta incito -R KONSULO=BERNICK Nu jes , kio estas al vi ?
+ADJUNKTO=ROERLUND Mi devas fari al vi demandon , sinjoro konsulo .
+Cxu estas kun via kunsento , ke la juna knabino , kiu trovis azilon sub via tegmento , montras sin publike sur la strato en kunestado kun homo , de kiu -L
+FRAUxLINO=HESSEL Kiu homo , sinjoro pastoro ?
+ADJUNKTO=ROERLUND Kun tiu homo el cxiuj homoj en la mondo , de kiu sxi devus teni sin plej fore .
+FRAUxLINO=HESSEL Hoho !
+ADJUNKTO=ROERLUND Cxu estas kun via kunsento , sinjoro konsulo ?
+KONSULO=BERNICK ( kiu sercxas cxapelon kaj gantojn ) Mi scias pri nenio .
+Pardonu ; urgxas ;
+mi devas iri al la komerca asocio .
+SINJORINO=BERNICK ( cxe la pordo ) Kio estas ?
+HILMAR=TOENNESEN Vi devas iri en la gxardenon , kaj finigi tiun flatadon , kiun certa persono praktikas al tiu Dina=Dorf .
+Mi farigxis tute nervoza auxskulti al tio .
+FRAUxLINO=HESSEL Cxu ?
+Kion do tiu persono diris ?
+HILMAR=TOENNESEN Ho , nenion alian ol tio , ke li volas ke sxi akompanu lin al Ameriko .
+Uf !
+ADJUNKTO=ROERLUND Cxu tiajxo eblas !
+SINJORINO=BERNICK Kion vi diras ?
+FRAUxLINO=HESSEL Sed estus ja bonege .
+KONSULO=BERNICK Neeble !
+Vi misauxdis .
+HILMAR=TOENNESEN Do demandu lin mem .
+Jen venas la paro .
+Sed ne enmiksigu min .
+KONSULO=BERNICK ( al Rummel kaj Vigeland ) Mi venos poste , -R post momento -L ( Grandkomercisto Rummel kaj Vigeland eliras dekstre .
+Johan Toennesen kaj Dina envenas de la gxardeno .
+)
+JOHAN=TOENNESEN Hura , Lona , sxi akompanos nin !
+SINJORINO=BERNICK Tamen Johan , -R vi senpripensa -L !
+ADJUNKTO=ROERLUND Cxu tio estas vero !
+Tia superega skandalo !
+Per kiaj delogantaj artoj estas vi -R
+JOHAN=TOENNESEN Nu , nu , sinjoro ; kion vi estas diranta ?
+ADJUNKTO=ROERLUND Respondu al mi , Dina ;
+cxu tio estas via intenco , -L cxu estas via tute libera decido ?
+DINA Mi devas for de tie=cxi .
+ADJUNKTO=ROERLUND Sed kun li -R kun li !
+DINA Menciu iun alian cxi=tie , kiu kuragxus kunpreni min .
+ADJUNKTO=ROERLUND Nu , vi do sciu kiu li estas .
+JOHAN=TOENNESEN Ne parolu !
+KONSULO=BERNICK Neniun plian vorton !
+ADJUNKTO=ROERLUND En tiu okazo mi malbone servus al la socio , kies moralon kaj morojn mi postenigxis por gardi ; kaj nepravigeble mi agis kontraux tiu=cxi juna knabino , en kies eduko ankaux mi havis esencan parton , kaj kiu por mi estas -L
+JOHAN=TOENNESEN Gardu vin por tio , kion vi faras !
+ADJUNKTO=ROERLUND Sxi tion sciu !
+Dina , estas tiu viro , kiu kauxzis la malfelicxon kaj honton al via patrino .
+KONSULO=BERNICK Sinjoro adjunkto -R !
+DINA Li !
+( al Johan=Toennesen ) Cxu tio estas vero ?
+JOHAN=TOENNESEN Karsten , respondu vi .
+KONSULO=BERNICK Neniu vorto plu !
+Hodiaux estu silento .
+DINA Do vero .
+ADJUNKTO=ROERLUND Vero , vero .
+Kaj pli=ol tio . Tiu homo , kiun vi tiel fidas , ne kuris senhava el la hejmo ;
+-L la kaso de vidvino Bernick -R ;
+la konsulo povas atesti pri tio !
+FRAUxLINO=HESSEL Mensoganto !
+KONSULO=BERNICK Ah -L !
+SINJORINO=BERNICK Ho Dio , ho dio !
+JOHAN=TOENNESEN ( kontraux lin kun levita brako ) Kaj tion vi kuragxas -R !
+FRAUxLINO=HESSEL ( deturnante ) Ne frapu lin , Johan !
+ADJUNKTO=ROERLUND Jes , atencu min nur .
+Sed la vero apertigxu ;
+kaj estas vero ; konsulo Bernick mem tion estas dirinta , kaj la tuta urbo scias .
+-L Nun , Dina , nun vi konas lin . ( Mallonga silento .
+)
+JOHAN=TOENNESEN ( mallauxte ; kaptas la brakon de Bernick ) Karsten , Karsten , kion vi faris !
+SINJORINO=BERNICK ( mallauxte kaj en ploro ) Ho Karsten , ke mi tiris vin en tiun honton .
+KOMERCISTO=SANDSTAD ( envenas rapide de dekstre kaj krias kun la mano sur la anso ) Nun vi devas absolute veni , sinjoro konsulo !
+La tuta fervojo pendas en fadeno .
+KONSULO=BERNICK ( spiritforeste ) Kio estas ?
+Al kio mi -R ?
+FRAUxLINO=HESSEL ( serioze kaj kun emfazo ) Vi ekstaru por subteni la socion , bofrato .
+KOMERCISTO=SANDSTAD Jes , venu , venu ;
+ni bezonas vian tutan moralan superpezon .
+JOHAN=TOENNESEN ( tute apude cxe li ) Bernick , -L ni du kunparolos morgaux . ( Li eliras tra la gxardeno ;
+konsulo Bernick kvazaux senvola eliras dekstre kun komercisto Sandstad .
+)
+TRIA=AKTO
+( La gxardena salono en la domo de Bernick .
+) ( Konsulo Bernick , kun kanbastono en la mano , venas en impeta kolero el la malantauxa cxambro maldekstre , kaj lasas la pordon duone malferma post si .
+)
+KONSULO=BERNICK Nu jen ;
+fine farigxis seriozo en tio ;
+tiun vangofrapon mi opinias , ke li memoros .
+( al iu ene en la cxambro ) Kion vi diras ?
+-R Kaj mi diras , ke vi estas malprudenta patrino !
+Vi senkulpigas lin , konsentas al cxiuj liaj bubajxoj . -L Cxu ne bubajxoj ?
+Kion vi do nomas ilin ?
+Sxteliri el la domo nokte , iri surmaren per la fisxistboato , resti for gxis longe en la tago , kaj meti min en tian mortigan timon , mi , kiu havas tiom da aliajxoj por pripensi .
+Kaj aldone tiu kanajlo kuragxas minaci , ke li volas forkuri !
+Jes , ke li provu pri tio !
+-R Vi ?
+Ne , tion mi efektive kredas ;
+vi ne multe zorgas pri lia savo kaj konduto .
+Mi volonte kredas , ke se li riskus la vivon -L !
+-R Nu ?
+Jes , sed mi havas taskon postlasendan en cxi=tiu mondo ;
+ne servas al mi farigxi seninfana . -L Neniuj kontrauxdirajxoj , Betty ;
+estu kiel mi diris ; li havu cxambran arestigxon -R ( auxskultas ) Sxsx ;
+ke neniuj ion rimarku .
+( Plenrajtigito=Krap envenas de dekstre .
+)
+PLENRAJTIGITO=KRAP Cxu Vi havas liberan momenton , sinjoro konsulo ?
+KONSULO=BERNICK ( forjxetas la kanbastonon ) Nu ja , jes ja. Cxu Vi venas de la sxipfarejo ?
+PLENRAJTIGITO=KRAP Jxus nun .
+Hm -L
+KONSULO=BERNICK Nu ?
+Cxu certe ne estas iu gxeno pri La Palmo ?
+PLENRAJTIGITO=KRAP La Palmo povos forveli morgaux , sed -R
+KONSULO=BERNICK Indian Girl do ?
+Cxu mi ne scietis ke tiu obstinulo -L
+PLENRAJTIGITO=KRAP Ankaux Indian Girl povos forveli morgaux ;
+sed -R eble ne atingos foren .
+KONSULO=BERNICK Kion Vi aludas ?
+PLENRAJTIGITO=KRAP Pardonu , sinjoro konsulo ;
+tiu pordo estas nur duonfermita , kaj mi kredas , ke iu estas tie -L
+KONSULO=BERNICK ( fermas la pordon ) Nu jen .
+Sed kio estas tio , kion neniu devas auxdi ?
+PLENRAJTIGITO=KRAP Estas tio , ke la konstruisto Auxne certe intencas sinkigi Indian Girl kun aro da maristoj kaj musoj .
+KONSULO=BERNICK Sed Dio kompatu , kiel vi povas kredi -R ?
+PLENRAJTIGITO=KRAP Mi ne povas klarigi tion alimaniere , sinjoro konsulo .
+KONSULO=BERNICK Nu , do diru al mi en malmultaj vortoj -L
+PLENRAJTIGITO=KRAP Mi faros .
+Vi mem scias kiel prokrasteme la laboro farigxis en la sxipfarejo , post=kiam ni ekhavis la novajn masxinojn kaj la novajn malkutimigxintajn laboristojn .
+KONSULO=BERNICK Jes , ja.
+PLENRAJTIGITO=KRAP Sed hodiaux matene , kiam mi venis tien , mi rimarkis , ke la riparado de la Usonano estis progresinta strange longe ;
+la granda sxtopilo en la fundo , -R Vi scias pri la traputrita loko -L
+KONSULO=BERNICK Jes , jes , kio pri gxi ?
+PLENRAJTIGITO=KRAP Tute riparita , -R lauxsxajne ; tegita ; aspektis tute nove ;
+mi auxdis , ke Auxne mem estis laborinta kun lumo tie malsupre la tutan nokton .
+KONSULO=BERNICK Nu ja , kaj plue ?
+PLENRAJTIGITO=KRAP Mi estis tion pripensanta ;
+la laboristoj gxuste tiam ripozis por matenmangxo , kaj mi trovis okazon por nerimarkite cxirkauxrigardi kaj ekstere kaj ensxipe ;
+malfacile estis veni malsupren en la sxargxita sxipo ; sed mi sciigxis pri vero .
+Okazas insidajxoj , sinjoro konsulo .
+KONSULO=BERNICK Mi ne povas kredi Vin , sinjoro Krap .
+Mi ne povas , mi ne volas kredi tiajxon pri Auxne .
+PLENRAJTIGITO=KRAP Doloras al mi , -L sed estas la pura vero .
+Okazas insidajxoj , mi diras . Neniuj novaj tabuloj enfiksitaj , laux tio kion mi komprenas ;
+Indian Girl neniam atingos al New=York ;
+gxi sinkos kiel fendita kaldrono .
+KONSULO=BERNICK Tio ja estas terura !
+Sed kion Vi imagas , ke li intencas ?
+PLENRAJTIGITO=KRAP Versxajne li volas malkreditigi la masxinojn ; volas vengxi sin ; volas denove dungi la malnovan laboristaron .
+KONSULO=BERNICK Kaj li do eble oferas cxiujn tiujn homajn vivojn .
+PLENRAJTIGITO=KRAP Li jxus diris : ne trovigxas homoj sursxipe en Indian Girl , -R nur bestacxoj .
+KONSULO=BERNICK Nu ja , eble tiel ; sed cxu li ne atentas pri la granda kapitalo , kiu perdigxas ?
+PLENRAJTIGITO=KRAP Auxne ne precipe sxatas la grandan kapitalon , sinjoro konsulo .
+KONSULO=BERNICK Vere ;
+li estas ribeliganto kaj tumultulo ;
+sed senkonscienca ago kiel tiu -L .
+Auxskultu , sinjoro Krap ; cxi=tiun aferon ni devas ekzameni du fojojn .
+Ecx neniu vorto al iu ajn .
+Nia sxipfarejo farigxos kompromita , se homoj sciigxos pri tiajxo .
+PLENRAJTIGITO=KRAP Kompreneble , sed -R
+KONSULO=BERNICK Dum la tagmangx-ripozo Vi devas tien reiri ;
+mi devas havi plenan certecon .
+PLENRAJTIGITO=KRAP Vi gxin ricevos , sinjoro konsulo ;
+sed permesu min demandi : kion Vi tiam volas fari ?
+KONSULO=BERNICK Kompreneble raporti la aferon .
+Ni do ne devas farigxi kunkulpuloj en rekta krimo .
+Mi devas havi mian konsciencon sensxargxita .
+Farigxos bona impreso kaj en la gazetaro kaj en la socio en tute , kiam oni vidas , ke mi flanken pusxas cxiujn personajn interesojn , kaj igas la justecon havi sian iron .
+PLENRAJTIGITO=KRAP Vere , sinjoro konsulo .
+KONSULO=BERNICK Sed antaux cxio kaj unue plena certeco .
+Kaj silento gxis tiam -L PLENRAJTIGITO=KRAP Neniu vorto , sinjoro konsulo ;
+kaj la certeco , gxin Vi ricevos .
+( Li eliras tra la gxardeno kaj malsupren laux la strato .
+)
+KONSULO=BERNICK ( duonlauxte ) Indignige !
+Sed cxu ?
+Ja ne eblas , -R neimageble !
+( Gxuste kiam li volas iri en sian cxambron , Hilmar=Toennesen venas de dekstre .
+)
+HILMAR=TOENNESEN Bonan tagon , Bernick !
+Nu , mi gratulas pri la venko en la komerca asocio hieraux .
+KONSULO=BERNICK Ho , dankon .
+HILMAR=TOENNESEN Estis ja glora venko , mi auxdas ;
+la venko de la inteligenta civitana animo super la egoismo kaj la antauxjugxo , -L kvazaux franca razio kontraux la Kabyloj .
+Strange ke vi post la malagrablaj epizodoj cxi tie -R
+KONSULO=BERNICK Ja , ja , lasu tion .
+HILMAR=TOENNESEN Sed la decida batalo ankoraux ne estas frapita .
+KONSULO=BERNICK En la fervoja afero vi pensas ?
+HILMAR=TOENNESEN Jes , vi ja certe scias pri kio redaktoro Hammer estas brasanta ?
+KONSULO=BERNICK ( strecxite ) Ne !
+Kio estas tio ? HILMAR=TOENNESEN Li ja krocxis sin al la onidiro , kiu disvastigxas , kaj el tiu li volas fari gazetartikolon .
+KONSULO=BERNICK Kiu onidiro ?
+HILMAR=TOENNESEN Kompreneble pri la grandaj acxetoj de bienoj laux la flanka fervojo .
+KONSULO=BERNICK Kion vi diras ?
+Cxu tia onidiro disvastigxas ?
+HILMAR=TOENNESEN Jes , iras tra la tuta urbo .
+Mi auxdis gxin en la klubo , kie mi faris viziteton .
+Unu el niaj advokatoj lauxdire estas en tuta silento komisie acxetinta cxiujn arbarbienojn , cxiujn ercejojn , cxiujn akvofalojn -L
+KONSULO=BERNICK Kaj ne dirigxas por kiu ?
+KONSULO=BERNICK Indignige ?
+HILMAR=TOENNESEN Jes , ke fremduloj tiel premas sin enen en niajn teritoriojn . Kaj ke unu el la advokatoj de la urbo povas vendi sin al tiajxo !
+Nun do eksterurbanoj eltiros la profiton .
+KONSULO=BERNICK Sed estas ja nur hazarda onidiro .
+HILMAR=TOENNESEN Oni tamen kredas gxin , kaj morgaux aux postmorgaux redaktoro Hammer kompreneble volas fiksnajli gxin kiel fakto .
+Estas jam gxenerala inciteco tie .
+Mi auxdis pluruloj diri , ke se tiu onidiro konfirmigxas , ili forstrekos sin el la listoj .
+KONSULO=BERNICK Neeble !
+HILMAR=TOENNESEN Cxu ?
+Kiel kredas vi , ke tiuj komercanimoj tiel volonte akceptis vian entreprenon ?
+Cxu vi ne kredas , ke ili mem flaris naze , ke -R ?
+KONSULO=BERNICK Neeble , mi diras ;
+tiom da civitana virto tamen trovigxas en nia eta komunumo -L
+HILMAR=TOENNESEN Cxi=tie ?
+Jes , vi ja estas optimisto , kaj tial vi jugxas aliulojn laux vi mem .
+Sed mi , kiu estas suficxe sperta observanto -R .
+Ne estas unu , -L kompreneble krom ni , -R ecx ne unu , mi diras , kiu tenas la standardon de la ideo alta .
+( al la fono ) Uf , jen mi vidas ilin !
+KONSULO=BERNICK Kiujn ?
+HILMAR=TOENNESEN La du usonanojn .
+( elrigardas dekstren ) Kaj kun kiu ili iras ?
+Jes , je Dio , cxu ne estas la sxipestro de Indian Girl .
+Uf !
+KONSULO=BERNICK Kion ili volas pri li ?
+HILMAR=TOENNESEN Ho , estas ja suficxe konvena socio .
+Li lauxdire estis sklavkomercisto aux rabisto ;
+kaj kiu scias pri kio la aliuloj sin okupis dum tiuj multaj jaroj .
+KONSULO=BERNICK Mi diras al vi , ke estas ege malgxuste pensi tiel pri ili .
+HILMAR=TOENNESEN Jes , vi ja estas optimisto .
+Sed nun kompreneble ni denove havos ilin sur la nukon ;
+tial mi gxustatempe -L ( iras al la pordo maldekstre )
+( Frauxlino Hessel venas de dekstre .
+)
+FRAUxLINO=HESSEL Nu , Hilmar , cxu estas mi , kiu pelas vin el la cxambro ?
+HILMAR=TOENNESEN Tute ne ;
+jxus nun urgxas ; mi parolos kun Betty .
+( iras en la malantauxan cxambron maldekstre )
+KONSULO=BERNICK ( post mallonga silento ) Nu , Lona ?
+FRAUxLINO=HESSEL Jes .
+KONSULO=BERNICK Kiel mi aspektas por vi hodiaux ?
+FRAUxLINO=HESSEL Kiel hieraux .
+Mensogo pli=ol malpli -R
+KONSULO=BERNICK Vi devas klarigxi en tio=cxi .
+Kien Johan iris ?
+FRAUxLINO=HESSEL Li venos ;
+li havis ion priparolendan kun iu viro .
+KONSULO=BERNICK Post tio kion vi auxdis hieraux , vi komprenas , ke mia tuta estado estas detruita , se la vero venos en la lumon .
+FRAUxLINO=HESSEL Mi tion komprenas .
+KONSULO=BERNICK Estas kompreneble memsekvo , ke mi ne faris min kulpa en tiu krimo , pri kiu onidiras .
+FRAUxLINO=HESSEL Estas memkompreneble .
+Sed kiu estas la sxtelisto ?
+KONSULO=BERNICK Ne estis iu sxtelisto .
+Ne sxteligxis iu mono ; ecx ne sxilingo malaperis .
+FRAUxLINO=HESSEL Kiel ?
+KONSULO=BERNICK Ecx ne sxilingo , mi diras .
+FRAUxLINO=HESSEL Sed la onidiro ?
+Kiel tiu abomena onidiro estas disvastigita , ke Johan -L ?
+KONSULO=BERNICK Lona , kun vi mi opinias , ke mi povas paroli , kiel al neniu alia ;
+mi volas nenion prisilenti por vi .
+Mi havas mian parton en la kulpo , ke la onidiro disvastigxis .
+FRAUxLINO=HESSEL Vi ?
+Kaj tion vi povis fari kontraux li , kiu por vi -R !
+KONSULO=BERNICK Vi ne jugxu sen memori kiel la aferoj tiam statis .
+Mi ja rakontis al vi tion hieraux .
+Mi revenis hejmen , kaj trovis mian patrinon implikigita en serio de malsagxaj entreprenoj ;
+diversaj malsukcesoj aldonigxis ; kvazauxis ke cxiuj malbonoj sturmis kontraux nin ;
+nia firmao estis cxe ruinigxo .
+Mi estis duone nepripensema kaj duone malespera . Lona , mi opinias ke estis pleje por mutigi la pensojn , ke mi ekrilatis al tiu konekso , kiu kauxzis ke Johan forvojagxis .
+FRAUxLINO=HESSEL Hm -L
+KONSULO=BERNICK Vi certe povas imagi al vi , kiel cxiaj onidiroj cirkuligxis , kiam vi kaj li estis for .
+Tio=cxi ne estis lia unua malsagxeco , oni rakontis .
+Dorf estis ricevinta grandan sumon da mono de li por silenti kaj foriri , oni diris ;
+aliuloj pretendis , ke sxi ricevis gxin .
+Samtempe ne kasxigxis , ke nia firmao spertis malfacilajxojn pagi siajn sxuldojn .
+Kio estis pli komprenebla , ke la klacxantoj kunligis tiujn du onidirojn ?
+Kiam sxi restis cxi=tie kaj vivis en malricxeco , oni pretendis , ke li estis preninta la monon kun si al Usono , kaj la onidiro cxiam pligrandigis la sumon .
+FRAUxLINO=HESSEL Kaj vi , Karsten -R ?
+KONSULO=BERNICK Mi kaptis tiun famon kiel savtabulon .
+FRAUxLINO=HESSEL Vi pluen disvastigis gxin ?
+KONSULO=BERNICK Mi ne kontrauxdiris gxin .
+La kreditoroj komencis treti al ni pli proksimen ; mi devis trankviligi ilin ;
+gravis ke oni ne ekhavus malfidon al la solideco de la firmao ; momenta malbonsxanco estis nin frapinta ;
+ili ne devus sin altrudi ; nur atendi tempon ; cxiu ekhavus sian bonhavon .
+FRAUxLINO=HESSEL Kaj cxiu ekhavis sian bonhavon ?
+KONSULO=BERNICK Jes , Lona , tiu famo savis nian firmaon kaj faris min la homo , kiu mi nun estas .
+FRAUxLINO=HESSEL Mensogo do faris vin la homo , kiu vi nun estas .
+KONSULO=BERNICK Al kiu tio damagxis tiam ?
+Estis la intenco de Johan neniam reveni .
+FRAUxLINO=HESSEL Vi demandas , cxu kiun gxi damagxis .
+Rigardu en vin mem , kaj diru al mi , cxu vi mem ne kaptis damagxon .
+KONSULO=BERNICK Ekrigardu en kiun ajn homon , kaj vi trovos en cxiu ajn almenaux unu nigran punkton , kiun li devas kasxi .
+FRAUxLINO=HESSEL Kaj Vi nomas Vin la kolonoj de la socio !
+KONSULO=BERNICK La socio ne havas pli bonajn .
+FRAUxLINO=HESSEL Kiom gravas , ke tia socio subtenigxas aux ne ?
+Pri kio temas en tio cxi ?
+La sxajno kaj la mensogo -L kaj nenio alia .
+Jen vi vivas , la plej elstara viro de la urbo , en gloro kaj gxojo , en potenco kaj honoro , vi , kiu gluis la krimulsignon sur senkulpulon .
+KONSULO=BERNICK Cxu vi ne pensas , ke mi profunde sentas mian maljuston kontraux li ?
+Kaj cxu vi ne kredas , ke mi estas preta ree bonfari gxin ?
+FRAUxLINO=HESSEL Per kio ?
+Parolante ?
+KONSULO=BERNICK Cxu tion vi povus postuli ?
+FRAUxLINO=HESSEL Kio alia povus rebonigi tian maljustajxon ?
+KONSULO=BERNICK Mi estas ricxa , Lona ;
+Johan povas prezenti postulon kiun ajn -R
+FRAUxLINO=HESSEL Jes , ofertu al li monon , kaj vi auxdos , kion li respondos .
+KONSULO=BERNICK Cxu vi konas liajn intencojn ?
+FRAUxLINO=HESSEL Ne , post hieraux li estas silenta .
+Estas kvazaux cxio tio faris lin matura viro .
+KONSULO=BERNICK Mi devas paroli kun li .
+FRAUxLINO=HESSEL Jen li estas . ( Johan=Toennesen venas de dekstre .
+)
+KONSULO=BERNICK ( al li ) Johan -L !
+JOHAN=TOENNESEN ( deturnante ) Unue mi .
+Hieraux matene mi donis al vi mian vorton por silenti .
+KONSULO=BERNICK Vi tion faris .
+JOHAN=TOENNESEN Sed tiam mi ankoraux ne sciis -R
+KONSULO=BERNICK Johan , permesu al mi per du vortoj klarigi al vi la konekson -L
+JOHAN=TOENNESEN Ne bezonigxas ;
+mi tute bone komprenas la konekson .
+La firmao estis tiam en malfacila stato ;
+kaj kiam mi do estis for , kaj vi havis potencon super sendefenda nomo kaj famo -R .
+Nu , mi ne ege imputas al vi tion ;
+ni estis junaj kaj facilanimaj en tiuj tagoj .
+Sed nun mi bezonas la veron , kaj nun vi devas paroli .
+KONSULO=BERNICK Kaj gxuste nun mi bezonas mian tutan moralan estimon , kaj tial mi ne povas paroli nun .
+JOHAN=TOENNESEN Mi ne gxenas min pro la fikciajxoj kiujn vi disvastigis pri mi ;
+estas tio alia , por kio vi prenu la kulpon .
+Dina farigxu mia edzino , kaj cxi=tie , en cxi=tiu urbo , mi volas vivi kaj logxi kaj konstrui kun sxi .
+FRAUxLINO=HESSEL Vi jenon volas ?
+KONSULO=BERNICK Kun Dina !
+Kiel via edzino ?
+Cxi=tie en la urbo !
+JOHAN=TOENNESEN Jes , gxuste cxi=tie ;
+mi volas resti cxi=tie por spiti cxiujn tiujn mensogantojn kaj kalumniantojn .
+Sed por gajni sxin , estas necese , ke vi liberigu min .
+KONSULO=BERNICK Cxu vi pripensis , ke se mi konfesos la unuan , mi ankaux samtempe prenos sur min la duan ?
+Vi volas diri , ke el niaj libroj mi povas pruvi , ke neniu trompo estas okazinta ?
+Sed tion mi ne povos ;
+niaj libroj tiam ne tiel akurate tenigxis .
+Kaj ecx se mi povus , -L kion per tio gajnigxus ?
+Cxu mi ne almenaux starus kiel la homo , kiu iam savis sin per mensogo , kaj kiu dum dek=kvin jaroj lasis tiun mensogon kaj cxiujn la aliajxojn fiksigxi , sen esti farinta pasxon kontrauxe ?
+Vi ne=plu konas nian socion ; alie vi devus scii ke tio=cxi frakasus min gxisfunde .
+JOHAN=TOENNESEN Mi povas nur diri al vi , ke mi volas preni la filinon de sinjorino Dorf kiel edzinon , kaj vivi kun sxi en cxi=tiu urbo .
+KONSULO=BERNICK ( sekigas la sxviton de la frunto ) Auxskultu , Johan , -R kaj ankaux vi , Lona .
+Ne estas ordinaraj cirkonstancoj en kiuj mi staras gxuste en tiuj=cxi tagoj .
+Mi staras tiel , ke se tiu=cxi frapo direktigxos al mi , vi estos min detruintaj , kaj ne nur min , sed ankaux grandan benoricxan estontecon por la socio , kiu tamen estis via hejmo dum la infanaj jaroj .
+JOHAN=TOENNESEN Kaj se mi ne direktos la frapon kontraux vin , mi detruos mem mian tutan estontan felicxon .
+FRAUxLINO=HESSEL Parolu dauxre , Karsten .
+KONSULO=BERNICK Do auxskultu .
+Estas pri la fervoja afero , kaj tiu afero ne estas tute tiel simpla , kiel vi opinias .
+Vi certe auxdis priparolata pasintan jaron marbordan linion ?
+Gxi ricevis multajn , gravajn vocxojn por si cxi=tie en la urbo kaj ankaux en la cxirkauxajxo ;
+sed mi malhelpis gxin , cxar gxi malutilus al nia vaporsxiptrafiko laux la marbordo .
+FRAUxLINO=HESSEL Cxu vi mem interesigxis en tiu vaporsxiptrafiko ?
+KONSULO=BERNICK Jes .
+Sed neniu kuragxis suspekti min de tiu flanko ;
+mi havis mian estimitan nomon kiel sxildon kaj sxirmilon super mi .
+Cetere mi estus povinta porti la perdon ;
+sed la loko ne estus gxin portinta .
+Do decidigxis por la internlanda linio .
+Kiam tio estis okazinta , mi certigis al mi en tuta silento , ke flanka fervojo povus esti metata cxi-malsupren al la urbo .
+FRAUxLINO=HESSEL Kial en tuta silento , Karsten ?
+KONSULO=BERNICK Cxu vi auxdis priparolataj la grandajn acxetojn de arbaraj proprajxoj , de minejoj kaj de akvofaloj -L ?
+JOHAN=TOENNESEN Jes , estas ja eksterurba asocio -R
+KONSULO=BERNICK Tiel ke tiuj bienoj nun situas , ili estas preskaux senvaloraj por la disaj posedantoj ;
+ili tial estas venditaj suficxe malmultekoste .
+Se oni atendus gxis la flanka fervojo estus priparolata , la posedantoj postulus malmoderajn prezojn .
+FRAUxLINO=HESSEL Bone , bone ;
+sed kio sekve ? KONSULO=BERNICK Nun venas tio , kio povas esti malsame eksplikata , -L tio , kion homo en nia socio nur povas konfesi , se li havas nemakulitan kaj estimatan nomon al kiu sin apogi .
+FRAUxLINO=HESSEL Nu ?
+KONSULO=BERNICK Estas mi , kiu acxetis cxion .
+FRAUxLINO=HESSEL Vi ?
+JOHAN=TOENNESEN Je propra respondeco ?
+KONSULO=BERNICK Je propra respondeco .
+Se la flanka fervojo realigxos , mi estos milionulo ;
+se gxi ne realigxos , mi estos ruinigita .
+FRAUxLINO=HESSEL Tio estas riska , Karsten .
+KONSULO=BERNICK Mi riskis mian tutan kapitalon sur tio=cxi .
+FRAUxLINO=HESSEL Mi ne pensas pri la kapitalo ;
+sed kiam tio malkasxigxos , ke -R
+KONSULO=BERNICK Jes , tie estas la nodpunkto .
+Kun la nemakulita nomo , kiun mi gxis nun portis , mi povas preni tiun aferon sur miajn sxultrojn , porti gxin antauxen , kaj diri al miaj kuncivitanoj : Vidu , tion mi riskis por la bono de la socio .
+FRAUxLINO=HESSEL Por la socio ?
+KONSULO=BERNICK Jes ;
+kaj ecx ne unu volas dubi pri miaj intencoj .
+FRAUxLINO=HESSEL Tamen trovigxas homoj , kiuj agis pli malferme ol vi , sen subintencoj , sen flankaj konsideroj .
+KONSULO=BERNICK Kiuj ?
+FRAUxLINO=HESSEL Kompreneble kaj Rummel kaj Sandstad kaj Vigeland .
+KONSULO=BERNICK Por gajni ilin mi devis inici ilin pri la afero .
+FRAUxLINO=HESSEL Kaj sekve ?
+KONSULO=BERNICK Ili rezervis al si kvinonon de la profito por divido .
+FRAUxLINO=HESSEL Ho , tiuj kolonoj de la socio !
+KONSULO=BERNICK Cxu ne estas la socio mem , kiu devigas nin iri laux insidaj vojoj ?
+Kio okazus cxi=tie , se mi ne estus aginta en silento ?
+Cxiuj estus sin enjxetintaj en la entreprenon , dividantaj , disigantaj , fusxantaj la tuton .
+En cxi=tiu urbo estas neniu homo krom mi , kiu komprenas kiel gvidi tian grandan entreprenon , kiel tiu=cxi farigxos ;
+en cxi=tiu lando estas entute nur la enmigrintaj familioj , kiuj havas talenton por pli grandaj entreprenoj .
+Tial mia konscienco absolvas min en tiu cxi rilato .
+Nur en miaj manoj cxi=tiuj proprajxoj povos farigxi dauxra beno por la multaj , al kiuj ili havigos panon .
+FRAUxLINO=HESSEL En tio mi opinias ke vi pravas , Karsten .
+JOHAN=TOENNESEN Sed mi ne konas tiujn multajn , kaj la felicxo de mia vivo estas en risko .
+KONSULO=BERNICK La bonstato de via naskigxloko estas en risko .
+Se malkasxigxos aferoj , kiuj jxetas ombron sur mian antauxan konduton , mia kontrauxuloj kun unuigxintaj fortoj atakos min .
+Junula malprudento neniam forvisxigxas en nia socio .
+Oni volas ekzameni mian tutan intertempan vivon , eltiri milojn da etaj okazajxoj , interpreti kaj ekspliki ilin en la lumo de tio , kio malkasxigxus ;
+oni volas frakasi min sub la pezo de famoj kaj kalumnioj .
+El la fervoja afero mi devos retirigxi ;
+kaj se mi malkaptos gxin , gxi falos , kaj mi estos samtempe ruinigita kaj civitane morta .
+FRAUxLINO=HESSEL Johan , post tio kion vi nun auxdis , vi devas forvojagxi kaj silenti .
+KONSULO=BERNICK Jes , jes , Johan , tion vi devas !
+JOHAN=TOENNESEN Jes , mi forvojagxos kaj ankaux silentas ;
+sed mi revenos , kaj tiam mi parolos .
+KONSULO=BERNICK Restu tie transe , Johan ;
+silentu , kaj mi volonte dividos kun vi -L
+JOHAN=TOENNESEN Retenu vian monon , sed redonu al mi mian nomon kaj mian reputacion .
+KONSULO=BERNICK Kaj oferi mian propran !
+JOHAN=TOENNESEN Pri tio vi kaj via socio devas akordigxi .
+Mi devas kaj volas gajni Dina por mi .
+Tial mi forvojagxos jam morgaux per Indian Girl -R
+KONSULO=BERNICK Per Indian Girl ?
+JOHAN=TOENNESEN Jes .
+La sxipestro promesis kunpreni min .
+Mi transvojagxos , mi diras ;
+mi vendos mian bienon kaj ordigas miajn aferojn .
+Post du monatoj mi estos reveninta .
+KONSULO=BERNICK Kaj tiam vi volas paroli ?
+JOHAN=TOENNESEN Tiam la kulpulo prenu la kulpon mem .
+KONSULO=BERNICK Cxu vi forgesas , ke tiam mi devos preni tion sur min , pri kio mi ne estas kulpa ?
+JOHAN=TOENNESEN Kiu antaux dek=kvin jaroj utiligis tiun hontindan famon ?
+KONSULO=BERNICK Vi pelas min al malespero !
+Sed se vi parolos , mi cxion neos !
+Mi diros , ke estas komploto kontraux mi ; vengxo ; ke vi venis cxi tien por elpremi monon de mi !
+FRAUxLINO=HESSEL Honto al vi , Karsten !
+KONSULO=BERNICK Mi estas malespera , mi diras ;
+kaj mi luktos por la vivo . Mi neos cxion , cxion !
+JOHAN=TOENNESEN Mi havas viajn du leterojn .
+En mia kofro mi trovis ilin inter miaj aliaj paperoj .
+Cxi-matene mi tralegis ilin ;
+ili estas suficxe klaraj .
+KONSULO=BERNICK Kaj tiujn vi volas prezenti ?
+JOHAN=TOENNESEN Se farigxos necese .
+KONSULO=BERNICK Kaj post du monatoj vi denove estos cxi=tie ?
+JOHAN=TOENNESEN Mi tion esperas .
+La vento estas bona .
+Post tri semajnoj mi estos en New=York -L , se Indian Girl ne subakvigxos .
+KONSULO=BERNICK ( ekmire ) Subakvigxos ?
+Kial Indian Girl subakvigxus ?
+JOHAN=TOENNESEN Ne , ankaux mi tiel pensas .
+KONSULO=BERNICK ( preskaux ne auxdeble ) Subakvigxi ?
+JOHAN=TOENNESEN Jes , Bernick , nun vi do scias , kio atendas ;
+dume vi devas konsideri la situacion .
+Adiaux !
+Salutu al Betty , kvankam sxi ne akceptis min kiel fratino .
+Sed Marta mi tamen volas vidi .
+Sxi diru al Dina -R ;
+sxi promesu al mi -L ( Li eliras tra la malantauxa pordo maldekstre .
+)
+KONSULO=BERNICK ( al si mem ) Indian Girl -R ?
+( rapide ) Lona , vi devas malhelpi tion cxi !
+FRAUxLINO=HESSEL Vi mem vidas , Karsten , -L mi ne=plu havas potencon super li . ( Sxi iras post Johan en la cxambron maldekstre .
+)
+KONSULO=BERNICK ( en maltrankvilaj pensoj ) Subakvigxi -R ?
+( Sxipkonstruisto Auxne venas de dekstre .
+)
+SxIPKONSTRUISTO=AUxNE Je via permeso , cxu estas konvene por la konsulo -L ?
+KONSULO=BERNICK ( turnas sin impete ) Kion Vi volas ?
+SxIPKONSTRUISTO=AUxNE Peti cxu mi povu fari demandon al la konsulo .
+KONSULO=BERNICK Nu ja ;
+rapidigxu .
+Pri kio Vi volas demandi ? SxIPKONSTRUISTO=AUxNE Mi volas demandi , cxu estas firma decido , -R nesxangxeble firma decido , -L ke mi estus maldungata de la farejo , se Indian Girl ne povus forveli morgaux ?
+KONSULO=BERNICK Kio nun ?
+La sxipo ja farigxos preta por forveli .
+SxIPKONSTRUISTO=AUxNE Jes , -R gxi farigxos .
+Sed se gxi ne farigxos , -L cxu mi tiam maldungigxus ?
+KONSULO=BERNICK Por kio tiaj senutilaj demandoj ?
+SxIPKONSTRUISTO=AUxNE Mi ege volus scii tion , sinjoro konsulo .
+Respondu al mi pri tio : Cxu mi maldungigxus ?
+KONSULO=BERNICK Cxu mia vorto kutime estas fiksa aux ne ?
+SxIPKONSTRUISTO=AUxNE Mi do morgaux estus perdinta la pozicion , kiun mi havas en mia domo kaj inter tiuj al kiuj mi plej proksime apartenas , -R perdinta mian influon en la rondo de la laboristoj , -L perdinta la eblecon bonfari inter la malaltaj kaj malricxaj homoj en la societo .
+KONSULO=BERNICK Auxne , pri tiu punkto ni estas finitaj .
+SxIPKONSTRUISTO=AUxNE Nu , do Indian Girl forvelu .
+( mallonga silento )
+KONSULO=BERNICK Auxskultu ; mi ne povas direkti miajn okulojn en cxiujn lokojn ;
+ne povas respondeci por cxio ; -R Vi povas aserti al mi , ke la riparado estas neriprocxeble farita ?
+SxIPKONSTRUISTO=AUxNE Vi fiksis mallongan tempolimon , sinjoro konsulo .
+KONSULO=BERNICK Sed la riparo estas tauxga , Vi diras ?
+SxIPKONSTRUISTO=AUxNE Ni havas ja bonan veteron kaj somertempon .
+( denova pauxzo )
+KONSULO=BERNICK Cxu Vi havas ion pli al mi direndan ?
+SxIPKONSTRUISTO=AUxNE Mi ne scias pri io alia , sinjoro konsulo .
+KONSULO=BERNICK Do , -L Indian Girl forvelos -R
+SxIPKONSTRUISTO=AUxNE Morgaux ?
+KONSULO=BERNICK Jes .
+( Konsulo Bernick staras momenton sendecida ;
+tuj poste li iras rapide al la elireja pordo , kvazaux volante revoki Auxne , sed haltas maltrankvila kun la mano sur la anso .
+Samtempe malfermigxas la pordo de ekstere , kaj plenrajtigito Krap envenas .
+)
+PLENRAJTIGITO=KRAP ( mallauxte ) Aha , li estis cxi=tie .
+Cxu li konfesis ?
+KONSULO=BERNICK Hm -L ;
+cxu Vi ion malkasxis ?
+PLENRAJTIGITO=KRAP Cxu tio bezonigxas ?
+Cxu la konsulo ne vidis la malbonan konsciencon ekrigardi el liaj okulanguloj ?
+KONSULO=BERNICK Ho cxu ; -R tiajxo ne vidigxas .
+Cxu Vi ion malkasxis , mi demandas ?
+PLENRAJTIGITO=KRAP Mi ne povis alveni ;
+estis tro malfrue ;
+ili jam estis tiranta la sxipon el la doko .
+Sed gxuste tiu urgxo klare montras , ke -L
+KONSULO=BERNICK Montras nenion .
+La inspekto do jam okazis ?
+PLENRAJTIGITO=KRAP Kompreneble ;
+sed -R
+KONSULO=BERNICK Vi do nun vidas .
+Kaj oni kompreneble trovis nenion priplendindan ?
+PLENRAJTIGITO=KRAP Sinjoro konsulo , Vi certe scias kiel tiaj inspektoj okazas , precipe en sxipfarejo , kiu havas tian bonan nomon kiel la nia .
+KONSULO=BERNICK Same bone ; ni do estas senplendindaj .
+PLENRAJTIGITO=KRAP Sinjoro konsulo , cxu Vi vere nenion rimarkis en Auxne , ke -L ?
+KONSULO=BERNICK Auxne tute trankviligis min , mi diras al Vi .
+PLENRAJTIGITO=KRAP Kaj mi diras al Vi , ke mi estas morale konvinkita , ke -R
+KONSULO=BERNICK Kion tio=cxi signifu , sinjoro Krap ?
+Mi ja komprenas , ke Vi portas malamikan senton kontraux la viro ;
+sed se Vi volas iel malutili al li , Vi devas elekti alian okazon .
+Vi scias kiel grave estas por mi -L aux pli gxuste por la sxipsocieto -R ke Indian Girl forvelu morgaux .
+PLENRAJTIGITO=KRAP Nu bone ;
+tio okazu ; sed kiam ni auxdos ion de tiu sxipo -L hm !
+( Komercisto Vigeland envenas de dekstre .
+)
+KOMERCISTO=VIGELAND Estime bonan tagon , sinjoro konsulo .
+Cxu Vi havas liberan momenton ?
+KONSULO=BERNICK Je Via servo , sinjoro Vigeland .
+KOMERCISTO=VIGELAND Jes , mi nur volus auxdi , cxu ne ankaux Vi subtenas la decidon , ke La Palmo forvelu morgaux ?
+KONSULO=BERNICK Jes ;
+tio ja estas interkonsentita afero .
+KOMERCISTO=VIGELAND Sed nun la sxipestro venis al mi informante , ke estas prognozo por ventego .
+PLENRAJTIGITO=KRAP La barometro multe falis de post la mateno . KONSULO=BERNICK Cxu ?
+Cxu ni povas atendi ventegon ?
+KOMERCISTO=VIGELAND Almenaux fortan venton ;
+sed ne kontrauxventon ;
+male -R KONSULO=BERNICK Hm ;
+nu , kion Vi do diras ? KOMERCISTO=VIGELAND Mi diras , kiel mi diris al la sxipestro , ke La Palmo estas en la mano de la providenco .
+Kaj cetere gxi ja unue velos nur trans la Nordan Maron ;
+kaj en Anglio la frajtaj prezoj estas ja nun tiel kontentige altaj , ke -L
+KONSULO=BERNICK Jes , kauxzus al ni perdon , se ni atendus .
+KOMERCISTO=VIGELAND La sxipo estas ja solida , kaj krome plene asekurita .
+Ne , sed tiarilate estas pli riske por Indian Girl -R
+KONSULO=BERNICK Kiel tio ?
+KOMERCISTO=VIGELAND Gxi ja ankaux forvelos morgaux .
+KONSULO=BERNICK Jes , la sxipsocieto forte urgxis , kaj cetere -L
+KOMERCISTO=VIGELAND Nu , se tiu malnova kesto kuragxas forveli , -R kaj krome kun tia sxipanaro , -L estus honto , se ni ne -R
+KONSULO=BERNICK Nu bone .
+Supozeble Vi havas la sxipdokumentojn kun Vi ?
+KOMERCISTO=VIGELAND Jes , jen .
+KONSULO=BERNICK Bone ;
+nun bonvole eniri kun sinjoro Krap .
+PLENRAJTIGITO=KRAP Bonvolu ; estos tuj arangxata .
+KOMERCISTO=VIGELAND Dankon .
+-L Kaj la rezulton ni metos en la manon de la cxiopova , sinjoro konsulo . ( Li iras kun plenrajtigito Krap en la antauxan cxambron maldekstre .
+Adjunkto Roerlund envenas tra la gxardeno .
+)
+ADJUNKTO=ROERLUND Ah , cxu mi renkontu Vin hejme je tiu=cxi tempo de la tago , sinoro konsulo ?
+KONSULO=BERNICK ( enpense ) Kiel Vi vidas .
+ADJUNKTO=ROERLUND Jes , tamen estis pro la sinjorino , ke mi eniris .
+Mi imagis al mi , ke sxi bezonus iun konsolan vorton .
+KONSULO=BERNICK Sxi eble bezonus .
+Sed ankaux mi volus iomete paroli kun Vi .
+ADJUNKTO=ROERLUND Kun plezuro , sinjoro konsulo .
+Sed kio estas al Vi ?
+Vi aspektas tute pale kaj konfuzite .
+KONSULO=BERNICK Cxu ?
+Cxu mi tiel aspektas ?
+Jes , kiel povas esti aliaspekte , -R tiom kiom nuntempe amasigxas antaux min ?
+Tuta , mia granda komerco , -L kaj ankaux la fervoja establajxo -R .
+Auxskultu : en unu vorto , sinjoro adjunkto ; permesu al mi fari al Vi demandon .
+ADJUNKTO=ROERLUND Tre volonte , sinjoro konsulo .
+KONSULO=BERNICK Estas penso , kiu falis en min .
+Kiam oni staras antaux tia vastatinga entrepreno , kiu postulus unu opan oferon -L ?
+ADJUNKTO=ROERLUND Kiel vi pensas ?
+KONSULO=BERNICK Ekzemple mi supozas : viro intencas establi grandan fabrikon .
+Li scias certe -R cxar cxiuj spertoj montris tion -L ke frue aux malfrue dum la ekspluatado en tiu fabriko homaj vivoj perdigxos .
+ADJUNKTO=ROERLUND Jes , tio estas nur tro versxajna .
+KONSULO=BERNICK Aux iu jxetas sin sur ekspluatado de minejoj .
+Li prenas kaj familiaj patroj kaj junaj vivfortaj homoj en sian servon .
+Cxu oni ne povas kun certeco diri , ke ne cxiuj tiuj travivos .
+ADJUNKTO=ROERLUND Jes bedauxrinde , sendube estas tiel .
+KONSULO=BERNICK Nu . Tia viro ja scias antauxe , ke la entrepreno , kiun li realigos , sendube iam kostos homa vivo .
+Sed tiu entrepreno estas gxenerale utila ;
+por cxiu vivo , kiun gxi kostas , gxi same sendube progresigas la bonfarton de multaj centoj .
+ADJUNKTO=ROERLUND Aha , Vi pensas pri la fervojo , -R pri cxiuj tiuj dangxeraj fosadoj kaj krevigadoj de rokoj kaj cxio tio -L
+KONSULO=BERNICK Jes ; nu jes ; mi pensas pri la fervojo .
+Kaj krome , -R la fervojo farigxos kauxzo por fabrikoj kaj ekspluatado de minejoj .
+Sed cxu Vi tamen ja opinias -L ?
+ADJUNKTO=ROERLUND Kara sinjoro konsulo , Vi estas preskaux tro konscienca .
+Mi pensas , ke kiam Vi metas la aferon en la manon de la providenco -R
+KONSULO=BERNICK Jes ;
+certe ja ; la providenco -L
+ADJUNKTO=ROERLUND -R Vi estas senkulpa .
+Vi konstruu fidoplene la fervojon .
+KONSULO=BERNICK Jes , sed nun mi supozas specialan okazon .
+Mi supozas , ke trovigxis bor-truo , kiu eksplodigxus , kaj tio en dangxera loko ; sed se tiu bor-truo ne eksplodigxus , ne eblus realigi la fervojon .
+Mi supozas , ke la ingxeniero scias , ke kostos la vivo de tiu laboristo , kiu brulfajrigu la mecxon ; sed fajrigata gxi devas esti , kaj estas la devo de la ingxeniero sendi laboriston tien por fari la taskon .
+ADJUNKTO=ROERLUND Hm -L
+KONSULO=BERNICK Mi scias , kion Vi volas diri .
+Estus lauxdinde , se la ingxeniero mem prenus la mecxon , kaj irus al la bor-truo por gxin brulfajrigi .
+Sed tiajxon oni ne faras . Li sekve devas oferi laboriston .
+ADJUNKTO=ROERLUND Tion ingxeniero neniam farus cxe ni .
+KONSULO=BERNICK Neniu ingxeniero en la grandaj landoj hezitus tion fari .
+ADJUNKTO=ROERLUND En la grandaj landoj ?
+Nu , tion mi ja kredas .
+En tiuj koruptaj senkonsciencaj socioj -R
+KONSULO=BERNICK Ho , tamen estas multaj bonoj en tiuj socioj .
+ADJUNKTO=ROERLUND Kaj tion Vi povas diri , Vi , kiu mem -L ?
+KONSULO=BERNICK En la grandaj socioj ili tamen havas eblecojn antauxenigi utilan entreprenon ; tie ili havas kuragxon oferi ion por granda afero ;
+sed cxi=tie oni restriktigxas de cxiaspecaj malgrandanimaj konsideroj kaj skrupuloj .
+ADJUNKTO=ROERLUND Cxu homa vivo estas malgrandanima konsidero ?
+KONSULO=BERNICK Kiam tiu homa vivo staras kiel minaco al la bono de miloj .
+ADJUNKTO=ROERLUND Sed Vi starigas tute nepenseblajn kazojn , sinjoro konsulo !
+Mi tute ne komprenas Vin hodiaux .
+Kaj Vi ecx montras al la grandaj socioj . Jes , tie fremde , -R kion valoras homa vivo tie ?
+Tie ili ne kalkulas per homaj vivoj , sed per kapitaloj .
+Sed ni ja staras sur tute alia morala starpunkto , mi opinias .
+Rigardu al nia honesta profesio de sxipposedantoj !
+Menciu unu solan sxipposedanton cxe ni , kiu por fia gajno volus oferi homan vivon !
+Kaj imagu tiujn friponojn en la grandaj socioj , kiuj por avantagxo cxartedonas unu nemartauxgan sxipon post la alia -L
+KONSULO=BERNICK Mi ne parolas pri nemartauxgaj sxipoj !
+ADJUNKTO=ROERLUND Sed mi parolas pri ili , sinjoro konsulo .
+KONSULO=BERNICK Jes , sed pro kio ?
+Tio ja ne rilatas al la afero . -R Ho , tiuj bagatelaj timoplenaj konsideroj !
+Se generalo cxe ni kondukus siajn homojn en la pafadon kaj ekhavus ilin mortpafataj , li poste ricevus sendormajn noktojn .
+Tiel ne estas aliloke .
+Vi auxdus kion tiu tie interne rakontas -L
+ADJUNKTO=ROERLUND Li ?
+Kiu ?
+La usonano -R ?
+KONSULO=BERNICK Nu jes .
+Vi auxdus , kiel oni en Usono -L
+ADJUNKTO=ROERLUND Li estas tie ?
+Kaj tion Vi ne diras al mi .
+Mi volas tuj -R
+KONSULO=BERNICK Vi ne sukcesos ;
+Vi nenien atingos pri li .
+ADJUNKTO=ROERLUND Tion ni vidu .
+Nu , jen li estas . ( Johan=Toennesen venas de la cxambro maldekstre .
+)
+JOHAN=TOENNESEN ( Parolas malantauxen tra la malferma pordo : ) Jes , jes , Dina , ke tiel estu ;
+sed mi tamen ne lasos vin .
+Mi revenos , kaj tiam farigxos bone inter ni .
+ADJUNKTO=ROERLUND Je Via permeso , al kio vi aludas per tiuj vortoj ?
+Kion Vi volas ?
+JOHAN=TOENNESEN Mi volas , ke tiu juna knabino , antaux kiu Vi hieraux nigrigis min , farigxu mia edzino .
+ADJUNKTO=ROERLUND Via -L ?
+Kaj Vi povas imagi al Vi , ke -R ?
+JOHAN=TOENNESEN Mi volas havi sxin edzine .
+ADJUNKTO=ROERLUND Nu , do vi spertu -L ( iras al la duone malferma pordo ) Sinjorino Bernick , Vi bonvole devas esti atestanto -R .
+Kaj ankaux Vi , frauxlino Marta .
+Kaj igu Dina enveni .
+( vidas frauxlinon Hessel ) Ahx , cxu ankaux Vi cxeestas ?
+FRAUxLINO=HESSEL ( en la pordo ) Cxu ankaux mi venu ?
+ADJUNKTO=ROERLUND Cxiuj kiuj volas ; ju pli des pli bone .
+KONSULO=BERNICK Kion vi intencas ?
+( Frauxlino Hessel , sinjorino Bernick , frauxlino Bernick , Dina kaj Hilmar=Toennesen venas el la cxambro .
+)
+SINJORINO=BERNICK Sinjoro adjunkto , per mia plej bona volo mi ne kapablis malhelpi lin -L
+ADJUNKTO=ROERLUND Mi malhelpos lin , sinjorino .
+-R Dina , Vi estas senpripensa knabino . Sed mi ne multe riprocxas Vin .
+Tro longe Vi staris cxi=tie sen morala starpunkto , kiu subtenus Vin .
+Mi riprocxas min mem , ke mi ne antauxe donis al Vi tiun starpunkton .
+DINA Vi ne parolu nun .
+SINJORINO=BERNICK Sed kio estas ?
+ADJUNKTO=ROERLUND Gxuste nun mi devas paroli , Dina , kvankam Via konduto hieraux kaj hodiaux faris la staton dekoble pli malfacila por mi .
+Sed por Via savo cxiuj aliaj konsideroj devas cedi .
+Vi memoras la vorton , kiun mi donis al Vi .
+Vi memoras , kion Vi promesis respondi , kiam mi trovus la tempon matura .
+Nun mi ne kuragxas pli longe heziti , kaj tial -L ( al Johan=Toennesen : ) tiu=cxi juna knabino , kiun Vi aspiras , estas mia fiancxino .
+SINJORINO=BERNICK Kion vi diras ?
+KONSULO=BERNICK Dina !
+JOHAN=TOENNESEN Sxi !
+Via -R ?
+FRAUxLINO=BERNICK Ne , ne , Dina !
+FRAUxLINO=HESSEL Mensogo !
+JOHAN=TOENNESEN Dina , -L cxu tiu viro diras la veron ?
+DINA ( post mallonga pauxzo ) Jes .
+ADJUNKTO=ROERLUND Per tio espereble cxiuj logantaj artajxoj farigxis senpotencaj .
+La pasxon kiun mi por la bono de Dina decidis fari , povas libere esti konigata al nia tuta komunumo .
+Mi nutras la certan esperon , ke gxi ne miskomprenigxas .
+Sed nun , sinjorino , mi opinias ke plej bone estas , ke ni konduku sxin de cxi=tie , kaj provu redoni trankvilon kaj ekvilibron en sxian animon .
+SINJORINO=BERNICK Jes , venu .
+Oh Dina , kia felicxo por vi ! ( Sxi kondukas Dina eksteren maldekstre ;
+adjunkto Roerlund sekvas ilin .
+)
+FRAUxLINO=BERNICK Adiaux , Johan !
+( Sxi eliras . )
+HILMAR=TOENNESEN ( cxe la gxardena pordo ) Hm -R jen priparolindajxo -L
+FRAUxLINO=HESSEL ( kiu sekvis Dina per la okuloj ) Ne perdu kuragxon , knabo !
+Mi restos kaj atentos pri la pastoro . ( Sxi eliras dekstre .
+)
+KONSULO=BERNICK Johan , nun vi ne forvojagxos per Indian Girl .
+JOHAN=TOENNESEN Gxuste nun .
+KONSULO=BERNICK Sed vi do ne revenos ?
+JOHAN=TOENNESEN Mi revenos .
+KONSULO=BERNICK Post tio=cxi ?
+Kion vi volas cxi=tie post tiu okazajxo ?
+JOHAN=TOENNESEN Vengxi min al vi cxiuj ; krasxi plej eble multajn el vi .
+( Li eliras dekstre .
+Komercisto=Vigeland kaj plenrajtigito Krap venas de la cxambro de la konsulo .
+)
+KOMERCISTO=VIGELAND Nun fine , la paperoj estas en ordo , sinjoro konsulo .
+KONSULO=BERNICK Bone , bone -R
+PLENRAJTIGITO=KRAP ( mallauxte ) Kaj do estas fikse decidite , ke Indian Girl forvelos morgaux .
+KONSULO=BERNICK Gxi forvelos . ( Li iras en sian cxambron .
+Komercisto=Vigeland kaj plenrajtigito Krap eliras dekstre .
+Hilmar=Toennesen volas sekvi ilin , sed samtempe Olaf metas la kapon singarde elen tra la pordo maldekstre .
+)
+OLAF Onklo !
+Onklo Hilmar !
+HILMAR=TOENNESEN Uf , cxu estas vi ?
+Kial vi ne restas supre ?
+Vi ja estas en aresto .
+OLAF ( pasxon antauxen ) Tsxsx !
+Onklo Hilmar , cxu vi scias novajxon ?
+HILMAR=TOENNESEN Jes , mi scias , ke vi bastonigxis hodiaux .
+OLAF ( rigardas minace al la cxambro de la patro ) Li ne batos min pli ofte .
+Sed cxu vi scias , ke onklo Johan forvelos morgaux kun la usonanoj ?
+HILMAR=TOENNESEN Kiel tio koncernas vin ?
+Irigu vin supren .
+OLAF Eble ankaux mi iam faros bizon-cxasadon , onklo .
+HILMAR=TOENNESEN Babilacxo ;
+tia malkuragxulo , kiel vi -L
+OLAF Nu , atendu nur ;
+vi certe scios ion morgaux !
+HILMAR=TOENNESEN Stultulo !
+( Li iras eksteren tra la gxardeno , Olaf reen kuras en sian cxambron , kaj fermas la pordon , kiam li vidas plenrajtigiton Krap , venanta de dekstre .
+)
+PLENRAJTIGITO=KRAP ( iras al la pordo de la konsulo kaj malfermas gxin duone ) Pardonu ke mi denove venas , sinjoro konsulo ;
+sed kuntirigxas al ventego . ( atendas momenton ; neniu respondo .
+) Cxu Indian Girl tamen forvelu ? ( Post mallonga pauxzo respondigxas de : )
+KONSULO=BERNICK ( ene en la cxambro : ) Indian Girl tamen forvelos .
+( Plenrajtigito=Krap fermas la pordon kaj reiras elen dekstre .
+)
+KVARA=AKTO
+( Gxardena salono cxe konsulo Bernick .
+La labortablo estas eksteren metita .
+Estas ventega posttagmezo kaj jam krepusko , kiu pliigxas dum la sekvo .
+) ( Servisto ekbruligas la lustron ;
+paro da servistinoj enportas florpotojn , lampojn kaj lumojn , kiuj metigxas sur tablojn , kaj ujoj metigxas laux la muroj .
+Grandkomercisto=Rummel , en frako , kun gantoj kaj blanka koltuko , staras en la salono kaj direktas la arangxon .
+)
+GRANDKOMERCISTO=RUMMEL ( al la servisto ) Nur cxiun duan lumon , Jacob .
+Ne devas aspekti tro festene ; okazu ja surprize .
+Kaj cxiuj tiuj floroj -R ?
+Nu ja ; lasu ilin stari ;
+( Konsulo Bernick elvenas de sia cxambro .
+)
+KONSULO=BERNICK ( venas pli proksimen ) Sed , Rummel , kion tio=cxi signifu ?
+GRANDKOMERCISTO=RUMMEL Tio signifas , ke via plej fiera momento venis .
+La urbo prezentos al sia plej elstara viro standardprocesion cxi-vespere .
+KONSULO=BERNICK Kion vi diras !
+GRANDKOMERCISTO=RUMMEL Standardprocesion kun muziko !
+Torcxojn ni ankaux devus havi ;
+sed tion ni ne kuragxis en tiu=cxi ventega vetero .
+Nu , iluminado tamen okazos ; kaj tio ankaux havos efikon , en la gazetoj .
+KONSULO=BERNICK Auxdu , Rummel , tio=cxi mi tute ne volas akcepti .
+GRANDKOMERCISTO=RUMMEL Nu ja , nun tio estas tro malfrue ;
+post duona horo ili venos .
+KONSULO=BERNICK Sed kial vi ne diris al mi antauxe ?
+GRANDKOMERCISTO=RUMMEL Gxuste cxar mi timis , ke vi farus protestojn .
+Sed mi kontaktis vian edzinon ;
+sxi permesis al mi iomete arangxi , kaj sxi havigos refresxigajxojn .
+KONSULO=BERNICK ( auxskultas ) Kio estas tio ?
+Cxu ili jam venas ?
+Sxajnas al mi , ke estas kantado .
+GRANDKOMERCISTO=RUMMEL ( cxe la gxardena pordo ) Kantado ?
+Ho , estas nur la Usonanoj .
+Estas Indian Girl , kiu tirigxas al la nagxobarelo .
+KONSULO=BERNICK Gxi eltirigxas !
+Jes -R ;
+ne , mi ne povas cxi-vespere , Rummel ;
+mi estas malsana .
+GRANDKOMERCISTO=RUMMEL Jes , vi vere aspektas malsane .
+Sed vi devas kuragxigi vin !
+Vi devas , morto kaj sufero , kuragxigi vin !
+Kaj mi kaj Sandstad kaj Vigeland trovis plej grave realigi cxi=tiun arangxon .
+Niaj antagonistoj estu premataj sub la pezo de kiel eble ampleksa esprimo de opinio .
+La urbaj onidiroj multobligxas ;
+la informo pri la acxetoj de bienoj ne povas plu esti retenata .
+Kompreneble jam cxi-vespere vi devas , sub kantado kaj paroladoj , sub tintado de glasoj , mallonge , sub sxvelanta festena etoso sciigi , kion vi riskis por la bono de la socio .
+Sub tia sxvelanta festena etoso , kiel mi jxus esprimis , oni povas verki eksterordinare multe cxi=tie cxe ni .
+Sed tiu ja absolute bezonigxas , alie ni ne sukcesos .
+KONSULO=BERNICK Nu ja , ja -L
+GRANDKOMERCISTO=RUMMEL Kaj precipe kiam tia delikata kaj tikla punkto eltirigxas .
+Nu , vi havas , dank' al Dio , nomon , kiu toleras tion , Bernick .
+Sed auxskultu nun ;
+ni devis ja interkonsenti pri io .
+Studento Toennesen verkis kanton por vi .
+Gxi komencas bele per la vortoj : Levu alten la standardon de l' ideo .
+Kaj adjunkto Roerlund ricevis la taskon prezenti la fest-paroladon .
+Al gxi vi kompreneble devas respondi .
+KONSULO=BERNICK Mi ne povas cxi-vespere , Rummel .
+Cxu vi ne povus -R ?
+GRANDKOMERCISTO=RUMMEL Neeblas , kvankam mi volonte farus .
+La parolado farigxos ja , kiel vi komprenas , precipe direktata al vi .
+Nu , eble direktigxos ankaux kelkaj vortoj al ni aliuloj .
+Mi parolis kun Vigeland kaj Sandstad pri tio .
+Ni estis elpensintaj , ke vi povus respondi per vivo por la prospero de nia socio ;
+Sandstad parolos kelkajn vortojn pri samopinio inter la diversaj sociaj tavoloj ;
+Vigeland certe volas diri ion pri la dezirindeco , ke la nova entrepreno ne sxangxu la moralan fundamenton , sur kiu ni nun staras , kaj mi intencas en iomaj konvenaj vortoj memorigi la virinon , kies pli retenema agado ankaux ne estas sen signifo por la socio .
+Sed vi ja ne auxskultas -L
+KONSULO=BERNICK Jes -R ja certe .
+Sed diru al mi , cxu vi opinias , ke estas tia ega surmara vento ekstere ?
+GRANDKOMERCISTO=RUMMEL Ho , vi timas por La Palmo ?
+Gxi estas ja bone asekurita .
+KONSULO=BERNICK Jes , asekurita ;
+sed -L
+GRANDKOMERCISTO=RUMMEL Kaj en bona stato ; tio estas la plej grava .
+KONSULO=BERNICK Hm -R .
+Se okazos io al sxipo , ne estas certe ke homaj vivoj perdigxos .
+Povas perdigxi sxipo kaj kargo , -L kaj oni povas perdi kofrojn kaj paperojn -R
+GRANDKOMERCISTO=RUMMEL Ho tondre , kofroj kaj paperoj ne multe gravas .
+KONSULO=BERNICK Cxu ne !
+Ne , ne , mi nur pensis -L Tsxsx , -R jen ili denove kantas .
+GRANDKOMERCISTO=RUMMEL Estas en La Palmo .
+( Komercisto Vigeland venas de dekstre .
+)
+KOMERCISTO=VIGELAND Ja , nun ili eltrenas La Palmon .
+Bonan vesperon , sinjoro konsulo .
+KONSULO=BERNICK Kaj Vi , kia mar-spertulo , dauxre persistas je -L ?
+KOMERCISTO=VIGELAND Mi persistas je la providenco , mi , sinjoro konsulo ;
+cetere mi estis sursxipe distribuante kelkajn traktajxojn , kiuj lauxespere efikos benoricxe .
+( Komercisto Sandstad kaj plenrajtigito Krap envenas de dekstre .
+)
+KOMERCISTO=SANDSTAD ( ankoraux cxe la pordo ) Jes , se tio sukcesos , cxio sukcesos .
+Ho jen , bonan vesperon , bonan vesperon !
+KONSULO=BERNICK Cxu io estas okazonta , sinjoro Krap ?
+PLENRAJTIGITO=KRAP Mi nenion diras , sinjoro konsulo .
+KOMERCISTO=SANDSTAD La tuta sxipanaro sur Indian Girl estas ebria ;
+mi ne estu honesta viro , se tiuj fibestoj hejmenvenos en vivo . ( Sinjorino Hessel venas de dekstre .
+)
+FRAUxLINO=HESSEL ( al konsulo Bernick ) Jes , nun mi povas saluti de li .
+KONSULO=BERNICK Jam sursxipe ?
+FRAUxLINO=HESSEL Baldaux almenaux .
+Ni disigxis ekstere de la hotelo .
+KONSULO=BERNICK Kaj lia intenco staras fikse ?
+FRAUxLINO=HESSEL Fikse kiel monto .
+GRANDKOMERCISTO=RUMMEL ( apud la fenestroj ) Al diablo tiuj novmodaj instalajxoj ;
+mi ne kapablas malsuprentiri la kurtenon .
+FRAUxLINO=HESSEL Cxu malsupren ?
+Mi pensis ke kontrauxe .
+GRANDKOMERCISTO=RUMMEL Unue malsupren , frauxlino .
+Jes , Vi do scias , kio okazos ?
+FRAUxLINO=HESSEL Nu ja. Permesu al mi helpi vin ;
+( ekkaptas la sxnurojn ) Mi malsuprentiru la kurtenon por la bofrato , -R kvankam mi prefere suprenlevus gxin .
+GRANDKOMERCISTO=RUMMEL Tion vi ankaux povos fari poste .
+Kiam la gxardeno estas plena de la ondanta homamaso , la kurteno suprenlevigxos , kaj oni vidos interne surprizita kaj gxoja familio ;
+-L hejmo de burgxo devas esti kiel vitra sxranko .
+KONSULO=BERNICK ( aspekte li volas ion diri , sed turnas sin rapide kaj iras en sian cxambron .
+)
+GRANDKOMERCISTO=RUMMEL Do , ni faru la lastan interkonsilon .
+Kunvenu , sinjoro Krap ;
+Vi devas helpi nin per kelkaj faktaj informajxoj . ( Cxiuj sinjoroj iras en la cxambron de la konsulo .
+Frauxlino=Hessel estas tirinta la kurtenojn antaux la fenestrojn , kaj volas jxus fari la samon pri la kurteno antaux la malferma vitra pordo , kiam Olaf venas kuranta desupre malsupren sur la gxardenan sxtuparon ;
+li havas plejdon super la sxultro kaj kunligajxo en la mano .
+)
+FRAUxLINO=HESSEL Ho , Dio pardonu vin , knabo , kiel vi timigis min !
+OLAF ( kasxas la kunligajxon ) Tsxsx , onklino !
+FRAUxLINO=HESSEL Cxu vi saltas el la fenestro ?
+Kien vi intencas ?
+OLAF Tsxsx ;
+diru nenion . Mi volas al onklo Johan ;
+-R nur malsupren al la kajo , vi komprenas ; -L nur diri al li adiaux .
+Bonan nokton , onklino ! ( Li kuras elen tra la gxardeno .
+)
+FRAUxLINO=HESSEL Ho , restu !
+Olaf -R Olaf !
+( Johan=Toennesen vojagxvestita , kun sxultro-valizo , venas singardeme tra la pordo dekstre .
+)
+JOHAN=TOENNESEN Lona !
+FRAUxLINO=HESSEL ( turnas sin ) Kio ?
+Cxu vi revenas ?
+JOHAN=TOENNESEN Restas ankoraux kelkaj minutoj .
+Mi devas vidi sxin ankoraux unu fojon .
+Ni ne povas disigxi tiel . ( Frauxlino Bernick kaj Dina , ambaux kun manteloj , kaj la lasta kun malgranda valizo cxemane , venas de la supera pordo maldekstre .
+)
+DINA Al li ;
+al li !
+FRAUxLINO=BERNICK Jes , vi venu al li , Dina !
+DINA Jen li estas !
+JOHAN=TOENNESEN Dina !
+DINA Prenu min kun Vi !
+JOHAN=TOENNESEN Kio -L !
+FRAUxLINO=HESSEL Vi volas ?
+DINA Jes , prenu min kun Vi !
+La aliulo skribis al mi , kaj diris , ke cxi-vespere publikigxos por cxiuj homoj -R
+JOHAN=TOENNESEN Dina , -L Vi ne amas lin ?
+DINA Mi neniam amis tiun homon .
+Mi jxetos min en la fundon de la fjordo , se li farigxos mia fiancxo !
+Ho , kiel li subpremis min genuen hieraux per siaj arogantaj vortoj !
+Kiel li igis min senti , ke li tiris malestimindan estajxon supren al si !
+Mi ne volas plu esti malestimata .
+Mi volas vojagxi .
+Cxu mi povas sekvi Vin ?
+JOHAN=TOENNESEN Jes , jes -R kaj mil fojojn jes !
+DINA Mi ne longe maloportunos Vin .
+Nur helpu min transen ;
+helpu min per komenca arangxo -L
+JOHAN=TOENNESEN Hura , tio certe arangxigxos , Dina !
+FRAUxLINO=HESSEL ( montras al la pordo de la konsulo ) Tsxsx ;
+mallauxte , mallauxte !
+JOHAN=TOENNESEN Dina , mi portos vin sur la manoj !
+DINA Tion mi ne permesos .
+Mi volas porti min mem antauxen ;
+kaj tie transe mi certe povos .
+Se mi nur eskapos de cxi=tie .
+Ho , tiuj sinjorinoj , -R Vi tion ne scias , -L ankaux ili skribis al mi hodiaux ;
+ili admonis min aprezi mian felicxon , kaj eksplikis al mi kian grandanimon li montris .
+Morgaux kaj cxiujn tagojn ili volas gardi min , por vidi cxu mi faras min digna al cxio tio .
+Mi timas antaux tiu ega dececo !
+JOHAN=TOENNESEN Diru al mi , Dina , cxu estas nur pro tio ke Vi forvojagxos ?
+Cxu mi estas nenio por Vi ?
+DINA Jes , Johan , Vi estas por mi pli=ol cxiuj aliaj homoj .
+JOHAN=TOENNESEN Ho Dina -R !
+DINA Cxiuj cxi=tie diras , ke mi devas malami kaj abomeni Vin ;
+ke estas mia devo ; sed mi ne komprenas tion pri devo ;
+mi neniam venos al kompreno de tio . FRAUxLINO=HESSEL Vi ankaux ne faru , infano !
+FRAUxLINO=BERNICK Ne , vi ne faru ;
+kaj tial vi akompanu lin kiel lia edzino .
+JOHAN=TOENNESEN Jes , jes !
+FRAUxLINO=HESSEL Kion ?
+Nun mi devas kisi vin , Marta !
+Tion mi ne atendis de vi .
+FRAUxLINO=BERNICK Ne , tion mi ja kredas : mi mem tion ne atendis .
+Sed iam tio devis erupcii en mi .
+Ho , kiel ni cxi=tie suferas sub mistraktado pere de kutimoj kaj statutoj !
+Ribelu kontraux tio , Dina .
+Farigxu lia edzino .
+Okazu io kio spitas cxiun tiun kutimon kaj uzon .
+JOHAN=TOENNESEN Kion Vi respondas , Dina ?
+DINA Jes , mi volas esti Via edzino .
+JOHAN=TOENNESEN Dina !
+DINA Sed unue mi volas labori , farigxi io mem , kiel Vi tia estas .
+Mi ne volas esti ajxo , kiu prenigxas .
+FRAUxLINO=HESSEL Jes , gxuste ; tiel estu .
+JOHAN=TOENNESEN Bone ;
+mi atendas kaj esperas -L
+FRAUxLINO=HESSEL -R kaj gajnos , knabo !
+Sed nun sursxipen !
+JOHAN=TOENNESEN Jes , sursxipen !
+Ah , Lona , vi kara fratino , unu vorto ;
+auxskultu -L ( Li kondukas sxin supren al la fono kaj parolas rapide al sxi .
+)
+FRAUxLINO=BERNICK Dina , vi felicxulino , -R ke mi rigardu vin , -L kisu vin ankoraux unu fojon , -R la lastan .
+DINA Ne la lastan ;
+ne , kara amata onklino , ni certe revidigxos .
+FRAUxLINO=BERNICK Neniam !
+Promesu tion al mi , Dina , neniam revenu .
+( kaptas ambaux sxiajn manojn kaj rigardas sxin ) Nun vi iras al la felicxo , vi amata infano ;
+-L trans la maron ! Ho , kiom ofte en la lerneja cxambro mi sopiris tien !
+Tie certe estas bele ; pli granda cxielo ;
+la nuboj flugas pli alte ol cxi=tie , pli libera aero refresxigas super la kapoj de la homoj -R
+DINA Ho , onklino Marta , iam vi postsekvos nin .
+FRAUxLINO=BERNICK Mi ?
+Neniam ; neniam .
+Cxi=tie mi havas mian etan vivotaskon , kaj nun mi kredas ke certe mi farigxos tute plene kio mi devas esti .
+DINA Mi ne povas imagi disigxi de vi .
+FRAUxLINO=BERNICK Ahx , homo disigxas de multe , Dina .
+( kisas sxin ) Sed tion vi neniam spertos , dolcxa infano .
+Promesu al mi fari lin felicxa .
+DINA Mi ne volas ion promesi ;
+mi malamas promesi ;
+cxio devas veni , kiel gxi povas .
+FRAUxLINO=BERNICK Jes , jes , gxi ja devas ;
+vi nur restu kiel vi estas , -L vera kaj fidela al vi mem .
+DINA Tion mi volas , onklino .
+FRAUxLINO=HESSEL ( kasxas en la posxon kelkajn paperojn , kiujn Johan donis al sxi ) Bone , bone , mia kara knabo .
+Sed nun survoje .
+JOHAN=TOENNESEN Jes , nun ne estas tempo por perdi .
+Adiaux , Lona ; dankon pro via amo .
+Adiaux Marta , kaj dankon ankaux al vi pro via fidela amikeco .
+FRAUxLINO=BERNICK Adiaux , Johan !
+Adiaux , Dina !
+Kaj felicxon al vi cxiujn viajn tagojn ! ( Sxi kaj frauxlino Hessel pusxas ilin al la pordo en la fono .
+Johan=Toennesen kaj Dina iras malsupren tra la gxardeno .
+Frauxlino Hessel fermas la pordon kaj altiras la kurtenon .
+)
+FRAUxLINO=HESSEL Nun ni estas solaj , Marta .
+Vi perdis sxin kaj mi lin .
+FRAUxLINO=BERNICK Vi -R lin ?
+FRAUxLINO=HESSEL Ho , mi jam duone perdis lin tie transe .
+La knabo iris sopirante stari sur propraj piedoj ;
+tial mi kredigis al li , ke mi suferis pro hejmveo .
+FRAUxLINO=BERNICK Tial ?
+Jes , nun mi komprenas kial vi venis .
+Sed li volas postuli vin reen , Lona .
+FRAUxLINO=HESSEL Maljuna duonfratino , -L kio sxi estu por li nun ?
+-R La viroj dissxiras multade cxirkaux si por atingi al la felicxo .
+FRAUxLINO=BERNICK Foje okazas .
+FRAUxLINO=HESSEL Sed ni kuntenu , Marta .
+FRAUxLINO=BERNICK Cxu mi povas io esti por vi ?
+FRAUxLINO=HESSEL Kiuj pli ?
+Ni du nutropatrinoj , -L cxu ni ne ambaux perdis niajn infanojn ?
+Nun ni estas solaj .
+FRAUxLINO=BERNICK Jes , solaj .
+Kaj tial vi ankaux sciu , -R mi amis lin pli alte ol kion ajn en la mondo . FRAUxLINO=HESSEL Marta !
+( kaptas sxian brakon ) Cxu tio estas vero ?
+FRAUxLINO=BERNICK La enhavo de mia tuta vivo kusxas en tiuj vortoj .
+Mi amis lin kaj atendis lin .
+Cxiun someron mi atendis , ke li venus .
+Kaj jen li venis ;
+-L sed li ne vidis min .
+FRAUxLINO=HESSEL Amis lin ! Kaj vi mem estis tiu , kiu donis la felicxon al li en la manon .
+FRAUxLINO=BERNICK Cxu mi ne donus al li la felicxon ? mi ja amis lin ?
+Jes , mi amis lin .
+Mia tuta vivo estis vivo por li , ekde kiam li forvojagxis .
+Kiun kauxzon mi havis por la espero , vi pensas ?
+Ho , mi kredas , ke mi tamen havis iun kialon .
+Sed kiam li revenis , -R estis kvazaux cxio estas forvisxita el lia memoro .
+Li ne vidis min .
+FRAUxLINO=HESSEL Estis Dina , kiu ombris por vi , Marta .
+FRAUxLINO=BERNICK Ja , ke sxi tion faris .
+Je lia forvojagxo ni estis samagxuloj ;
+kiam mi revidis lin , -L ahx , tiu terura momento , -R jen mi komprenis , ke mi estas dek jarojn pli agxa ol li .
+Li estis vivinta ekstere en la vibranta sunlumo kaj sucxanta junecon kaj sanon el cxiu spiro ;
+kaj cxi ene mi sidis dume sxpinante kaj sxpinante -L
+FRAUxLINO=HESSEL -R la fadenon de lia felicxo , Marta .
+FRAUxLINO=BERNICK Jes , estis oro , kion mi sxpinis .
+Neniun amarecon !
+Cxu ne , Lona , ni estis por li du bonaj fratinoj ?
+FRAUxLINO=HESSEL ( cxirkauxbrakas sxin ) Marta !
+( Konsulo Bernick elvenas de sia cxambro .
+)
+KONSULO=BERNICK ( al la sinjoroj tie ene ) Jes , jes , estru pri la tuto , kiel vi volas .
+Kiam la tempo venos , mi certe -L ( fermas la pordon ) Ahx , cxu vi jen ?
+Auxskultu , Marta , vi devas iomete sxangxi vestajxojn .
+Kaj diru al Betty , ke sxi faru la samon .
+Mi ne deziras ian pompon , kompreneble ; nur beletan kun hejmeca fasono .
+Sed vi devas rapidigxi .
+FRAUxLINO=HESSEL Kaj felicxa , gaja mieno , Marta ;
+gxojajn okulojn vi devas briligi .
+KONSULO=BERNICK Ankaux Olaf malsupren venu ;
+mi volas havi lin flanke de mi .
+FRAUxLINO=HESSEL Hm ;
+Olaf -R
+FRAUxLINO=BERNICK Mi diros al Betty . ( Sxi eliras tra la plej supra pordo maldekstre .
+)
+FRAUxLINO=HESSEL Ja , nun estas do la granda solena momento veninta .
+KONSULO=BERNICK ( kiu maltrankvila iras tien kaj reen ) Jes , gxi tiel estas .
+FRAUxLINO=HESSEL En tia momento viro devas senti sin fiera kaj felicxa , mi opinias .
+KONSULO=BERNICK ( rigardas sxin ) Hm !
+FRAUxLINO=HESSEL La tuta urbo ja iluminigxos , mi auxdas .
+KONSULO=BERNICK Jes , ili ekpensis tiajxon .
+FRAUxLINO=HESSEL Cxiuj asocioj sin prezenos kun siaj standardoj . Via nomo lumos en fajro-literoj . Cxi-nokte oni telegrafos al cxiuj partoj de la lando : Cxirkauxata de sia felicxa familio konsulo Bernick hodiaux ricevis la omagxon de siaj kuncivitanoj , kiel unu el la kolonoj de la socio .
+KONSULO=BERNICK Tio okazos ;
+kaj oni krios hura ekstere , kaj la amaso salute vokos min al la pordo tie , kaj mi farigxos devigata klini min kaj danki .
+FRAUxLINO=HESSEL Nu , devigata al tio -L
+KONSULO=BERNICK Cxu vi opinias , ke mi sentas min felicxa en cxi=tiu momento ?
+FRAUxLINO=HESSEL Ne , mi ne kredas , ke vi povas senti vin tiel tute felicxa .
+KONSULO=BERNICK Lona , vi malestimas min .
+FRAUxLINO=HESSEL Ankoraux ne .
+KONSULO=BERNICK Vi ecx ne rajtas tion .
+Ne rajtas malestimi min !
+-R Lona , vi ne povas imagi , kiel nedireble soleca mi staras cxi=tie en jena kuntirita , kripligita socio , -L kiel mi jaron post jaro devis redukti mian postulon pri tute plenumigxa vivotasko .
+Tio kion mi plenumis , kvankam multspeca gxi tamen aspektas !
+Pecajxoj , -R okupetajxoj .
+Sed aliajxon aux ion pli oni ne toleras cxi=tie .
+Se mi volus iri pasxon antaux la sentoj kaj la opinio , kiuj je tiu tempo estis reganta , estus finite pri mia potenco .
+Cxu vi scias , kio ni estas , ni , kiuj estas konsiderataj la kolonoj de la socio ?
+Ni estas la laboriloj de la socio , ne pli , ne malpli .
+FRAUxLINO=HESSEL Kial vi tion vidas nur nun ?
+KONSULO=BERNICK Cxar mi lastatempe multe pripensis , -L post=kiam vi revenis , -R kaj pleje cxi=tiun vesperon .
+-L Ho Lona , kial mi ne konis vin profunde tiam -R en la pasintaj tagoj .
+FRAUxLINO=HESSEL Kio sekve ?
+KONSULO=BERNICK Neniam mi tiam rezignus pri vi ;
+kaj se mi estus vin havinta , mi ne starus , kie mi nun staras .
+FRAUxLINO=HESSEL Kaj cxu vi ne pensas pri tio , kio sxi estus povinta farigxi por vi , sxi , kiun vi elektis en mia loko ?
+KONSULO=BERNICK Mi almenaux scias , ke sxi nenio farigxis por mi el tio , kion mi bezonis .
+FRAUxLINO=HESSEL Cxar vi neniam dividis vian vivotaskon kun sxi ;
+cxar vi neniam starigis sxin libera kaj vera en sia rilato al vi ;
+cxar vi igas sxin iri cxi=tie faladante sub la riprocxo pro la honto , kiun vi amasigis sur sxiajn proksimulojn .
+KONSULO=BERNICK Ja , ja , ja ;
+cxio devenas de la mensogo kaj malhonesteco .
+FRAUxLINO=HESSEL Kaj kial vi ne rompas kun tiu mensogo kaj malhonesteco ?
+KONSULO=BERNICK Nun ?
+Nun tio estas tro malfrue , Lona .
+FRAUxLINO=HESSEL Karsten , diru al mi , kian kontenton tiu=cxi sxajno kaj trompo donas al vi .
+KONSULO=BERNICK Al mi donas gxi nenion .
+Mi pereos kiel tuta cxi=tiu mizerigita socio .
+Sed elkreskos parencaro post ni ;
+estas por mia filo , ke mi laboras ; estas por li , ke mi adaptigas vivotaskon .
+Venos tempo , kiam enspirigxos vero en la socian vivon , kaj sur gxi li fondos pli felicxan estadon ol tiun de sia patro .
+FRAUxLINO=HESSEL Kun mensogo por fundamento ?
+Pripensu kion vi donos al via filo herede .
+KONSULO=BERNICK ( en subpremita malespero ) Mi donas al li mil fojojn da pli malbona heredo ol vi scias .
+Sed iam tamen la kondamno devas cedi .
+Kaj tamen , tamen -L ( ekkriante ) Kiel vi povis akumuli cxion tion sur mian kapon !
+Sed nun tio jam okazis .
+Nun mi devas antauxen .
+Vi ne sukcesu frakasi min ! ( Hilmar=Toennesen , kun malferma bileto en la mano , envenas rapide kaj eturdite de dekstre .
+)
+HILMAR=TOENNESEN Sed tio=cxi ja estas -R . Betty , Betty !
+KONSULO=BERNICK Kio nun ?
+Cxu ili jam venas ?
+HILMAR=TOENNESEN Ne , ne ; sed mi nepre devas paroli kun iu -L ( Li eliras tra la supera pordo maldekstre .
+)
+FRAUxLINO=HESSEL Karsten ; vi parolas kvazaux ni venis por frakasi vin .
+Permesu do al mi diri , el kia erco li estas , cxi=tiu perdita filo , kiun via morala socio evitas kvazaux iun pestinfektitan .
+Li povas senesti de vi , cxar nun li estas forvojagxinta .
+KONSULO=BERNICK Sed li revenos -R
+FRAUxLINO=HESSEL Johan neniam revenos .
+Li forvojagxis por cxiam , kaj Dina kunvojagxis .
+KONSULO=BERNICK Ne revenos ?
+Kaj Dina kunvojagxis kun li ?
+FRAUxLINO=HESSEL Jes , por farigxi lia edzino .
+Tiel tiuj du frapas la vizagxon de via deca socio , kiel mi iam -L nu ! KONSULO=BERNICK Forvojagxis ;
+-R ankaux sxi -L kun Indian Girl -R !
+FRAUxLINO=HESSEL Ne ;
+tian karan kargon li ne kuragxis konfidi al tiu malmorala bando .
+Johan kaj Dina forvojagxas per La Palmo .
+KONSULO=BERNICK Ahx !
+Kaj do -L senutile -R ( iras rapide kaj malferme tiras la pordon al sia cxambro kaj krias enen ) Krap , haltigu Indian Girl ;
+gxi ne devas forveli cxi-vespere !
+PLENRAJTIGITO=KRAP ( interne ) Indian Girl jam velas surmare , sinjoro konsulo .
+KONSULO=BERNICK ( fermas la pordon kaj diras senforte ) Tro malfrue , -L kaj senutile -R
+FRAUxLINO=HESSEL Kion vi aludas ?
+KONSULO=BERNICK Nenion , nenion .
+Foriru de mi -L !
+FRAUxLINO=HESSEL Hm ;
+vidu jen , Karsten .
+Johan dirigas al vi , ke li konfidas al mi la nomon kaj famon , kiun li iam pruntedonis al vi , kaj ankaux tiun , kiun vi rabis de li , dum li estis for .
+Johan silentas ;
+kaj mi povas agi kaj pretendi en tiu afero , kiel placxas al mi .
+Vidu , jen mi tenas viajn du leterojn en mia mano .
+KONSULO=BERNICK Vi havas ilin !
+Kaj nun -R nun vi volas -L jam cxi-vespere , -R eble kiam la standarda procesio -L
+FRAUxLINO=HESSEL Mi ne revenis hejmen por riveli vin , sed por tremigi vin tiel , ke vi libervole parolu .
+Mi ne sukcesis . Do restu staranta en la mensogo .
+Jen vidu ; mi sxiras viajn leterojn en pecojn .
+Prenu la pecojn ; jen vi havas ilin .
+Nun estas nenio , kio atestas kontraux vi , Karsten .
+Nun vi estas sekura ;
+estu nun ankaux felicxa , -R se vi povos .
+KONSULO=BERNICK ( traskuita ) Lona , -L kial vi tion=cxi ne pli frue faris !
+Nun estas tro malfrue ;
+nun la tuta vivo estas perdita por mi ;
+mi ne povas dauxrigi mian vivon post tiu=cxi tago .
+FRAUxLINO=HESSEL Kio estas okazinta ?
+KONSULO=BERNICK Ne demandu . -R Sed tamen mi devas vivi !
+Mi volas vivi -L por Olaf .
+Li restarigos cxion kaj cxion rebonigos -R
+FRAUxLINO=HESSEL Karsten -L ! ( Hilmar=Toennesen rapide revenas )
+HILMAR=TOENNESEN Neniu trovebla ;
+for ; ecx ne Betty !
+KONSULO=BERNICK Kio estas al vi ?
+HILMAR=TOENNESEN Mi ne kuragxas diri .
+KONSULO=BERNICK Kio estas ?
+Vi nepre diru al mi !
+HILMAR=TOENNESEN Nu do ; Olaf forkuris kun Indian Girl .
+KONSULO=BERNICK ( sxanceligxas malantauxen ) Olaf -R kun Indian Girl !
+Ne , ne !
+FRAUxLINO=HESSEL Jes , li estas !
+Nun mi komprenas -L ; mi vidis lin saltanta tra la fenestro .
+KONSULO=BERNICK ( cxe la pordo de sia cxambro krianta senespere ) Krap , haltigu Indian Girl por kiu ajn prezo !
+PLENRAJTIGITO=KRAP ( elvenas ) Neeblas , sinjoro konsulo .
+Kiel Vi povas imagi al Vi -R ?
+KONSULO=BERNICK Ni devas haltigi gxin ;
+Olaf estas sursxipe !
+PLENRAJTIGITO=KRAP Kion vi diras !
+GRANDKOMERCISTO=RUMMEL ( elvenas ) Olaf forkurinta ?
+Neeblas !
+KOMERCISTO=SANDSTAD ( venas ) Li resendigxos per la piloto , sinjoro konsulo .
+HILMAR=TOENNESEN Ne , ne ;
+li skribis al mi ;
+( montras la bileton ) Li skribas , ke li kasxos sin en la kargo , gxis ili estos sur libera maro .
+KONSULO=BERNICK Mi neniam plu vidos lin !
+GRANDKOMERCISTO=RUMMEL Ho , kia babilajxo ;
+forta kaj bona sxipo , nove riparita -L
+KOMERCISTO=VIGELAND ( kiu ankaux elvenis ) -R de Via propra sxipfarejo , sinjoro konsulo !
+KONSULO=BERNICK Mi neniam plu revidos lin , mi diras .
+Mi perdis lin , Lona , kaj -L nun mi vidas -R ke mi neniam posedis lin .
+( auxskultas ) Kio estas tio ?
+GRANDKOMERCISTO=RUMMEL Muziko .
+Nun venas la standardprocesio .
+KONSULO=BERNICK Mi ne povas , mi ne volas akcepti iun !
+GRANDKOMERCISTO=RUMMEL Pri kio vi pensas ?
+Tute ne eblas .
+KOMERCISTO=SANDSTAD Neeblas , sinjoro konsulo ;
+pripensu tion , kio estas por vi endangxerigita .
+KONSULO=BERNICK Kiom tio nun valoras por mi ?
+Por kiu mi nun laboru ?
+GRANDKOMERCISTO=RUMMEL Cxu tiel vi povu demandi ?
+Vi ja havas nin kaj la socio .
+KOMERCISTO=VIGELAND Jes , vera vorto .
+KOMERCISTO=SANDSTAD Kaj la konsulo do ne forgesas , ke ni -L ( Frauxlino Bernick venas tra la pordo maldekstra supre .
+La muziko auxdigxas mallauxte , fore malsupre en la strato .
+)
+FRAUxLINO=BERNICK Nun venas la procesio ; sed Betty ne estas hejme ;
+mi ne komprenas kie sxi -R
+KONSULO=BERNICK Ne hejme !
+Jen vi vidas , Lona ; neniun subtenon , nek en gxojo , nek en aflikto .
+GRANDKOMERCISTO=RUMMEL Fortiru la kurtenojn !
+Venu min helpi , sinjoro Krap .
+Venu ankaux vi , sinjoro Sandstad .
+Bedauxrinda afero , ke la familio gxuste nun estas disigita ; tute kontraux la programo .
+( La kurtenoj fortirigxas de la fenestroj kaj la pordo .
+KONSULO=BERNICK ( pasxas malantauxen eviteme ) For tio=cxi !
+Mi ne volas vidi tion !
+Estingu , estingu !
+GRANDKOMERCISTO=RUMMEL Respekte demandite , cxu vi ne estas tute prudenta ?
+FRAUxLINO=BERNICK Kio estas al li , Lona ?
+FRAUxLINO=HESSEL Tsxsx !
+( parolas mallauxte kun sxi )
+KONSULO=BERNICK For tiu mokanta enskribo , mi diras !
+Cxu vi ne vidas , ke cxiuj tiuj lumoj elsxovas la langon al ni ?
+GRANDKOMERCISTO=RUMMEL Ne , nun mi devas konfesi -L
+KONSULO=BERNICK Ho , kion vi komprenas -R !
+Sed mi , mi -L !
+Cxio tio estas lumo en kadavrejo !
+PLENRAJTIGITO=KRAP Hm ! GRANDKOMERCISTO=RUMMEL Ne , sed haltu nun , -R vi tro afliktigxas .
+KOMERCISTO=SANDSTAD La knabo faros vojagxon trans la Atlantiko , kaj jen vi havos lin reen .
+KOMERCISTO=VIGELAND Fidu al la mano de la cxiopotenculo , sinjoro konsulo .
+GRANDKOMERCISTO=RUMMEL Kaj al la sxipo , Bernick ;
+gxi ja ne estas subakvigxinda , mi scias .
+PLENRAJTIGITO=KRAP Hm -L
+GRANDKOMERCISTO=RUMMEL Jes , se estus unu el tiuj nagxantaj kadavrokestoj , pri kiuj oni auxdas en la grandaj socioj -R
+KONSULO=BERNICK Mi sentas miajn harojn grizigxi en cxi=tiu momento .
+( Sinjorino Bernick , kun granda sxalo super la kapo , envenas tra la gxardena pordo .
+)
+SINJORINO=BERNICK Karsten , Karsten , cxu vi scias -L ?
+KONSULO=BERNICK Jes , mi scias -R ;
+sed vi , -L vi , kiu nenion vidas , -R vi , kiu ne havas patrinan okulon por li -L !
+SINJORINO=BERNICK Ho , auxskultu do -R !
+KONSULO=BERNICK Kial vi ne atentis pri li ?
+Nun mi perdis lin .
+Redonu lin al mi , se vi povas .
+SINJORINO=BERNICK Jes , mi povas ;
+mi havas lin !
+KONSULO=BERNICK Vi havas lin !
+LA=SINJOROJ Ah !
+HILMAR=TOENNESEN Nu , tion mi ja pensis .
+FRAUxLINO=BERNICK Vi ricevis lin reen , Karsten !
+FRAUxLINO=HESSEL Jes , nun ankaux gajnu lin .
+KONSULO=BERNICK Vi havas lin !
+Cxu estas vero , kion vi diras ?
+Kie li estas ?
+SINJORINO=BERNICK Tion vi ne scios , antaux=ol vi estos lin pardoninta .
+KONSULO=BERNICK Ho cxu , pardonis -L !
+Sed kiel vi sciigxis -R ?
+SINJORINO=BERNICK Cxu vi ne kredas , ke patrino vidas ?
+Mi estis en morta timo por=ke vi ion scius .
+Kelkaj vortoj kiujn li hazarde ekdiris hieraux -L ; kaj cxar lia cxambro estis malplena , kaj dorsosako kaj vestajxoj estis for -R
+KONSULO=BERNICK Jes , jes -L ?
+SINJORINO=BERNICK Mi kuris ; trovis Auxne ;
+ni elvelis en lia velboato ;
+la usona sxipo estis ekvelonta .
+Dank' al Dio ke ni venis en gxusta tempo , -R grimpis sursxipen , -L sercxis en la holdo , -R trovis lin .
+Ho , Karsten , vi ne devas puni lin !
+KONSULO=BERNICK Betty !
+SINJORINO=BERNICK Kaj ankaux ne Auxne !
+KONSULO=BERNICK Auxne ?
+Kion vi scias pri li ?
+Cxu Indian Girl denove estas velanta ?
+SINJORINO=BERNICK Ne , tio ja estas la afero -L
+KONSULO=BERNICK Diru , diru !
+SINJORINO=BERNICK Auxne estis same skuata kiel mi ;
+la sercxo dauxris ;
+mallumigxis , kaj la piloto protestis ;
+kaj jen Auxne kuragxis -R en via nomo -L
+KONSULO=BERNICK Nu ?
+SINJORINO=BERNICK Haltigi la sxipon gxis morgaux .
+PLENRAJTIGITO=KRAP Hm -R
+KONSULO=BERNICK Ho , kia nedirebla felicxo !
+SINJORINO=BERNICK Vi ne estas kolera ?
+KONSULO=BERNICK Ho , kia supermezuro de felicxo , Betty !
+GRANDKOMERCISTO=RUMMEL Vi do estas tro konscienca .
+HILMAR=TOENNESEN Jes , tuj kiam estas pri eta batalo kun la elementoj , ja -L uf !
+PLENRAJTIGITO=KRAP ( supre cxe la fenestroj ) Nun la procesio venas tra la gxardena pordo , sinjoro konsulo .
+KONSULO=BERNICK Jes , nun ili povas veni .
+GRANDKOMERCISTO=RUMMEL La tuta gxardeno plenigxas de homoj .
+KOMERCISTO=SANDSTAD La tuta strato estas plensxtopita .
+GRANDKOMERCISTO=RUMMEL La tuta urbo estas surpiede , Bernick .
+Tio=cxi vere estas ardiga momento .
+KOMERCISTO=VIGELAND Ni prenu tion per humila animo , sinjoro Rummel .
+GRANDKOMERCISTO=RUMMEL Cxiuj standardoj estas kunportataj .
+Kia procesio !
+Jen la festkomitato kun adjunkto Roerlund antauxe .
+KONSULO=BERNICK Ke ili venu , mi diras !
+GRANDKOMERCISTO=RUMMEL Sed auxskultu ; la skuita animstato , en kiu vi estas -R
+KONSULO=BERNICK Kiel ?
+GRANDKOMERCISTO=RUMMEL Mi ne estos neinklina preni la vorton en via nomo .
+KONSULO=BERNICK Ne dankon ;
+cxi-vespere mi mem parolos .
+GRANDKOMERCISTO=RUMMEL Sed cxu vi ankaux scias , kion vi devas diri ?
+KONSULO=BERNICK Jes , fidu min , Rummel , -L nun mi scias , kion mi devas diri . ( La muziko dumtempe cxesis .
+La gxardena pordo malfermigxas .
+Adjunkto Roerlund antauxanta la festkomitaton entretas , akompanata de kelkaj dungitaj servistoj , kiuj portas kovritan korbon .
+Post ili venas la burgxoj de la urbo el cxiuj tavoloj , tiom kiom trovas lokon en la salono .
+Senfina nombro da standardoj kaj flagoj vidigxas ekstere en la gxardeno kaj sur la strato .
+)
+ADJUNKTO=ROERLUND Alte estimata sinjoro konsulo !
+Mi vidas el la surprizo , kiu pentrigxas en via vizagxo , ke ni cxi=tie kiel neatenditaj gastoj sxovas nin enen al vi en vian felicxan familian rondon , en vian pacan hejmon , cxirkauxita de honestaj kaj agemaj amikoj kaj kuncivitanoj .
+Sed estis por ni kora bezono porti al vi nian saluton . Ne estas la unua fojo , ke tiajxo okazas , tamen la unua fojo en tia vasta mezuro .
+Ni multfoje portis al Vi nian dankon pro la ampleksa morala fundamento , sur kiu Vi , tiel dirite , konstruis nian socion .
+Cxi=tiun fojon ni salutas Vin cxefe kiel la klarvidan , senlacan , neegoisman , ecx memoferan kuncivitanon , kiu kaptis la iniciativon por entrepreno , kiu laux la opinio de cxiuj spertuloj donos potencan antauxenpusxon al la prospero kaj bonstato de tiu=cxi socio .
+VOCxOJ=INTER=LA=AMASO Bravo , bravo !
+ADJUNKTO=ROERLUND Sinjoro konsulo , dum vico da jaroj vi donis brilan ekzemplon al nia urbo .
+Cxi=tie mi ne parolas pri via modela familia vivo , ankaux ne pri Via senmakula morala konduto entute .
+Tiajxoj estu referencitaj al la sekreta cxambreto kaj ne al la festsalono !
+Sed mi parolas pri via burgxa aktiveco , tia , kia gxi kusxas malferma al cxiuj okuloj .
+Bone ekipitaj sxipoj velas el viaj sxipfarejoj , kaj montras la flagon sur la plej foraj maroj .
+Multnombra kaj felicxa laboristaro estimas vin kiel patron .
+Vokante al vivo novajn profesiajn brancxojn vi fondis la bonfarton de centoj da familioj .
+Per aliaj vortoj -R Vi estas la fundamenta kolono de tiu=cxi socio en eminenta signifo .
+VOCxOJ Auxskultu , auxskultu , bravo !
+ADJUNKTO=ROERLUND Kaj gxuste cxi=tiu malegoisma aspekto , kiu karakterizas cxiun vian konduton , estas tio , kio impresas tiel nedireble bonfare , precipe en cxi=tiuj tempoj .
+Vi nun estas havigonta al ni -L jes , mi ne hezitas mencii la vorton prozajxe kaj rekte -R fervojon .
+MULTAJ=VOCxOJ Bravo !
+Bravo ! ADJUNKTO=ROERLUND Sed tiu entrepreno aspekte renkontas malfacilajxojn , precipe diktitajn de malvastaj egoismaj celoj .
+VOCxOJ Auxskultu ;
+auxskultu ! ADJUNKTO=ROERLUND Ne restis ja nesciate , ke certaj individoj , kiuj ne apartenas al nia socio , estas antauxvenintaj al la laboremaj burgxoj de nia loko , kaj ekposedigxis de certaj avantagxoj , kiuj rajte venus profite al nia propra urbo .
+VOCxOJ Jes , jes !
+Auxskultu !
+ADJUNKTO=ROERLUND Tiu bedauxrinda fakto estas kompreneble veninta al Via scio , sinjoro konsulo .
+Sed tamen ne malpli vi persiste dauxrigas vian entreprenon , bone sciante , ke sxtatano ne nur atentu pri sia propra komunumo .
+DIVERSAJ=VOCxOJ Hm !
+Ne ; ne !
+Jes ; jes !
+ADJUNKTO=ROERLUND Do estas la homo kiel burgxo en la sxtato , -L la viro kiel li estu kaj devas esti , -R al kiu ni cxi-vespere en vi salutu .
+Ke via entrepreno farigxu al vera kaj dauxra prospero por tiu=cxi socio !
+La fervojo certe povos farigxi vojo per kiu ni riskos alkonduki ruinigajn elementojn de ekstere , sed ankaux farigxi vojo , kiu rapide kvitigas nin pri ili .
+Kaj de fiaj elementoj de ekstere ni ja ne povas , ecx nun , teni nin liberaj .
+Sed ke ni gxuste nun cxi=tiun festenan vesperon , post kio la onidiro sciigas , sukcese kaj pli rapide ol atendite , kvitigxis de tiaj elementoj -L
+VOCxOJ Tsxsx ! Tsxsx !
+ADJUNKTO=ROERLUND -R tion mi prenas kiel felicxa antauxdiro por la entrepreno .
+Ke mi tusxas tiun punkton cxi=tie , montras ke ni trovigxas en domo , kie la etika postulo metigxas pli alten ol la familia ligo .
+VOCxOJ Auxskultu !
+Bravo !
+KONSULO=BERNICK ( samtempe ) Permesu al mi -L
+ADJUNKTO=ROERLUND Nur malmultaj vortoj ankoraux , sinjoro konsulo .
+Kion vi plenumis en cxi=tiu komunumo , vi certe ne plenumis kun la subintenco , ke vi mem el gxi tirus realan avantagxon .
+Sed etan signon de la rekonado de viaj kuncivitanoj vi do ne rifuzos , kaj tion ja absolute ne en tiu cxi grava momento , kiam ni , laux la certigo de spertaj homoj , staras cxe la komenco de nova tempo .
+MULTAJ=VOCxOJ Bravo !
+Auxskultu ! Auxskultu !
+( Li donas al la dungitaj servistoj signon ; ili alportas la korbon pli proksimen ;
+la membroj de la festkomitato dum tio , kio sekvas , elprenas kaj prezentas la ajxojn pri kiuj paroligxos .
+)
+ADJUNKTO=ROERLUND Nun estas do por ni la tasko prezenti al Vi argxentan kafoservicon .
+Ke gxi beligu Vian tablon , kiam ni estontece kiel tiom ofte antauxe , kolektigxos en tiu=cxi gastama domo .
+Kaj ankaux Vin , miaj sinjoroj , kiuj tiel prete asistis al nia plej elstara civitano , ni petas akcepti etan memorajxon .
+Tiu=cxi argxenta pokalo estas por Vi , grandkomercisto Rummel .
+Vi ofte , en elokventaj vortoj , sub la tintado de pokaloj defendis la burgxajn interesojn de tiu=cxi socio ;
+ke vi ofte trovu indajn okazajxojn por levi kaj malplenigi cxi=tiun pokalon .
+-R Al Vi , sinjoro komercisto Sandstad , mi transdonas tiun cxi albumon kun fotografajxoj de kuncivitanoj .
+Via konata kaj rekonata humaneco metis vin en tiun agrablan staton nombri amikojn ene en cxiuj partioj en la socio .
+-L Kaj al Vi , sinjoro komercisto Vigeland , por ornamajxo en via sekreta cxambreto , mi povas prezenti tiun=cxi doman predikaron sur veleno kaj en luksa bindo .
+Dum la maturiganta influo de la jaroj vi atingis al serioza vivkoncepto ;
+Via agado en la cxiutagajxoj dum vico da jaroj estis purigita kaj nobeligita de la penso pri tio pli alta kaj pri tio transa .
+( turnas sin al la amaso ) Kaj per tio=cxi , miaj amikoj , vivuon por konsulo Bernick kaj liaj kunbatalantoj !
+Vivuon por la kolonoj de nia socio !
+LA=TUTA=KUNVENARO Vivu konsulo Bernick !
+Vivu la kolonoj de la socio !
+Hura , hura , hura !
+FRAUxLINO=HESSEL Bonfelicxon , bofrato !
+( Atendoplena silento .
+)
+KONSULO=BERNICK ( komencas serioze kaj malrapide ) Miaj kuncivitanoj , -R per via prezidanto dirigxis , ke ni staras antaux la komenco de nova tempo , -L kaj mi esperas ke farigxos tiel .
+Sed se tio okazu , ni devas proprigi al ni la veron , -R la veron , kiu gxis cxi-vespere , gxenerale kaj en cxiuj rilatoj , estis sendoma en tiu=cxi socio .
+KONSULO=BERNICK Mi devas nun komenci refutante la lauxdvortojn , per kiuj Vi , adjunkto , laux kutimo kaj uzo cxe tiaj okazajxoj , supersxutis min .
+Mi ne meritas ilin ;
+cxar gxis hodiaux mi ne estis iu malegoisma viro .
+Ecx se mi ne cxiam aspiris monan avantagxon , mi tamen estas konscia , ke avido kaj deziro al potenco , influo , prestigxo estis la motiva potenco en la plimulto de miaj agoj .
+GRANDKOMERCISTO=RUMMEL ( duonlauxte ) Kio nun ?
+KONSULO=BERNICK Vidalvide al miaj samburgxanoj mi ne riprocxas min ;
+cxar mi kuragxas ekstari en la antauxa linio inter la plej lertaj cxi=tie cxe ni .
+MULTAJ=VOCxOJ Jes , jes , jes !
+KONSULO=BERNICK Sed tio , pro kio mi riprocxas min mem estas , ke mi ofte pro malforteco agis inside , cxar mi konis kaj timis la emon de nia socio videti malpurajn motivojn malantaux cxio , kion homo cxi=tie entreprenas .
+Kaj nun mi venas al la punkto , kiu koncernas tion=cxi .
+GRANDKOMERCISTO=RUMMEL ( maltrankvila ) Hm -L hm !
+KONSULO=BERNICK Disvastigxas onidiroj pri grandaj acxetoj de bienoj supre en la lando .
+Tiujn bienojn mi acxetis , cxiujn , mi sola . DUONLAUxTAJ=VOCxOJ Kion li diras ?
+La konsulo ?
+Konsulo Bernick ?
+KONSULO=BERNICK Gxis nun ili estas en mia mano .
+Kompreneble mi konfidis min al miaj kunlaborantoj , la sinjoroj Rummel , Vigeland kaj Sandstad , kaj ni samopiniis pri -R
+GRANDKOMERCISTO=RUMMEL Ne estas vero !
+Pruvo -L pruvo -R !
+KOMERCISTO=VIGELAND Ni ne samopiniis pri io ajn !
+KOMERCISTO=SANDSTAD Ne , nun mi do devas diri -L
+KONSULO=BERNICK Estas tute gxuste ; ni ankoraux ne samopiniis pri tio , kion mi volis mencii .
+Sed mi certe esperas , ke la tri sinjoroj akordigxos kun mi , kiam mi rakontos , ke mi cxi-vespere samopiniis kun mi mem , ke cxi tiuj bienoj ofertigxos al gxenerala mendo de akcioj ;
+kiu ajn kiu volas , povas preni parton en ili .
+MULTAJ=VOCxOJ Hura !
+Vivu konsulo Bernick !
+GRANDKOMERCISTO=RUMMEL ( mallauxte al konsulo Bernick ) Kia fia perfido -R !
+KOMERCISTO=SANDSTAD ( same ) Do trompis nin -L !
+KOMERCISTO=VIGELAND Nu , do la diablo sxiru -R !
+Ho kruco , kion mi estas diranta ?
+LA=AMASO ( ekstere ) Hura , hura , hura !
+KONSULO=BERNICK Silenton , miaj sinjoroj .
+Mi ne meritas cxi=tiun saluton ;
+cxar tio , kion mi nun decidis , ne estis de komence mia intenco .
+Mia intenco estis rezervi cxion por mi mem , kaj mi dauxre havas la opinion , ke cxi=tiuj bienoj plej bone estos utiligataj , se ili restos kune en unu mano .
+Sed oni povas elekti .
+Se oni tion deziras , mi estas preta administri ilin laux plej bona jugxo .
+VOCxOJ Jes ! Jes ! Jes !
+KONSULO=BERNICK Sed unue miaj kuncivitanoj devas koni min gxisfunde .
+Ke cxiu opulo esploru sin mem , kaj ke tio estu decidita , ke ekde cxi-vespere komencigxas nova tempo .
+La malnova , kun sia sxminkajxo , kun sia hipokriteco kaj sia falso , kun sia mensoga dececo kaj siaj mizeraj konsideroj , staru por ni kiel muzeo , malferma por instruo ;
+kaj al cxi tiu muzeo ni donacas , -L cxu ne , miaj sinjoroj ?
+-R la kafoservicon , la pokalon kaj la albumon kaj la dompredikaron sur veleno kaj en luksa bindajxo .
+GRANDKOMERCISTO=RUMMEL Jes , kompreneble .
+KOMERCISTO=VIGELAND ( murmuras ) Cxar Vi prenis la aliajxojn , do -L
+KOMERCISTO=SANDSTAD Bonvolu .
+KONSULO=BERNICK Kaj nun la cxefa reguligo kun mia socio .
+Dirigxis ke fiaj elementoj forlasis nin cxi-vespere .
+Mi povas aldoni , kion oni ne scias : La viro al kiu celigxas , ne forvojagxis sola ;
+lin akompanis por farigxi lia edzino -R
+FRAUxLINO=HESSEL ( lauxte ) Dina=Dorf !
+ADJUNKTO=ROERLUND Cxu !
+SINJORINO=BERNICK Kion vi diras !
+( granda movigxo )
+ADJUNKTO=ROERLUND Fugxis ?
+Forkurinta -L kun li !
+Neeblas !
+KONSULO=BERNICK Por farigxi lia edzino , sinjoro adjunkto .
+Kaj mi aldonas pli .
+( mallauxte ) Betty , regu vin , kaj portu tion , kio nun venas .
+( lauxte ) Mi diras : Levu la cxapelon por tiu viro ;
+cxar li grandanime prenis la pekon de aliulo sur sin .
+Miaj samcivitanoj , mi volas penetri el la malvero ;
+gxi estis preta venenigi cxiun opan fibron en mi . Vi sciu cxion .
+Mi estis antaux dek=kvin jaroj la kulpulo .
+SINJORINO=BERNICK ( malrapide kaj treme ) Karsten !
+FRAUxLINO=BERNICK ( same ) Ahx , Johan -R !
+FRAUxLINO=HESSEL Jen vi fine revenkis vin mem !
+( Konsternita surprizo inter la cxeestantaro .
+)
+KONSULO=BERNICK Jes , miaj samcivitanoj , mi estis la kulpulo , kaj li forvojagxis .
+La malicajn kaj malverajn onidirojn , kiuj poste disvastigxis , ne povas homa potenco kontraux-pruvi .
+Sed pro tio mi ne kuragxas plendi .
+Antaux dek=kvin jaroj mi altigxis pere de tiuj onidiroj ;
+se mi nun pro ili falu , pri tio cxiu ajn konsideru en si mem .
+ADJUNKTO=ROERLUND Kia fulma frapo !
+La elstarulo de la urbo -L !
+( mallauxte al sinjorino Bernick ) Ho , kiel mi bedauxras vin , sinjorino !
+HILMAR=TOENNESEN Kia konfeso !
+Nu , jen mi diru -R !
+KONSULO=BERNICK Sed neniu decido cxi-vespere .
+Mi petas cxiu ajn iri al la sia , -L pripensi , -R rigardi en si mem .
+Kiam trankvilo regas la animojn , montrigxos , cxu mi perdis aux gajnis parolante .
+Adiaux !
+Mi ankoraux havas multon , multon por penti ;
+sed tio koncernas nur mian konsciencon .
+Bonan nokton ! For la festa luksajxo .
+Tion ni cxiuj sentas , ke tiajxo ne havas sian gxustan lokon cxi=tie .
+ADJUNKTO=ROERLUND Certe ne .
+( mallauxte al sinjorino Bernick ) Forkurinta !
+Sxi do estis al mi tute maldigna .
+( duonlauxte al la festkomitato ) Jes , miaj sinjoroj , post tio=cxi mi opinias , ke plej bone estas , ke ni foriru en kompleta silento .
+HILMAR=TOENNESEN Kiel oni de nun povu teni alte la standardon de la ideo , tio -L .
+Uf ! ( La informo intertempe iris flustre de busxo al busxo .
+Cxiuj partoprenantoj en la standarda procesio foriras tra la gxardeno .
+Rummel , Sandstad kaj Vigeland foriras dum vigla , sed mallauxta disputo .
+Hilmar=Toennesen sxteliras elen dekstre .
+En silento restas en la salono konsulo Bernick , sinjorino Bernick , frauxlino Bernick , frauxlino Hessel kaj plenrajtigito Krap .
+)
+KONSULO=BERNICK Betty , cxu vi havas pardonon por mi ?
+SINJORINO=BERNICK ( rigardas lin ridete ) Sciu , Karsten , ke nun vi malfermis por mi la plej gxojan esperon dum multaj jaroj !
+KONSULO=BERNICK Kiel -R ?
+SINJORINO=BERNICK Dum multaj jaroj mi kredis , ke mi iam posedis vin , sed poste perdis vin .
+Nun mi scias , ke mi neniam posedis vin ;
+sed mi gajnu vin .
+KONSULO=BERNICK ( cxirkauxbrakas sxin ) Ho , Betty , vi jam gajnis min !
+Tra Lona mi unue lernis koni vin .
+Sed nun Olaf venu .
+SINJORINO=BERNICK Jes , nun vi ricevu lin .
+-L Sinjoro=Krap -R ! ( Sxi parolas mallauxte kun li en la fono .
+Li eliras tra la gxardena pordo .
+Dum tio kio sekvas estingigxas lauxvice cxiuj tralumajxoj kaj lumoj en la domoj .
+)
+KONSULO=BERNICK ( mallauxte ) Dankon , Lona , vi savis la plej bonan en mi -L kaj por mi .
+FRAUxLINO=HESSEL Cxu ion alian mi volis ?
+KONSULO=BERNICK Nu cxu , -R aux cxu ne ?
+Mi ne tute komprenas vin .
+FRAUxLINO=HESSEL Hm -L
+KONSULO=BERNICK Do ne malamo ?
+Ne vengxo ?
+Kial vi do revenis transen ?
+FRAUxLINO=HESSEL Malnova amikeco ne rustas .
+KONSULO=BERNICK Lona !
+FRAUxLINO=HESSEL Kiam Johan rakontis al mi tion pri la mensogo , mi jxuris en mi mem : La heroo de mia juneco staru libera kaj vera .
+KONSULO=BERNICK Ho , kiom malmulte mi mizera homo meritis tion de vi !
+FRAUxLINO=HESSEL Jes , se ni virinoj demandus pri la gajno , Karsten -R !
+( Sxipkonstruisto Auxne venas kun Olaf de la gxardeno .
+)
+KONSULO=BERNICK ( al li renkonte ) Olaf !
+OLAF Patro , mi promesas , ke mi neniam plu -L
+KONSULO=BERNICK Forkuros ?
+OLAF Jes , jes , tion mi promesas al vi , patro .
+KONSULO=BERNICK Kaj mi promesas al vi , ke vi neniam ekhavos kauxzon por tio .
+De nun vi kresku , ne kiel heredanto de mia vivotasko , sed kiel tiu , kiu mem havas vivotaskon atendanta .
+OLAF Kaj cxu mi ankaux rajtas farigxi , kion mi volas ?
+KONSULO=BERNICK Jes vi rajtas .
+OLAF Dankon .
+Do mi ne volas farigxi kolono de la socio .
+KONSULO=BERNICK Nu ?
+Kial ne ?
+OLAF Ne , cxar mi kredas , ke tio estas vere teda .
+KONSULO=BERNICK Vi farigxu vi mem , Olaf ;
+kaj la sekvo iru kiel gxi povas . -R Kaj Vi , Auxne -L
+SxIPKONSTRUISTO=AUxNE Mi scias , sinjoro konsulo ;
+mi havas mian maldungon .
+KONSULO=BERNICK Ni dauxrigos kune , Auxne ;
+kaj pardonu al mi -R
+SxIPKONSTRUISTO=AUxNE Kiel ?
+La sxipo do ne forvelos cxi-vespere .
+KONSULO=BERNICK Gxi ecx ne forvelos morgaux .
+Mi donis al Vi tro mallongan tempolimon .
+Gxi bezonas pli profundan inspekton .
+SxIPKONSTRUISTO=AUxNE Okazu , sinjoro konsulo -L kaj ecx per novaj masxinoj !
+KONSULO=BERNICK Tiel estu . Sed profunde kaj honeste .
+Estas multo cxe ni , kiu bezonas profundan kaj honestan riparon . Nun , bonan nokton , Auxne .
+SxIPKONSTRUISTO=AUxNE Bonan nokton , sinjoro konsulo ;
+-R kaj dankon , dankon , dankon ! ( Li eliras dekstre .
+)
+SINJORINO=BERNICK Nun cxiuj estas for .
+KONSULO=BERNICK Kaj ni estas solaj .
+Mia nomo ne=plu lumas per fajraj literoj ;
+cxiuj lumoj estingigxis en la fenestroj .
+FRAUxLINO=HESSEL Cxu vi dezirus ilin denove eklumigitaj ?
+KONSULO=BERNICK Ne por kiu ajn prezo en la mondo .
+Kie mi do estis !
+Vi timigxos , kiam vi scios tion .
+Nun estas kvazaux mi revenis al konscio post venenigxo .
+Sed mi tion sentas , -L ke mi povos denove farigxi juna kaj fresxa .
+Ho , venu pli proksimen , -R tuj apude cxirkaux mi .
+Venu Betty !
+Venu , Olaf , mia knabo !
+Kaj vi , Marta ; -L sxajnas al mi , ke mi ne vidis vin cxiujn tiujn=cxi jarojn .
+FRAUxLINO=HESSEL Ne , tion mi efektive kredas ;
+via socio estas socio de frauxloanimoj ;
+vi ne vidas la virinon .
+KONSULO=BERNICK Vere , vere ;
+kaj gxuste tial , -R nu , tio staras fikse , Lona , -L vi ne forvojagxos de Betty kaj mi .
+SINJORINO=BERNICK Ne , Lona , tion vi ne devas !
+FRAUxLINO=HESSEL Ne , kiel mi povus defendi forvojagxo de vi , junuloj , kiuj komencos establi hejmon ?
+Cxu mi ne estas eduka patrino ?
+Mi kaj vi , Marta , ni du maljunaj onklinoj -R .
+Por kio vi rigardas ? FRAUxLINO=BERNICK Kiel la cxielo klarigxas .
+Kiel lumas super la maro . La Palmo havas la felicxon kun si .
+FRAUxLINO=HESSEL Kaj la felicxon sursxipe .
+KONSULO=BERNICK Kaj ni -L ni havas longan seriozan labortagon atendanta ;
+pleje mi .
+Sed ke gxi venu ;
+kunigu vin dense al mi , vi fidelaj veroamaj virinoj .
+Tion mi ankaux lernis dum tiuj=cxi tagoj : Estas vi virinoj , kiuj estas la kolonoj de la socio .
+FRAUxLINO=HESSEL Do vi lernis kadukan sagxon , bofrato .
+( metas la manon peze sur lian sxultron ) Ho ne ;
+la spiritoj de vero kaj libereco , -R tiuj estas la kolonoj de la socio .
