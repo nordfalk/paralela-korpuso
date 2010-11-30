@@ -1,0 +1,1414 @@
+Jeppe|Jeppe|N Of|of|PRP The|the|ART Hill|hill|N Or|or|KC The|the|ART Transformed|transform|V Peasant|peasant|N
+Dramatis=personae|dramatis=personae|N :|_|_
+Baron|baron|N Nilus|Nilus|N
+Secretary|Secretary|N to|to|PRP the|the|ART Baron|baron|N .|_|_ Eric|Eric|N ,|_|_ a|a|ART lackey|lackey|N .|_|_ Other|other|DET Lackeys|lackey|N Bailiff|bailiff|N Bailiff's|bailiff|N Wife|wife|N A|a|ART Judge|judge|N Magnus|Magnus|N Act|act|N I|I|NUM Scene|scene|N I|I|NUM
+Nille|Nille|N .|_|_
+I|I|PERS hardly|hardly|ADV believe|believe|V-3S there_|there|ADV _s|be|V such|such|DET another|another|DET lazy|lazy|ADJ lout|lout|N in|in|PRP all|all|DET the|the|ART village|village|N as|as|PRP my|I|PERS husband|husband|N ,|_|_ it_|it|PERS _s|be|V as=much=as|as=much=as|ADV I|I|PERS can|can|V do|do|UNKNOWN to|to|INFM get|get|UNKNOWN him|he|PERS up|up|ADV in|in|PRP the|the|ART morning|morning|N by|by|PRP pulling|pull|UNKNOWN him|he|PERS out=of|out=of|PRP bed|bed|N by|by|PRP the|the|ART hair|hair|N .|_|_
+The|the|ART scoundrel|scoundrel|N knows|know|UNKNOWN to-day|to-day|ADV is|be|V market-day|market-day|N ,|_|_ and|and|KC yet|yet|ADV he|he|PERS lies|lie|UNKNOWN there|there|ADV asleep|asleep|ADV at|at|PRP this|this|DET hour|hour|N of|of|PRP the|the|ART morning|morning|N .|_|_
+The|the|ART pastor|pastor|N said|say|V to|to|PRP me|I|PERS the|the|ART other|other|DET day|day|N ,|_|_ "|_|_ Nille|Nille|N ,|_|_ you|you|PERS are|be|V-1/3S much|much|ADV too|too|ADV hard|hard|ADJ on|on|PRP your|you|PERS husband|husband|N ;|_|_
+he|he|PERS is|be|V and|and|KC he|he|PERS ought=to|ought=to|V be|be|V the|the|ART master|master|N of|of|PRP the|the|ART house|house|N .|_|_
+«|_|_ But|but|KC I|I|PERS answered|answer|V him|he|PERS ,|_|_ »|_|_ No|no|DET ,|_|_ my|I|PERS good|good|ADJ pastor|pastor|N !|_|_
+If|if|KS I|I|NUM should|shall|V let|let|V my|I|PERS husband|husband|N have|have|UNKNOWN his|he|PERS way|way|N in|in|PRP the|the|ART household|household|N for|for|PRP a|a|ART year|year|N ,|_|_ the|the|ART gentry|gentry|N would_|will|V _n't|not|ADV get|get|UNKNOWN their|they|PERS rent|rend|UNKNOWN nor|nor|KC the|the|ART pastor|pastor|N his|he|PERS offering|offering|N ,|_|_ for|for|KS in|in|PRP that|that|DET length|length|N of|of|PRP time|time|N he|he|PERS would|will|V turn|turn|UNKNOWN all|all|INDP there|there|ADV was|be|V in|in|PRP the|the|ART place|place|N into|into|PRP drink|drink|N .|_|_
+Ought|ought|V I|I|NUM let|let|V a|a|ART man|man|N rule|rule|N the|the|ART household|household|N who|who|INDP is|be|V perfectly|perfectly|ADV ready|ready|ADJ to|to|INFM sell|sell|V his|he|PERS belongings|belonging|N and|and|KC wife|wife|N and|and|KC children|child|N and|and|KC even|even|UNKNOWN himself|he|PERS for|for|PRP brandy|brandy|N ?|_|_
+"|_|_ The|the|ART pastor|pastor|N had|have|UNKNOWN nothing|nothing|INDP to|to|INFM say|say|V to|to|PRP that|that|INDP ,|_|_ but|but|KC stood|stand|UNKNOWN there|there|ADV stroking|stroke|UNKNOWN his|he|PERS chin|chin|N .|_|_
+The|the|ART bailiff|bailiff|N agrees|agree|V with|with|PRP me|I|PERS ,|_|_ and|and|KC says|say|V ,|_|_ "|_|_ My|I|PERS dear|dear|ADJ woman|woman|N ,|_|_ pay|pay|V-3S no|no|DET attention|attention|N to|to|PRP the|the|ART pastor|pastor|N .|_|_
+I|I|PERS pulled|pull|UNKNOWN him|he|PERS out=of|out=of|PRP bed|bed|N just|just|ADV now|now|ADV and|and|KC went|go|UNKNOWN out|out|ADV to|to|PRP the|the|ART barn|barn|N to|to|INFM see|see|UNKNOWN how|how|ADV things|thing|N were|be|V-1/3S getting|get|UNKNOWN along|along|ADV ,|_|_ when|when|ADV I|I|PERS came|come|UNKNOWN in|in|ADV again|again|ADV ,|_|_ he|he|PERS was|be|V sitting|sit|UNKNOWN on|on|PRP a|a|ART chair|chair|N ,|_|_ asleep|asleep|ADV ,|_|_ with|with|PRP his|he|PERS breeches|breeches|N --|_|_ saving|save|V your|you|PERS presence|presence|N --|_|_ pulled|pull|UNKNOWN on|on|PRP one|one|NUM leg|leg|N ;|_|_
+so|so|ADV the|the|ART switch|switch|N had|have|UNKNOWN to|to|INFM come|come|UNKNOWN down|down|ADV from|from|PRP the|the|ART hook|hook|N ,|_|_ and|and|KC my|I|PERS good|good|ADJ Jeppe|Jeppe|N got|get|UNKNOWN a|a|ART basting|basting|N till|till|PRP he|he|PERS was|be|V wide|wide|ADV awake|awake|ADJ again|again|ADV .|_|_
+The|the|ART only|only|ADJ thing|thing|N he|he|PERS is|be|V afraid|afraid|ADJ of|of|PRP is|be|V «|_|_ Master|master|N Eric|Eric|N ,|_|_ »|_|_ as|as|KS I|I|PERS call|call|UNKNOWN the|the|ART switch|switch|N .|_|_
+Hey|hey|IN ,|_|_ Jeppe|Jeppe|N ,|_|_ you|you|PERS cur|cur|N ,|_|_ have_|have|UNKNOWN _n't|not|ADV you|you|PERS got|get|UNKNOWN into|into|PRP your|you|PERS clothes|clothes|N yet|yet|ADV ?|_|_
+Would|will|V you|you|PERS like|like|V to|to|INFM talk|talk|V to|to|INFM Master|master|V Eric|Eric|N some|some|DET more|much|ADV ?|_|_
+Hey|hey|IN ,|_|_ Jeppe|Jeppe|N !|_|_
+Come|come|UNKNOWN in|in|ADV here|here|ADV !|_|_
+Scene|scene|N 2|2|NUM Jeppe|Jeppe|N .|_|_
+I_|I|PERS _ve|have|UNKNOWN got|get|UNKNOWN to|to|INFM have|have|UNKNOWN time|time|N to|to|INFM get|get|UNKNOWN dressed|dress|UNKNOWN ,|_|_ Nille|Nille|N !|_|_
+I|I|PERS can_|can|V _n't|not|ADV go|go|UNKNOWN to|to|PRP town-like|town-like|ADJ a|a|ART hog|hog|N without|without|PRP my|I|PERS breeches|breeches|N or|or|KC my|I|PERS jacket|jacket|N .|_|_
+Nille|Nille|N .|_|_
+Scurvy-neck|scurvy-neck|N !|_|_ Have_|have|UNKNOWN _n't|not|ADV you|you|PERS had|have|UNKNOWN time|time|N to|to|INFM put|put|UNKNOWN on|on|ADV ten|ten|NUM pairs|pair|N of|of|PRP breeches|breeches|N since|since|KS I|I|PERS waked|wake|V you|you|PERS this|this|DET morning|morning|N ?|_|_
+Jeppe|Jeppe|N .|_|_
+Have|have|UNKNOWN you|you|PERS put|put|UNKNOWN away|away|ADV Master|master|N Eric|Eric|N ,|_|_ Nille|Nille|N ?|_|_
+Nille|Nille|N .|_|_
+Yes|yes|IN ,|_|_ I|I|PERS have|have|UNKNOWN ,|_|_ but|but|KC I|I|PERS know|know|UNKNOWN mighty|mighty|ADJ well|well|ADV where|where|ADV to|to|INFM find|find|V him|he|PERS again|again|ADV ,|_|_ if|if|KS you|you|PERS do_|do|UNKNOWN _n't|not|ADV step|step|V lively|lively|ADJ .|_|_
+Come|come|UNKNOWN here|here|ADV !|_|_
+--|_|_ See|see|UNKNOWN how|how|ADV he|he|PERS crawls|crawl|V .|_|_
+--|_|_ Come|come|UNKNOWN here|here|ADV !|_|_
+You|you|PERS must|must|V go|go|UNKNOWN to|to|PRP town|town|N and|and|KC buy|buy|V me|I|PERS two|two|NUM pounds|pound|N of|of|PRP soft|soft|ADJ soap|soap|N ,|_|_ here's|here|N the|the|ART money|money|N for|for|PRP it|it|PERS .|_|_
+But|but|KC see|see|UNKNOWN here|here|ADV ,|_|_ if|if|KS you_|you|PERS _re|be|V-1/3S not|not|ADV back|back|ADV on|on|PRP this|this|DET very|very|ADJ spot|spot|N inside|inside|ADV of|of|PRP four|four|NUM hours|hour|N ,|_|_ Master|master|N Eric|Eric|N will|will|V dance|dance|V the|the|ART polka|polka|N on|on|PRP your|you|PERS back|back|N .|_|_
+Jeppe|Jeppe|N .|_|_
+How|how|ADV can|can|V I|I|PERS walk|walk|V four|four|NUM leagues|league|N in|in|PRP four|four|NUM hours|hour|N ,|_|_ Nille|Nille|N ?|_|_
+Nille|Nille|N .|_|_
+Who|who|INDP said|say|V anything|anything|INDP about|about|ADV walking|walk|V ,|_|_ you|you|PERS cuckold|cuckold|V-3S ?|_|_
+You|you|PERS run|run|V-3S .|_|_
+I_|I|PERS _ve|have|UNKNOWN said|say|V my|I|PERS say|say|N once|once|ADV for|for|PRP all|all|INDP ,|_|_ now|now|ADV do|do|UNKNOWN as|as|PRP you|you|PERS like|like|PRP .|_|_ [|_|_ Exit|exit|N Nille|Nille|N .|_|_
+]|_|_ Scene|scene|N 3|3|NUM
+Jeppe|Jeppe|N .|_|_
+Now|now|ADV the|the|ART sow's|sow|N going|go|V in|in|ADV to|to|INFM eat|eat|V her|she|PERS breakfast|breakfast|N ,|_|_ while|while|KS I|I|PERS ,|_|_ poor|poor|ADJ devil|devil|N ,|_|_ must|must|V walk|walk|V four|four|NUM leagues|league|N without|without|PRP bite|bite|N or|or|KC sup|sup|N .|_|_
+Could|can|V any|any|DET man|man|N have|have|UNKNOWN such|such|DET a|a|ART damnable|damnable|ADJ wife|wife|N as|as|KS I|I|PERS have|have|UNKNOWN ?|_|_
+I|I|PERS honestly|honestly|ADV think|think|V-3S she_|she|PERS _s|be|V own|own|DET cousin|cousin|N to|to|PRP Lucifer|Lucifer|N .|_|_
+Folks|folk|N in|in|PRP the|the|ART village|village|N say|say|V-3S that|that|KS Jeppe|Jeppe|N drinks|drink|N ,|_|_ but|but|KC they|they|PERS do_|do|UNKNOWN _n't|not|ADV say|say|V why|why|ADV Jeppe|Jeppe|N drinks|drink|V :|_|_ I|I|PERS did_|do|UNKNOWN _n't|not|ADV get|get|UNKNOWN as|as|ADV many|many|DET blows|blow|N in|in|PRP all|all|DET the|the|ART ten|ten|NUM years|year|N I|I|PERS was|be|V in|in|PRP the|the|ART militia|militia|N as|as|KS I|I|PERS get|get|UNKNOWN in|in|PRP one|one|NUM day|day|N from|from|PRP my|I|PERS malicious|malicious|ADJ wife|wife|N .|_|_
+She|she|PERS beats|beat|UNKNOWN me|I|PERS ,|_|_ the|the|ART bailiff|bailiff|N drives|drive|UNKNOWN me|I|PERS to|to|INFM work|work|UNKNOWN as=if|as=if|KS I|I|PERS were|be|V-1/3S an|a|ART animal|animal|N ,|_|_ and|and|KC the|the|ART deacon|deacon|N makes|make|UNKNOWN a|a|ART cuckold|cuckold|N of|of|PRP me|I|PERS .|_|_
+Have_|have|UNKNOWN _n't|not|ADV I|I|PERS good|good|ADJ reason|reason|N to|to|INFM drink|drink|V ?|_|_
+Do_|do|UNKNOWN _n't|not|ADV I|I|PERS have|have|UNKNOWN to|to|INFM use|use|V the|the|ART means|means|N nature|nature|N gives|give|UNKNOWN us|we|PERS to|to|INFM drive|drive|UNKNOWN away|away|ADV our|we|PERS troubles|troubles|N ?|_|_
+If|if|KS I|I|NUM were|be|V-1/3S a|a|ART dolt|dolt|N ,|_|_ I|I|PERS should_|shall|V _n't|not|ADV take|take|UNKNOWN it|it|PERS to|to|INFM heart|heart|V so|so|ADV ,|_|_ and|and|KC I|I|PERS should_|shall|V _n't|not|ADV drink|drink|V so|so|ADV much|much|ADV ,|_|_ either|either|INDP ;|_|_
+but|but|KC it_|it|PERS _s|be|V a|a|ART well-known|well-known|ADJ fact|fact|N that|that|KS I|I|PERS am|be|V an|a|ART intelligent|intelligent|ADJ man|man|N ;|_|_
+so|so|ADV I|I|PERS feel|feel|UNKNOWN such|such|DET things|thing|N more=than|more=than|KS others|other|INDP would|will|V ,|_|_ and|and|KC that_|that|INDP _s|be|V why|why|ADV I|I|PERS have|have|UNKNOWN to|to|INFM drink|drink|V .|_|_
+My|I|PERS neighbor|neighbor|N Moens=Christoffersen|Moens=Christoffersen|N often|often|ADV says|say|V to|to|PRP me|I|PERS ,|_|_ speaking|speak|V as|as|PRP my|I|PERS good|good|ADJ friend|friend|N ,|_|_ "|_|_ May|May|N the|the|ART devil|devil|N gnaw|gnaw|UNKNOWN your|you|PERS fat|fat|ADJ belly|belly|N ,|_|_ Jeppe|Jeppe|N !|_|_
+You|you|PERS must|must|V hit|hit|UNKNOWN back|back|ADV ,|_|_ if|if|KS you|you|PERS want|want|UNKNOWN your|you|PERS old|old|ADJ woman|woman|N to|to|INFM behave|behave|V .|_|_
+"|_|_ But|but|KC I|I|NUM can_|can|V _n't|not|ADV do|do|UNKNOWN anything|anything|INDP to|to|INFM protect|protect|V myself|I|PERS ,|_|_ for|for|PRP three|three|NUM reasons|reason|N :|_|_ in|in|PRP the|the|ART the|the|ART first|first|NUM place|place|N ,|_|_ because|because|KS I|I|PERS have_|have|UNKNOWN _n't|not|ADV any|any|DET courage|courage|N ;|_|_
+in|in|PRP the|the|ART second|second|NUM ,|_|_ because=of|because=of|PRP that|that|INDP damned|damn|V Master|master|N Eric|Eric|N hanging|hang|UNKNOWN behind|behind|PRP the|the|ART bed|bed|N ,|_|_ which|which|INDP my|I|PERS back|back|N can_|can|V _n't|not|ADV think|think|V of|of|PRP without|without|KS blubbering|blubbering|ADJ ;|_|_
+and|and|KC thirdly|thirdly|ADV ,|_|_ because|because|KS I|I|PERS am|be|V ,|_|_ if|if|KS I|I|PERS do|do|UNKNOWN say|say|V it|it|PERS who|who|INDP should_|shall|V _n't|not|ADV ,|_|_ a|a|ART meek|meek|ADJ soul|soul|N and|and|KC a|a|ART good|good|ADJ Christian|Christian|N ,|_|_ who|who|INDP never|never|ADV tries|try|V to|to|INFM revenge|revenge|V himself|he|PERS ,|_|_ even|even|ADV on|on|PRP the|the|ART deacon|deacon|N who|who|INDP puts|put|UNKNOWN one|one|NUM horn|horn|N on|on|PRP me|I|PERS after|after|PRP another|another|INDP .|_|_
+I|I|PERS put|put|UNKNOWN my|I|PERS mite|mite|N in|in|PRP the|the|ART plate|plate|N for|for|PRP him|he|PERS on|on|PRP the|the|ART three|three|NUM holy-days|holy-day|N ,|_|_ although|although|KS he|he|PERS has_|have|UNKNOWN _n't|not|ADV the|the|ART decency|decency|N to|to|INFM give|give|UNKNOWN me|I|PERS so|so|ADV much|much|ADV as|as|PRP one|one|NUM mug|mug|N of|of|PRP ale|ale|N all|all|DET the|the|ART year|year|N round|round|N .|_|_
+Nothing|nothing|INDP ever|ever|ADV wounded|wounded|ADJ me|I|PERS more|much|ADV deeply|deeply|ADV than|than|PRP the|the|ART cutting|cutting|ADJ speech|speech|N he|he|PERS made|make|UNKNOWN me|I|PERS last|last|ADJ year|year|N :|_|_ I|I|PERS was|be|V telling|tell|V how|how|ADV once|once|KS a|a|ART savage|savage|ADJ bull|bull|N ,|_|_ that|that|INDP had|have|UNKNOWN never|never|ADV been|be|V afraid|afraid|ADJ of|of|PRP any|any|DET man|man|N ,|_|_ took|take|UNKNOWN fright|fright|N at|at|PRP the|the|ART sight|sight|N of|of|PRP me|I|PERS ;|_|_
+and|and|KC he|he|PERS answered|answer|V ,|_|_ "|_|_ Don't|Don't|N you|you|PERS see|see|UNKNOWN how|how|ADV that|that|INDP happened|happen|V ,|_|_ Jeppe|Jeppe|N ?|_|_
+The|the|ART bull|bull|N saw|see|UNKNOWN that|that|KS you|you|PERS had|have|UNKNOWN bigger|big|ADJ horns|horn|N than|than|PRP he|he|PERS ,|_|_ so|so|KS he|he|PERS did_|do|UNKNOWN _n't|not|ADV think|think|V it|it|PERS prudent|prudent|ADJ to|to|INFM lock|lock|UNKNOWN horns|horn|N with|with|PRP his|he|PERS superior|superior|N .|_|_
+"|_|_ I|I|PERS call|call|UNKNOWN you|you|PERS to|to|INFM witness|witness|V ,|_|_ good|good|ADJ people|people|N ,|_|_ if|if|KS such|such|DET words|word|N would|will|V not|not|ADV pierce|pierce|UNKNOWN an|a|ART honorable|honorable|ADJ man|man|N to|to|PRP the|the|ART marrow|marrow|N of|of|PRP his|he|PERS bones|bone|N .|_|_
+Still|still|ADV ,|_|_ I|I|PERS am|be|V so|so|ADV gentle|gentle|ADJ that|that|KS I|I|PERS have|have|UNKNOWN never|never|ADV even|even|ADV wished|wish|V my|I|PERS wife|wife|N dead|dead|ADJ .|_|_
+On=the=contrary|on=the=contrary|ADV ,|_|_ when|when|ADV she|she|PERS lay|lie|UNKNOWN sick|sick|ADJ of|of|PRP a|a|ART jaundice|jaundice|N last|last|ADJ year|year|N ,|_|_ I|I|PERS hoped|hope|V she|she|PERS might|may|V live|live|V ;|_|_
+for|for|PRP as|as|KS hell|hell|N is|be|V already|already|ADV full|full|ADJ of|of|PRP bad|bad|ADJ women|woman|N ,|_|_ Lucifer|Lucifer|N might|may|V send|send|UNKNOWN her|she|PERS back|back|ADV again|again|ADV ,|_|_ and|and|KC then|then|ADV she_|she|PERS _d|will|V be|be|V worse|bad|ADJ than|than|PRP ever|ever|ADV .|_|_
+But|but|KC if|if|KS the|the|ART deacon|deacon|N should|shall|V die|die|UNKNOWN ,|_|_ I|I|PERS should|shall|V be|be|V glad|glad|ADJ ,|_|_ for|for|PRP my|I|PERS own|own|DET sake|sake|N and|and|KC for|for|PRP others'|other|INDP as=well|as=well|ADV ,|_|_ for|for|KS he|he|PERS does|do|UNKNOWN me|I|PERS nothing|nothing|INDP but|but|KC evil|evil|ADJ and|and|KC is|be|V no|no|DET use|use|N to|to|PRP the|the|ART parish|parish|N .|_|_
+He_|he|PERS _s|be|V an|a|ART ignorant|ignorant|ADJ devil|devil|N ,|_|_ for|for|KS he|he|PERS can_|can|V _n't|not|ADV sing|sing|V a|a|ART note|note|N ,|_|_ much|much|ADV less|little|ADV mould|mould|V a|a|ART decent|decent|ADJ wax|wax|N candle|candle|N .|_|_
+Oh|oh|IN ,|_|_ but|but|KC his|he|PERS predecessor|predecessor|N ,|_|_ Christoffer|Christoffer|N ,|_|_ was|be|V a|a|ART different|different|ADJ sort|sort|N of|of|PRP fellow|fellow|N .|_|_
+He|he|PERS had|have|UNKNOWN such|such|DET a|a|ART voice|voice|N in|in|PRP his|he|PERS time|time|N that|that|INDP he|he|PERS sang|sing|V down|down|PRP twelve|twelve|NUM deacons|deacon|N in|in|PRP the|the|ART Credo|credo|N .|_|_
+Once|once|KS I|I|NUM started|start|V to|to|INFM quarrel|quarrel|V openly|openly|ADV with|with|PRP the|the|ART deacon|deacon|N ,|_|_ when|when|ADV Nille|Nille|N herself|she|DET heard|hear|V him|he|PERS call|call|UNKNOWN me|I|PERS a|a|ART cuckold|cuckold|N .|_|_
+I|I|PERS said|say|V ,|_|_ "|_|_ May|May|N the|the|ART devil|devil|N be|be|V your|you|PERS cuckold|cuckold|N ,|_|_ deacon|deacon|N !|_|_
+"|_|_ But|but|KC what|what|DET good|good|N did|do|UNKNOWN it|it|PERS do|do|UNKNOWN ?|_|_
+Master|master|N Eric|Eric|N came|come|UNKNOWN right|right|ADJ down|down|ADV off|off|PRP the|the|ART wall|wall|N to|to|INFM stop|stop|UNKNOWN the|the|ART quarrel|quarrel|N ,|_|_ and|and|KC my|I|PERS back|back|N got|get|UNKNOWN such|such|DET a|a|ART drubbing|drubbing|N that|that|INDP I|I|PERS had|have|UNKNOWN to|to|INFM ask|ask|V the|the|ART deacon's|deacon|N leave|leave|N to|to|INFM thank|thank|V him|he|PERS ,|_|_ that|that|KS he|he|PERS ,|_|_ as|as|PRP a|a|ART well-educated|well-educated|ADJ man|man|N ,|_|_ should|shall|V do|do|UNKNOWN such|such|DET an|a|ART honor|honor|N to|to|PRP our|we|PERS house|house|N .|_|_
+Since|since|PRP that|that|DET time|time|N I|I|PERS have_|have|UNKNOWN _n't|not|ADV thought|think|V of|of|PRP making|make|UNKNOWN any|any|DET opposition|opposition|N .|_|_
+Yes|yes|IN ,|_|_ yes|yes|IN ,|_|_ Moens|Moens|N Christoffersen|Christoffersen|N !|_|_
+You|you|PERS and|and|KC the|the|ART other|other|DET peasants|peasant|N can|can|V very|very|ADV well|well|ADV talk|talk|V ,|_|_ because|because|KS your|you|PERS wives|wife|N have_|have|UNKNOWN _n't|not|ADV any|any|DET Master|master|N Eric|Eric|N hanging|hang|UNKNOWN behind|behind|PRP the|the|ART bed|bed|N .|_|_
+If|if|KS I|I|NUM had|have|UNKNOWN one|one|NUM wish|wish|N in|in|PRP the|the|ART world|world|N ,|_|_ it|it|PERS would|will|V be|be|V either|either|ADV that|that|KS my|I|PERS wife|wife|N had|have|UNKNOWN no|no|DET arms|arm|N ,|_|_ or|or|KC that|that|INDP I|I|PERS had|have|UNKNOWN no|no|DET back|back|ADV .|_|_
+She|she|PERS may|may|V use|use|V her|she|PERS mouth|mouth|UNKNOWN as|as|ADV much|much|INDP as|as|PRP she|she|PERS pleases|please|V .|_|_
+But|but|KC I|I|NUM must|must|V stop|stop|UNKNOWN at|at|PRP Jacob=Shoemaker's|Jacob=Shoemaker|N on|on|PRP the|the|ART way|way|N --|_|_ he_|he|PERS _ll|will|V surely|surely|ADV let|let|V me|I|PERS have|have|UNKNOWN a|a|ART pennyworth|pennyworth|N of|of|PRP brandy|brandy|N on|on|PRP credit|credit|N --|_|_ for|for|KS I|I|PERS must|must|V have|have|UNKNOWN something|something|INDP to|to|INFM quench|quench|V my|I|PERS thirst|thirst|N .|_|_
+Hey|hey|IN ,|_|_ Jacob=Shoemaker|Jacob=Shoemaker|N !|_|_
+Are|be|V-1/3S you|you|PERS up|up|ADV yet|yet|ADV ?|_|_
+Open|Open|N the|the|ART door|door|N ,|_|_ Jacob|Jacob|N !|_|_
+Scene|scene|N 4|4|NUM
+(|_|_ Enter|enter|UNKNOWN Jacob=Shoemaker|Jacob=Shoemaker|N ,|_|_ in|in|PRP his|he|PERS shirt|shirt|N .|_|_
+)|_|_
+Jacob|Jacob|N .|_|_
+Who|who|INDP the|the|ART dickens|dickens|N wants|want|UNKNOWN to|to|INFM get|get|UNKNOWN in|in|ADV so|so|ADV early|early|ADV ?|_|_
+Jeppe|Jeppe|N .|_|_
+Good|good|ADJ morning|morning|N to|to|PRP you|you|PERS ,|_|_ Jacob=Shoemaker|Jacob=Shoemaker|N .|_|_
+Jacob|Jacob|N .|_|_
+Thank|thank|V-3S you|you|PERS ,|_|_ Jeppe|Jeppe|N !|_|_
+You|you|PERS are|be|V-1/3S up|up|ADV and|and|KC about|about|ADV bright|bright|ADJ and|and|KC early|early|ADV to-day|to-day|ADV .|_|_
+Jeppe|Jeppe|N .|_|_
+Let|let|V us|we|PERS have|have|UNKNOWN a|a|ART pennyworth|pennyworth|N of|of|PRP brandy|brandy|N ,|_|_ Jacob|Jacob|N !|_|_
+Jacob|Jacob|N .|_|_
+With|with|PRP all|all|DET my|I|PERS heart|heart|N ,|_|_ when|when|ADV you|you|PERS show|show|V-3S me|I|PERS the|the|ART penny|penny|N .|_|_
+Jeppe|Jeppe|N .|_|_
+I_|I|PERS _ll|will|V give|give|UNKNOWN it|it|PERS to|to|PRP you|you|PERS when|when|ADV I|I|PERS come|come|UNKNOWN back|back|ADV here|here|ADV tomorrow|tomorrow|ADV .|_|_
+Jacob|Jacob|N .|_|_
+Jacob=Shoemaker|Jacob=Shoemaker|N does_|do|UNKNOWN _n't|not|ADV give|give|UNKNOWN credit|credit|N ,|_|_ I|I|PERS know|know|UNKNOWN you|you|PERS must|must|V have|have|UNKNOWN a|a|ART penny|penny|N or|or|KC two|two|NUM about|about|PRP you|you|PERS to|to|INFM pay|pay|V with|with|PRP .|_|_
+Jeppe|Jeppe|N .|_|_
+Honestly|honestly|ADV ,|_|_ Jacob|Jacob|N ,|_|_ I|I|PERS have|have|UNKNOWN nothing|nothing|INDP but|but|KC what|what|DET my|I|PERS wife|wife|N gave|give|UNKNOWN me|I|PERS to|to|INFM spend|spend|V in|in|PRP town|town|N for|for|PRP her|she|PERS .|_|_
+Jacob|Jacob|N .|_|_
+You|you|PERS can|can|V easily|easily|ADV beat|beat|UNKNOWN them|they|PERS down|down|ADV a=few|a=few|INDP pence|pence|N on|on|PRP what|what|INDP you|you|PERS buy|buy|V-3S .|_|_
+What|what|INDP is|be|V it|it|PERS you_|you|PERS _re|be|V-1/3S to|to|INFM get|get|UNKNOWN her|she|PERS ?|_|_
+Jeppe|Jeppe|N .|_|_
+I|I|PERS have|have|UNKNOWN to|to|INFM buy|buy|V two|two|NUM pounds|pound|N of|of|PRP soft|soft|ADJ soap|soap|N .|_|_
+Jacob|Jacob|N .|_|_
+Why|why|ADV ,|_|_ can_|can|V _n't|not|ADV you|you|PERS tell|tell|V her|she|PERS the|the|ART soap|soap|N cost|cost|N a|a|ART penny|penny|N or|or|KC two|two|NUM more|much|ADV than|than|KS you|you|PERS give|give|UNKNOWN for|for|PRP it|it|PERS ?|_|_
+Jeppe|Jeppe|N .|_|_
+I_|I|PERS _m|be|V so|so|ADV afraid|afraid|ADJ my|I|PERS wife|wife|N would|will|V find|find|V out|out|ADV about|about|PRP it|it|PERS ,|_|_ and|and|KC then|then|ADV I_|I|PERS _d|will|V be|be|V in|in|PRP trouble|trouble|N .|_|_
+Jacob|Jacob|N .|_|_
+Nonsense|nonsense|N !|_|_
+How|how|ADV could|can|V she|she|PERS find|find|V out|out|ADV ?|_|_
+Can_|can|V _n't|not|ADV you|you|PERS swear|swear|V that|that|KS you|you|PERS paid|pay|V out|out|ADV all|all|DET the|the|ART money|money|N ?|_|_
+You_|you|PERS _re|be|V-1/3S as|as|ADV stupid|stupid|ADJ as|as|PRP an|a|ART ox|ox|N .|_|_
+Jeppe|Jeppe|N .|_|_
+That's|That|N true|true|ADJ ,|_|_ Jacob|Jacob|N !|_|_
+I|I|PERS can|can|V do|do|UNKNOWN that|that|ADV well|well|ADV enough|enough|ADV .|_|_
+Jacob|Jacob|N .|_|_
+Out|out|ADV with|with|PRP your|you|PERS penny|penny|N .|_|_
+Jeppe|Jeppe|N .|_|_
+Here|here|ADV you|you|PERS are|be|V-1/3S ,|_|_ but|but|KC you|you|PERS must|must|V give|give|UNKNOWN me|I|PERS a|a|ART penny|penny|N change|change|N .|_|_
+Jacob|Jacob|N (|_|_ coming|come|UNKNOWN in|in|ADV with|with|PRP the|the|ART glass|glass|N ;|_|_
+drinks|drink|N to|to|PRP him|he|PERS )|_|_ .|_|_
+Your|you|PERS health|health|N ,|_|_ Jeppe|Jeppe|N !|_|_
+Jeppe|Jeppe|N .|_|_
+What|what|INDP a=lot|a=lot|INDP you|you|PERS take|take|UNKNOWN ,|_|_ you|you|PERS rogue|rogue|V-3S !|_|_
+Jacob|Jacob|N .|_|_
+Oh|oh|IN ,|_|_ yes|yes|IN ,|_|_ but|but|KC it_|it|PERS _s|be|V the|the|ART custom|custom|N for|for|PRP the|the|ART host|host|N to|to|INFM drink|drink|V his|he|PERS guest's|guest|N health|health|N .|_|_
+Jeppe|Jeppe|N .|_|_
+I|I|PERS know|know|UNKNOWN it|it|PERS is|be|V ,|_|_ but|but|KC bad|bad|ADJ luck|luck|N to|to|PRP the|the|ART man|man|N that|that|INDP started|start|V the|the|ART custom|custom|N .|_|_
+Your|you|PERS health|health|N ,|_|_ Jacob|Jacob|N !|_|_
+Jacob|Jacob|N .|_|_
+Thanks|thanks|IN ,|_|_ Jeppe|Jeppe|N !|_|_
+You_|you|PERS _ll|will|V drink|drink|V the|the|ART other|other|DET pennyworth|pennyworth|N next|next|DET ,|_|_ so|so|ADV there_|there|ADV _s|be|V no|no|DET use|use|N your|you|PERS troubling|trouble|V about|about|PRP change|change|N .|_|_
+Or|or|KC do|do|UNKNOWN you|you|PERS want|want|UNKNOWN a|a|ART glass|glass|N to|to|PRP your|you|PERS credit|credit|N when|when|ADV you|you|PERS come|come|UNKNOWN again|again|ADV ?|_|_
+For|for|PRP I|I|PERS give|give|UNKNOWN you|you|PERS my|I|PERS word|word|N I|I|PERS have_|have|UNKNOWN _n't|not|ADV any|any|DET change|change|N .|_|_
+Jeppe|Jeppe|N .|_|_
+I_|I|PERS _m|be|V damned|damned|ADJ if|if|KS I|I|PERS do|do|UNKNOWN !|_|_
+If|if|KS it_|it|PERS _s|be|V got|get|UNKNOWN to|to|INFM be|be|V spent|spend|V ,|_|_ it|it|PERS might|may|V as=well|as=well|ADV be|be|V spent|spend|V now|now|ADV ,|_|_ so=that|so=that|KS I|I|PERS can|can|V feel|feel|UNKNOWN I|I|PERS have|have|UNKNOWN something|something|INDP under|under|PRP my|I|PERS belt|belt|N ;|_|_
+but|but|KC if|if|KS you|you|PERS drink|drink|V-3S any|any|DET of|of|PRP it|it|PERS ,|_|_ I|I|PERS will_|will|V _n't|not|ADV pay|pay|V .|_|_
+Jacob|Jacob|N .|_|_
+Your|you|PERS health|health|N !|_|_
+Jeppe|Jeppe|N .|_|_
+God|God|N save|save|V our|we|PERS friends|friend|N and|and|KC ill|ill|ADV befall|befall|V-3S our|we|PERS enemies|enemy|N .|_|_
+That|that|INDP does|do|UNKNOWN my|I|PERS belly|belly|N good|good|ADJ .|_|_
+Um-m-m.|um-m-m.|N
+Jacob|Jacob|N .|_|_
+Good|good|ADJ luck|luck|N on|on|PRP your|you|PERS way|way|N ,|_|_ Jeppe|Jeppe|N .|_|_
+Jeppe|Jeppe|N .|_|_
+Thanks|thanks|IN ,|_|_ Jacob=Shoemaker|Jacob=Shoemaker|N .|_|_ (|_|_ Exit|exit|N Jacob|Jacob|N .|_|_
+)|_|_
+Scene|scene|N 5|5|NUM
+(|_|_ Jeppe|Jeppe|N feels|feel|UNKNOWN happy|happy|ADJ and|and|KC begins|begin|V to|to|INFM sing|sing|V .|_|_
+)|_|_
+A|a|ART white|white|ADJ hen|hen|N and|and|KC a|a|ART speckled|speckled|ADJ hen|hen|N Got|get|UNKNOWN into|into|PRP a|a|ART row|row|N with|with|PRP a|a|ART rooster|rooster|N --|_|_ Oh|oh|IN ,|_|_ if|if|KS I|I|PERS only|only|ADV dared|dare|V drink|drink|N another|another|DET pennyworth|pennyworth|N !|_|_
+Oh|oh|IN ,|_|_ if|if|KS I|I|PERS only|only|ADV dared|dare|V drink|drink|N another|another|DET pennyworth|pennyworth|N !|_|_
+I|I|PERS think|think|V-3S I_|I|PERS _ll|will|V do|do|UNKNOWN it|it|PERS .|_|_
+No|no|DET ,|_|_ ill|ill|ADJ will|will|V come|come|UNKNOWN of|of|PRP it|it|PERS .|_|_
+If|if|KS I|I|NUM could|can|V once|once|ADV get|get|UNKNOWN the|the|ART inn|inn|N out=of|out=of|PRP my|I|PERS sight|sight|N ,|_|_ I|I|PERS should_|shall|V _n't|not|ADV need|need|V to|to|INFM ;|_|_
+but|but|KC it_|it|PERS _s|be|V as=if|as=if|KS some|some|DET one|one|PERS were|be|V-1/3S holding|hold|UNKNOWN me|I|PERS back|back|ADV .|_|_
+I_|I|PERS _ve|have|UNKNOWN got|get|UNKNOWN to|to|INFM go|go|UNKNOWN in|in|ADV again|again|ADV .|_|_
+But|but|KC what|what|INDP is|be|V this|this|INDP you|you|PERS are|be|V-1/3S doing|do|V ,|_|_ Jeppe|Jeppe|N ?|_|_
+I|I|PERS seem|seem|V-3S to|to|INFM see|see|UNKNOWN Nille|Nille|N standing|stand|UNKNOWN in|in|PRP my|I|PERS path|path|N with|with|PRP Master|master|N Eric|Eric|N in|in|PRP her|she|PERS hand|hand|N .|_|_
+I|I|PERS must|must|V turn|turn|UNKNOWN round|round|ADJ again|again|ADV .|_|_
+Oh|oh|IN ,|_|_ if|if|KS I|I|PERS only|only|ADV dared|dare|V drink|drink|N another|another|DET pennyworth|pennyworth|N !|_|_
+My|I|PERS belly|belly|N says|say|V ,|_|_ «|_|_ Do|do|UNKNOWN it|it|PERS ;|_|_ »|_|_
+my|I|PERS back|back|N ,|_|_ «|_|_ Don't|don't|N .|_|_ »|_|_
+Which|which|DET shall|shall|V I|I|PERS obey|obey|V ?|_|_ Is_|be|V _n't|not|ADV my|I|PERS belly|belly|N bigger|big|ADJ than|than|PRP my|I|PERS back|back|N ?|_|_
+I|I|PERS think|think|V-3S it|it|PERS is|be|V .|_|_
+Shall|shall|V I|I|NUM knock|knock|UNKNOWN ?|_|_
+Hey|hey|IN ,|_|_ Jacob=Shoemaker|Jacob=Shoemaker|N ,|_|_ come|come|UNKNOWN out|out|ADV here|here|ADV !|_|_
+But|but|KC that|that|DET cursed|curse|V woman|woman|N comes|come|UNKNOWN before|before|PRP my|I|PERS eyes|eye|N again|again|ADV .|_|_
+If|if|KS she|she|PERS only|only|ADV did_|do|UNKNOWN _n't|not|ADV break|break|UNKNOWN the|the|ART bones|bone|N of|of|PRP my|I|PERS back|back|N when|when|ADV she|she|PERS beats|beat|UNKNOWN me|I|PERS ,|_|_ I_|I|PERS _d|have|V let|let|V her|she|PERS go|go|UNKNOWN to|to|PRP the|the|ART devil|devil|N ,|_|_ but|but|KC she|she|PERS lays|lay|UNKNOWN on|on|PRP like|like|ADJ .|_|_ .|_|_ .|_|_
+Oh|oh|IN ,|_|_ God|God|N help|help|N me|I|PERS ,|_|_ miserable|miserable|ADJ creature|creature|N !|_|_
+What|what|INDP shall|shall|V I|I|PERS do|do|UNKNOWN ?|_|_
+Control|control|UNKNOWN your|you|PERS nature|nature|N ,|_|_ Jeppe|Jeppe|N !|_|_
+Is_|be|V _n't|not|ADV it|it|PERS a|a|ART shame|shame|N to|to|INFM get|get|UNKNOWN into|into|PRP trouble|trouble|N for|for|PRP a|a|ART paltry|paltry|ADJ glass|glass|N of|of|PRP brandy|brandy|N ?|_|_
+No|no|DET ,|_|_ I|I|PERS shall_|shall|V _n't|not|ADV do|do|UNKNOWN it|it|PERS this|this|DET time|time|N ;|_|_
+I|I|PERS must|must|V go|go|UNKNOWN on|on|ADV .|_|_
+Oh|oh|IN ,|_|_ if|if|KS I|I|PERS only|only|ADV dared|dare|V drink|drink|N another|another|DET pennyworth|pennyworth|N !|_|_
+It|it|PERS was|be|V my|I|PERS undoing|undo|UNKNOWN that|that|INDP I|I|PERS got|get|UNKNOWN a|a|ART taste|taste|N of|of|PRP it|it|PERS ;|_|_
+now|now|ADV I|I|PERS can_|can|V _n't|not|ADV get|get|UNKNOWN away|away|ADV from|from|PRP it|it|PERS .|_|_
+Go|go|UNKNOWN on|on|ADV ,|_|_ legs|leg|N !|_|_
+May|may|V the|the|ART devil|devil|N split|split|UNKNOWN you|you|PERS if|if|KS you|you|PERS do_|do|UNKNOWN _n't|not|ADV !|_|_
+Marry|marry|V ,|_|_ the|the|ART rogues|rogue|N will_|will|V _n't|not|ADV budge|budge|V .|_|_
+They|they|PERS want|want|UNKNOWN to|to|INFM go|go|UNKNOWN back|back|ADV to|to|PRP the|the|ART inn|inn|N .|_|_
+My|I|PERS limbs|limb|N wage|wage|V-3S war|war|N on|on|PRP each=other|each=other|INDP :|_|_ my|I|PERS belly|belly|N and|and|KC my|I|PERS legs|leg|N want|want|UNKNOWN to|to|INFM go|go|UNKNOWN to|to|PRP the|the|ART inn|inn|N ,|_|_ and|and|KC my|I|PERS back|back|N wants|want|UNKNOWN to|to|INFM go|go|UNKNOWN to|to|PRP town|town|N .|_|_
+Will|will|V you|you|PERS go|go|UNKNOWN on|on|ADV ,|_|_ you|you|PERS dogs|dog|N !|_|_
+you|you|PERS beasts|beast|N !|_|_
+you|you|PERS scurvy|scurvy|N wretches|wretch|N !|_|_
+The|the|ART devil|devil|N take|take|UNKNOWN them|they|PERS ,|_|_ they|they|PERS will|will|V go|go|UNKNOWN back|back|ADV to|to|PRP the|the|ART inn|inn|N ;|_|_
+I|I|PERS have|have|UNKNOWN more|much|DET trouble|trouble|N getting|get|UNKNOWN my|I|PERS own|own|DET legs|leg|N away|away|ADV from|from|PRP the|the|ART inn|inn|N than|than|KS I|I|PERS have|have|UNKNOWN getting|get|UNKNOWN my|I|PERS piebald|piebald|N horse|horse|N out|out|ADV of|of|PRP the|the|ART stable|stable|N .|_|_
+Oh|oh|IN ,|_|_ if|if|KS I|I|PERS only|only|ADV dared|dare|V drink|drink|N another|another|DET pennyworth|pennyworth|N !|_|_
+Who|who|INDP knows|know|UNKNOWN but|but|ADV Jacob=Shoemaker|Jacob=Shoemaker|N might|may|V trust|trust|V me|I|PERS for|for|PRP a|a|ART penny|penny|N or|or|KC two|two|NUM ,|_|_ if|if|KS I|I|PERS begged|beg|V enough|enough|INDP ?|_|_
+Hey|hey|IN ,|_|_ Jacob|Jacob|N !|_|_
+Another|another|DET twopenny|twopenny|N glass|glass|N of|of|PRP brandy|brandy|N !|_|_ Scene|scene|N 6|6|NUM
+(|_|_ Enter|enter|UNKNOWN Jacob|Jacob|N )|_|_
+Jacob|Jacob|N .|_|_
+Hello|hello|IN ,|_|_ Jeppe|Jeppe|N !|_|_
+back|back|ADV again|again|ADV ?|_|_
+I|I|PERS thought|think|V you|you|PERS had|have|UNKNOWN had|have|UNKNOWN too|too|ADV little|little|INDP .|_|_
+What|what|DET good|good|N is|be|V a|a|ART farthing's|farthing|N worth|worth|N of|of|PRP brandy|brandy|N ?|_|_
+That's|That|N hardly|hardly|ADV enough|enough|ADV to|to|PRP wet|wet|N your|you|PERS whistle|whistle|N .|_|_
+Jeppe|Jeppe|N .|_|_
+That's|That|N so|so|ADV ,|_|_ Jacob|Jacob|N !|_|_
+I_|I|PERS _ll|will|V spend|spend|V another|another|DET farthing|farthing|N !|_|_ (|_|_ Aside|aside|ADV .|_|_
+)|_|_ Once|once|KS I_|I|PERS _ve|have|UNKNOWN got|get|UNKNOWN it|it|PERS down|down|ADV ,|_|_ he_|he|PERS _ll|will|V have|have|UNKNOWN to|to|INFM trust|trust|V me|I|PERS whether|whether|KS he|he|PERS wants|want|UNKNOWN to|to|PRP or|or|KC not|not|ADV .|_|_
+Jacob|Jacob|N .|_|_
+Here's|Here|N your|you|PERS farthing's|farthing|N worth|worth|N of|of|PRP brandy|brandy|N ,|_|_ Jeppe|Jeppe|N ,|_|_ but|but|KC money|money|N first|first|ADV .|_|_
+Jeppe|Jeppe|N .|_|_
+You|you|PERS certainly|certainly|ADV can|can|V trust|trust|V me|I|PERS while|while|KS I_|I|PERS _m|be|V drinking|drink|V ,|_|_ as|as|KS the|the|ART proverb|proverb|N says|say|V .|_|_
+Jacob|Jacob|N .|_|_
+We|we|PERS do_|do|UNKNOWN _n't|not|ADV give|give|UNKNOWN credit|credit|N on|on|PRP proverbs|proverb|N ,|_|_ Jeppe|Jeppe|N !|_|_
+If|if|KS you|you|PERS do_|do|UNKNOWN _n't|not|ADV pay|pay|V up|up|ADV ,|_|_ you|you|PERS will_|will|V _n't|not|ADV get|get|UNKNOWN a|a|ART drop|drop|N ;|_|_
+we|we|PERS have|have|UNKNOWN sworn|swear|V off|off|ADV trusting|trust|V any|any|DET one|one|NUM ,|_|_ even|even|ADV the|the|ART bailiff|bailiff|N himself|he|DET .|_|_
+Jeppe|Jeppe|N (|_|_ weeping|weep|V )|_|_ .|_|_
+Can_|can|V _n't|not|ADV you|you|PERS really|really|ADV trust|trust|V me|I|PERS ?|_|_
+I_|I|PERS _m|be|V an|a|ART honest|honest|ADJ man|man|N .|_|_
+Jacob|Jacob|N .|_|_
+No|no|DET credit|credit|N .|_|_
+Jeppe|Jeppe|N .|_|_
+Here's|Here|N your|you|PERS twopence|twopence|N ,|_|_ then|then|ADV ,|_|_ you|you|PERS beggar|beggar|V-3S !|_|_
+Now|now|ADV it_|it|PERS _s|be|V done|do|UNKNOWN ,|_|_ drink|drink|V-3S ,|_|_ Jeppe|Jeppe|N !|_|_
+Oh|oh|IN ,|_|_ that|that|INDP goes|go|UNKNOWN to|to|PRP the|the|ART right|right|ADJ spot|spot|N .|_|_
+Jacob|Jacob|N .|_|_
+It|it|PERS certainly|certainly|ADV does|do|UNKNOWN warm|warm|V a|a|ART man's|man|N insides|inside|N .|_|_
+Jeppe|Jeppe|N .|_|_
+The|the|ART best|good|ADJ thing|thing|N about|about|PRP brandy|brandy|N is|be|V that|that|KS it|it|PERS gives|give|UNKNOWN you|you|PERS courage|courage|N .|_|_
+Now|now|ADV I|I|PERS do_|do|UNKNOWN _n't|not|ADV think|think|V any=more|any=more|INDP about|about|PRP my|I|PERS wife|wife|N or|or|KC Master|master|V Eric|Eric|N ,|_|_ I_|I|PERS _ve|have|UNKNOWN been|be|V so|so|ADV changed|changed|ADJ by|by|PRP that|that|DET last|last|ADJ glass|glass|N .|_|_
+Do|do|UNKNOWN you|you|PERS know|know|UNKNOWN this|this|DET song|song|N ,|_|_ Jacob|Jacob|N ?|_|_
+Heir=Peder|Heir=Peder|N and|and|KC Kirsten|Kirsten|N sat|sit|UNKNOWN at|at|PRP the|the|ART table|table|N ,|_|_ Peteheia|Peteheia|N !|_|_
+Said|say|V all|all|DET the|the|ART bad|bad|ADJ words|word|N that|that|KS they|they|PERS were|be|V-1/3S able|able|ADJ ,|_|_ Polemeia|Polemeia|N !|_|_
+In|in|PRP summer|summer|N the|the|ART happy|happy|ADJ starlings|starling|N sing|sing|V-3S ,|_|_ Peteheia|Peteheia|N !|_|_
+May|May|N devil|devil|N take|take|UNKNOWN Nille|Nille|N ,|_|_ the|the|ART dirty|dirty|ADJ thing|thing|N ,|_|_ Polemeia|Polemeia|N !|_|_
+One-day|one-day|ADJ I|I|NUM went|go|UNKNOWN out|out|ADV upon|upon|PRP the|the|ART grass|grass|N ,|_|_ Peteheia|Peteheia|N !|_|_
+The|the|ART deacon|deacon|N ,|_|_ he|he|PERS is|be|V a|a|ART hangman's|hangman|N ass|ass|N ,|_|_ Polemeia|Polemeia|N !|_|_
+On|on|PRP my|I|PERS dappled|dapple|V horse|horse|N I|I|PERS ride|ride|N to|to|PRP the|the|ART east|east|N ,|_|_ Peteheia|Peteheia|N !|_|_
+The|the|ART deacon|deacon|N ,|_|_ he|he|PERS is|be|V a|a|ART nasty|nasty|ADJ beast|beast|N ,|_|_ Polemeia|Polemeia|N !|_|_
+If|if|KS you|you|PERS would|will|V know|know|UNKNOWN my|I|PERS wife's|wife|N real|real|ADJ name|name|N ,|_|_ Peteheia|Peteheia|N !|_|_
+I_|I|PERS _ll|will|V tell|tell|V you|you|PERS :|_|_ it|it|PERS is|be|V Lust|lust|N and|and|KC Shame|shame|N ,|_|_ Polemeia|Polemeia|N !|_|_
+I|I|PERS made|make|UNKNOWN up|up|ADV that|that|DET song|song|N myself|I|DET ,|_|_ Jacob|Jacob|N !|_|_
+Jacob|Jacob|N .|_|_
+The|the|ART devil|devil|N you|you|PERS did|do|UNKNOWN !|_|_
+Jeppe|Jeppe|N .|_|_
+Jeppe's|Jeppe|N not|not|ADV as|as|ADV dull|dull|ADJ as|as|KS you|you|PERS think|think|V-3S :|_|_ I_|I|PERS _ve|have|UNKNOWN also|also|ADV made|make|UNKNOWN up|up|ADV a|a|ART song|song|N about|about|PRP shoemakers|shoemaker|N ,|_|_ which|which|INDP goes|go|UNKNOWN like|like|PRP this|this|INDP :|_|_
+The|the|ART shoemaker|shoemaker|N sits|sit|UNKNOWN with|with|PRP his|he|PERS big|big|ADJ bass|bass|N viol|viol|N ,|_|_ Philepom|Philepom|N ,|_|_ Philepom|Philepom|N !|_|_
+Jacob|Jacob|N .|_|_
+You|you|PERS poor|poor|ADJ fool|fool|N ,|_|_ that_|that|INDP _s|be|V about|about|PRP a|a|ART fiddler|fiddler|N .|_|_
+Jeppe|Jeppe|N .|_|_
+So|so|ADV it|it|PERS is|be|V .|_|_
+See|see|UNKNOWN here|here|ADV ,|_|_ Jacob|Jacob|N !|_|_
+Give|give|UNKNOWN me|I|PERS twopence|twopence|N worth|worth|PRP more|much|INDP of|of|PRP brandy|brandy|N .|_|_
+Jacob|Jacob|N .|_|_
+All=right|all=right|ADV ;|_|_
+I|I|PERS see|see|UNKNOWN you_|you|PERS _re|be|V-1/3S a|a|ART good|good|ADJ fellow|fellow|N ;|_|_ you|you|PERS do_|do|UNKNOWN _n't|not|ADV grudge|grudge|V spending|spend|V a|a|ART penny|penny|N or|or|KC two|two|NUM in|in|PRP my|I|PERS house|house|N .|_|_
+Jeppe|Jeppe|N .|_|_
+Hey|hey|IN ,|_|_ Jacob|Jacob|N !|_|_
+make|make|UNKNOWN it|it|PERS fourpence|fourpence|N .|_|_
+Jacob|Jacob|N .|_|_
+Certainly|certainly|IN .|_|_
+Jeppe|Jeppe|N .|_|_ (|_|_ singing|sing|V again|again|ADV )|_|_ .|_|_
+The|the|ART earth|earth|N drinks|drink|N water|water|V-3S ,|_|_ The|the|ART sea|sea|N drinks|drink|N sun|sun|N ,|_|_ The|the|ART sun|sun|N drinks|drink|N sea|sea|N ,|_|_ Everything|everything|INDP on|on|PRP earth|earth|N drinks|drink|N ;|_|_
+Why|why|ADV not|not|ADV me|I|PERS ?|_|_
+Jacob|Jacob|N .|_|_
+Your|you|PERS health|health|N ,|_|_ Jeppe|Jeppe|N !|_|_
+Jeppe|Jeppe|N .|_|_
+Mir|Mir|N zu|zu|N !|_|_
+Jacob|Jacob|N .|_|_
+Here's|Here|N to|to|PRP you|you|PERS in|in|PRP half|half|INDP of|of|PRP it|it|PERS !|_|_
+Jeppe|Jeppe|N .|_|_
+Ich|Ich|N tank|tank|N you|you|PERS ,|_|_ Jacob|Jacob|N .|_|_
+Drink|drink|V ,|_|_ man|man|N ,|_|_ and|and|KC the|the|ART devil|devil|N take|take|UNKNOWN you|you|PERS and|and|KC welcome|welcome|UNKNOWN !|_|_
+Jacob|Jacob|N .|_|_
+I|I|PERS see|see|UNKNOWN that|that|KS you|you|PERS can|can|V talk|talk|V German|German|N .|_|_
+Jeppe|Jeppe|N .|_|_
+Yes|yes|IN ,|_|_ I|I|PERS have|have|UNKNOWN for|for|PRP a|a|ART long-time|long=time|N ,|_|_ but|but|KC I|I|PERS do_|do|UNKNOWN _n't|not|ADV like|like|V to|to|INFM except|except|V when|when|ADV I_|I|PERS _m|be|V full|full|ADJ .|_|_
+Jacob|Jacob|N .|_|_
+Then|then|ADV you|you|PERS must|must|V speak|speak|V it|it|PERS at=least|at=least|ADV once|once|ADV a|a|ART day|day|N .|_|_
+Jeppe|Jeppe|N .|_|_
+I|I|PERS was|be|V ten|ten|NUM years|year|N m|m|N the|the|ART militia|militia|N ,|_|_ do_|do|UNKNOWN _n't|not|ADV you|you|PERS think|think|V I|I|PERS ought=to|ought=to|V understand|understand|V the|the|ART language|language|N ?|_|_
+Jacob|Jacob|N .|_|_
+I|I|PERS know|know|UNKNOWN ,|_|_ Jeppe|Jeppe|N !|_|_
+We|we|PERS were|be|V-1/3S in|in|PRP the|the|ART same|same|DET company|company|N for|for|PRP two|two|NUM years|year|UNKNOWN .|_|_
+Jeppe|Jeppe|N .|_|_
+So|so|ADV we|we|PERS were|be|V-1/3S ;|_|_ I|I|PERS remember|remember|V-3S it|it|PERS now|now|ADV .|_|_
+You|you|PERS were|be|V-1/3S hanged|hang|UNKNOWN once|once|KS when|when|ADV you|you|PERS ran|run|V away|away|ADV at|at|PRP Vissmar|Vissmar|N .|_|_
+Jacob|Jacob|N .|_|_
+I|I|PERS was|be|V going|go|V to|to|INFM be|be|V hanged|hang|UNKNOWN ,|_|_ but|but|KC I|I|PERS was|be|V pardoned|pardon|V .|_|_
+A|a|ART miss|miss|N is|be|V as|as|ADV good|good|ADJ as|as|PRP a|a|ART mile|mile|N .|_|_
+Jeppe|Jeppe|N .|_|_
+It_|it|PERS _s|be|V too|too|ADV bad|bad|ADJ you|you|PERS were_|be|V-1/3S _n't|not|ADV hanged|hang|UNKNOWN ,|_|_ Jacob|Jacob|N !|_|_
+But|but|KC were_|be|V-1/3S _n't|not|ADV you|you|PERS with|with|PRP us|we|PERS at|at|PRP the|the|ART auction|auction|N on|on|PRP the|the|ART heath|heath|N --|_|_ you|you|PERS know|know|UNKNOWN the|the|ART one|one|NUM ?|_|_
+Jacob|Jacob|N .|_|_
+Why|why|ADV ,|_|_ where|where|ADV was_|be|V _n't|not|ADV I|I|PERS with|with|PRP you|you|PERS ?|_|_
+Jeppe|Jeppe|N .|_|_
+I|I|PERS never|never|ADV shall|shall|V forget|forget|V the|the|ART first|first|NUM salt|salt|N the|the|ART Swedes|swede|N made|make|UNKNOWN .|_|_
+I|I|PERS think|think|V-3S 3000|3000|NUM men|man|N --|_|_ or|or|KC even|even|ADV 4000|4000|NUM --|_|_ fell|fall|UNKNOWN all=at=once|all=at=once|ADV .|_|_
+Das|das|ART ging|ging|N fordeviled|fordeviled|ADJ zu|zu|N ,|_|_ Jacob|Jacob|N !|_|_
+Du|Du|N kannst|kannst|N das|das|ART wohl|wohl|N rememberen|rememberen|N .|_|_
+Ich|Ich|N kan|kan|N nicht|nicht|N deny|deny|V dass|das|N ich|ich|N bange|bange|N war|war|N at|at|PRP dat|dat|N battle|battle|N .|_|_
+Jacob|Jacob|N :|_|_ Yes|yes|IN ,|_|_ yes|yes|IN ,|_|_ death|death|N is|be|V hard|hard|ADJ to|to|INFM face|face|UNKNOWN ;|_|_
+a|a|ART man|man|N always|always|ADV feels|feel|UNKNOWN pious|pious|ADJ when|when|ADV he|he|PERS goes|go|UNKNOWN against|against|PRP the|the|ART enemy|enemy|N .|_|_
+Jeppe|Jeppe|N .|_|_
+Yes|yes|IN ,|_|_ that_|that|INDP _s|be|V so|so|ADV .|_|_
+I|I|PERS do_|do|UNKNOWN _n't|not|ADV know|know|UNKNOWN how|how|ADV it|it|PERS happens|happen|V .|_|_
+For|for|PRP I|I|NUM spent|spend|V the|the|ART whole|whole|ADJ night|night|N before|before|PRP the|the|ART auction|auction|N reading|read|V the|the|ART Qualms=of=David|Qualms=of=David|N .|_|_
+Jacob|Jacob|N .|_|_
+I|I|PERS wonder|wonder|V-3S that|that|INDP you|you|PERS ,|_|_ who|who|INDP have|have|UNKNOWN been|be|V a|a|ART soldier|soldier|N ,|_|_ should|shall|V let|let|V yourself|you|PERS be|be|V browbeaten|browbeaten|N by|by|PRP your|you|PERS wife|wife|N .|_|_
+Jeppe|Jeppe|N .|_|_
+I|I|PERS ?|_|_
+If|if|KS I|I|NUM only|only|ADV could|can|V have|have|UNKNOWN her|she|PERS here|here|ADV now|now|ADV ,|_|_ you_|you|PERS _d|will|V see|see|UNKNOWN how|how|ADV I|I|PERS should|shall|V drub|drub|UNKNOWN her|she|PERS !|_|_
+Another|another|DET glass|glass|N ,|_|_ Jacob|Jacob|N !|_|_
+I|I|PERS still|still|ADV have|have|UNKNOWN eightpence|eightpence|N ,|_|_ and|and|KC when|when|ADV that_|that|INDP _s|be|V all|all|DET drunk|drunk|N up|up|ADV I|I|PERS shall|shall|V drink|drink|V on|on|PRP credit|credit|N .|_|_
+In|in|PRP Leipzig|Leipzig|N war|war|N ein|ein|ART Mann|Mann|N ,|_|_ In|in|PRP Leipzig|Leipzig|N war|war|N ein|ein|ART Mann|Mann|N ,|_|_ In|in|PRP Leipzig|Leipzig|N war|war|N ein|ein|ART lederner|lederner|N Mann|Mann|N ,|_|_ In|in|PRP Leipzig|Leipzig|N war|war|N ein|ein|ART lederner|lederner|N Mann|Mann|N ,|_|_ In|in|PRP Leipzig|Leipzig|N war|war|N ein|ein|ART Mann|Mann|N .|_|_ Der=Mann|Der=Mann|N sie|sie|N nahm|nahm|N ein|ein|ART Frau|Frau|N --|_|_
+Jacob|Jacob|N .|_|_
+Your|you|PERS health|health|N ,|_|_ Jeppe|Jeppe|N !|_|_
+Jeppe|Jeppe|N .|_|_
+Hey|hey|IN !|_|_
+he|he|PERS --|_|_ y|y|N !|_|_
+he|he|PERS --|_|_ y|y|N !|_|_
+Here's|Here|N to|to|PRP you|you|PERS ,|_|_ and|and|KC here's|here|N to|to|PRP me|I|PERS ,|_|_ And|and|KC here's|here|N to|to|PRP all|all|DET the|the|ART company|company|N !|_|_
+Jacob|Jacob|N .|_|_
+Will_|will|V _n't|not|ADV you|you|PERS drink|drink|V the|the|ART bailiff's|bailiff|N health|health|N ?|_|_
+Jeppe|Jeppe|N .|_|_
+Sure|sure|ADJ enough|enough|ADV ;|_|_
+give|give|UNKNOWN me|I|PERS credit|credit|N for|for|PRP another|another|DET penny-worth|penny-worth|N .|_|_
+The|the|ART bailiff|bailiff|N is|be|V an|a|ART honest|honest|ADJ man|man|N ;|_|_
+when|when|ADV we|we|PERS slip|slip|V-3S a|a|ART rix-dollar|rix-dollar|N into|into|PRP his|he|PERS fist|fist|N ,|_|_ he_|he|PERS _ll|will|V swear|swear|V to|to|PRP his|he|PERS lordship|lordship|N that|that|KS we|we|PERS can_|can|V _n't|not|ADV pay|pay|V our|we|PERS rent|rent|N .|_|_
+Now|now|ADV I_|I|PERS _m|be|V a|a|ART villain|villain|N if|if|KS I|I|PERS have|have|UNKNOWN any=more|any=more|INDP money|money|N ;|_|_
+you|you|PERS must|must|V trust|trust|V me|I|PERS for|for|PRP a|a|ART farthing|farthing|N or|or|KC two|two|NUM .|_|_
+Jacob|Jacob|N .|_|_
+No|no|DET ,|_|_ Jeppe|Jeppe|N ,|_|_ you|you|PERS can_|can|V _n't|not|ADV stand|stand|UNKNOWN any=more|any=more|INDP now|now|ADV .|_|_
+I_|I|PERS _m|be|V not|not|ADV the|the|ART kind|kind|N of|of|PRP man|man|N to|to|INFM let|let|V his|he|PERS patrons|patron|N force|force|N themselves|they|PERS to|to|INFM drink|drink|V more=than|more=than|KS is|be|V good|good|ADJ for|for|PRP them|they|PERS .|_|_
+I_|I|PERS _d|will|V rather|rather|ADV lose|lose|UNKNOWN my|I|PERS trade|trade|N than|than|PRP do|do|UNKNOWN that|that|INDP .|_|_
+It|it|PERS would|will|V be|be|V a|a|ART sin|sin|N .|_|_
+Jeppe|Jeppe|N .|_|_
+Just|just|ADV another|another|DET farthing's|farthing|N worth|worth|PRP !|_|_
+Jacob|Jacob|N .|_|_
+No|no|DET ,|_|_ Jeppe|Jeppe|N ,|_|_ you|you|PERS can_|can|V _n't|not|ADV have|have|UNKNOWN any=more|any=more|INDP .|_|_
+Just|just|ADV think|think|V what|what|DET a|a|ART long|long|ADJ way|way|N you|you|PERS have|have|UNKNOWN to|to|INFM walk|walk|V .|_|_
+Jeppe|Jeppe|N .|_|_
+Cur|cur|N !|_|_
+Carrion|carrion|N !|_|_
+Beast|beast|N !|_|_
+Scoundrel|scoundrel|N !|_|_
+Hey|hey|IN ,|_|_ hey|hey|IN ,|_|_ h|h|N --|_|_ e|e|N --|_|_ y|y|N !|_|_
+Jacob|Jacob|N .|_|_
+Good-bye|good-bye|IN ,|_|_ Jeppe|Jeppe|N !|_|_
+Good|good|ADJ luck|luck|N to|to|PRP you|you|PERS !|_|_
+[|_|_ Exit|exit|N Jacob|Jacob|N .|_|_
+]|_|_ Scene|scene|N 7|7|NUM Jeppe|Jeppe|N .|_|_
+Oh|oh|IN ,|_|_ Jeppe|Jeppe|N ,|_|_ you|you|PERS are|be|V-1/3S as|as|ADV full|full|ADJ as|as|PRP a|a|ART beast|beast|N !|_|_
+My|I|PERS legs|leg|N do_|do|UNKNOWN _n't|not|ADV want|want|UNKNOWN to|to|INFM carry|carry|UNKNOWN me|I|PERS .|_|_
+Will|will|V you|you|PERS stand|stand|UNKNOWN still|still|ADV ,|_|_ you|you|PERS carrion|carrion|N ?|_|_
+Let_|let|V _s|we|PERS see|see|UNKNOWN ,|_|_ what|what|DET time|time|N is|be|V it|it|PERS ?|_|_
+Hey|hey|IN ,|_|_ Jacob|Jacob|N ,|_|_ you|you|PERS dog|dog|N of|of|PRP a|a|ART shoemaker|shoemaker|N !|_|_
+I|I|PERS want|want|UNKNOWN another|another|DET drink|drink|N .|_|_
+Will|will|V you|you|PERS stay|stay|UNKNOWN still|still|ADV ,|_|_ you|you|PERS dogs|dog|N !|_|_
+May|may|V the|the|ART devil|devil|N take|take|UNKNOWN me|I|PERS if|if|KS they|they|PERS will|will|V keep|keep|V quiet|quiet|ADJ .|_|_
+Thank|thank|V-3S you|you|PERS ,|_|_ Jacob=Shoemaker|Jacob=Shoemaker|N !|_|_
+I_|I|PERS _ll|will|V have|have|UNKNOWN another|another|INDP .|_|_
+Listen|listen|V ,|_|_ friend|friend|N !|_|_
+which|which|INDP way|way|N does|do|UNKNOWN the|the|ART road|road|N to|to|PRP town|town|N go|go|UNKNOWN ?|_|_
+Stand|stand|N still|still|ADV ,|_|_ I|I|PERS say|say|V-3S !|_|_
+See|see|UNKNOWN ,|_|_ the|the|ART brute|brute|N is|be|V full|full|ADJ .|_|_
+You|you|PERS drank|drink|V like|like|PRP a|a|ART rogue|rogue|N ,|_|_ Jacob|Jacob|N !|_|_
+Is|be|V that|that|INDP a|a|ART farthing's|farthing|N worth|worth|N of|of|PRP brandy|brandy|N .|_|_ .|_|_ .|_|_
+You|you|PERS pour|pour|V-3S like|like|PRP a|a|ART Turk|Turk|N .|_|_ (|_|_ As|as|KS he|he|PERS speaks|speak|V ,|_|_ he|he|PERS falls|fall|V and|and|KC lies|lie|UNKNOWN on|on|PRP the|the|ART ground|ground|N .|_|_
+)|_|_
+Scene|scene|N 8|8|NUM
+(|_|_ Enter|enter|UNKNOWN Baron|baron|N Nilus|Nilus|N ,|_|_ Secretary|Secretary|N ,|_|_ Valet|Valet|N ,|_|_ Eric|Eric|N ,|_|_ and|and|KC another|another|DET Lackey|lackey|N .|_|_
+)|_|_
+Baron|Baron|N .|_|_
+It|it|PERS looks|look|UNKNOWN as=if|as=if|KS we|we|PERS were|be|V-1/3S going|go|V to|to|INFM have|have|UNKNOWN a|a|ART good|good|ADJ harvest|harvest|N this|this|DET year|year|N ;|_|_
+see|see|UNKNOWN how|how|ADV thick|thick|ADJ that|that|KS barley|barley|N is|be|V growing|grow|V .|_|_
+Secretary|secretary|N .|_|_
+True|true|ADJ ,|_|_ my|I|PERS lord|lord|N ,|_|_ but|but|KC that|that|INDP means|mean|V that|that|KS a|a|ART barrel|barrel|N of|of|PRP barley|barley|N will_|will|V _n't|not|ADV bring|bring|UNKNOWN more=than|more=than|ADV five|five|NUM marks|marks|N this|this|DET year|year|N .|_|_
+Baron|baron|N .|_|_
+That|that|INDP makes|make|UNKNOWN no|no|DET difference|difference|N .|_|_
+The|the|ART peasants|peasant|N are|be|V-1/3S always|always|ADV better-off|better-off|ADJ in|in|PRP good|good|ADJ seasons|season|N .|_|_
+Secretary|secretary|N .|_|_
+I|I|PERS do_|do|UNKNOWN _n't|not|ADV know|know|UNKNOWN how|how|ADV that|that|INDP may|may|V be|be|V ,|_|_ my|I|PERS lord|lord|N ,|_|_ but|but|KC the|the|ART peasants|peasant|N always|always|ADV complain|complain|V-3S and|and|KC ask|ask|V-3S for|for|PRP seed-corn|seed-corn|N ,|_|_ no=matter|no=matter|PRP whether|whether|KS the|the|ART year|year|N is|be|V fruitful|fruitful|ADJ or|or|KC not|not|ADV .|_|_
+When|when|ADV they|they|PERS have|have|UNKNOWN something|something|INDP ,|_|_ they|they|PERS drink|drink|V-3S so|so|ADV much|much|ADV the|the|ART more|much|INDP .|_|_
+There|there|ADV is|be|V an|a|ART inn-keeper|inn-keeper|N who|who|INDP lives|live|V near|near|PRP here|here|ADV ,|_|_ called|call|UNKNOWN Jacob|Jacob|N Shoemaker|Shoemaker|N ,|_|_ who|who|INDP helps|help|V a|a|ART good|good|ADJ deal|deal|N to|to|INFM keep|keep|V the|the|ART peasants|peasant|N poor|poor|ADJ ;|_|_
+they|they|PERS say|say|V-3S he|he|PERS puts|put|UNKNOWN salt|salt|N in|in|PRP his|he|PERS ale|ale|N to|to|INFM make|make|UNKNOWN them|they|PERS thirsty|thirsty|ADJ so|so|ADV they|they|PERS will|will|V drink|drink|V more|much|INDP .|_|_
+Baron|Baron|N .|_|_
+We|we|PERS shall|shall|V have|have|UNKNOWN to|to|INFM drive|drive|UNKNOWN the|the|ART fellow|fellow|N out|out|ADV .|_|_
+But|but|KC what|what|INDP is|be|V that|that|DET lying|lying|ADJ in|in|PRP the|the|ART road|road|N ?|_|_
+It|it|PERS must|must|V be|be|V a|a|ART dead|dead|ADJ man|man|N .|_|_
+One|one|PERS hears|hear|V of|of|PRP nothing|nothing|INDP but|but|KC misfortune|misfortune|N nowadays|nowadays|ADV .|_|_
+Run|run|V and|and|KC see|see|UNKNOWN what|what|INDP it|it|PERS is|be|V ,|_|_ one|one|NUM of|of|PRP you|you|PERS !|_|_
+Lackey|lackey|N .|_|_
+That|that|INDP is|be|V Jeppe|Jeppe|N of|of|PRP the|the|ART Hill|hill|N ,|_|_ whose|who|DET wife|wife|N is|be|V such|such|DET a|a|ART terror|terror|N .|_|_
+Get|get|UNKNOWN up|up|ADV ,|_|_ Jeppe|Jeppe|N !|_|_
+No|no|DET ,|_|_ he|he|PERS would_|will|V _n't|not|ADV wake|wake|V even=if|even=if|KS we|we|PERS pummelled|pummel|UNKNOWN him|he|PERS and|and|KC pulled|pull|UNKNOWN his|he|PERS hair|hair|N .|_|_
+Baron|Baron|N .|_|_
+Let|let|V him|he|PERS be|be|V ,|_|_ then|then|ADV .|_|_
+I|I|PERS want|want|UNKNOWN to|to|INFM play|play|UNKNOWN a|a|ART little|little|ADJ joke|joke|N on|on|PRP him|he|PERS .|_|_
+You|you|PERS are|be|V-1/3S usually|usually|ADV full|full|ADJ of|of|PRP ingenious|ingenious|ADJ ideas|idea|UNKNOWN .|_|_
+Can_|can|V _n't|not|ADV you|you|PERS think|think|V of|of|PRP something|something|INDP to|to|INFM divert|divert|V me|I|PERS ?|_|_
+Secretary|secretary|N .|_|_
+I|I|PERS think|think|V-3S it|it|PERS would|will|V be|be|V good|good|ADJ fun|fun|N to|to|INFM tie|tie|UNKNOWN a|a|ART paper|paper|N collar|collar|N round|round|N his|he|PERS neck|neck|N ,|_|_ or=else|or=else|KC cut|cut|UNKNOWN off|off|ADV his|he|PERS hair|hair|N .|_|_
+Valet|valet|N .|_|_
+I|I|PERS think|think|V-3S it|it|PERS would|will|V be|be|V more|many|DET amusing|amuse|V to|to|INFM smear|smear|UNKNOWN his|he|PERS face|face|N with|with|PRP ink|ink|N and|and|KC then|then|ADV send|send|UNKNOWN some|some|DET one|one|NUM to|to|INFM see|see|UNKNOWN how|how|ADV his|he|PERS wife|wife|N takes|take|UNKNOWN it|it|PERS when|when|ADV he|he|PERS comes|come|UNKNOWN home|home|ADV in|in|PRP that|that|DET condition|condition|N .|_|_
+Baron|baron|N .|_|_
+That's|That|N not|not|ADV bad|bad|ADJ .|_|_
+But|but|KC what|what|INDP do|do|UNKNOWN you|you|PERS wager|wager|V that|that|KS Eric|Eric|N will_|will|V _n't|not|ADV hit|hit|UNKNOWN on|on|PRP something|something|INDP better|good|ADV still|still|ADV ?|_|_
+Let_|let|V _s|we|PERS hear|hear|V your|you|PERS suggestion|suggestion|N ,|_|_ Eric|Eric|N .|_|_
+Eric|Eric|N .|_|_
+My|I|PERS idea|idea|UNKNOWN is|be|V that|that|KS we|we|PERS take|take|UNKNOWN off|off|ADV all|all|DET his|he|PERS clothes|clothes|N and|and|KC put|put|UNKNOWN him|he|PERS in|in|PRP my|I|PERS lord's|Lord|N best|good|ADJ bed|bed|N ,|_|_ and|and|KC in|in|PRP the|the|ART morning|morning|N when|when|ADV he|he|PERS wakes|wake|V ,|_|_ all|all|INDP of|of|PRP us|we|PERS treat|treat|V-3S him|he|PERS as=if|as=if|KS he|he|PERS were|be|V-1/3S the|the|ART lord|lord|N of|of|PRP the|the|ART domain|domain|N ,|_|_ so|so|KS he|he|PERS will_|will|V _n't|not|ADV know|know|UNKNOWN how|how|ADV he|he|PERS has|have|UNKNOWN got|get|UNKNOWN so|so|ADV transformed|transform|V .|_|_
+And|and|KC when|when|ADV we|we|PERS have|have|UNKNOWN convinced|convince|V him|he|PERS that|that|KS he|he|PERS is|be|V the|the|ART baron|baron|N ,|_|_ we|we|PERS can|can|V get|get|UNKNOWN him|he|PERS drunk|drink|V again|again|ADV ,|_|_ as|as|KS he|he|PERS is|be|V now|now|ADV ,|_|_ and|and|KC lay|lay|UNKNOWN him|he|PERS on|on|PRP the|the|ART same|same|DET dunghill|dunghill|N in|in|PRP his|he|PERS own|own|DET old|old|ADJ clothes|clothes|N .|_|_
+If|if|KS all|all|DET this|this|INDP is|be|V skilfully|skilful|ADV carried|carry|UNKNOWN out|out|ADV ,|_|_ it|it|PERS will|will|V work|work|UNKNOWN wonderfully|wonderfully|ADV ,|_|_ and|and|KC he|he|PERS will|will|V imagine|imagine|V that|that|KS he|he|PERS had|have|UNKNOWN dreamt|dream|V of|of|PRP his|he|PERS good|good|ADJ fortune|fortune|N ,|_|_ or|or|KC has|have|UNKNOWN actually|actually|ADV been|be|V in|in|PRP paradise|paradise|N .|_|_
+Baron|baron|N .|_|_
+Eric|Eric|N ,|_|_ you_|you|PERS _re|be|V-1/3S a|a|ART big|big|ADJ man|man|N and|and|KC therefore|therefore|ADV you|you|PERS have|have|UNKNOWN big|big|ADJ ideas|idea|UNKNOWN .|_|_
+But|but|KC what|what|INDP if|if|KS we|we|PERS should|shall|V wake|wake|V him|he|PERS in|in|PRP the|the|ART process|process|N ?|_|_
+Eric|Eric|N .|_|_
+I_|I|PERS _m|be|V sure|sure|ADJ we|we|PERS shalln't|shalln't|N do|do|UNKNOWN that|that|INDP ,|_|_ my|I|PERS lord|lord|N !|_|_
+for|for|PRP this|this|DET same|same|DET Jeppe|Jeppe|N is|be|V one|one|NUM of|of|PRP the|the|ART heaviest|heavy|ADJ sleepers|sleeper|N in|in|PRP the|the|ART whole|whole|ADJ district|district|N .|_|_
+Last|last|ADJ year|year|N they|they|PERS tried|try|V setting|set|UNKNOWN off|off|ADV a|a|ART rocket|rocket|N under|under|PRP his|he|PERS head|head|N ,|_|_ but|but|KC when|when|ADV the|the|ART rocket|rocket|N went|go|UNKNOWN off|off|ADV he|he|PERS never|never|ADV even|even|ADV stirred|stir|UNKNOWN in|in|PRP his|he|PERS sleep|sleep|N .|_|_
+Baron|Baron|N .|_|_
+Then|then|ADV let|let|V us|we|PERS do|do|UNKNOWN it|it|PERS .|_|_
+Drag|drag|UNKNOWN him|he|PERS right|right|ADJ off|off|ADV ,|_|_ put|put|UNKNOWN a|a|ART fine|fine|ADJ shirt|shirt|N on|on|PRP him|he|PERS ,|_|_ and|and|KC lay|lie|UNKNOWN him|he|PERS in|in|PRP my|I|PERS best|good|ADJ bed|bed|N .|_|_
+Act|act|N II|II|N
+Scene|scene|N I|I|NUM
+(|_|_ Jeppe|Jeppe|N is|be|V lying|lying|ADJ in|in|PRP the|the|ART baron's|baron|N bed|bed|N with|with|PRP a|a|ART cloth-of-gold|cloth-of-gold|N dressing-gown|dressing-gown|N on|on|PRP a|a|ART chair|chair|N beside|beside|PRP him|he|PERS .|_|_
+He|he|PERS wakes|wake|V up|up|ADV ,|_|_ ruts|rut|UNKNOWN his|he|PERS eyes|eye|N ,|_|_ looks|look|UNKNOWN about|about|ADV ,|_|_ and|and|KC becomes|become|V frightened|frightened|ADJ ;|_|_ he|he|PERS rubs|rub|UNKNOWN them|they|PERS again|again|ADV ,|_|_ puts|put|UNKNOWN a|a|ART hand|hand|N to|to|PRP his|he|PERS head|head|N ,|_|_ and|and|KC finds|find|V a|a|ART gold-embroidered|gold-embroidered|ADJ nightcap|nightcap|N on|on|PRP it|it|PERS ;|_|_
+Meanwhile|meanwhile|ADV ,|_|_ soft|soft|ADJ music|music|N begins|begin|V to|to|INFM play|play|UNKNOWN ,|_|_ and|and|KC Jeppe|Jeppe|N clasps|clasp|UNKNOWN his|he|PERS hands|hand|N and|and|KC weeps|weep|V .|_|_
+Jeppe|Jeppe|N .|_|_ What|what|INDP is|be|V all|all|DET this|this|INDP ?|_|_
+What|what|DET splendor|splendor|N !|_|_ How|how|ADV did|do|UNKNOWN I|I|PERS get|get|UNKNOWN here|here|ADV ?|_|_
+Am|Am|N I|I|NUM dreaming|dreaming|N ,|_|_ or|or|KC am|be|V I|I|PERS awake|awake|ADJ ?|_|_
+I|I|PERS certainly|certainly|ADV am|be|V awake|awake|ADJ .|_|_
+Where|where|ADV is|be|V my|I|PERS wife|wife|N ,|_|_ where|where|ADV are|be|V-1/3S my|I|PERS children|child|N ,|_|_ where|where|ADV is|be|V my|I|PERS house|house|N ,|_|_ and|and|KC where|where|ADV is|be|V Jeppe|Jeppe|N ?|_|_
+Everything|everything|INDP is|be|V changed|changed|ADJ ,|_|_ and|and|KC I|I|PERS am|be|V ,|_|_ too|too|ADV --|_|_ Oh|oh|IN ,|_|_ what|what|INDP does|do|UNKNOWN it|it|PERS all|all|INDP mean|mean|ADJ ?|_|_
+What|what|INDP does|do|UNKNOWN it|it|PERS mean|mean|V ?|_|_ (|_|_ He|he|PERS calls|call|UNKNOWN softly|softly|ADV in|in|PRP a|a|ART frightened|frightened|ADJ voice|voice|N .|_|_ )|_|_ Nille|Nille|N !|_|_
+Nille|Nille|N !|_|_
+Nille|Nille|N !|_|_
+--|_|_ I|I|PERS think|think|V-3S I_|I|PERS _m|be|V in|in|PRP heaven|heaven|N --|_|_ Nille|Nille|N !|_|_
+--|_|_ and|and|KC I|I|PERS do_|do|UNKNOWN _n't|not|ADV deserve|deserve|V to|to|INFM be|be|V a=bit|a=bit|ADV .|_|_
+But|but|KC is|be|V this|this|INDP myself|I|DET ?|_|_
+I|I|PERS think|think|V-3S it|it|PERS is|be|V ,|_|_ and|and|KC then|then|ADV I|I|PERS think|think|V-3S it|it|PERS is_|be|V _n't|not|ADV .|_|_
+When|when|ADV I|I|PERS feel|feel|UNKNOWN my|I|PERS back|back|N ,|_|_ which|which|INDP is|be|V still|still|ADV sore|sore|ADJ from|from|PRP the|the|ART last|last|ADJ beating|beating|N I|I|PERS got|get|UNKNOWN ,|_|_ when|when|ADV I|I|PERS hear|hear|V-3S myself|I|PERS speak|speak|V ,|_|_ when|when|ADV I|I|PERS stick|stick|UNKNOWN my|I|PERS tongue|tongue|N in|in|PRP my|I|PERS hollow|hollow|N tooth|tooth|N ,|_|_ I|I|PERS think|think|V-3S it|it|PERS is|be|V myself|I|PERS .|_|_
+But|but|KC when|when|ADV I|I|PERS look|look|UNKNOWN at|at|PRP my|I|PERS nightcap|nightcap|N ,|_|_ my|I|PERS shirt|shirt|N ,|_|_ and|and|KC all|all|DET the|the|ART splendor|splendor|N before|before|PRP my|I|PERS eyes|eye|N ,|_|_ when|when|ADV I|I|PERS hear|hear|V-3S the|the|ART delicious|delicious|ADJ music|music|N ,|_|_ then|then|ADV the|the|ART devil|devil|N split|split|UNKNOWN me|I|PERS if|if|KS I|I|PERS can|can|V get|get|UNKNOWN it|it|PERS through|through|PRP my|I|PERS head|head|N that|that|INDP it|it|PERS is|be|V myself|I|PERS .|_|_
+No|no|DET ,|_|_ it|it|PERS is|be|V not|not|ADV me|I|PERS ,|_|_ I_|I|PERS _m|be|V a|a|ART thousand|thousand|N times|time|N a|a|ART low|low|ADJ dog|dog|N if|if|KS it|it|PERS is|be|V .|_|_
+But|but|KC am|be|V I|I|PERS not|not|ADV dreaming|dream|V ?|_|_
+I|I|PERS do_|do|UNKNOWN _n't|not|ADV think|think|V I|I|PERS am|be|V .|_|_
+I_|I|PERS _ll|will|V try|try|V and|and|KC pinch|pinch|UNKNOWN my|I|PERS arm|arm|N ;|_|_
+if|if|KS it|it|PERS does_|do|UNKNOWN _n't|not|ADV hurt|hurt|V ,|_|_ I_|I|PERS _m|be|V dreaming|dream|V .|_|_
+Yes|yes|IN ,|_|_ I|I|PERS feel|feel|UNKNOWN it|it|PERS ;|_|_
+I_|I|PERS _m|be|V awake|awake|ADJ ,|_|_ sure|sure|ADJ enough|enough|ADV ;|_|_
+no=one|no=one|INDP could|can|V argue|argue|V that|that|INDP ,|_|_ because|because|KS if|if|KS I|I|PERS were_|be|V-1/3S _n't|not|ADV awake|awake|ADJ ,|_|_ I|I|PERS could_|can|V _n't|not|ADV .|_|_ .|_|_ .|_|_
+But|but|KC how|how|ADV can|can|V I|I|PERS be|be|V awake|awake|ADJ ,|_|_ now|now|ADV that|that|INDP I|I|PERS come|come|UNKNOWN to|to|INFM think|think|V it|it|PERS over|over|PRP ?|_|_
+There|there|ADV is|be|V no|no|DET question|question|N that|that|INDP I|I|PERS am|be|V Jeppe|Jeppe|N of|of|PRP the|the|ART Hill|hill|N ;|_|_
+I|I|PERS know|know|UNKNOWN that|that|KS I_|I|PERS _m|be|V a|a|ART poor|poor|ADJ peasant|peasant|N ,|_|_ a|a|ART bumpkin|bumpkin|N ,|_|_ a|a|ART scoundrel|scoundrel|N ,|_|_ a|a|ART cuckold|cuckold|N ,|_|_ a|a|ART hungry|hungry|ADJ louse|louse|N ,|_|_ a|a|ART maggot|maggot|N ,|_|_ a|a|ART lump|lump|N of|of|PRP carrion|carrion|N ;|_|_
+then|then|ADV how|how|ADV can|can|V I|I|PERS be|be|V an|a|ART emperor|emperor|N and|and|KC lord|lord|N of|of|PRP a|a|ART castle|castle|N ?|_|_
+No|no|DET ,|_|_ it_|it|PERS _s|be|V nothing|nothing|INDP but|but|KC a|a|ART dream|dream|N .|_|_
+So|so|ADV I_|I|PERS _d|will|V better|good|ADV be|be|V calm|calm|ADJ and|and|KC wait|wait|V till|till|N I|I|PERS wake|wake|V-3S up|up|ADV .|_|_ [|_|_ The|the|ART music|music|N strikes|strike|UNKNOWN up|up|ADV again|again|ADV and|and|KC Jeppe|Jeppe|N bursts|burst|N into|into|PRP tears|tear|N .|_|_
+]|_|_ Oh|oh|IN ,|_|_ can|can|V a|a|ART man|man|N hear|hear|V things|thing|N like|like|PRP that|that|INDP in|in|PRP his|he|PERS sleep|sleep|N ?|_|_
+It_|it|PERS _s|be|V impossible|impossible|ADJ .|_|_
+But|but|KC if|if|KS it_|it|PERS _s|be|V a|a|ART dream|dream|N ,|_|_ I|I|PERS hope|hope|V-3S I|I|PERS may|may|V never|never|ADV wake|wake|V ,|_|_ and|and|KC if|if|KS I|I|PERS am|be|V crazy|crazy|ADJ ,|_|_ I|I|PERS hope|hope|V-3S I|I|PERS may|may|V never|never|ADV be|be|V sane|sane|ADJ again|again|ADV ;|_|_
+I_|I|PERS _d|will|V sue|sue|V the|the|ART doctor|Doctor|UNKNOWN that|that|INDP cured|cure|V me|I|PERS ,|_|_ and|and|KC curse|curse|N the|the|ART man|man|N that|that|INDP waked|wake|V me|I|PERS .|_|_
+But|but|KC I_|I|PERS _m|be|V neither|neither|ADV dreaming|dreaming|ADJ nor|nor|KC crazy|crazy|ADJ ,|_|_ for|for|KS I|I|PERS can|can|V remember|remember|V everything|everything|INDP that|that|INDP has|have|UNKNOWN happened|happen|V to|to|PRP me|I|PERS :|_|_ I|I|PERS remember|remember|V-3S that|that|KS my|I|PERS blessed|bless|V father|father|N was|be|V Niels|Niels|N of|of|PRP the|the|ART Hill|hill|N ,|_|_ my|I|PERS grandfather|grandfather|N Jeppe|Jeppe|N of|of|PRP the|the|ART Hill|hill|N ;|_|_
+my|I|PERS wife's|wife|N name|name|N is|be|V Nille|Nille|N ;|_|_
+her|she|PERS switch|switch|N is|be|V Master|master|N Eric|Eric|N ;|_|_
+my|I|PERS sons|son|N are|be|V-1/3S Hans|Hans|N ,|_|_ Christoffer|Christoffer|N ,|_|_ and|and|KC Niels|Niels|N .|_|_ I_|I|PERS _ve|have|UNKNOWN got|get|UNKNOWN it|it|PERS !|_|_
+I|I|PERS know|know|UNKNOWN what|what|INDP it|it|PERS is|be|V ;|_|_
+this|this|INDP is|be|V the|the|ART other|other|DET life|life|N ,|_|_ this|this|INDP is|be|V paradise|paradise|N ,|_|_ this|this|INDP is|be|V heaven|heaven|N .|_|_
+I|I|PERS must|must|V have|have|UNKNOWN drunk|drink|V myself|I|PERS to|to|PRP death|death|N yesterday|yesterday|ADV at|at|PRP Jacob=Shoemaker's|Jacob=Shoemaker|N ,|_|_ and|and|KC when|when|ADV I|I|PERS died|die|UNKNOWN I|I|PERS went|go|UNKNOWN straight|straight|ADJ to|to|PRP heaven|heaven|N .|_|_
+Death|Death|N can_|can|V _n't|not|ADV be|be|V as|as|ADV hard|hard|ADJ to|to|INFM go|go|UNKNOWN through|through|ADV as|as|KS they|they|PERS make|make|UNKNOWN out|out|ADV ,|_|_ for|for|KS I|I|PERS do_|do|UNKNOWN _n't|not|ADV feel|feel|UNKNOWN a|a|ART thing|thing|N .|_|_
+Now|now|ADV ,|_|_ perhaps|perhaps|ADV the|the|ART pastor|pastor|N is|be|V standing|stand|UNKNOWN this|this|INDP very|very|ADV minute|minute|ADJ in|in|PRP the|the|ART pulpit|pulpit|N delivering|deliver|UNKNOWN a|a|ART funeral|funeral|N sermon|sermon|N over|over|PRP me|I|PERS ,|_|_ and|and|KC is|be|V saying|say|V ,|_|_ "|_|_ So|so|ADV ended|end|V Jeppe|Jeppe|N of|of|PRP the|the|ART Hill|hill|N .|_|_
+He|he|PERS lived|live|V like|like|PRP a|a|ART soldier|soldier|N ,|_|_ and|and|KC he|he|PERS died|die|UNKNOWN like|like|PRP a|a|ART soldier|soldier|N .|_|_
+"|_|_ There|there|ADV might|may|V be|be|V some|some|DET doubt|doubt|N as=to|as=to|PRP whether|whether|KS I|I|PERS died|die|UNKNOWN on|on|PRP land|land|N or|or|KC on|on|PRP sea|sea|N ,|_|_ for|for|KS I|I|PERS was|be|V easily|easily|ADV half-seas-over|half-seas-over|PRP when|when|ADV I|I|PERS left|leave|V the|the|ART world|world|N .|_|_
+Oh|oh|IN ,|_|_ Jeppe|Jeppe|N !|_|_
+how|how|ADV different|different|ADJ this|this|INDP is|be|V from|from|PRP walking|walk|V four|four|NUM leagues|league|N to|to|PRP town|town|N for|for|PRP soap|soap|N ,|_|_ lying|lying|ADJ on|on|PRP straw|straw|N ,|_|_ being|be|V beaten|beat|UNKNOWN by|by|PRP your|you|PERS wife|wife|N ,|_|_ and|and|KC having|have|UNKNOWN horns|horn|N put|put|UNKNOWN on|on|ADV you|you|PERS by|by|PRP the|the|ART deacon|deacon|N .|_|_
+Oh|oh|IN ,|_|_ to|to|PRP what|what|DET delights|delight|N are|be|V-1/3S your|you|PERS troubles|troubles|N and|and|KC your|you|PERS bitter|bitter|ADJ days|day|N now|now|ADV turned|turn|UNKNOWN !|_|_
+Oh|oh|IN ,|_|_ I_|I|PERS _m|be|V ready|ready|ADJ to|to|INFM weep|weep|V for|for|PRP joy|joy|N ,|_|_ particularly|particularly|ADV when|when|ADV I|I|PERS think|think|V-3S how|how|ADV all|all|DET this|this|INDP has|have|UNKNOWN happened|happen|V to|to|PRP me|I|PERS without|without|PRP my|I|PERS deserving|deserve|V it|it|PERS !|_|_
+But|but|KC one|one|NUM thing|thing|N bothers|bother|V me|I|PERS ,|_|_ and|and|KC that|that|INDP is|be|V that|that|INDP I_|I|PERS _m|be|V so|so|ADV thirsty|thirsty|ADJ that|that|KS my|I|PERS lips|lip|N are|be|V-1/3S sticking|stick|UNKNOWN together|together|ADV .|_|_
+If|if|KS I|I|NUM wanted|want|UNKNOWN to|to|INFM be|be|V alive|alive|ADJ again|again|ADV ,|_|_ it|it|PERS would|will|V be|be|V just=so|just=so|ADJ I|I|PERS could|can|V get|get|UNKNOWN a|a|ART mug|mug|N of|of|PRP ale|ale|N to|to|INFM quench|quench|V my|I|PERS thirst|thirst|N ,|_|_ for|for|KS what|what|DET good|good|N is|be|V all|all|DET this|this|DET finery|finery|N to|to|PRP my|I|PERS eyes|eye|N and|and|KC ears|ear|N ,|_|_ if|if|KS I_|I|PERS _m|be|V going|go|V to|to|INFM die|die|UNKNOWN all=over|all=over|ADV again|again|ADV of|of|PRP thirst|thirst|N ?|_|_
+I|I|PERS remember|remember|V-3S ,|_|_ the|the|ART priest|priest|N often|often|ADV said|say|V that|that|KS man|man|N neither|neither|ADV hungers|hunger|N nor|nor|KC thirsts|thirst|N in|in|PRP heaven|heaven|N ,|_|_ and|and|KC also|also|ADV that|that|KS a|a|ART man|man|N finds|find|V all|all|DET his|he|PERS friends|friend|N there|there|ADV .|_|_
+But|but|KC I_|I|PERS _m|be|V ready|ready|ADJ to|to|INFM faint|faint|V with|with|PRP thirst|thirst|N ,|_|_ and|and|KC I_|I|PERS _m|be|V all|all|INDP alone|alone|ADV --|_|_ I|I|PERS do_|do|UNKNOWN _n't|not|ADV see|see|UNKNOWN a|a|ART soul|soul|N :|_|_ I|I|PERS should|shall|V at=least|at=least|ADV find|find|V my|I|PERS grandfather|grandfather|N ,|_|_ who|who|INDP was|be|V such|such|DET a|a|ART fine|fine|ADJ man|man|N that|that|INDP he|he|PERS did_|do|UNKNOWN _n't|not|ADV owe|owe|V his|he|PERS lordship|lordship|N a|a|ART penny|penny|N when|when|ADV he|he|PERS died|die|UNKNOWN .|_|_
+I_|I|PERS _m|be|V sure|sure|ADJ lots=of|lots=of|DET people|people|N have|have|UNKNOWN lived|live|V as|as|PRP good|good|ADJ lives|life|N as|as|KS I|I|PERS have|have|UNKNOWN ;|_|_
+so|so|ADV why|why|ADV should|shall|V I|I|PERS be|be|V the|the|ART only|only|ADJ one|one|NUM to|to|INFM go|go|UNKNOWN to|to|PRP heaven|heaven|N ?|_|_
+Then|then|ADV it|it|PERS can_|can|V _n't|not|ADV be|be|V heaven|heaven|N .|_|_
+But|but|KC what|what|INDP can|can|V it|it|PERS be|be|V ?|_|_
+I_|I|PERS _m|be|V not|not|ADV asleep|asleep|ADV ,|_|_ I_|I|PERS _m|be|V not|not|ADV awake|awake|ADJ ,|_|_ I_|I|PERS _m|be|V not|not|ADV dead|dead|ADJ ,|_|_ I_|I|PERS _m|be|V not|not|ADV alive|alive|ADJ ,|_|_ I_|I|PERS _m|be|V not|not|ADV crazy|crazy|ADJ ,|_|_ I_|I|PERS _m|be|V not|not|ADV sane|sane|ADJ ,|_|_ I|I|PERS am|be|V Jeppe|Jeppe|N of|of|PRP the|the|ART Hill|hill|N ,|_|_ I_|I|PERS _m|be|V not|not|ADV Jeppe|Jeppe|N of|of|PRP the|the|ART Hill|hill|N ,|_|_ I_|I|PERS _m|be|V poor|poor|ADJ ,|_|_ I_|I|PERS _m|be|V rich|rich|ADJ ,|_|_ I_|I|PERS _m|be|V a|a|ART miserable|miserable|ADJ peasant|peasant|N ,|_|_ I_|I|PERS _m|be|V an|a|ART emperor|emperor|N .|_|_
+O|O|N --|_|_ o|o|N --|_|_ o|o|N --|_|_ !|_|_
+Help|help|V !|_|_
+Help|help|V !|_|_
+Help|help|V !|_|_ (|_|_ He|he|PERS roars|roar|V loudly|loudly|ADV .|_|_
+)|_|_
+Scene|scene|N 2|2|NUM
+)|_|_
+Valet|Valet|N .|_|_
+I|I|PERS wish|wish|V-3S his|he|PERS lordship|lordship|N a|a|ART very|very|ADV good|good|ADJ morning|morning|N .|_|_
+Here|here|ADV is|be|V the|the|ART dressing-gown|dressing-gown|N ,|_|_ if|if|KS his|he|PERS lordship|lordship|N wishes|wish|V to|to|INFM rise|rise|V .|_|_
+Eric|Eric|N !|_|_ run|run|V for|for|PRP the|the|ART towel|towel|N and|and|KC basin|basin|N .|_|_
+Jeppe|Jeppe|N .|_|_
+Oh|oh|IN ,|_|_ worthy|worthy|ADJ chamberlain|chamberlain|N !|_|_
+I|I|PERS will|will|V gladly|gladly|ADV get|get|UNKNOWN up|up|ADV ,|_|_ but|but|KC I|I|PERS beg|beg|V-3S of|of|PRP you|you|PERS ,|_|_ do_|do|UNKNOWN _n't|not|ADV hurt|hurt|V me|I|PERS .|_|_
+Valet|valet|N .|_|_
+God|God|N forbid|forbid|V that|that|KS we|we|PERS should|shall|V harm|harm|V his|he|PERS lordship|lordship|N !|_|_
+Jeppe|Jeppe|N .|_|_
+Oh|oh|IN ,|_|_ before|before|KS you|you|PERS kill|kill|UNKNOWN me|I|PERS ,|_|_ would|will|V you|you|PERS do|do|UNKNOWN me|I|PERS the|the|ART kindness|kindness|N of|of|PRP telling|tell|V me|I|PERS who|who|INDP I|I|PERS am|be|V ?|_|_
+Valet|valet|N .|_|_
+Does|do|UNKNOWN not|not|ADV your|you|PERS lordship|lordship|N know|know|UNKNOWN who|who|INDP he|he|PERS is|be|V ?|_|_
+Jeppe|Jeppe|N .|_|_
+Yesterday|yesterday|ADV I|I|PERS was|be|V Jeppe|Jeppe|N of|of|PRP the|the|ART Hill|hill|N ,|_|_ but|but|KC to-day|to-day|ADV --|_|_ Oh|oh|IN ,|_|_ I|I|PERS do_|do|UNKNOWN _n't|not|ADV know|know|UNKNOWN what|what|INDP to|to|INFM say|say|V .|_|_
+Valet|Valet|N .|_|_
+We|we|PERS are|be|V-1/3S glad|glad|ADJ that|that|KS his|he|PERS lordship|lordship|N is|be|V in|in|PRP such|such|DET good|good|ADJ humor|humor|N to-day|to-day|ADV as|as|PRP to|to|INFM deign|deign|V to|to|INFM jest|jest|V .|_|_
+But|but|KC ,|_|_ God|God|N help|help|N us|we|PERS ,|_|_ why|why|ADV does|do|UNKNOWN my|I|PERS lord|lord|N weep|weep|V ?|_|_
+Jeppe|Jeppe|N .|_|_
+I_|I|PERS _m|be|V not|not|ADV your|you|PERS lordship|lordship|N .|_|_
+I|I|PERS can|can|V take|take|UNKNOWN my|I|PERS oath|oath|N on|on|ADV it|it|PERS ,|_|_ for|for|PRP ,|_|_ as|as|ADV far|far|ADV as|as|KS I|I|PERS can|can|V remember|remember|V ,|_|_ I|I|PERS am|be|V Jeppe=Nielsen|Jeppe=Nielsen|N of|of|PRP the|the|ART Hill|hill|N ,|_|_ and|and|KC one|one|NUM of|of|PRP the|the|ART baron's|baron|N peasants|peasant|N .|_|_
+If|if|KS you|you|PERS will|will|V send|send|UNKNOWN for|for|PRP my|I|PERS wife|wife|N ,|_|_ she_|she|PERS _ll|will|V bear|bear|UNKNOWN witness|witness|N to|to|PRP it|it|PERS ,|_|_ but|but|KC do_|do|UNKNOWN _n't|not|ADV let|let|V her|she|PERS bring|bring|UNKNOWN Master|master|N Eric|Eric|N along|along|ADV .|_|_
+Eric|Eric|N .|_|_
+This|this|INDP is|be|V strange|strange|ADJ .|_|_
+What|what|INDP is|be|V the|the|ART matter|matter|N ?|_|_
+Perhaps|perhaps|ADV my|I|PERS lord|lord|N is|be|V not|not|ADV awake|awake|ADJ ,|_|_ for|for|KS he|he|PERS is|be|V not|not|ADV accustomed|accustomed|ADJ to|to|INFM joke|joke|V like|like|PRP this|this|INDP .|_|_
+Jeppe|Jeppe|N .|_|_
+Whether|whether|KS I|I|PERS am|be|V awake|awake|ADJ or|or|KC not|not|ADV ,|_|_ I|I|PERS can_|can|V _n't|not|ADV say|say|V ,|_|_ but|but|KC I|I|PERS do|do|UNKNOWN know|know|UNKNOWN and|and|KC can|can|V say|say|V that|that|KS I|I|PERS am|be|V one|one|NUM of|of|PRP my|I|PERS lord's|Lord|N peasants|peasant|N ,|_|_ who|who|INDP is|be|V called|call|UNKNOWN Jeppe|Jeppe|N of|of|PRP the|the|ART Hill|hill|N ,|_|_ and|and|KC I|I|PERS never|never|ADV have|have|UNKNOWN been|be|V a|a|ART baron|baron|N nor|nor|KC a|a|ART count|count|N in|in|PRP all|all|DET my|I|PERS life|life|N .|_|_
+Valet|Valet|N .|_|_
+Eric|Eric|N !|_|_ what|what|INDP can|can|V this|this|INDP mean|mean|V ?|_|_
+I|I|PERS am|be|V afraid|afraid|ADJ my|I|PERS lord|lord|N has|have|UNKNOWN been|be|V taken|take|UNKNOWN ill|ill|ADV .|_|_
+Eric|Eric|N .|_|_
+I|I|PERS imagine|imagine|V-3S he|he|PERS is|be|V walking|walk|V in|in|PRP his|he|PERS sleep|sleep|N ,|_|_ for|for|PRP it|it|PERS often|often|ADV happens|happen|V that|that|KS people|people|N get|get|UNKNOWN out=of|out=of|PRP bed|bed|N ,|_|_ dress|dress|N ,|_|_ talk|talk|V-3S ,|_|_ eat|eat|V-3S ,|_|_ and|and|KC drink|drink|V-3S --|_|_ all|all|INDP while|while|KS they|they|PERS are|be|V-1/3S still|still|ADV asleep|asleep|ADV .|_|_
+Valet|valet|N .|_|_
+No|no|DET ,|_|_ Eric|Eric|N !|_|_
+I|I|PERS think|think|V-3S that|that|KS his|he|PERS lordship|lordship|N is|be|V having|have|UNKNOWN hallucinations|hallucination|N brought|bring|UNKNOWN on|on|ADV by|by|PRP an|a|ART illness|illness|N ,|_|_ run|run|V-3S quickly|quickly|ADV and|and|KC fetch|fetch|UNKNOWN some|some|DET doctors|Doctor|UNKNOWN .|_|_ (|_|_ Exit|exit|N Eric|Eric|N .|_|_
+)|_|_ Oh|oh|IN ,|_|_ my|I|PERS lord|lord|N ,|_|_ pray|pray|V-3S drive|drive|N such|such|DET thoughts|thought|N from|from|PRP your|you|PERS head|head|N .|_|_
+His|he|PERS lordship|lordship|N will|will|V otherwise|otherwise|ADV strike|strike|N fear|fear|N into|into|PRP the|the|ART whole|whole|ADJ household|household|N .|_|_
+Does|do|UNKNOWN not|not|ADV my|I|PERS lord|lord|N know|know|UNKNOWN me|I|PERS ?|_|_
+Jeppe|Jeppe|N .|_|_
+I|I|PERS do_|do|UNKNOWN _n't|not|ADV even|even|ADV know|know|UNKNOWN myself|I|PERS ,|_|_ so|so|ADV how|how|ADV should|shall|V I|I|PERS know|know|UNKNOWN you|you|PERS ?|_|_
+Valet|valet|N .|_|_
+Is|be|V it|it|PERS possible|possible|ADJ that|that|INDP I|I|PERS should|shall|V hear|hear|V such|such|DET words|word|N from|from|PRP my|I|PERS gracious|gracious|ADJ lord's|Lord|N mouth|mouth|N and|and|KC see|see|UNKNOWN him|he|PERS in|in|PRP such|such|DET a|a|ART plight|plight|N !|_|_
+Alas|alas|IN ,|_|_ our|we|PERS unlucky|unlucky|ADJ house|house|N ,|_|_ to|to|INFM be|be|V plagued|plague|V with|with|PRP an|a|ART evil|evil|ADJ spell|spell|N !|_|_
+Does|do|UNKNOWN not|not|ADV my|I|PERS lord|lord|N remember|remember|V what|what|INDP he|he|PERS did|do|UNKNOWN yesterday|yesterday|ADV ,|_|_ when|when|ADV he|he|PERS went|go|UNKNOWN out|out|ADV hunting|hunt|V ?|_|_
+Jeppe|Jeppe|N .|_|_
+I|I|PERS have|have|UNKNOWN never|never|ADV done|do|UNKNOWN any|any|DET hunting|hunting|N or|or|KC poaching|poaching|N ,|_|_ for|for|KS I|I|PERS know|know|UNKNOWN that_|that|INDP _s|be|V a|a|ART thing|thing|N that|that|INDP will|will|V get|get|UNKNOWN a|a|ART man|man|N hard|hard|ADJ labor|labor|N ;|_|_
+no|no|DET living|living|ADJ soul|soul|N can|can|V prove|prove|V that|that|KS I|I|PERS ever|ever|ADV hunted|hunt|V as|as|ADV much|much|INDP as|as|PRP a|a|ART hare|hare|N in|in|PRP my|I|PERS lord's|Lord|N woods|woods|N .|_|_
+Valet|valet|N .|_|_
+Why|why|ADV ,|_|_ my|I|PERS gracious|gracious|ADJ lord|lord|N ,|_|_ I|I|PERS was|be|V out|out|ADV hunting|hunt|V with|with|PRP you|you|PERS myself|I|DET yesterday|yesterday|ADV .|_|_
+Jeppe|Jeppe|N .|_|_
+Yesterday|yesterday|ADV I|I|PERS was|be|V at|at|PRP Jacob=Shoemaker's|Jacob=Shoemaker|N ,|_|_ and|and|KC I|I|PERS drank|drink|V twelve|twelve|NUM pennyworth|pennyworth|N of|of|PRP brandy|brandy|N ,|_|_ so|so|ADV how|how|ADV could|can|V I|I|PERS have|have|UNKNOWN been|be|V hunting|hunt|V ?|_|_
+Valet|Valet|N .|_|_
+have|have|UNKNOWN the|the|ART doctors|Doctor|UNKNOWN been|be|V sent|send|UNKNOWN for|for|PRP ?|_|_
+Eric|Eric|N .|_|_
+Yes|yes|IN ,|_|_ they|they|PERS are|be|V-1/3S coming|come|UNKNOWN immediately|immediately|ADV .|_|_
+Valet|valet|N .|_|_
+Then|then|ADV let|let|V us|we|PERS put|put|UNKNOWN on|on|ADV his|he|PERS lordship's|lordship|N dressing-gown|dressing-gown|N ,|_|_ for|for|KS perhaps|perhaps|ADV he|he|PERS might|may|V feel|feel|UNKNOWN better|good|ADJ if|if|KS we|we|PERS took|take|UNKNOWN him|he|PERS out|out|ADV into|into|PRP the|the|ART open-air|open=air|N .|_|_
+Will|will|V my|I|PERS lord|lord|N be|be|V so|so|ADV good|good|ADJ as=to|as=to|INFM put|put|UNKNOWN on|on|ADV his|he|PERS dressing-gown|dressing-gown|N ?|_|_
+Jeppe|Jeppe|N .|_|_
+With|with|PRP all|all|DET my|I|PERS heart|heart|N .|_|_
+You|you|PERS may|may|V do|do|UNKNOWN what|what|INDP you|you|PERS like|like|V-3S with|with|PRP me|I|PERS ,|_|_ so|so|ADV long|long|V as|as|KS you|you|PERS do_|do|UNKNOWN _n't|not|ADV kill|kill|UNKNOWN me|I|PERS ,|_|_ for|for|KS I|I|PERS am|be|V as|as|ADV innocent|innocent|ADJ as|as|PRP a|a|ART babe|babe|N unborn|unborn|ADJ .|_|_
+Scene|scene|N 3|3|NUM
+(|_|_ Enter|enter|UNKNOWN Eric|Eric|N with|with|PRP two|two|NUM Doctors|Doctor|UNKNOWN .|_|_
+)|_|_
+First|first|NUM Doctor|Doctor|UNKNOWN .|_|_
+We|we|PERS hear|hear|V-3S with|with|PRP the|the|ART greatest|great|ADJ sorrow|sorrow|N that|that|KS his|he|PERS lordship|lordship|N is|be|V indisposed|indisposed|ADJ .|_|_
+Valet|valet|N .|_|_
+Yes|yes|IN ,|_|_ Doctor|Doctor|N .|_|_
+He|he|PERS is|be|V in|in|PRP a|a|ART serious|serious|ADJ condition|condition|N .|_|_
+Second|second|NUM Doctor|Doctor|N .|_|_
+How|how|ADV are|be|V-1/3S you|you|PERS feeling|feel|UNKNOWN ,|_|_ gracious|gracious|ADJ lord|lord|N ?|_|_
+Jeppe|Jeppe|N .|_|_
+Splendidly|splendid|ADV ,|_|_ except=that|except=that|KS I_|I|PERS _m|be|V a=little|a=little|ADV thirsty|thirsty|ADJ from|from|PRP the|the|ART brandy|brandy|N I|I|PERS drank|drink|V at|at|PRP Jacob=Shoemaker's|Jacob=Shoemaker|N yesterday|yesterday|ADV .|_|_
+If|if|KS some|some|DET one|one|PERS would|will|V only|only|ADV give|give|UNKNOWN me|I|PERS a|a|ART mug|mug|N of|of|PRP ale|ale|N and|and|KC let|let|V me|I|PERS go|go|UNKNOWN ,|_|_ why|why|ADV then|then|ADV they|they|PERS might|may|V hang|hang|UNKNOWN you|you|PERS and|and|KC all|all|DET the|the|ART rest|rest|N of|of|PRP the|the|ART doctors|Doctor|UNKNOWN ,|_|_ for|for|KS I|I|PERS need|need|V-3S no|no|DET medicine|medicine|N .|_|_
+First|first|NUM Doctor|Doctor|UNKNOWN .|_|_
+I|I|PERS call|call|UNKNOWN that|that|DET pure|pure|ADJ hallucination|hallucination|N ,|_|_ my|I|PERS good|good|ADJ colleague|colleague|N !|_|_
+Second|second|NUM Doctor|Doctor|N .|_|_
+The|the|ART more|much|ADV violent|violent|ADJ it|it|PERS is|be|V ,|_|_ the|the|ART quicker|quick|ADJ it|it|PERS will|will|V spend|spend|V its|it|PERS rage|rage|N .|_|_
+Let|let|V us|we|PERS feel|feel|UNKNOWN your|you|PERS lordship's|lordship|N pulse|pulse|N .|_|_
+Quid|quid|N tibi|tibi|N videtur|videtur|N ,|_|_ Domine|domine|N Frater|Frater|N ?|_|_
+First|first|NUM Doctor|Doctor|UNKNOWN .|_|_
+I|I|PERS think|think|V-3S he|he|PERS should|shall|V be|be|V bled|bleed|V immediately|immediately|ADV .|_|_
+Second|second|NUM Doctor|Doctor|N .|_|_
+I|I|PERS do|do|UNKNOWN not|not|ADV agree|agree|V with|with|PRP you|you|PERS ;|_|_
+such|such|DET remarkable|remarkable|ADJ weakness|weakness|N must|must|V be|be|V treated|treat|V otherwise|otherwise|ADV .|_|_
+My|I|PERS lord|lord|N has|have|UNKNOWN had|have|UNKNOWN a|a|ART strange|strange|ADJ and|and|KC forbidding|forbid|V dream|dream|N ,|_|_ which|which|INDP has|have|UNKNOWN caused|cause|V a|a|ART commotion|commotion|N in|in|PRP his|he|PERS blood|blood|N and|and|KC has|have|UNKNOWN set|set|UNKNOWN his|he|PERS brain|brain|N in|in|PRP such|such|DET a|a|ART whirl|whirl|N that|that|INDP he|he|PERS imagines|imagine|V himself|he|PERS to|to|INFM be|be|V a|a|ART peasant|peasant|N .|_|_
+We|we|PERS must|must|V endeavor|endeavor|V to|to|INFM divert|divert|V his|he|PERS lordship|lordship|N with|with|PRP those|that|DET things|thing|N in|in|PRP which|which|INDP he|he|PERS usually|usually|ADV takes|take|UNKNOWN the|the|ART greatest|great|ADJ pleasure|pleasure|N .|_|_
+Give|give|UNKNOWN him|he|PERS the|the|ART wines|wine|N and|and|KC the|the|ART dishes|dishes|N that|that|INDP he|he|PERS likes|like|V best|good|ADV ,|_|_ and|and|KC play|play|N the|the|ART music|music|N that|that|INDP it|it|PERS pleases|please|V him|he|PERS most|much|ADV to|to|INFM hear|hear|V .|_|_ (|_|_ Cheerful|cheerful|ADJ music|music|N strikes|strike|UNKNOWN up|up|ADV .|_|_
+)|_|_
+Valet|valet|N .|_|_
+Is|be|V not|not|ADV this|this|INDP my|I|PERS lord's|Lord|N favorite|favorite|N piece|piece|N ?|_|_
+Jeppe|Jeppe|N .|_|_
+Like|like|ADJ enough|enough|INDP .|_|_
+Is|be|V there|there|ADV always|always|ADV such|such|DET merrymaking|merrymaking|N here|here|ADV in|in|PRP the|the|ART manor|manor|N ?|_|_
+Valet|valet|N .|_|_
+Whenever|whenever|ADV his|he|PERS lordship|lordship|N pleases|please|V ,|_|_ for|for|KS he|he|PERS gives|give|UNKNOWN us|we|PERS all|all|DET our|we|PERS board|board|N and|and|KC wages|wage|V .|_|_
+Jeppe|Jeppe|N .|_|_
+But|but|KC it|it|PERS is|be|V strange|strange|ADJ I|I|PERS can_|can|V _n't|not|ADV remember|remember|V the|the|ART things|thing|N I|I|PERS have|have|UNKNOWN done|do|UNKNOWN before|before|ADV .|_|_
+Second|second|NUM Doctor|Doctor|N .|_|_
+It|it|PERS is|be|V the|the|ART result|result|N of|of|PRP this|this|DET illness|illness|N ,|_|_ your|you|PERS lordship|lordship|N ,|_|_ that|that|DET one|one|PERS forgets|forget|V all|all|INDP he|he|PERS has|have|UNKNOWN done|do|UNKNOWN previous|previous|ADJ to|to|PRP it|it|PERS .|_|_
+I|I|PERS remember|remember|V-3S ,|_|_ a=few|a=few|DET years|year|N ago|ago|ADV ,|_|_ one|one|NUM of|of|PRP my|I|PERS neighbors|neighbor|N became|become|V so|so|ADV confused|confused|ADJ after|after|PRP drinking|drink|V heavily|heavily|ADV that|that|INDP for|for|PRP two|two|NUM days|day|UNKNOWN he|he|PERS thought|think|V he|he|PERS had|have|UNKNOWN no|no|DET head|head|N .|_|_
+Jeppe|Jeppe|N .|_|_
+I|I|PERS wish|wish|V-3S Squire|squire|N Christoffer|Christoffer|N would|will|V do|do|UNKNOWN that|that|INDP ;|_|_
+he|he|PERS must|must|V have|have|UNKNOWN an|a|ART illness|illness|N that|that|INDP works|work|UNKNOWN just|just|ADV the|the|ART other|other|DET way|way|N ,|_|_ for|for|KS he|he|PERS thinks|think|V he|he|PERS has|have|UNKNOWN a|a|ART great|great|ADJ big|big|ADJ head|head|N ,|_|_ while|while|KS he|he|PERS really|really|ADV has_|have|UNKNOWN _n't|not|ADV got|get|UNKNOWN one|one|PERS at=all|at=all|ADV ,|_|_ as|as|KS any|any|DET one|one|NUM can|can|V tell|tell|V from|from|PRP his|he|PERS decisions|decision|N .|_|_ (|_|_ All|all|INDP laugh|laugh|V-3S .|_|_
+)|_|_
+Second|second|NUM Doctor|Doctor|UNKNOWN .|_|_
+It|it|PERS is|be|V a|a|ART great|great|ADJ pleasure|pleasure|N to|to|PRP us|we|PERS to|to|INFM hear|hear|V his|he|PERS lordship|lordship|N jest|jest|N .|_|_
+But|but|KC to|to|INFM return|return|UNKNOWN to|to|PRP my|I|PERS story|story|N ,|_|_ this|this|DET fellow|fellow|N went|go|UNKNOWN all=over|all=over|PRP the|the|ART town|town|N asking|ask|V people|people|N if|if|KS they|they|PERS had|have|UNKNOWN found|find|V the|the|ART head|head|N he|he|PERS had|have|UNKNOWN lost|lose|UNKNOWN ;|_|_
+he|he|PERS recovered|recover|UNKNOWN ,|_|_ however|however|ADV ,|_|_ and|and|KC is|be|V now|now|ADV a|a|ART sexton|sexton|N in|in|PRP Jutland|Jutland|N .|_|_
+Jeppe|Jeppe|N .|_|_
+He|he|PERS could|can|V be|be|V that|that|INDP even=if|even=if|KS he|he|PERS had_|have|UNKNOWN _n't|not|ADV found|find|V his|he|PERS head|head|N .|_|_ (|_|_ All|all|INDP laugh|laugh|V-3S again|again|ADV .|_|_
+)|_|_
+First|first|NUM Doctor|Doctor|N .|_|_
+Does|do|UNKNOWN my|I|PERS honored|honor|V colleague|colleague|N remember|remember|V the|the|ART case|case|N that|that|KS occurred|occur|V ten|ten|NUM years|year|N ago|ago|ADV ,|_|_ of|of|PRP the|the|ART man|man|N who|who|INDP thought|think|V his|he|PERS head|head|N was|be|V full|full|ADJ of|of|PRP flies|fly|N ?|_|_
+He|he|PERS could|can|V not|not|ADV get|get|UNKNOWN over|over|PRP the|the|ART notion|notion|N ,|_|_ no=matter|no=matter|PRP how|how|ADV much|much|ADV they|they|PERS argued|argue|V with|with|PRP him|he|PERS ,|_|_ until|until|KS a|a|ART clever|clever|ADJ doctor|Doctor|UNKNOWN cured|cure|V him|he|PERS in|in|PRP this|this|DET way|way|N :|_|_ he|he|PERS put|put|UNKNOWN on|on|ADV his|he|PERS head|head|N a|a|ART plaster|plaster|N which|which|INDP was|be|V covered|cover|UNKNOWN with|with|PRP dead|dead|ADJ flies|fly|N ,|_|_ and|and|KC after|after|PRP a|a|ART while|while|N took|take|UNKNOWN it|it|PERS off|off|ADV and|and|KC showed|show|V the|the|ART flies|fly|N on|on|PRP it|it|PERS to|to|PRP the|the|ART patient|patient|N ,|_|_ who|who|INDP thought|think|V they|they|PERS had|have|UNKNOWN been|be|V drawn|draw|UNKNOWN out=of|out=of|PRP his|he|PERS head|head|N ,|_|_ and|and|KC was|be|V immediately|immediately|ADV well|well|ADV again|again|ADV .|_|_
+I|I|PERS also|also|ADV have|have|UNKNOWN heard|hear|V of|of|PRP another|another|DET man|man|N who|who|INDP ,|_|_ after|after|PRP a|a|ART long|long|ADJ fever|fever|N ,|_|_ got|get|UNKNOWN the|the|ART idea|idea|UNKNOWN that|that|INDP if|if|KS he|he|PERS made|make|UNKNOWN water|water|N the|the|ART country|country|N would|will|V suffer|suffer|V from|from|PRP a|a|ART flood|flood|N .|_|_
+No|no|DET one|one|PERS could|can|V make|make|UNKNOWN him|he|PERS think|think|V otherwise|otherwise|ADV ;|_|_
+he|he|PERS said|say|V he|he|PERS was|be|V willing|willing|ADJ to|to|INFM die|die|UNKNOWN for|for|PRP the|the|ART common|common|ADJ good|good|N .|_|_
+This|this|INDP is|be|V how|how|ADV he|he|PERS was|be|V cured|cure|V :|_|_ a|a|ART message|message|N was|be|V sent|send|UNKNOWN to|to|PRP him|he|PERS ,|_|_ supposedly|supposedly|ADV from|from|PRP the|the|ART commandant|commandant|N ,|_|_ saying|say|V that|that|KS the|the|ART town|town|N was|be|V threatened|threaten|V with|with|PRP a|a|ART siege|siege|N and|and|KC there|there|ADV was|be|V no|no|DET water|water|N in|in|PRP the|the|ART moat|moat|N ,|_|_ and|and|KC asking|ask|V him|he|PERS to|to|INFM fill|fill|UNKNOWN it|it|PERS to|to|INFM keep|keep|V the|the|ART enemy|enemy|N out|out|ADV .|_|_
+The|the|ART patient|patient|N was|be|V delighted|delight|V to|to|INFM be|be|V able|able|ADJ to|to|INFM save|save|V both|both|ADV his|he|PERS fatherland|fatherland|N and|and|KC himself|he|PERS ;|_|_
+so|so|ADV he|he|PERS got|get|UNKNOWN rid|rid|V of|of|PRP his|he|PERS water|water|N and|and|KC of|of|PRP his|he|PERS sickness|sickness|N both|both|INDP at=once|at=once|ADV .|_|_
+Second|second|NUM Doctor|Doctor|N .|_|_
+I|I|PERS recall|recall|V-3S another|another|DET case|case|N that|that|INDP occurred|occur|V in|in|PRP Germany|Germany|N .|_|_
+A|a|ART nobleman|nobleman|N came|come|UNKNOWN to|to|PRP an|a|ART inn|inn|N ,|_|_ and|and|KC when|when|ADV he|he|PERS had|have|UNKNOWN dined|dine|V and|and|KC wanted|want|UNKNOWN to|to|INFM go|go|UNKNOWN to|to|PRP bed|bed|N ,|_|_ he|he|PERS hung|hang|UNKNOWN the|the|ART gold|gold|N chain|chain|N which|which|INDP he|he|PERS wore|wear|UNKNOWN round|round|PRP his|he|PERS neck|neck|N on|on|PRP a|a|ART nail|nail|N in|in|PRP the|the|ART wall|wall|N of|of|PRP the|the|ART bedroom|bedroom|N .|_|_
+The|the|ART innkeeper|innkeeper|N took|take|UNKNOWN careful|careful|ADJ note|note|N of|of|PRP this|this|INDP as|as|KS he|he|PERS followed|follow|V him|he|PERS to|to|PRP bed|bed|N and|and|KC wished|wish|V him|he|PERS good-night|good-night|ADJ .|_|_
+When|when|ADV he|he|PERS thought|think|V that|that|KS the|the|ART nobleman|nobleman|N was|be|V asleep|asleep|ADV ,|_|_ he|he|PERS stole|steal|V into|into|PRP the|the|ART room|room|N ,|_|_ cut|cut|UNKNOWN sixty|sixty|NUM links|link|N out=of|out=of|PRP the|the|ART chain|chain|N ,|_|_ and|and|KC hung|hang|UNKNOWN it|it|PERS up|up|ADV again|again|ADV .|_|_
+The|the|ART guest|guest|N got|get|UNKNOWN up|up|ADV in|in|PRP the|the|ART morning|morning|N ,|_|_ had|have|UNKNOWN his|he|PERS horse|horse|N saddled|saddle|UNKNOWN ,|_|_ and|and|KC put|put|UNKNOWN on|on|ADV his|he|PERS clothes|clothes|N .|_|_
+But|but|KC when|when|ADV he|he|PERS came|come|UNKNOWN to|to|INFM put|put|UNKNOWN on|on|ADV the|the|ART chain|chain|N ,|_|_ he|he|PERS noticed|notice|V that|that|KS it|it|PERS had|have|UNKNOWN lost|lose|UNKNOWN half|half|DET its|it|PERS length|length|N ,|_|_ and|and|KC began|begin|V to|to|INFM call|call|UNKNOWN out|out|ADV that|that|KS he|he|PERS had|have|UNKNOWN been|be|V robbed|rob|V .|_|_
+The|the|ART host|host|N ,|_|_ who|who|INDP was|be|V watching|watch|V outside|outside|PRP the|the|ART door|door|N ,|_|_ ran|run|V in|in|ADV ,|_|_ putting|putt|UNKNOWN on|on|PRP an|a|ART expression|expression|N of|of|PRP the|the|ART greatest|great|ADJ consternation|consternation|N ,|_|_ and|and|KC exclaimed|exclaim|V ,|_|_ "|_|_ Oh|oh|IN ,|_|_ what|what|DET a|a|ART terrible|terrible|ADJ transformation|transformation|N !|_|_
+"|_|_ When|when|ADV the|the|ART guest|guest|N asked|ask|V him|he|PERS what|what|INDP he|he|PERS meant|mean|V by|by|PRP that|that|INDP ,|_|_ he|he|PERS said|say|V ,|_|_ "|_|_ Alas|ala|N ,|_|_ my|I|PERS lord|lord|N !|_|_
+your|you|PERS head|head|N is|be|V as|as|ADV big|big|ADJ again|again|ADV as|as|KS it|it|PERS was|be|V yesterday|yesterday|ADV .|_|_
+"|_|_ Then|then|ADV the|the|ART host|host|N brought|bring|UNKNOWN him|he|PERS a|a|ART distorting|distorting|ADJ mirror|mirror|N ,|_|_ which|which|INDP made|make|UNKNOWN everything|everything|INDP appear|appear|V twice|twice|ADV as|as|ADV big|big|ADJ as|as|KS it|it|PERS really|really|ADV was|be|V .|_|_
+When|when|ADV the|the|ART nobleman|nobleman|N saw|see|UNKNOWN how|how|ADV big|big|ADJ his|he|PERS head|head|N looked|look|UNKNOWN in|in|PRP the|the|ART mirror|mirror|N ,|_|_ he|he|PERS burst|burst|V into|into|PRP tears|tear|N and|and|KC said|say|V ,|_|_ «|_|_ Oh,=now=I=see=why=my=chain=will=not=go=on|Oh,=now=I=see=why=my=chain=will=not=go=on|N !|_|_ »|_|_
+Whereupon|whereupon|ADV he|he|PERS mounted|mount|UNKNOWN his|he|PERS horse|horse|N ,|_|_ wrapping|wrap|UNKNOWN his|he|PERS head|head|N in|in|PRP his|he|PERS cloak|cloak|N ,|_|_ that|that|KS none|none|INDP might|may|V see|see|UNKNOWN it|it|PERS on|on|PRP the|the|ART road|road|N .|_|_
+They|they|PERS say|say|V-3S that|that|KS he|he|PERS kept|keep|V the|the|ART house|house|N for|for|PRP several|several|DET days|day|N ,|_|_ unable|unable|ADJ to|to|INFM get|get|UNKNOWN over|over|PRP the|the|ART idea|idea|UNKNOWN that|that|KS it|it|PERS was|be|V not|not|ADV the|the|ART chain|chain|N that|that|INDP had|have|UNKNOWN grown|grow|V too|too|ADV short|short|ADJ ,|_|_ but|but|KC his|he|PERS head|head|N that|that|INDP had|have|UNKNOWN grown|grow|V too|too|ADV big|big|ADJ .|_|_
+First|first|NUM Doctor|Doctor|UNKNOWN .|_|_
+There|there|ADV are|be|V-1/3S countless|countless|ADJ examples|example|N of|of|PRP such|such|DET illusions|illusion|N .|_|_
+I|I|PERS also|also|ADV remember|remember|V-3S hearing|hearing|N of|of|PRP a|a|ART man|man|N who|who|INDP imagined|imagine|V his|he|PERS nose|nose|N was|be|V ten|ten|NUM feet|foot|N long|long|V-3S ,|_|_ and|and|KC warned|warn|V every|every|DET one|one|NUM he|he|PERS met|meet|UNKNOWN not|not|ADV to|to|INFM come|come|UNKNOWN too|too|ADV near|near|PRP .|_|_
+Second|second|NUM Father|Father|N .|_|_
+Domine|domine|N Frater|Frater|N has|have|UNKNOWN undoubtedly|undoubtedly|ADV heard|hear|V the|the|ART story|story|N of|of|PRP the|the|ART man|man|N who|who|INDP thought|think|V he|he|PERS was|be|V dead|dead|ADJ ?|_|_
+A|a|ART young|young|ADJ person|person|N got|get|UNKNOWN it|it|PERS into|into|PRP his|he|PERS head|head|N that|that|INDP he|he|PERS was|be|V dead|dead|ADJ ,|_|_ and|and|KC consequently|consequently|ADV laid|lay|UNKNOWN himself|he|PERS out|out|ADV on|on|PRP a|a|ART bier|bier|N ,|_|_ and|and|KC would|will|V neither|neither|ADV eat|eat|V nor|nor|KC drink|drink|V .|_|_
+His|he|PERS friends|friend|N endeavored|endeavor|V to|to|INFM show|show|V him|he|PERS the|the|ART absurdity|absurdity|N of|of|PRP his|he|PERS conduct|conduct|N and|and|KC tried|try|V every|every|DET means|means|N of|of|PRP making|make|UNKNOWN him|he|PERS eat|eat|V ,|_|_ but|but|KC in|in|ADV vain|vain|ADJ ,|_|_ for|for|PRP he|he|PERS merely|merely|ADV dismissed|dismiss|V them|they|PERS with|with|PRP scorn|scorn|N ,|_|_ asserting|assert|V that|that|KS it|it|PERS was|be|V contrary=to|contrary=to|PRP all|all|DET rule|rule|N for|for|PRP the|the|ART dead|dead|ADJ to|to|INFM eat|eat|V and|and|KC drink|drink|V .|_|_
+At=last|at=last|ADV an|a|ART experienced|experienced|ADJ physician|physician|N undertook|undertook|N to|to|INFM cure|cure|V him|he|PERS by|by|PRP this|this|DET unusual|unusual|ADJ method|method|N :|_|_ He|he|PERS got|get|UNKNOWN a|a|ART servant|servant|N to|to|INFM pretend|pretend|V that|that|KS he|he|PERS too|too|ADV was|be|V dead|dead|ADJ ,|_|_ and|and|KC had|have|UNKNOWN him|he|PERS laid|lay|UNKNOWN out|out|ADV in|in|PRP the|the|ART same|same|DET place|place|N with|with|PRP the|the|ART patient|patient|N .|_|_
+For|for|PRP a|a|ART long|long|ADJ time|time|N the|the|ART two|two|NUM lay|lay|N and|and|KC looked|look|UNKNOWN at|at|PRP each=other|each=other|INDP .|_|_
+After|after|PRP a|a|ART while|while|N the|the|ART patient|patient|N began|begin|V to|to|INFM ask|ask|V the|the|ART other|other|DET man|man|N what|what|INDP he|he|PERS was|be|V doing|do|V there|there|ADV ,|_|_ and|and|KC he|he|PERS answered|answer|V that|that|KS he|he|PERS was|be|V dead|dead|ADJ .|_|_
+Then|then|ADV they|they|PERS began|begin|V to|to|INFM question|question|V each=other|each=other|INDP as=to|as=to|PRP how|how|ADV they|they|PERS had|have|UNKNOWN died|die|UNKNOWN ,|_|_ and|and|KC both|both|INDP explained|explain|V in|in|PRP full|full|ADJ .|_|_
+Later|late|ADV ,|_|_ some|some|DET people|people|N who|who|INDP had|have|UNKNOWN been|be|V instructed|instruct|V what|what|INDP to|to|INFM do|do|UNKNOWN came|come|UNKNOWN and|and|KC brought|bring|UNKNOWN the|the|ART second|second|NUM man|man|N his|he|PERS supper|supper|N ,|_|_ whereupon|whereupon|ADV he|he|PERS sat|sit|UNKNOWN up|up|ADV in|in|PRP his|he|PERS coffin|coffin|N and|and|KC ate|eat|V a|a|ART hearty|hearty|ADJ meal|meal|N ,|_|_ saying|say|V to|to|PRP the|the|ART other|other|INDP ,|_|_ «|_|_ Are_|be|V-1/3S _n't=you=going=to=eat=pretty=soon|_n't=you=going=to=eat=pretty=soon|N ?|_|_ »|_|_
+The|the|ART sick|sick|ADJ man|man|N pondered|ponder|V over|over|PRP this|this|INDP ,|_|_ and|and|KC asked|ask|V if|if|KS it|it|PERS was|be|V proper|proper|ADJ for|for|PRP a|a|ART dead|dead|ADJ man|man|N to|to|INFM eat|eat|V ,|_|_ and|and|KC was|be|V answered|answer|V that|that|KS if|if|KS he|he|PERS did|do|UNKNOWN not|not|ADV eat|eat|V soon|soon|ADV ,|_|_ he|he|PERS could|can|V not|not|ADV stay|stay|UNKNOWN dead|dead|ADJ very|very|ADV long|long|ADJ .|_|_
+He|he|PERS therefore|therefore|ADV allowed|allow|V himself|he|PERS to|to|INFM be|be|V persuaded|persuade|V first|first|NUM to|to|INFM eat|eat|V with|with|PRP the|the|ART other|other|DET man|man|N ,|_|_ subsequently|subsequently|ADV to|to|INFM sleep|sleep|UNKNOWN ,|_|_ get|get|UNKNOWN up|up|ADV ,|_|_ dress|dress|N ,|_|_ --|_|_ in|in|PRP fact|fact|N ,|_|_ in|in|PRP all|all|DET matters|matter|N copy|copy|V-3S the|the|ART other|other|INDP ,|_|_ until|until|KS finally|finally|ADV he|he|PERS came|come|UNKNOWN to|to|PRP life|life|N and|and|KC regained|regain|V his|he|PERS senses|sense|N .|_|_
+I|I|PERS could|can|V give|give|UNKNOWN innumerable|innumerable|ADJ other|other|DET examples|example|N of|of|PRP such|such|DET odd|odd|ADJ illusions|illusion|N .|_|_
+That|that|INDP is|be|V just|just|ADV what|what|INDP has|have|UNKNOWN happened|happen|V in|in|PRP this|this|DET case|case|N to|to|INFM make|make|UNKNOWN his|he|PERS gracious|gracious|ADJ lordship|lordship|N think|think|V that|that|KS he|he|PERS is|be|V a|a|ART poor|poor|ADJ peasant|peasant|N .|_|_
+But|but|KC if|if|KS my|I|PERS lord|lord|N will|will|V get|get|UNKNOWN the|the|ART notion|notion|N out=of|out=of|PRP his|he|PERS head|head|N ,|_|_ he|he|PERS will|will|V speedily|speedily|ADV be|be|V himself|he|PERS again|again|ADV .|_|_
+Jeppe|Jeppe|N .|_|_
+But|but|KC can|can|V it|it|PERS be|be|V only|only|ADV illusion|illusion|N ?|_|_
+First|first|NUM Doctor|Doctor|N .|_|_
+Certainly|certainly|IN ;|_|_
+my|I|PERS lord|lord|N has|have|UNKNOWN heard|hear|V from|from|PRP these|this|DET stories|story|N what|what|DET illusions|illusion|N can|can|V do|do|UNKNOWN .|_|_
+Jeppe|Jeppe|N .|_|_
+Am|Am|N I|I|NUM not|not|ADV Jeppe|Jeppe|N of|of|PRP the|the|ART Hill|hill|N ?|_|_
+First|first|NUM Doctor|Doctor|UNKNOWN .|_|_
+Certainly|certainly|ADV not|not|ADV .|_|_
+Jeppe|Jeppe|N .|_|_
+Is_|be|V _n't|not|ADV that|that|DET wicked|wicked|ADJ Nille|Nille|N my|I|PERS wife|wife|N ?|_|_
+First|first|NUM Doctor|Doctor|UNKNOWN .|_|_
+By=no=means|by=no=means|ADV ,|_|_ for|for|KS my|I|PERS lord|lord|N is|be|V a|a|ART widower|widower|N .|_|_
+Jeppe|Jeppe|N .|_|_
+Is|be|V it|it|PERS pure|pure|ADJ illusion|illusion|N that|that|KS she|she|PERS has|have|UNKNOWN a|a|ART switch|switch|N called|call|UNKNOWN Master|master|N Eric|Eric|N ?|_|_
+First|first|NUM Doctor|Doctor|UNKNOWN .|_|_
+Pure|pure|ADJ illusion|illusion|N .|_|_
+Jeppe|Jeppe|N .|_|_
+Is_|be|V _n't|not|ADV it|it|PERS true|true|ADJ either|either|ADV that|that|INDP I|I|PERS was|be|V to|to|INFM go|go|UNKNOWN to|to|PRP town|town|N yesterday|yesterday|ADV and|and|KC buy|buy|V soap|soap|N ?|_|_
+First|first|NUM Doctor|Doctor|N .|_|_
+No.|no.|UNKNOWN
+Jeppe|Jeppe|N .|_|_
+Nor|nor|KC that|that|INDP I|I|PERS drank|drink|V up|up|PRP the|the|ART money|money|N at|at|PRP Jacob=Shoemaker's|Jacob=Shoemaker|N ?|_|_
+Valet|Valet|N .|_|_
+Why|why|ADV ,|_|_ your|you|PERS lordship|lordship|N was|be|V with|with|PRP us|we|PERS out|out|ADV hunting|hunt|V all|all|DET day|day|N yesterday|yesterday|ADV .|_|_
+Jeppe|Jeppe|N .|_|_
+Nor|nor|KC that|that|INDP I|I|PERS am|be|V a|a|ART cuckold|cuckold|N ?|_|_
+Valet|valet|N .|_|_
+Why|why|ADV ,|_|_ her|she|PERS ladyship|ladyship|N has|have|UNKNOWN been|be|V dead|dead|ADJ for|for|PRP years|year|N .|_|_
+Jeppe|Jeppe|N .|_|_
+I_|I|PERS _m|be|V beginning|begin|V to|to|INFM realize|realize|V my|I|PERS own|own|DET stupidity|stupidity|N .|_|_
+I|I|PERS will_|will|V _n't|not|ADV think|think|V about|about|PRP the|the|ART peasant|peasant|N any=more|any=more|INDP ;|_|_
+I|I|PERS see|see|UNKNOWN that|that|KS it|it|PERS was|be|V a|a|ART dream|dream|N that|that|KS led|lead|V me|I|PERS into|into|PRP my|I|PERS delusion|delusion|N .|_|_
+It|it|PERS certainly|certainly|ADV is|be|V wonderful|wonderful|ADJ how|how|ADV men|man|N get|get|UNKNOWN such|such|DET ideas|idea|UNKNOWN .|_|_
+Valet|valet|N .|_|_
+Does|do|UNKNOWN my|I|PERS lord|lord|N wish|wish|V to|to|INFM walk|walk|V in|in|PRP the|the|ART garden|garden|N for|for|PRP a|a|ART time|time|N while|while|KS we|we|PERS make|make|UNKNOWN ready|ready|ADJ his|he|PERS breakfast|breakfast|N ?|_|_
+Jeppe|Jeppe|N .|_|_
+Very|very|ADV well|well|ADV ;|_|_
+but|but|KC hurry|hurry|V-3S up|up|ADV ,|_|_ for|for|KS I|I|PERS am|be|V both|both|ADV hungry|hungry|ADJ and|and|KC thirsty|thirsty|ADJ .|_|_
+Act|act|N III|III|N
+Scene|scene|N I|I|NUM
+(|_|_ Jeppe|Jeppe|N comes|come|UNKNOWN in|in|ADV from|from|PRP the|the|ART garden|garden|N with|with|PRP his|he|PERS suite|suite|N .|_|_
+A|a|ART small|small|ADJ table|table|N is|be|V set|set|UNKNOWN .|_|_
+)|_|_
+Jeppe|Jeppe|N .|_|_
+Ah|ah|IN ,|_|_ ha|ha|IN !|_|_
+I|I|PERS see|see|UNKNOWN that|that|KS the|the|ART table|table|N is|be|V all|all|DET set|set|N .|_|_
+Valet|valet|N .|_|_
+Yes|yes|IN ,|_|_ everything|everything|INDP is|be|V ready|ready|ADJ when|when|ADV his|he|PERS lordship|lordship|N wishes|wish|V to|to|INFM be|be|V seated|seated|ADJ .|_|_
+(|_|_ Jeppe|Jeppe|N sits|sit|UNKNOWN down|down|ADV .|_|_
+The|the|ART others|other|INDP stand|stand|UNKNOWN behind|behind|PRP his|he|PERS chair|chair|N and|and|KC laugh|laugh|V-3S at|at|PRP his|he|PERS bad|bad|ADJ manners|manners|N when|when|ADV he|he|PERS sticks|stick|UNKNOWN all|all|DET five|five|NUM fingers|finger|N in|in|PRP the|the|ART dish|dish|N ,|_|_ belches|belch|V ,|_|_ and|and|KC blows|blow|UNKNOWN his|he|PERS nose|nose|N with|with|PRP his|he|PERS fingers|finger|N and|and|KC wipes|wipe|UNKNOWN them|they|PERS on|on|PRP his|he|PERS clothes|clothes|N .|_|_
+)|_|_
+Valet|Valet|N .|_|_
+Will|will|V my|I|PERS lord|lord|N order|order|V what|what|DET wine|wine|N he|he|PERS desires|desire|V ?|_|_
+Jeppe|Jeppe|N .|_|_
+You|you|PERS know|know|UNKNOWN yourself|you|PERS what|what|DET wine|wine|N I|I|PERS usually|usually|ADV drink|drink|V-3S in|in|PRP the|the|ART morning|morning|N .|_|_
+Valet|valet|N .|_|_
+Here|here|ADV is|be|V Rhine-wine|Rhine-wine|N ,|_|_ which|which|INDP my|I|PERS lord|lord|N usually|usually|ADV drinks|drink|V .|_|_
+But|but|KC if|if|KS this|this|INDP does_|do|UNKNOWN _n't|not|ADV suit|suit|V his|he|PERS lordship's|lordship|N taste|taste|N ,|_|_ he|he|PERS can|can|V have|have|UNKNOWN something=else|something=else|INDP immediately|immediately|ADV .|_|_
+Jeppe|Jeppe|N .|_|_
+That's|That|N a|a|ART little|little|ADJ too|too|ADV sour|sour|ADJ .|_|_
+Put|put|UNKNOWN some|some|DET mead|mead|N in|in|PRP it|it|PERS ,|_|_ and|and|KC it|it|PERS will|will|V be|be|V all=right|all=right|ADV ;|_|_
+I|I|PERS am|be|V for|for|PRP sweet|sweet|ADJ things|thing|N .|_|_ Valet|Valet|N .|_|_
+Here|here|ADV is|be|V some|some|DET port-wine|port-wine|N ,|_|_ if|if|KS my|I|PERS lord|lord|N would|will|V like|like|V to|to|INFM taste|taste|V it|it|PERS .|_|_
+Jeppe|Jeppe|N .|_|_
+That's|That|N fine|fine|ADJ wine|wine|N .|_|_
+)|_|_ Hurry|hurry|N up|up|ADV ,|_|_ lad|lad|N !|_|_
+another|another|DET glass|glass|N of|of|PRP pork-wine|pork-wine|N .|_|_ Do|do|UNKNOWN you|you|PERS understand|understand|V ?|_|_
+--|_|_ Where|where|ADV did|do|UNKNOWN you|you|PERS get|get|UNKNOWN that|that|DET ring|ring|N on|on|PRP your|you|PERS finger|finger|N ?|_|_
+Secretary|Secretary|N .|_|_
+My|I|PERS lord|lord|N gave|give|UNKNOWN it|it|PERS to|to|PRP me|I|PERS himself|he|DET .|_|_
+Jeppe|Jeppe|N .|_|_
+I|I|PERS do_|do|UNKNOWN _n't|not|ADV remember|remember|V it|it|PERS ;|_|_
+give|give|UNKNOWN it|it|PERS back|back|ADV to|to|PRP me|I|PERS .|_|_
+I|I|PERS must|must|V have|have|UNKNOWN been|be|V drunk|drink|V when|when|ADV I|I|PERS did|do|UNKNOWN it|it|PERS .|_|_
+A|a|ART man|man|N does_|do|UNKNOWN _n't|not|ADV give|give|UNKNOWN away|away|ADV rings|ring|N like|like|PRP that|that|INDP for|for|PRP nothing|nothing|INDP .|_|_
+Later|late|ADV on|on|PRP I_|I|PERS _ll|will|V look|look|UNKNOWN into|into|PRP things|thing|N and|and|KC see|see|UNKNOWN what|what|INDP else|else|ADV you_|you|PERS _ve|have|UNKNOWN got|get|UNKNOWN away|away|ADV with|with|PRP .|_|_
+Servants|servant|N ought|ought|V not|not|ADV to|to|INFM get|get|UNKNOWN anything|anything|INDP more=than|more=than|PRP board|board|N and|and|KC wages|wage|N .|_|_
+I|I|PERS can|can|V swear|swear|V I|I|PERS do_|do|UNKNOWN _n't|not|ADV remember|remember|V making|make|UNKNOWN you|you|PERS any|any|DET special|special|ADJ present|present|V ;|_|_
+why|why|ADV should|shall|V I|I|PERS ?|_|_
+That|that|INDP ring|ring|N must|must|V be|be|V worth|worth|PRP more=than|more=than|ADV ten|ten|NUM rix-dollars|rix-dollar|N .|_|_
+No|no|DET ,|_|_ no|no|DET ,|_|_ my|I|PERS good|good|ADJ fellows|fellow|N !|_|_
+That|that|INDP will_|will|V _n't|not|ADV do|do|UNKNOWN at=all|at=all|ADV .|_|_
+You|you|PERS must|must|V not|not|ADV take|take|UNKNOWN advantage|advantage|N of|of|PRP your|you|PERS master's|master|N feebleness|feebleness|N and|and|KC drunkenness|drunkenness|N .|_|_
+When|when|ADV I_|I|PERS _m|be|V drunk|drink|V ,|_|_ I_|I|PERS _m|be|V perfectly|perfectly|ADV ready|ready|ADJ to|to|INFM give|give|UNKNOWN away|away|ADV my|I|PERS breeches|breeches|N ;|_|_
+but|but|KC when|when|ADV I|I|PERS have|have|UNKNOWN slept|sleep|UNKNOWN off|off|PRP my|I|PERS liquor|liquor|N ,|_|_ I|I|PERS take|take|UNKNOWN back|back|ADV my|I|PERS gifts|gifts|N .|_|_
+Otherwise|otherwise|ADV I|I|NUM should|shall|V get|get|UNKNOWN into|into|PRP trouble|trouble|N with|with|PRP Nille|Nille|N ,|_|_ my|I|PERS old|old|ADJ woman|woman|N .|_|_
+But|but|KC what|what|INDP am|be|V I|I|PERS saying|say|V ?|_|_
+I|I|PERS am|be|V falling|fall|UNKNOWN back|back|ADV into|into|PRP my|I|PERS mad|mad|ADJ notions|notion|N again|again|ADV and|and|KC do_|do|UNKNOWN _n't|not|ADV realize|realize|V who|who|INDP I|I|PERS am|be|V .|_|_
+Give|give|UNKNOWN me|I|PERS another|another|DET glass|glass|N of|of|PRP pork-wine|pork-wine|N .|_|_
+More|much|DET noise|noise|N !|_|_ (|_|_ Trumpets|trumpet|N .|_|_
+)|_|_ Pay|pay|N attention|attention|N to|to|PRP what|what|INDP I|I|PERS say|say|V-3S ,|_|_ lads|lad|N .|_|_
+I|I|PERS want|want|UNKNOWN you|you|PERS to|to|INFM understand|understand|V that|that|INDP after|after|PRP this|this|INDP ,|_|_ if|if|KS I|I|PERS give|give|UNKNOWN anything|anything|INDP away|away|ADV in|in|PRP the|the|ART evening|evening|N when|when|ADV I_|I|PERS _m|be|V drunk|drink|V and|and|KC you|you|PERS do_|do|UNKNOWN _n't|not|ADV bring|bring|UNKNOWN it|it|PERS back|back|ADV in|in|PRP the|the|ART morning|morning|N ,|_|_ you|you|PERS will|will|V have|have|UNKNOWN to|to|INFM answer|answer|V for|for|PRP it|it|PERS .|_|_
+When|when|ADV servants|servant|N are|be|V-1/3S given|give|UNKNOWN more=than|more=than|KS they|they|PERS can|can|V eat|eat|V ,|_|_ they|they|PERS get|get|UNKNOWN proud|proud|ADJ and|and|KC turn|turn|UNKNOWN up|up|ADV their|they|PERS noses|nose|N at|at|PRP the|the|ART master|master|N .|_|_
+What|what|DET wages|wage|N do|do|UNKNOWN you|you|PERS get|get|UNKNOWN ?|_|_
+Secretary|Secretary|N .|_|_
+My|I|PERS lord|lord|N has|have|UNKNOWN heretofore|heretofore|ADV given|give|UNKNOWN me|I|PERS two|two|N hundred|hundred|NUM rix-dollars|rix-dollar|N a|a|ART year|year|N .|_|_
+Jeppe|Jeppe|N .|_|_
+The|the|ART devil|devil|N a|a|ART two|two|N hundred|hundred|NUM you|you|PERS get|get|UNKNOWN after|after|PRP this|this|INDP !|_|_
+What|what|INDP do|do|UNKNOWN you|you|PERS do|do|UNKNOWN to|to|INFM earn|earn|V two|two|N hundred|hundred|NUM rix-dollars|rix-dollar|N ?|_|_
+I|I|PERS myself|I|DET have|have|UNKNOWN to|to|PRP slave-like|slave-like|ADJ a|a|ART beast|beast|N ,|_|_ and|and|KC be|be|V on|on|PRP my|I|PERS feet|foot|N in|in|PRP the|the|ART hay|hay|N loft|loft|N from|from|PRP morning|morning|N till|till|N night|night|N ,|_|_ and|and|KC can|can|V scarcely|scarcely|ADV --|_|_ See|see|UNKNOWN how|how|ADV I|I|PERS come|come|UNKNOWN back|back|ADV to|to|PRP my|I|PERS cursed|curse|V peasant|peasant|N notions|notion|N .|_|_
+Give|give|UNKNOWN me|I|PERS another|another|DET glass|glass|N of|of|PRP wine|wine|N .|_|_ (|_|_ He|he|PERS drinks|drink|V ;|_|_
+trumpets|trumpet|N blow|blow|UNKNOWN again|again|ADV .|_|_
+)|_|_ Two-hundred|two-hundred|ADJ rix-dollars|rix-dollar|N !|_|_
+Why|why|ADV ,|_|_ that_|that|INDP _s|be|V pulling|pull|UNKNOWN the|the|ART very|very|ADJ hide|hide|N off|off|PRP your|you|PERS master|master|N .|_|_
+Listen|listen|V ,|_|_ do|do|UNKNOWN you|you|PERS know|know|UNKNOWN what|what|INDP ,|_|_ you|you|PERS good|good|ADJ lads|lad|N ?|_|_
+When|when|ADV I|I|PERS have|have|UNKNOWN dined|dine|V ,|_|_ I|I|PERS have|have|UNKNOWN a|a|ART good|good|ADJ mind|mind|N to|to|INFM hang|hang|UNKNOWN half|half|INDP you|you|PERS fellows|fellow|N here|here|ADV on|on|PRP the|the|ART estate|estate|N .|_|_
+You_|you|PERS _ll|will|V find|find|V out|out|ADV that|that|KS I|I|PERS am|be|V not|not|ADV to|to|INFM be|be|V trifled|trifle|V with|with|PRP in|in|ADV money|money|N matters|matter|N .|_|_
+Valet|valet|N .|_|_
+We|we|PERS will|will|V give|give|UNKNOWN back|back|ADV all|all|DET that|that|INDP we|we|PERS have|have|UNKNOWN received|receive|UNKNOWN from|from|PRP his|he|PERS lordship|lordship|N .|_|_
+Jeppe|Jeppe|N .|_|_
+Yes|yes|IN ,|_|_ yes|yes|IN ,|_|_ «|_|_ his|he|PERS lordship|lordship|N »|_|_ this|this|INDP ,|_|_ «|_|_ his|he|PERS lordship|lordship|N »|_|_ that|that|INDP !|_|_
+We|we|PERS get|get|UNKNOWN compliments|compliment|N and|and|KC ceremonies|ceremony|N cheap|cheap|ADJ enough|enough|ADV nowadays|nowadays|ADV .|_|_
+You|you|PERS want|want|UNKNOWN to|to|INFM flatter|flatter|V me|I|PERS with|with|PRP «|_|_ his|he|PERS lordship|lordship|N »|_|_ until|until|KS you_|you|PERS _ve|have|UNKNOWN got|get|UNKNOWN all|all|DET my|I|PERS money|money|N away|away|ADV from|from|PRP me|I|PERS and|and|KC you|you|PERS are|be|V-1/3S the|the|ART lordships|lordship|N yourselves|you|DET .|_|_
+Your|you|PERS mouths|mouth|N say|say|V-3S "|_|_ his|he|PERS lordship|lordship|N ,|_|_ «|_|_ but|but|KC your|you|PERS hearts|heart|N say|say|V-3S »|_|_ his|he|PERS foolship|foolship|N .|_|_
+"|_|_ You|you|PERS do_|do|UNKNOWN _n't|not|ADV say|say|V what|what|INDP you|you|PERS mean|mean|V-3S ,|_|_ my|I|PERS lads|lad|N .|_|_
+You|you|PERS servants|servant|N are|be|V-1/3S like|like|PRP Abner|Abner|N when|when|ADV he|he|PERS came|come|UNKNOWN and|and|KC greeted|greet|V Roland|Roland|N ,|_|_ saying|saying|N ,|_|_ «|_|_ Hail,=brother|Hail,=brother|N ,|_|_ »|_|_ and|and|KC so|so|ADV saying|saying|ADJ thrust|thrust|UNKNOWN a|a|ART dagger|dagger|N into|into|PRP his|he|PERS heart|heart|N .|_|_
+)|_|_ Get|get|UNKNOWN up|up|ADV ,|_|_ lads|lad|N !|_|_
+Wait|wait|V till|till|N I|I|NUM have|have|UNKNOWN finished|finish|UNKNOWN eating|eat|V .|_|_
+Then|then|ADV I|I|NUM shall|shall|V see|see|UNKNOWN how|how|ADV it|it|PERS works|work|UNKNOWN out|out|ADV and|and|KC decide|decide|V-3S which|which|DET of|of|PRP you|you|PERS deserve|deserve|V-3S to|to|INFM be|be|V hanged|hang|UNKNOWN and|and|KC which|which|INDP do_|do|UNKNOWN _n't|not|ADV .|_|_
+For|for|PRP the|the|ART present|present|N I|I|PERS shall|shall|V make|make|UNKNOWN merry|merry|ADJ .|_|_ Scene|scene|N 2|2|NUM Jeppe|Jeppe|N .|_|_
+Where|where|ADV is|be|V my|I|PERS bailiff|bailiff|N ?|_|_
+Valet|valet|N .|_|_
+He|he|PERS is|be|V waiting|wait|V outside|outside|N .|_|_
+Jeppe|Jeppe|N .|_|_
+Tell|Tell|N him|he|PERS to|to|INFM come|come|UNKNOWN in|in|ADV immediately|immediately|ADV .|_|_
+[|_|_ Enter|enter|N the|the|ART Bailiff|bailiff|N in|in|PRP a|a|ART coat|coat|N with|with|PRP silver|silver|N buttons|button|N and|and|KC a|a|ART sword-belt|sword-belt|N over|over|PRP his|he|PERS shoulder|shoulder|N .|_|_ ]|_|_ Bailiff|bailiff|N .|_|_
+Has|have|UNKNOWN his|he|PERS lordship|lordship|N any|any|DET orders|order|N ?|_|_
+Jeppe|Jeppe|N .|_|_
+Only|only|ADV that|that|INDP you|you|PERS are|be|V-1/3S to|to|INFM be|be|V hanged|hang|UNKNOWN .|_|_
+Bailiff|bailiff|N .|_|_
+I|I|PERS have|have|UNKNOWN surely|surely|ADV done|do|UNKNOWN no|no|DET wrong|wrong|ADV ,|_|_ my|I|PERS lord|lord|N !|_|_
+Why|why|ADV should|shall|V I|I|PERS be|be|V hanged|hang|UNKNOWN ?|_|_
+Jeppe|Jeppe|N .|_|_
+Are|be|V-1/3S you|you|PERS not|not|ADV the|the|ART bailiff|bailiff|N ?|_|_
+Bailiff|bailiff|N .|_|_
+Yes|yes|IN ,|_|_ indeed|indeed|ADV ,|_|_ your|you|PERS lordship|lordship|N .|_|_
+Jeppe|Jeppe|N .|_|_
+And|and|KC yet|yet|ADV you|you|PERS ask|ask|V-3S why|why|ADV you|you|PERS should|shall|V be|be|V hanged|hang|UNKNOWN ?|_|_
+Bailiff|bailiff|N .|_|_
+I|I|PERS have|have|UNKNOWN served|serve|V your|you|PERS lordship|lordship|N so|so|ADV honestly|honestly|ADV and|and|KC faithfully|faithfully|ADV and|and|KC have|have|UNKNOWN been|be|V so|so|ADV diligent|diligent|ADJ in|in|PRP my|I|PERS office|office|N that|that|KS your|you|PERS lordship|lordship|N has|have|UNKNOWN always|always|ADV praised|praise|V me|I|PERS more=than|more=than|PRP any|any|DET other|other|INDP of|of|PRP his|he|PERS servants|servant|N .|_|_
+Jeppe|Jeppe|N .|_|_
+Indeed|indeed|ADV ,|_|_ you|you|PERS have|have|UNKNOWN been|be|V diligent|diligent|ADJ in|in|PRP your|you|PERS office|office|N ,|_|_ as|as|KS your|you|PERS solid|solid|ADJ silver|silver|N buttons|button|N plainly|plainly|ADV show|show|V-3S .|_|_
+What|what|DET wages|wage|N do|do|UNKNOWN you|you|PERS get|get|UNKNOWN ?|_|_
+Bailiff|bailiff|N .|_|_
+Fifty|fifty|NUM rix-dollars|rix-dollar|N a|a|ART year|year|N .|_|_
+Jeppe|Jeppe|N [|_|_ gets|get|UNKNOWN up|up|ADV and|and|KC walks|walk|V to=and=fro|to=and=fro|ADV ]|_|_ .|_|_ Fifty|fifty|NUM ?|_|_
+You|you|PERS surely|surely|ADV shall|shall|V be|be|V hanged|hang|UNKNOWN .|_|_
+Bailiff|bailiff|N .|_|_
+It|it|PERS could_|can|V _n't|not|ADV well|well|ADV be|be|V less|little|ADV ,|_|_ my|I|PERS lord|lord|N ,|_|_ for|for|PRP a|a|ART whole|whole|ADJ year's|year|N hard|hard|ADJ work|work|N .|_|_
+Jeppe|Jeppe|N .|_|_
+That's|That|N just|just|ADV the|the|ART reason|reason|N you|you|PERS are|be|V-1/3S to|to|INFM be|be|V hanged|hang|UNKNOWN --|_|_ because|because|KS you|you|PERS only|only|ADV get|get|UNKNOWN fifty|fifty|NUM rix-dollars|rix-dollar|N .|_|_
+You|you|PERS have|have|UNKNOWN money|money|N enough|enough|ADV for|for|PRP a|a|ART coat|coat|N with|with|PRP silver|silver|N buttons|button|N ,|_|_ frills|frill|N at|at|PRP your|you|PERS wrists|wrist|N ,|_|_ and|and|KC a|a|ART silk|silk|N queue|queue|N for|for|PRP your|you|PERS hair|hair|N --|_|_ and|and|KC all|all|INDP on|on|PRP fifty|fifty|NUM rix-dollars|rix-dollar|N a|a|ART year|year|N .|_|_
+If|if|KS you|you|PERS did_|do|UNKNOWN _n't|not|ADV rob|rob|V me|I|PERS ,|_|_ poor|poor|ADJ man|man|N ,|_|_ where|where|ADV else|else|ADV could|can|V you|you|PERS get|get|UNKNOWN it|it|PERS ?|_|_
+Bailiff|Bailiff|N [|_|_ on|on|PRP his|he|PERS knees|knee|N ]|_|_ .|_|_
+Oh|oh|IN ,|_|_ gracious|gracious|ADJ lord|lord|N !|_|_
+For=the=sake=of|for=the=sake=of|PRP my|I|PERS unfortunate|unfortunate|ADJ wife|wife|N and|and|KC innocent|innocent|ADJ children|child|N ,|_|_ spare|spare|ADJ me|I|PERS !|_|_
+Jeppe|Jeppe|N .|_|_
+Have|have|UNKNOWN you|you|PERS many|many|DET children|child|N ?|_|_
+Bailiff|bailiff|N .|_|_
+Seven|seven|NUM children|child|N living|live|V ,|_|_ my|I|PERS lord|lord|N .|_|_
+Jeppe|Jeppe|N .|_|_
+Ha|ha|IN !|_|_ Ha|ha|IN !|_|_
+Seven|seven|NUM children|child|N living|living|N !|_|_
+Have|have|UNKNOWN him|he|PERS hanged|hang|UNKNOWN immediately|immediately|ADV ,|_|_ Sectary|Sectary|N .|_|_
+Secretary|Secretary|N .|_|_
+Oh|oh|IN ,|_|_ gracious|gracious|ADJ lord|lord|N ,|_|_ I|I|PERS am|be|V no|no|DET hangman|hangman|N .|_|_
+Jeppe|Jeppe|N .|_|_
+If|if|KS you_|you|PERS _re|be|V-1/3S not|not|ADV ,|_|_ you|you|PERS can|can|V soon|soon|ADV learn|learn|V to|to|INFM be|be|V .|_|_
+You|you|PERS look|look|UNKNOWN fit|fit|ADJ for|for|PRP any|any|DET trade|trade|N .|_|_
+And|and|KC when|when|ADV you|you|PERS have|have|UNKNOWN hanged|hang|UNKNOWN him|he|PERS ,|_|_ I|I|PERS shall|shall|V have|have|UNKNOWN you|you|PERS hanged|hang|UNKNOWN yourself|you|PERS .|_|_
+Bailiff|bailiff|N .|_|_
+Oh|oh|IN ,|_|_ gracious|gracious|ADJ lord|lord|N ,|_|_ is|be|V there|there|ADV no|no|DET reprieve|reprieve|N ?|_|_
+Half|half|DET a|a|ART hundred|hundred|N rix-dollars|rix-dollar|N ,|_|_ a|a|ART wife|wife|N and|and|KC seven|seven|NUM children|child|N .|_|_
+If|if|KS no=one|no=one|INDP else|else|ADV will|will|V hang|hang|UNKNOWN you|you|PERS ,|_|_ I_|I|PERS _ll|will|V do|do|UNKNOWN it|it|PERS myself|I|DET .|_|_
+I|I|PERS know|know|UNKNOWN what|what|DET sort|sort|N you|you|PERS are|be|V-1/3S ,|_|_ you|you|PERS bailiffs|bailiff|N !|_|_
+I|I|PERS know|know|UNKNOWN how|how|ADV you|you|PERS have|have|UNKNOWN cheated|cheat|V me|I|PERS and|and|KC other|other|DET miserable|miserable|ADJ peasants|peasant|N --|_|_ Oh|oh|IN ,|_|_ there|there|ADV come|come|UNKNOWN those|that|DET damned|damned|ADJ peasant|peasant|N illusions|illusion|N into|into|PRP my|I|PERS head|head|N again|again|ADV .|_|_
+I|I|PERS meant|mean|V to|to|INFM say|say|V ,|_|_ that|that|INDP I|I|PERS know|know|UNKNOWN your|you|PERS games|game|N and|and|KC your|you|PERS goings-on|goings-on|ADV so|so|ADV well|well|ADV ,|_|_ I|I|PERS could|can|V be|be|V a|a|ART bailiff|bailiff|N myself|I|DET if|if|KS I|I|PERS had|have|UNKNOWN to|to|INFM .|_|_
+You|you|PERS get|get|UNKNOWN the|the|ART cream|cream|N off|off|PRP the|the|ART milk|milk|N ,|_|_ and|and|KC your|you|PERS master|master|N gets|get|UNKNOWN dung|dung|N ,|_|_ to|to|INFM speak|speak|V modestly|modest|ADV .|_|_
+I|I|PERS really|really|ADV think|think|V-3S that|that|KS if|if|KS the|the|ART world|world|N keeps|keep|V on|on|PRP ,|_|_ the|the|ART bailiffs|bailiff|N will|will|V all|all|INDP be|be|V noblemen|nobleman|N and|and|KC the|the|ART noblemen|nobleman|N all|all|DET bailiffs|bailiff|N .|_|_
+Take|take|UNKNOWN my|I|PERS word|word|N for|for|PRP it|it|PERS ,|_|_ lad|lad|N !|_|_
+I_|I|PERS _m|be|V not|not|ADV going|go|V to|to|INFM let|let|V myself|I|PERS be|be|V fooled|fool|V in|in|PRP that|that|DET way|way|N ,|_|_ for|for|KS I_|I|PERS _m|be|V a|a|ART peasant|peasant|N and|and|KC a|a|ART peasant's|peasant|N son|son|N myself|I|DET --|_|_ see|see|UNKNOWN how|how|ADV that|that|KS illusion|illusion|N keeps|keep|V cropping|crop|UNKNOWN up|up|ADV !|_|_
+I|I|PERS was|be|V about|about|ADV to|to|INFM say|say|V that|that|KS I|I|PERS am|be|V a|a|ART peasant's|peasant|N son|son|N myself|I|DET ,|_|_ for|for|PRP Abraham|Abraham|N and|and|KC Eve|Eve|N ,|_|_ our|we|PERS first|first|NUM parents|parent|N ,|_|_ were|be|V-1/3S tillers|tiller|N of|of|PRP the|the|ART soil|soil|N .|_|_
+Secretary|Secretary|N [|_|_ on|on|PRP his|he|PERS knees|knee|N ]|_|_ .|_|_
+Oh|oh|IN ,|_|_ gracious|gracious|ADJ lord|lord|N !|_|_
+Pray|pray|V take|take|UNKNOWN pity|pity|N on|on|ADV him|he|PERS for=the=sake=of|for=the=sake=of|PRP his|he|PERS unfortunate|unfortunate|ADJ wife|wife|N ;|_|_
+for|for|PRP how|how|ADV can|can|V she|she|PERS live|live|V if|if|KS he|he|PERS is|be|V not|not|ADV there|there|ADV to|to|INFM feed|feed|V her|she|PERS and|and|KC the|the|ART children|child|N ?|_|_
+Jeppe|Jeppe|N .|_|_
+Who|who|INDP says|say|V they|they|PERS should|shall|V live|live|V either|either|INDP ?|_|_
+We|we|PERS can|can|V string|string|UNKNOWN them|they|PERS up|up|ADV along|along|ADV with|with|PRP him|he|PERS .|_|_
+Secretary|secretary|N .|_|_
+Oh|oh|IN ,|_|_ my|I|PERS lord|lord|N !|_|_
+she|she|PERS is|be|V such|such|DET a|a|ART lovely|lovely|ADJ ,|_|_ beautiful|beautiful|ADJ woman|woman|N .|_|_
+Jeppe|Jeppe|N .|_|_
+So|so|ADV ?|_|_
+Perhaps|perhaps|ADV you|you|PERS are|be|V-1/3S her|she|PERS lover|lover|N ,|_|_ seeing|see|UNKNOWN you|you|PERS feel|feel|UNKNOWN so|so|ADV badly|badly|ADV about|about|PRP her|she|PERS .|_|_
+Send|send|UNKNOWN her|she|PERS here|here|ADV .|_|_
+Scene|scene|N 3|3|NUM [|_|_ Enter|enter|N Bailiff's|bailiff|N wife|wife|N ;|_|_
+she|she|PERS kisses|kiss|UNKNOWN Jeppe's|Jeppe|N band|band|N .|_|_ ]|_|_
+Jeppe|Jeppe|N .|_|_
+Are|be|V-1/3S you|you|PERS the|the|ART bailiff's|bailiff|N wife|wife|N ?|_|_
+Wife|wife|N .|_|_
+Yes|yes|IN ,|_|_ your|you|PERS lordship|lordship|N ,|_|_ I|I|PERS am|be|V .|_|_
+You|you|PERS are|be|V-1/3S pretty|pretty|ADJ .|_|_
+Would|will|V you|you|PERS like|like|V to|to|INFM sleep|sleep|UNKNOWN with|with|PRP me|I|PERS to-night|to-night|ADV ?|_|_
+Wife|wife|N .|_|_
+My|I|PERS lord|lord|N has|have|UNKNOWN only|only|ADV to|to|INFM command|command|V ,|_|_ for|for|KS I|I|PERS am|be|V his|he|PERS servant|servant|N .|_|_
+Jeppe|Jeppe|N [|_|_ to|to|PRP the|the|ART Bailiff|bailiff|N ]|_|_ .|_|_
+Do|do|UNKNOWN you|you|PERS consent|consent|V to|to|PRP my|I|PERS lying|lying|N with|with|PRP your|you|PERS wife|wife|N to-night|to-night|ADV ?|_|_
+Bailiff|bailiff|N .|_|_
+I|I|PERS thank|thank|V-3S his|he|PERS lordship|lordship|N for|for|PRP doing|do|V my|I|PERS humble|humble|ADJ house|house|N the|the|ART honor|honor|N .|_|_
+Jeppe|Jeppe|N .|_|_
+Here|here|ADV !|_|_
+Bring|bring|UNKNOWN her|she|PERS a|a|ART chair|chair|N ;|_|_
+He|he|PERS becomes|become|V jealous|jealous|ADJ of|of|PRP the|the|ART Secretary|secretary|N .|_|_
+]|_|_ You_|you|PERS _ll|will|V get|get|UNKNOWN into|into|PRP trouble|trouble|N ,|_|_ if|if|KS you|you|PERS look|look|UNKNOWN at|at|PRP her|she|PERS like|like|PRP that|that|INDP .|_|_ [|_|_ Whenever|whenever|ADV he|he|PERS looks|look|UNKNOWN at|at|PRP the|the|ART Secretary|secretary|N ,|_|_ the|the|ART Secretary|secretary|N takes|take|UNKNOWN his|he|PERS eyes|eye|N off|off|PRP the|the|ART woman|woman|N and|and|KC gazes|gaze|V at|at|PRP the|the|ART floor|floor|N .|_|_
+Jeppe|Jeppe|N sings|sing|V an|a|ART old|old|ADJ love-ballad|love-ballad|N as|as|KS he|he|PERS sits|sit|UNKNOWN at|at|PRP the|the|ART table|table|N with|with|PRP her|she|PERS .|_|_
+He|he|PERS orders|order|V a|a|ART polka|polka|N to|to|INFM be|be|V played|play|UNKNOWN and|and|KC dances|dance|N with|with|PRP her|she|PERS ,|_|_ but|but|KC he|he|PERS is|be|V so|so|ADV drunk|drunk|ADJ that|that|KS he|he|PERS falls|fall|V down|down|PRP three-times|three-times|ADJ ,|_|_ and|and|KC finally|finally|ADV lies|lie|N where|where|ADV he|he|PERS falls|fall|V and|and|KC goes|go|UNKNOWN to|to|INFM sleep|sleep|UNKNOWN .|_|_
+]|_|_
+Scene|scene|N 4|4|NUM (|_|_ Enter|enter|UNKNOWN the|the|ART Baron|baron|N and|and|KC Eric|Eric|N .|_|_ )|_|_ Baron|Baron|N .|_|_
+He|he|PERS is|be|V sound|sound|ADJ asleep|asleep|ADV .|_|_
+Now|now|ADV we|we|PERS have|have|UNKNOWN played|play|UNKNOWN our|we|PERS game|game|N ,|_|_ but|but|KC we|we|PERS have|have|UNKNOWN nearly|nearly|ADV been|be|V made|make|UNKNOWN the|the|ART bigger|big|ADJ fools|fool|N ourselves|we|DET ,|_|_ for|for|KS he|he|PERS intended|intend|V to|to|INFM tyrannize|tyrannize|V over|over|PRP us|we|PERS ,|_|_ so=that|so=that|KS we|we|PERS must|must|V either|either|ADV have|have|UNKNOWN spoiled|spoil|V our|we|PERS trick|trick|N ,|_|_ or|or|KC else|else|ADV have|have|UNKNOWN let|let|V ourselves|we|PERS be|be|V mauled|maul|UNKNOWN by|by|PRP the|the|ART rude|rude|ADJ yokel|yokel|N ,|_|_ from|from|PRP whose|who|DET conduct|conduct|N one|one|PERS can|can|V learn|learn|V how|how|ADV haughty|haughty|ADJ and|and|KC overbearing|overbear|UNKNOWN such|such|DET people|people|N become|become|V when|when|ADV they|they|PERS suddenly|suddenly|ADV rise|rise|V-3S from|from|PRP the|the|ART mire|mire|N to|to|PRP a|a|ART station|station|N of|of|PRP worth|worth|N and|and|KC honor|honor|V-3S .|_|_
+If|if|KS I|I|NUM had|have|UNKNOWN ,|_|_ in|in|PRP an|a|ART unlucky|unlucky|ADJ moment|moment|N ,|_|_ impersonated|impersonate|V a|a|ART secretary|secretary|N myself|I|DET ,|_|_ I|I|PERS might|may|V have|have|UNKNOWN got|get|UNKNOWN a|a|ART thrashing|thrashing|N ,|_|_ and|and|KC the|the|ART whole|whole|ADJ affair|affair|N would|will|V have|have|UNKNOWN been|be|V a|a|ART failure|failure|N ,|_|_ for|for|KS people|people|N would|will|V have|have|UNKNOWN laughed|laugh|V more|much|INDP at|at|PRP me|I|PERS than|than|PRP at|at|PRP the|the|ART peasant|peasant|N .|_|_
+We|we|PERS had|have|UNKNOWN better|good|ADJ let|let|V him|he|PERS sleep|sleep|UNKNOWN awhile|awhile|ADV before|before|KS we|we|PERS put|put|UNKNOWN him|he|PERS back|back|ADV into|into|PRP his|he|PERS dirty|dirty|ADJ farm|farm|N clothes|clothes|N again|again|ADV .|_|_
+Eric|Eric|N .|_|_
+Why|why|ADV ,|_|_ my|I|PERS lord|lord|N ,|_|_ he|he|PERS is|be|V sleeping|sleep|UNKNOWN like|like|PRP a|a|ART log|log|N ;|_|_
+look|look|UNKNOWN ,|_|_ I|I|PERS can|can|V pound|pound|UNKNOWN him|he|PERS and|and|KC he|he|PERS does_|do|UNKNOWN _n't|not|ADV feel|feel|UNKNOWN it|it|PERS .|_|_
+Baron|baron|N .|_|_
+Take|take|UNKNOWN him|he|PERS out|out|ADV ,|_|_ then|then|ADV ,|_|_ and|and|KC complete|complete|V our|we|PERS little|little|DET comedy|comedy|N .|_|_
+Act|act|N IV|IV|N
+Scene|scene|N 1|1|NUM
+[|_|_ Jeppe|Jeppe|N is|be|V lying|lying|ADJ on|on|PRP a|a|ART dungheap|dungheap|N in|in|PRP his|he|PERS old|old|ADJ peasant|peasant|N clothes|clothes|N .|_|_
+He|he|PERS wakes|wake|V and|and|KC calls|call|UNKNOWN out|out|ADV .|_|_ ]|_|_
+Jeppe|Jeppe|N .|_|_
+Hey|hey|IN ,|_|_ Sectary|Sectary|N ,|_|_ Valet|Valet|N ,|_|_ Lackeys|lackey|N !|_|_
+another|another|DET glass|glass|N of|of|PRP pork-wine|pork-wine|N !|_|_ [|_|_ He|he|PERS looks|look|UNKNOWN about|about|PRP him|he|PERS ,|_|_ rubs|rub|UNKNOWN his|he|PERS eyes|eye|N as|as|PRP before|before|ADV ,|_|_ feels|feel|UNKNOWN his|he|PERS head|head|N ,|_|_ and|and|KC finds|find|V his|he|PERS old|old|ADJ broad-brimmed|broad-brimmed|ADJ hat|hat|N on|on|PRP it|it|PERS ;|_|_ rubs|rub|UNKNOWN his|he|PERS eyes|eye|N again|again|ADV ,|_|_ turns|turn|UNKNOWN the|the|ART hat|hat|N over=and=over|over=and=over|ADV ,|_|_ looks|look|UNKNOWN at|at|PRP his|he|PERS clothes|clothes|N ,|_|_ recognizes|recognize|V himself|he|PERS again|again|ADV ,|_|_ and|and|KC begins|begin|V to|to|INFM talk|talk|V .|_|_
+]|_|_ How|how|ADV long|long|ADV was|be|V Abraham|Abraham|N in|in|PRP paradise|paradise|N ?|_|_
+Now|now|ADV ,|_|_ alas|ala|N ,|_|_ I|I|PERS recognize|recognize|V-3S everything|everything|INDP again|again|ADV --|_|_ my|I|PERS bed|bed|N ,|_|_ my|I|PERS jacket|jacket|N ,|_|_ my|I|PERS old|old|ADJ cuckold-hat|cuckold-hat|N ,|_|_ myself|I|PERS ;|_|_
+this|this|INDP is|be|V different|different|ADJ ,|_|_ Jeppe|Jeppe|N ,|_|_ from|from|PRP drinking|drink|V pork-wine|pork-wine|N out=of|out=of|PRP a|a|ART gilt-edged|gilt-edged|ADJ glass|glass|N ,|_|_ and|and|KC sitting|sit|UNKNOWN at|at|PRP a|a|ART table|table|N with|with|PRP lackeys|lackey|N and|and|KC a|a|ART sectary|sectary|N behind|behind|PRP my|I|PERS chair|chair|N .|_|_
+Good|good|ADJ fortune|fortune|N ,|_|_ worse|bad|ADV luck|luck|N ,|_|_ never|never|ADV lasts|last|V very|very|ADV long|long|ADV .|_|_
+Oh|oh|IN ,|_|_ that|that|KS I|I|PERS ,|_|_ who|who|INDP such|such|DET a|a|ART short|short|ADJ time|time|N ago|ago|ADV was|be|V «|_|_ my|I|PERS lord|lord|N ,|_|_ »|_|_ should|shall|V now|now|ADV find|find|V myself|I|PERS in|in|PRP such|such|DET a|a|ART miserable|miserable|ADJ plight|plight|N ,|_|_ with|with|PRP my|I|PERS fine|fine|ADJ bed|bed|N turned|turn|UNKNOWN into|into|PRP a|a|ART dungheap|dungheap|N ,|_|_ my|I|PERS gold-embroidered|gold-embroidered|ADJ cap|cap|N changed|change|V into|into|PRP my|I|PERS old|old|ADJ cuckold-hat|cuckold-hat|N ,|_|_ my|I|PERS lackeys|lackey|N into|into|PRP pigs|pig|N ,|_|_ and|and|KC I|I|PERS myself|I|DET from|from|PRP «|_|_ my|I|PERS lord|lord|N »|_|_ to|to|PRP a|a|ART wretched|wretched|ADJ peasant|peasant|N once=more|once=more|ADV !|_|_
+I|I|PERS thought|think|V when|when|ADV I|I|PERS woke|wake|V up|up|ADV again|again|ADV I|I|PERS should|shall|V find|find|V my|I|PERS fingers|finger|N covered|cover|UNKNOWN with|with|PRP gold|gold|N rings|ring|N ,|_|_ but|but|KC ,|_|_ saving|save|V your|you|PERS presence|presence|N ,|_|_ they_|they|PERS _re|be|V-1/3S covered|cover|UNKNOWN with|with|PRP something|something|INDP very|very|ADV different|different|ADJ .|_|_
+I|I|PERS thought|think|V I|I|PERS should|shall|V be|be|V calling|call|UNKNOWN servants|servant|N to|to|INFM account|account|V ,|_|_ but|but|KC now|now|ADV I|I|PERS must|must|V get|get|UNKNOWN my|I|PERS back|back|ADV ready|ready|ADJ for|for|PRP my|I|PERS home-coming|home-coming|N ,|_|_ when|when|ADV I|I|PERS shall|shall|V have|have|UNKNOWN to|to|INFM give|give|UNKNOWN an|a|ART account|account|N of|of|PRP my|I|PERS own|own|DET doings|doings|N .|_|_
+I|I|PERS thought|think|V that|that|KS when|when|ADV I|I|PERS woke|wake|V up|up|ADV I|I|PERS should|shall|V reach|reach|UNKNOWN out|out|ADV and|and|KC grasp|grasp|UNKNOWN a|a|ART glass|glass|N of|of|PRP pork-wine|pork-wine|N ,|_|_ but|but|KC instead|instead|ADV ,|_|_ to|to|INFM speak|speak|V modestly|modest|ADV ,|_|_ I|I|PERS get|get|UNKNOWN a|a|ART handful|handful|N of|of|PRP dung|dung|N .|_|_
+Alas|alas|IN ,|_|_ Jeppe|Jeppe|N ,|_|_ your|you|PERS sojourn|sojourn|N in|in|PRP paradise|paradise|N was|be|V pretty|pretty|ADV short|short|ADJ ,|_|_ and|and|KC your|you|PERS happiness|happiness|N came|come|UNKNOWN quickly|quickly|ADV to|to|PRP an|a|ART end|end|N .|_|_
+But|but|KC who|who|INDP knows|know|UNKNOWN that|that|KS the|the|ART same|same|DET thing|thing|N might|may|V not|not|ADV happen|happen|V again|again|ADV if|if|KS I|I|PERS were|be|V-1/3S to|to|INFM lie|lie|UNKNOWN down|down|ADV for|for|PRP a|a|ART while|while|N ?|_|_
+Oh|oh|IN ,|_|_ if|if|KS it|it|PERS only|only|ADV would|will|V !|_|_
+Oh|oh|IN ,|_|_ if|if|KS I|I|PERS could|can|V get|get|UNKNOWN back|back|ADV there|there|ADV again|again|ADV !|_|_ [|_|_ Lies|lie|N down|down|ADV and|and|KC goes|go|UNKNOWN to|to|INFM sleep|sleep|UNKNOWN .|_|_
+]|_|_
+Scene|scene|N 2|2|NUM [|_|_ Enter|enter|N Nille|Nille|N .|_|_
+]|_|_ Nille|Nille|N .|_|_
+I|I|PERS wonder|wonder|V-3S if|if|KS anything|anything|INDP has|have|UNKNOWN happened|happen|V to|to|PRP him|he|PERS ?|_|_
+What|what|INDP could|can|V it|it|PERS be|be|V ?|_|_
+Either|either|ADV the|the|ART devil|devil|N has|have|UNKNOWN taken|take|UNKNOWN him|he|PERS ,|_|_ or|or|KC ,|_|_ what|what|INDP I|I|PERS fear|fear|V-3S more|much|INDP ,|_|_ he_|he|PERS _s|be|V sitting|sit|UNKNOWN at|at|PRP an|a|ART inn|inn|N drinking|drinking|N up|up|PRP the|the|ART money|money|N .|_|_
+I|I|PERS was|be|V a|a|ART goose|goose|N to|to|INFM trust|trust|V the|the|ART drunkard|drunkard|N with|with|PRP twelve|twelve|NUM pence|pence|N at=once|at=once|ADV .|_|_
+But|but|KC what|what|INDP do|do|UNKNOWN I|I|PERS see|see|UNKNOWN ?|_|_
+Is_|be|V _n't|not|ADV that|that|DET himself|he|DET lying|lying|N there|there|ADV in|in|PRP the|the|ART filth|filth|N and|and|KC snoring|snoring|N ?|_|_
+Oh|oh|IN ,|_|_ miserable|miserable|ADJ mortal|mortal|N that|that|INDP I|I|PERS am|be|V ,|_|_ to|to|INFM have|have|UNKNOWN such|such|DET a|a|ART beast|beast|N for|for|PRP a|a|ART husband|husband|N !|_|_
+Your|you|PERS back|back|N will|will|V pay|pay|V dearly|dearly|ADV for|for|PRP this|this|INDP !|_|_ [|_|_ She|she|PERS steals|steal|V up=to|up=to|ADV him|he|PERS and|and|KC gives|give|UNKNOWN him|he|PERS a|a|ART whack|whack|N on|on|PRP the|the|ART rump|rump|N with|with|PRP Master|master|N Eric|Eric|N .|_|_
+]|_|_
+Jeppe|Jeppe|N .|_|_
+Hey|hey|IN ,|_|_ hey|hey|IN !|_|_
+Help|help|N ,|_|_ help|help|V !|_|_
+What|what|INDP is|be|V that|that|INDP ?|_|_
+Where|where|ADV am|be|V I|I|PERS ?|_|_
+Who|who|INDP am|be|V I|I|PERS ?|_|_ Who|who|INDP is|be|V beating|beat|UNKNOWN me|I|PERS ?|_|_
+and|and|KC why|why|ADV ?|_|_
+Hey|hey|IN !|_|_
+Nille|Nille|N .|_|_
+I_|I|PERS _ll|will|V teach|teach|V you|you|PERS what|what|INDP it|it|PERS is|be|V soon|soon|ADV enough|enough|ADV .|_|_ [|_|_ Beats|beat|UNKNOWN him|he|PERS and|and|KC pulls|pull|UNKNOWN his|he|PERS hair|hair|N .|_|_
+]|_|_
+Jeppe|Jeppe|N .|_|_
+Oh|oh|IN ,|_|_ dear|dear|ADJ Nille|Nille|N ,|_|_ do_|do|UNKNOWN _n't|not|ADV beat|beat|UNKNOWN me|I|PERS any=more|any=more|INDP ;|_|_
+you|you|PERS do_|do|UNKNOWN _n't|not|ADV know-all|know-all|N that|that|INDP has|have|UNKNOWN happened|happen|V to|to|PRP me|I|PERS .|_|_
+Nille|Nille|N .|_|_
+Where|where|ADV have|have|UNKNOWN you|you|PERS been|be|V all|all|DET this|this|DET time|time|N ,|_|_ you|you|PERS guzzler|guzzler|N ?|_|_
+Where|where|ADV is|be|V the|the|ART soap|soap|N you|you|PERS were|be|V-1/3S to|to|INFM buy|buy|V ?|_|_
+Jeppe|Jeppe|N .|_|_
+I|I|PERS could_|can|V _n't|not|ADV get|get|UNKNOWN to|to|PRP town|town|N ,|_|_ Nille|Nille|N .|_|_
+Nille|Nille|N .|_|_
+Why|why|ADV not|not|ADV ?|_|_
+Jeppe|Jeppe|N .|_|_
+I|I|PERS was|be|V taken|take|UNKNOWN up=to|up=to|ADV paradise|paradise|N on|on|PRP the|the|ART way|way|N .|_|_
+Nille|Nille|N .|_|_
+To|to|PRP paradise|paradise|N !|_|_ [|_|_ Hits|hit|UNKNOWN him|he|PERS .|_|_
+]|_|_ To|to|PRP paradise|paradise|N .|_|_ [|_|_ Hits|hit|UNKNOWN him|he|PERS again|again|ADV .|_|_
+]|_|_ Are|be|V-1/3S you|you|PERS going|go|V to|to|INFM make|make|UNKNOWN sport|sport|N of|of|PRP me|I|PERS into|into|PRP the|the|ART bargain|bargain|N ?|_|_
+Jeppe|Jeppe|N .|_|_
+O|O|N --|_|_ o|o|N --|_|_ o|o|N --|_|_ !|_|_
+As|as|ADV true|true|ADJ as|as|KS I_|I|PERS _m|be|V an|a|ART honest|honest|ADJ man|man|N ,|_|_ it_|it|PERS _s|be|V so|so|ADV !|_|_
+Nille|Nille|N .|_|_
+What's|What|N so|so|ADV ?|_|_
+Jeppe|Jeppe|N .|_|_
+]|_|_ Oh|oh|IN ,|_|_ Nille|Nille|N ,|_|_ dear|dear|ADJ ,|_|_ do_|do|UNKNOWN _n't|not|ADV beat|beat|UNKNOWN me|I|PERS !|_|_
+Nille|Nille|N .|_|_
+Quick|quick|ADJ ,|_|_ confess|confess|V-3S where|where|ADV you_|you|PERS _ve|have|UNKNOWN been|be|V ,|_|_ or|or|KC I_|I|PERS _ll|will|V trounce|trounce|UNKNOWN the|the|ART life|life|N out=of|out=of|PRP you|you|PERS .|_|_
+Jeppe|Jeppe|N .|_|_
+Oh|oh|IN ,|_|_ I_|I|PERS _ll|will|V confess|confess|V ,|_|_ if|if|KS you|you|PERS will_|will|V _n't|not|ADV beat|beat|UNKNOWN me|I|PERS any=more|any=more|INDP .|_|_
+Nille|Nille|N .|_|_
+Go|go|UNKNOWN on|on|ADV ,|_|_ confess|confess|V-3S .|_|_
+Jeppe|Jeppe|N .|_|_
+Swear|swear|V not|not|ADV to|to|INFM beat|beat|UNKNOWN me|I|PERS ?|_|_
+Nille|Nille|N .|_|_
+No.|no.|UNKNOWN
+Jeppe|Jeppe|N .|_|_
+As|as|ADV true|true|ADJ as|as|KS I_|I|PERS _m|be|V an|a|ART honest|honest|ADJ man|man|N called|call|UNKNOWN Jeppe|Jeppe|N of|of|PRP the|the|ART Hill|hill|N ,|_|_ as|as|ADV sure|sure|ADJ as|as|KS that_|that|INDP _s|be|V true|true|ADJ ,|_|_ I|I|PERS have|have|UNKNOWN been|be|V in|in|PRP paradise|paradise|N and|and|KC have|have|UNKNOWN seen|see|UNKNOWN things|thing|N that|that|KS it|it|PERS will|will|V stun|stun|UNKNOWN you|you|PERS to|to|INFM hear|hear|V of|of|PRP .|_|_
+[|_|_ Nille|Nille|N beats|beat|UNKNOWN him|he|PERS again|again|ADV and|and|KC drags|drag|UNKNOWN him|he|PERS into|into|PRP the|the|ART house|house|N by|by|PRP the|the|ART hair|hair|N .|_|_
+]|_|_
+Scene|scene|N 3|3|NUM [|_|_ Enter|enter|N Nille|Nille|N .|_|_
+]|_|_ Nille|Nille|N .|_|_
+Now|now|ADV ,|_|_ then|then|ADV ,|_|_ you|you|PERS drunken|drunken|ADJ hound|hound|N !|_|_
+Sleep|sleep|N off|off|PRP your|you|PERS liquor|liquor|N first|first|ADV ;|_|_
+then|then|ADV we|we|PERS shall|shall|V have|have|UNKNOWN more|much|INDP to|to|INFM say|say|V about|about|PRP it|it|PERS .|_|_
+Such|such|DET swine|swine|N as|as|PRP you|you|PERS do_|do|UNKNOWN _n't|not|ADV go|go|UNKNOWN to|to|PRP paradise|paradise|N !|_|_
+Think|think|V of|of|PRP it|it|PERS ,|_|_ the|the|ART beast|beast|N has|have|UNKNOWN drunk|drink|V himself|he|PERS clean|clean|N out=of|out=of|PRP his|he|PERS wits|wits|N .|_|_
+But|but|KC if|if|KS he|he|PERS did|do|UNKNOWN it|it|PERS at|at|PRP my|I|PERS expense|expense|N ,|_|_ then|then|ADV he_|he|PERS _ll|will|V do|do|UNKNOWN heavy|heavy|ADJ penance|penance|N for|for|PRP it|it|PERS ;|_|_
+he|he|PERS shall_|shall|V _n't|not|ADV get|get|UNKNOWN a|a|ART thing|thing|N to|to|INFM eat|eat|V or|or|KC drink|drink|V for|for|PRP two|two|NUM whole|whole|ADJ days|day|N .|_|_
+By|by|PRP that|that|DET time|time|N he_|he|PERS _ll|will|V get|get|UNKNOWN over|over|PRP his|he|PERS notions|notion|N about|about|PRP paradise|paradise|N .|_|_
+Scene|scene|N 4|4|NUM
+(|_|_ Enter|enter|UNKNOWN three|three|NUM armed|armed|ADJ men|man|N .|_|_
+)|_|_
+First|first|NUM Man|Man|N .|_|_
+Does|do|UNKNOWN a|a|ART man|man|N named|name|V Jeppe|Jeppe|N live|live|V here|here|ADV ?|_|_
+Nille|Nille|N .|_|_
+Yes|yes|IN ,|_|_ he|he|PERS does|do|UNKNOWN .|_|_
+First|first|NUM Man|Man|N .|_|_
+Are|be|V-1/3S you|you|PERS his|he|PERS wife|wife|N ?|_|_
+Nille|Nille|N .|_|_
+Yes|yes|IN ,|_|_ God|God|N help|help|N me|I|PERS ,|_|_ so|so|ADV much|much|ADV the|the|ART worse|bad|ADJ for|for|PRP me|I|PERS .|_|_
+First|first|NUM Man|Man|N .|_|_
+We|we|PERS must|must|V go|go|UNKNOWN in|in|ADV and|and|KC talk|talk|V with|with|PRP him|he|PERS .|_|_
+Nille|Nille|N .|_|_
+He_|he|PERS _s|be|V dead-drunk|dead-drunk|ADJ .|_|_
+First|first|NUM Man|Man|N .|_|_
+That|that|INDP makes|make|UNKNOWN no|no|DET difference|difference|N ;|_|_
+fetch|fetch|UNKNOWN him|he|PERS out|out|ADV or|or|KC the|the|ART whole|whole|ADJ household|household|N will|will|V suffer|suffer|V .|_|_
+[|_|_ Nille|Nille|N goes|go|UNKNOWN in|in|ADV ,|_|_ and|and|KC pushes|push|V Jeppe|Jeppe|N out|out|ADV so|so|ADV hard|hard|ADJ that|that|KS he|he|PERS knocks|knock|UNKNOWN over|over|ADV one|one|NUM of|of|PRP the|the|ART men|man|N and|and|KC rolls|roll|N on|on|PRP the|the|ART ground|ground|N with|with|PRP him|he|PERS .|_|_
+]|_|_
+Scene|scene|N 5|5|NUM
+Jeppe|Jeppe|N .|_|_
+Now|now|ADV ,|_|_ good|good|ADJ friends|friend|N ,|_|_ you|you|PERS see|see|UNKNOWN what|what|DET a|a|ART wife|wife|N I|I|PERS have|have|UNKNOWN to|to|INFM put|put|UNKNOWN up|up|ADV with|with|PRP .|_|_
+First|first|NUM Man|Man|N .|_|_
+You|you|PERS deserve|deserve|V-3S no|no|DET better|good|ADV ,|_|_ for|for|KS you_|you|PERS _re|be|V-1/3S a|a|ART malefactor|malefactor|N .|_|_
+Jeppe|Jeppe|N .|_|_
+What|what|INDP have|have|UNKNOWN I|I|PERS done|do|UNKNOWN now|now|ADV ?|_|_
+First|first|NUM Man|Man|N .|_|_
+Scene|scene|N 6|6|NUM
+(|_|_ Enter|enter|UNKNOWN the|the|ART Judge|judge|N ,|_|_ followed|follow|V by|by|PRP two|two|NUM Lawyers|lawyer|N .|_|_
+He|he|PERS sits|sit|UNKNOWN down|down|ADV .|_|_
+Jeppe|Jeppe|N ,|_|_ his|he|PERS hands|hand|N tied|tie|UNKNOWN behind|behind|PRP him|he|PERS ,|_|_ is|be|V brought|bring|UNKNOWN to|to|PRP the|the|ART bar|bar|N .|_|_
+One|one|NUM of|of|PRP his|he|PERS captors|captor|N steps|steps|N forward|forward|ADV .|_|_
+)|_|_
+First|first|NUM Man|Man|N .|_|_
+Here|here|ADV is|be|V a|a|ART man|man|N ,|_|_ your|you|PERS honor|honor|N ,|_|_ whom|who|INDP we|we|PERS can|can|V swear|swear|V to|to|INFM have|have|UNKNOWN seen|see|UNKNOWN sneaking|sneak|V into|into|PRP the|the|ART baron's|baron|N house|house|N ,|_|_ where|where|ADV he|he|PERS posed|pose|UNKNOWN as|as|PRP his|he|PERS lordship|lordship|N ,|_|_ put|put|UNKNOWN on|on|ADV his|he|PERS clothes|clothes|N ,|_|_ and|and|KC tyrannized|tyrannize|V over|over|PRP the|the|ART servants|servant|N .|_|_
+As|as|KS this|this|INDP is|be|V a|a|ART piece|piece|N of|of|PRP unheard-of|unheard-of|ADJ impudence|impudence|N ,|_|_ we|we|PERS demand|demand|V-3S on=behalf=of|on=behalf=of|PRP his|he|PERS lordship|lordship|N that|that|KS it|it|PERS be|be|V punished|punish|V with|with|PRP such|such|DET severity|severity|N that|that|INDP it|it|PERS shall|shall|V serve|serve|V as=an=example|as=an=example|ADV and|and|KC a|a|ART warning|warning|N to|to|PRP other|other|DET evil-doers|evil-doer|N .|_|_
+Judge|judge|N .|_|_
+Is|be|V this|this|DET accusation|accusation|N true|true|ADJ ?|_|_
+Speak|speak|V out|out|ADV whatever|whatever|INDP you|you|PERS may|may|V have|have|UNKNOWN to|to|INFM say|say|V in|in|PRP answer|answer|N to|to|PRP it|it|PERS ,|_|_ for|for|KS we|we|PERS do|do|UNKNOWN not|not|ADV wish|wish|V to|to|INFM convict|convict|V any|any|DET one|one|NUM unheard|unheard|ADJ .|_|_
+Jeppe|Jeppe|N .|_|_
+Alas|alas|IN ,|_|_ what|what|DET a|a|ART God-forsaken|god-forsaken|ADJ man|man|N I|I|PERS am|be|V !|_|_
+What|what|INDP can|can|V I|I|PERS say|say|V ?|_|_
+I|I|PERS admit|admit|V-3S I|I|PERS deserve|deserve|V-3S punishment|punishment|N ,|_|_ but|but|KC only|only|ADV for|for|PRP the|the|ART money|money|N I|I|PERS squandered|squander|V on|on|PRP drink|drink|N instead=of|instead=of|PRP buying|buy|V soap|soap|N with|with|PRP it|it|PERS .|_|_
+I|I|PERS also|also|ADV admit|admit|V-3S that|that|KS I|I|PERS have|have|UNKNOWN recently|recently|ADV been|be|V in|in|PRP the|the|ART castle|castle|N ,|_|_ but|but|KC how|how|ADV I|I|PERS got|get|UNKNOWN there|there|ADV and|and|KC how|how|ADV I|I|PERS got|get|UNKNOWN out|out|ADV again|again|ADV ,|_|_ I|I|PERS have_|have|UNKNOWN _n't|not|ADV the|the|ART least|little|DET idea|idea|UNKNOWN .|_|_
+First|first|NUM Lawyer|Lawyer|N .|_|_
+Your|you|PERS honor|honor|N has|have|UNKNOWN it|it|PERS on|on|PRP his|he|PERS own|own|DET admission|admission|UNKNOWN :|_|_ he|he|PERS got|get|UNKNOWN drunk|drink|V and|and|KC in|in|PRP his|he|PERS drunkenness|drunkenness|N committed|commit|V this|this|DET unheard-of|unheard-of|ADJ outrage|outrage|N .|_|_
+All|all|DET that|that|INDP remains|remain|V is|be|V to|to|INFM decide|decide|V whether|whether|KS the|the|ART guilt|guilt|N of|of|PRP such|such|DET a|a|ART gross|gross|ADJ misdeed|misdeed|N can|can|V be|be|V held|hold|UNKNOWN devoid|devoid|ADJ of|of|PRP criminal|criminal|ADJ intent|intent|N because=of|because=of|PRP intoxication|intoxication|N .|_|_
+I|I|PERS argue|argue|V-3S that|that|KS it|it|PERS can_|can|V _not|not|ADV ,|_|_ for|for|PRP if|if|KS it|it|PERS could|can|V ,|_|_ neither|neither|ADV fornication|fornication|N nor|nor|KC murder|murder|N could|can|V be|be|V punished|punish|V ,|_|_ for|for|KS every|every|DET criminal|criminal|N could|can|V seek|seek|UNKNOWN that|that|DET escape|escape|N and|and|KC assert|assert|V that|that|KS he|he|PERS had|have|UNKNOWN committed|commit|V his|he|PERS crime|crime|N while|while|KS intoxicated|intoxicated|ADJ .|_|_
+And|and|KC although|although|KS he|he|PERS can|can|V prove|prove|V that|that|KS he|he|PERS was|be|V drunk|drink|V ,|_|_ his|he|PERS case|case|N is|be|V none|none|INDP the|the|ART stronger|strong|ADJ ,|_|_ for|for|KS the|the|ART law|law|N is|be|V :|_|_ What|what|DET a|a|ART man|man|N does|do|UNKNOWN under|under|PRP the|the|ART influence|influence|N of|of|PRP drink|drink|N he|he|PERS shall|shall|V answer|answer|V for|for|PRP when|when|ADV sober|sober|ADJ .|_|_
+It|it|PERS is|be|V well=known|well=known|ADJ that|that|KS in|in|PRP a|a|ART recent|recent|ADJ case|case|N of|of|PRP the|the|ART same|same|DET nature|nature|N the|the|ART misdeed|misdeed|N was|be|V punished|punish|V ,|_|_ although|although|KS the|the|ART criminal|criminal|N was|be|V led|lead|V into|into|PRP passing|passing|N himself|he|PERS off|off|ADV as|as|PRP a|a|ART lord|lord|N through|through|PRP his|he|PERS own|own|DET simplicity|simplicity|N ;|_|_
+his|he|PERS ignorance|ignorance|N and|and|KC foolishness|foolishness|N could|can|V not|not|ADV save|save|V him|he|PERS from|from|PRP death|death|N .|_|_
+The|the|ART penalty|penalty|N is|be|V imposed|impose|V purely|purely|ADV as|as|PRP a|a|ART warning|warning|N to|to|PRP others|other|INDP .|_|_
+I|I|PERS would|will|V tell|tell|V the|the|ART circumstances|circumstance|N ,|_|_ were|be|V-1/3S it|it|PERS not|not|ADV that|that|INDP I|I|PERS fear|fear|V-3S to|to|INFM delay|delay|V justice|justice|N thereby|thereby|ADV .|_|_
+Second|second|NUM Lawyer|Lawyer|N .|_|_
+Your|you|PERS honor|honor|N !|_|_
+This|this|DET story|story|N appears|appear|V so|so|ADV remarkable|remarkable|ADJ to|to|PRP me|I|PERS that|that|KS I|I|PERS can_|can|V _not|not|ADV accept|accept|V it|it|PERS without|without|PRP the|the|ART testimony|testimony|N of|of|PRP several|several|DET witnesses|witness|N .|_|_
+How|how|ADV could|can|V a|a|ART simple|simple|ADJ peasant|peasant|N get|get|UNKNOWN into|into|PRP his|he|PERS lord's|Lord|N house|house|N and|and|KC impersonate|impersonate|V his|he|PERS lordship|lordship|N unless|unless|KS he|he|PERS could|can|V imitate|imitate|V his|he|PERS very|very|ADJ form|form|N and|and|KC features|feature|N ?|_|_
+How|how|ADV could|can|V he|he|PERS get|get|UNKNOWN into|into|PRP the|the|ART lord's|Lord|N bedroom|bedroom|N ,|_|_ how|how|ADV could|can|V he|he|PERS put|put|UNKNOWN on|on|ADV his|he|PERS clothes|clothes|N ,|_|_ without|without|PRP any|any|DET one|one|NUM being|be|V aware|aware|ADJ of|of|PRP it|it|PERS ?|_|_
+No|no|DET ,|_|_ your|you|PERS honor|honor|N ,|_|_ one|one|PERS can|can|V plainly|plainly|ADV see|see|UNKNOWN that|that|KS this|this|INDP is|be|V the|the|ART outcome|outcome|N of|of|PRP a|a|ART conspiracy|conspiracy|N on|on|PRP the|the|ART part|part|N of|of|PRP this|this|DET poor|poor|ADJ man's|man|N enemies|enemy|N .|_|_
+I|I|PERS hope|hope|V-3S ,|_|_ therefore|therefore|ADV ,|_|_ that|that|KS he|he|PERS may|may|V be|be|V discharged|discharge|UNKNOWN .|_|_
+Jeppe|Jeppe|N [|_|_ weeping|weep|V ]|_|_ .|_|_
+God|God|N bless|bless|V your|you|PERS mouth|mouth|N .|_|_
+I|I|PERS have|have|UNKNOWN a=bit|a=bit|ADV of|of|PRP tobacco|tobacco|N in|in|PRP my|I|PERS breeches|breeches|N pocket|pocket|N which|which|INDP perhaps|perhaps|ADV you|you|PERS will_|will|V _n't|not|ADV refuse|refuse|V ;|_|_
+it_|it|PERS _s|be|V good|good|ADJ enough|enough|ADV for|for|PRP any|any|DET honorable|honorable|ADJ man|man|N to|to|INFM chew|chew|V .|_|_
+Second|second|NUM Lawyer|lawyer|N .|_|_
+Keep|keep|V your|you|PERS tobacco|tobacco|N ,|_|_ Jeppe|Jeppe|N !|_|_
+I|I|PERS speak|speak|V-3S for|for|PRP you|you|PERS not|not|ADV in|in|PRP the|the|ART hope|hope|N of|of|PRP receiving|receive|UNKNOWN gifts|gifts|N ,|_|_ but|but|KC merely|merely|ADV from|from|PRP Christian|Christian|ADJ charity|charity|N .|_|_
+Jeppe|Jeppe|N .|_|_
+Pardon|pardon|V me|I|PERS ,|_|_ Master|master|N Attorney|Attorney|N !|_|_
+I|I|PERS did_|do|UNKNOWN _n't|not|ADV know|know|UNKNOWN you|you|PERS folks|folk|N were|be|V-1/3S so|so|ADV honorable|honorable|ADJ .|_|_
+First|first|NUM Lawyer|Lawyer|N .|_|_
+What|what|INDP my|I|PERS colleague|colleague|N advances|advance|N in|in|PRP favor|favor|N of|of|PRP this|this|DET man's|man|N acquittal|acquittal|N is|be|V based|base|V entirely|entirely|ADV on|on|PRP conjecture|conjecture|N .|_|_
+The|the|ART question|question|N is|be|V not|not|ADV whether|whether|KS such|such|DET a|a|ART thing|thing|N could|can|V happen|happen|V or|or|KC not|not|ADV ,|_|_ because|because|KS that|that|INDP it|it|PERS did|do|UNKNOWN happen|happen|V is|be|V proved|prove|V both|both|ADV by|by|PRP witnesses|witness|N and|and|KC by|by|PRP the|the|ART man's|man|N own|own|DET confession|confession|N .|_|_
+Second|second|NUM Lawyer|Lawyer|N .|_|_
+What|what|DET a|a|ART man|man|N says|say|V from|from|PRP fear|fear|N and|and|KC awe|awe|N has|have|UNKNOWN no|no|DET weight|weight|N as|as|PRP a|a|ART confession|confession|N .|_|_
+It|it|PERS seems|seem|V to|to|PRP me|I|PERS ,|_|_ therefore|therefore|ADV ,|_|_ that|that|KS it|it|PERS is|be|V best|good|ADJ to|to|INFM give|give|UNKNOWN the|the|ART simple|simple|ADJ fellow|fellow|N time|time|N to|to|INFM collect|collect|UNKNOWN his|he|PERS wits|wits|N ,|_|_ then|then|ADV question|question|V him|he|PERS over|over|PRP again|again|ADV .|_|_
+Judge|judge|N .|_|_
+Listen|listen|V ,|_|_ Jeppe|Jeppe|N !|_|_
+Be|be|V careful|careful|ADJ what|what|INDP you|you|PERS say|say|V-3S .|_|_
+Do|do|UNKNOWN you|you|PERS admit|admit|V the|the|ART charges|charge|N against|against|PRP you|you|PERS ?|_|_
+Jeppe|Jeppe|N .|_|_
+No|no|DET ;|_|_
+I|I|PERS will|will|V swear|swear|V my|I|PERS most|much|ADV sacred|sacred|ADJ oath|oath|N that|that|KS it_|it|PERS _s|be|V all|all|DET lies|lie|N that|that|INDP I|I|PERS swore|swear|V to|to|PRP before|before|ADV ;|_|_
+I|I|PERS have_|have|UNKNOWN _n't|not|ADV been|be|V outside|outside|PRP my|I|PERS door|door|N for|for|PRP the|the|ART last|last|ADJ three|three|NUM days|day|N .|_|_
+First|first|NUM Lawyer|Lawyer|N .|_|_
+Your|you|PERS honor|honor|N ,|_|_ it|it|PERS is|be|V my|I|PERS humble|humble|ADJ opinion|opinion|N that|that|KS he|he|PERS should|shall|V not|not|ADV be|be|V allowed|allow|V to|to|INFM testify|testify|V on|on|PRP a|a|ART matter|matter|N already|already|ADV established|establish|UNKNOWN by|by|PRP witnesses|witness|N ,|_|_ particularly|particularly|ADV inasmuch=as|inasmuch=as|KS he|he|PERS has|have|UNKNOWN already|already|ADV confessed|confess|V his|he|PERS misdeed|misdeed|N .|_|_
+Second|second|NUM Lawyer|Lawyer|N .|_|_
+I|I|PERS think|think|V-3S he|he|PERS should|shall|V .|_|_
+First|first|NUM Lawyer|Lawyer|N .|_|_
+I|I|PERS think|think|V-3S he|he|PERS should|shall|V not|not|ADV .|_|_
+Second|second|NUM Lawyer|Lawyer|N .|_|_
+The|the|ART case|case|N is|be|V of|of|PRP so|so|ADV unusual|unusual|ADJ a|a|ART nature|nature|N --|_|_
+First|first|NUM Lawyer|Lawyer|N .|_|_
+That|that|INDP does|do|UNKNOWN not|not|ADV affect|affect|V witnesses|witness|N and|and|KC a|a|ART confession|confession|N .|_|_
+Jeppe|Jeppe|N .|_|_
+Oh|oh|IN ,|_|_ if|if|KS they|they|PERS would|will|V only|only|ADV go|go|UNKNOWN for|for|PRP each|each|INDP other's|other|INDP throats|throat|N ,|_|_ then|then|ADV I|I|PERS could|can|V set|set|UNKNOWN upon|upon|PRP the|the|ART judge|judge|N and|and|KC give|give|UNKNOWN him|he|PERS such|such|DET a|a|ART beating|beating|N he|he|PERS would|will|V forget|forget|V both|both|ADV law|law|N and|and|KC procedure|procedure|N .|_|_
+Second|second|NUM Lawyer|Lawyer|N .|_|_
+But|but|KC listen|listen|V-3S ,|_|_ worthy|worthy|ADJ colleague|colleague|N !|_|_
+Although|although|KS the|the|ART deed|deed|N is|be|V confessed|confess|V ,|_|_ the|the|ART man|man|N has|have|UNKNOWN deserved|deserve|V no|no|DET punishment|punishment|N ,|_|_ for|for|KS he|he|PERS did|do|UNKNOWN no|no|DET murder|murder|N nor|nor|KC robbery|robbery|N nor|nor|KC harm|harm|N of|of|PRP any|any|DET kind|kind|N while|while|KS on|on|PRP the|the|ART premises|premises|N .|_|_
+First|first|NUM Lawyer|Lawyer|N .|_|_
+That|that|INDP makes|make|UNKNOWN no|no|DET difference|difference|N !|_|_
+Intentio|Intentio|N furandi|furandi|N is|be|V the|the|ART same|same|INDP as|as|PRP furtum|furtum|N .|_|_
+Jeppe|Jeppe|N .|_|_
+Talk|talk|N Danish|Danish|ADJ ,|_|_ you|you|PERS black|black|ADJ hound|hound|N !|_|_
+Then|then|ADV I|I|NUM can|can|N answer|answer|N for|for|PRP myself|I|PERS .|_|_
+First|first|NUM Lawyer|Lawyer|N .|_|_
+For|for|PRP when|when|ADV a|a|ART man|man|N is|be|V taken|take|UNKNOWN ,|_|_ whether|whether|KS he|he|PERS was|be|V about|about|ADV to|to|INFM steal|steal|V or|or|KC had|have|UNKNOWN already|already|ADV stolen|steal|V ,|_|_ he|he|PERS is|be|V a|a|ART thief|thief|N .|_|_
+Jeppe|Jeppe|N .|_|_
+Gracious|gracious|ADJ judge|judge|N !|_|_
+I|I|PERS am|be|V perfectly|perfectly|ADV willing|willing|ADJ to|to|INFM be|be|V hanged|hang|UNKNOWN if|if|KS that|that|DET attorney|attorney|N can|can|V be|be|V hanged|hang|UNKNOWN alongside|alongside|ADV of|of|PRP me|I|PERS .|_|_
+Second|second|NUM Lawyer|Lawyer|N .|_|_
+Stop|stop|UNKNOWN talking|talk|V like|like|PRP that|that|INDP ,|_|_ Jeppe|Jeppe|N !|_|_
+You|you|PERS are|be|V-1/3S merely|merely|ADV injuring|injure|V your|you|PERS own|own|DET case|case|N .|_|_
+Jeppe|Jeppe|N .|_|_
+Then|then|ADV why|why|ADV do_|do|UNKNOWN _n't|not|ADV you|you|PERS answer|answer|V him|he|PERS ?|_|_ [|_|_ Aside|aside|ADV .|_|_
+]|_|_ He|he|PERS stands|stand|UNKNOWN like|like|PRP a|a|ART dumb|dumb|ADJ beast|beast|N .|_|_
+Second|second|NUM Lawyer|Lawyer|N .|_|_
+But|but|KC wherein|wherein|INDP is|be|V proof|proof|N of|of|PRP furandi|furandi|N propositum|propositum|N ?|_|_
+First|first|NUM Lawyer|Lawyer|N .|_|_
+Quicunque|Quicunque|N ;|_|_ in|in|PRP aedes|aede|N alienas|aliena|N noctu|noctu|N irrumpit|irrumpit|N tanquam|tanquam|N fur|fur|N aut|aut|N nocturnus|nocturnus|N grassator|grassator|N existimandus|existimandus|N est|est|N ;|_|_ atqui|atqui|N reus|reus|N hic|hic|ADJ ita|ita|N ,|_|_ ergo|ergo|ADV --|_|_
+Second|second|NUM Lawyer|lawyer|N .|_|_
+Nego|Nego|N majorem|majorem|N ,|_|_ quod|quod|N scilicet|scilicet|N irruperit|irruperit|N .|_|_
+First|first|NUM Lawyer|lawyer|N .|_|_
+Res|Res|N manifesta|manifesta|N est|est|N ,|_|_ tot|tot|V-3S legitimis|legitimis|N testibus|testibus|N existantibus|existantibus|N ,|_|_ ac|ac|N confitente|confitente|N reo|reo|N .|_|_
+Second|second|NUM Lawyer|lawyer|N .|_|_
+Quicunque|Quicunque|N ;|_|_ vi|vi|NUM vel|vel|N metu|metu|N coactus|coactus|N fuerit|fuerit|N confiteri|confiteri|N --|_|_
+First|first|NUM Lawyer|lawyer|N .|_|_
+Oh|oh|IN ,|_|_ but|but|KC where|where|ADV is|be|V the|the|ART vis|vis|N ?|_|_
+Where|where|ADV is|be|V the|the|ART metus|metus|N ?|_|_
+That|that|INDP is|be|V a|a|ART quibble|quibble|V .|_|_
+Second|second|NUM Lawyer|Lawyer|N .|_|_
+You_|you|PERS _re|be|V-1/3S the|the|ART one|one|NUM that|that|INDP quibbles|quibble|V .|_|_
+First|first|NUM Lawyer|Lawyer|N .|_|_
+No|no|DET honorable|honorable|ADJ man|man|N shall|shall|V accuse|accuse|V me|I|PERS of|of|PRP that|that|INDP .|_|_
+(|_|_ They|they|PERS grab|grab|UNKNOWN each=other|each=other|INDP by|by|PRP the|the|ART throat|throat|N ,|_|_ and|and|KC Jeppe|Jeppe|N jumps|jump|V behind|behind|PRP them|they|PERS and|and|KC pulls|pull|UNKNOWN off|off|ADV the|the|ART First=Lawyer's|First=Lawyer|N wig|wig|N .|_|_
+)|_|_
+Judge|Judge|N .|_|_
+Respect|respect|N for|for|PRP the|the|ART law|law|N !|_|_
+Stop|stop|UNKNOWN ,|_|_ I|I|PERS have|have|UNKNOWN heard|hear|V enough|enough|INDP .|_|_ [|_|_ Reads|read|V aloud|aloud|ADV .|_|_
+Jeppe|Jeppe|N .|_|_
+Oh|oh|IN ,|_|_ oh|oh|IN ,|_|_ your|you|PERS honor|honor|N !|_|_
+Have|have|UNKNOWN you|you|PERS no|no|DET mercy|mercy|N ?|_|_
+Judge|judge|N .|_|_
+None|none|INDP is|be|V possible|possible|ADJ .|_|_
+The|the|ART sentence|sentence|N shall|shall|V be|be|V carried|carry|UNKNOWN out|out|ADV forthwith|forthwith|ADV in|in|PRP the|the|ART presence|presence|N of|of|PRP the|the|ART court|court|N .|_|_
+Jeppe|Jeppe|N .|_|_
+May|May|N I|I|PERS have|have|UNKNOWN a|a|ART glass|glass|N of|of|PRP brandy|brandy|N first|first|NUM ,|_|_ before|before|ADV I|I|PERS drink|drink|V-3S the|the|ART poison|poison|N ,|_|_ so|so|KS I|I|PERS can|can|V die|die|UNKNOWN with|with|PRP courage|courage|N ?|_|_
+Judge|judge|N .|_|_
+That|that|INDP is|be|V permissible|permissible|ADJ .|_|_
+Jeppe|Jeppe|N [|_|_ drinks|drink|V off|off|PRP three|three|NUM glasses|glass|N of|of|PRP brandy|brandy|N ,|_|_ and|and|KC falls|fall|V on|on|PRP his|he|PERS knees|knee|N ]|_|_ .|_|_ Will|will|V you|you|PERS not|not|ADV have|have|UNKNOWN mercy|mercy|N ?|_|_
+Judge|judge|N .|_|_
+No|no|DET ,|_|_ Jeppe|Jeppe|N !|_|_ It|it|PERS is|be|V now|now|ADV too|too|ADV late|late|ADJ .|_|_
+Jeppe|Jeppe|N .|_|_
+Oh|oh|IN ,|_|_ it_|it|PERS _s|be|V not|not|ADV too|too|ADV late|late|ADJ .|_|_
+A|a|ART judge|judge|N can|can|V reverse|reverse|V his|he|PERS decision|decision|N and|and|KC say|say|V he|he|PERS judged|judge|V wrong|wrong|ADV the|the|ART first-time|first-time|ADJ .|_|_
+We_|we|PERS _re|be|V-1/3S all|all|INDP merely|merely|ADV men|man|N ,|_|_ so|so|KS we_|we|PERS _re|be|V-1/3S all|all|DET likely|likely|ADJ to|to|INFM make|make|UNKNOWN mistakes|mistake|N .|_|_
+Judge|judge|N .|_|_
+No|no|DET ;|_|_ you|you|PERS yourself|you|DET will|will|V feel|feel|UNKNOWN in|in|PRP a=few|a=few|DET minutes|minute|N that|that|KS it|it|PERS is|be|V too|too|ADV late|late|ADJ ,|_|_ for|for|KS you|you|PERS have|have|UNKNOWN already|already|ADV drunk|drink|V the|the|ART poison|poison|N in|in|PRP the|the|ART brandy|brandy|N .|_|_
+Jeppe|Jeppe|N .|_|_
+Alas|alas|IN ,|_|_ what|what|DET an|a|ART unfortunate|unfortunate|ADJ man|man|N I|I|PERS am|be|V !|_|_
+Have|have|UNKNOWN I|I|NUM taken|take|UNKNOWN the|the|ART poison|poison|N already|already|ADV ?|_|_
+Oh|oh|IN ,|_|_ farewell|farewell|N ,|_|_ Nille|Nille|N !|_|_
+But|but|KC the|the|ART beast|beast|N does_|do|UNKNOWN _n't|not|ADV deserve|deserve|V that|that|INDP I|I|PERS should|shall|V take|take|UNKNOWN leave|leave|N of|of|PRP her|she|PERS .|_|_
+Farewell|farewell|N ,|_|_ Jens|Jens|N ,|_|_ Niels|Niels|N ,|_|_ and|and|KC Christoffer|Christoffer|N !|_|_
+Farewell|farewell|N ,|_|_ my|I|PERS daughter|daughter|N Marthe|Marthe|N !|_|_
+Farewell|farewell|N ,|_|_ apple|apple|N of|of|PRP my|I|PERS eye|eye|N !|_|_
+I|I|PERS know|know|UNKNOWN I|I|PERS am|be|V your|you|PERS father|father|N because|because|KS you|you|PERS were|be|V-1/3S born|bear|UNKNOWN before|before|KS that|that|KS deacon|deacon|N came|come|UNKNOWN around|around|ADV ,|_|_ and|and|KC you|you|PERS take|take|UNKNOWN after|after|PRP me|I|PERS so|so|ADV we_|we|PERS _re|be|V-1/3S like|like|ADJ as|as|PRP two|two|NUM drops|drop|N of|of|PRP water|water|N .|_|_
+Farewell|farewell|N ,|_|_ my|I|PERS piebald|piebald|N horse|horse|N ,|_|_ and|and|KC thank|thank|V-3S you|you|PERS for|for|PRP all|all|DET the|the|ART times|time|N I|I|PERS have|have|UNKNOWN ridden|ride|UNKNOWN you|you|PERS ;|_|_
+next=to|next=to|PRP my|I|PERS own|own|DET children|child|N I|I|PERS never|never|ADV loved|love|UNKNOWN any|any|DET animal|animal|N as|as|KS I|I|PERS love|love|UNKNOWN you|you|PERS .|_|_
+Farewell|farewell|N ,|_|_ Feierfax|Feierfax|N ,|_|_ my|I|PERS good|good|ADJ watchdog|watchdog|N !|_|_
+Farewell|farewell|N ,|_|_ Moens|Moens|N ,|_|_ my|I|PERS black|black|ADJ cat|cat|N !|_|_
+Farewell|farewell|N ,|_|_ my|I|PERS oxen|ox|N ,|_|_ my|I|PERS sheep|sheep|N ,|_|_ my|I|PERS pigs|pig|N ,|_|_ and|and|KC thank|thank|V-3S you|you|PERS for|for|PRP your|you|PERS good|good|ADJ company|company|N and|and|KC for|for|PRP every-day|every-day|ADJ I|I|PERS have|have|UNKNOWN known|know|UNKNOWN you|you|PERS !|_|_ .|_|_ .|_|_ .|_|_
+Farewell|farewell|N ,|_|_ .|_|_ .|_|_ .|_|_
+Oh|oh|IN ,|_|_ now|now|ADV I|I|PERS can|can|V say|say|V no=more|no=more|INDP ,|_|_ I|I|PERS feel|feel|UNKNOWN so|so|ADV heavy|heavy|ADJ and|and|KC so|so|ADV weak|weak|ADJ .|_|_ [|_|_ He|he|PERS falls|fall|V ,|_|_ and|and|KC lies|lie|UNKNOWN on|on|PRP the|the|ART floor|floor|N .|_|_ ]|_|_
+Judge|Judge|N .|_|_
+That|that|INDP worked|work|UNKNOWN well|well|ADV ;|_|_
+the|the|ART sleeping-potion|sleeping-potion|N has|have|UNKNOWN already|already|ADV taken|take|UNKNOWN effect|effect|N ,|_|_ and|and|KC he|he|PERS is|be|V sleeping|sleep|UNKNOWN like|like|PRP a|a|ART log|log|N .|_|_
+Hang|hang|UNKNOWN him|he|PERS up|up|ADV now|now|ADV ,|_|_ but|but|KC be|be|V careful|careful|ADJ not|not|ADV to|to|INFM hurt|hurt|V him|he|PERS ,|_|_ and|and|KC see|see|UNKNOWN that|that|KS the|the|ART rope|rope|N goes|go|UNKNOWN only|only|ADV under|under|PRP his|he|PERS arms|arm|N .|_|_
+Then|then|ADV we|we|PERS shall|shall|V see|see|UNKNOWN what|what|INDP he|he|PERS does|do|UNKNOWN when|when|ADV he|he|PERS wakes|wake|V up|up|ADV and|and|KC finds|find|V himself|he|PERS hanging|hang|UNKNOWN .|_|_
+[|_|_ They|they|PERS drag|drag|UNKNOWN him|he|PERS out|out|ADV .|_|_
+Act|act|N V|V|N
+Scene|scene|N 1|1|NUM
+(|_|_ Jeppe|Jeppe|N is|be|V discovered|discover|V hanging|hang|UNKNOWN from|from|PRP a|a|ART gallows|gallows|N .|_|_
+The|the|ART Judge|judge|N stands|stand|UNKNOWN aside|aside|ADV ,|_|_ unseen|unseen|ADJ by|by|PRP Nille|Nille|N .|_|_
+)|_|_
+Nille|Nille|N .|_|_
+Oh|oh|IN ,|_|_ oh|oh|IN ,|_|_ can|can|V it|it|PERS be|be|V that|that|KS I|I|PERS see|see|UNKNOWN my|I|PERS good|good|ADJ husband|husband|N hanging|hang|UNKNOWN on|on|PRP the|the|ART gallows|gallows|N ?|_|_
+Oh|oh|IN ,|_|_ my|I|PERS dearest|dear|ADJ husband|husband|N !|_|_
+Forgive|forgive|V me|I|PERS all|all|DET the|the|ART wrong|wrong|ADV I|I|PERS have|have|UNKNOWN done|do|UNKNOWN you|you|PERS .|_|_
+Oh|oh|IN ,|_|_ now|now|ADV my|I|PERS conscience|conscience|N is|be|V roused|rouse|V ;|_|_
+now|now|ADV I|I|PERS repent|repent|V-3S ,|_|_ but|but|KC too|too|ADV late|late|ADV ,|_|_ for|for|PRP the|the|ART ill|ill|ADJ nature|nature|N I|I|PERS showed|show|V you|you|PERS ;|_|_
+now|now|ADV that|that|INDP I|I|PERS miss|miss|UNKNOWN you|you|PERS ,|_|_ for|for|KS the|the|ART first-time|first-time|ADJ I|I|PERS can|can|V realize|realize|V what|what|DET a|a|ART good|good|ADJ husband|husband|N I|I|PERS have|have|UNKNOWN lost|lose|UNKNOWN .|_|_
+Oh|oh|IN ,|_|_ that|that|INDP I|I|PERS could|can|V only|only|ADV save|save|V you|you|PERS from|from|PRP death|death|N with|with|PRP my|I|PERS own|own|DET life's|life|N blood|blood|N .|_|_
+[|_|_ She|she|PERS wipes|wipe|UNKNOWN her|she|PERS eyes|eye|N ,|_|_ and|and|KC weeps|weep|V bitterly|bitterly|ADV .|_|_
+Meanwhile|meanwhile|ADV the|the|ART effects|effect|N of|of|PRP the|the|ART sleeping-potion|sleeping-potion|N have|have|UNKNOWN worn|wear|UNKNOWN off|off|PRP ,|_|_ and|and|KC Jeppe|Jeppe|N wakes|wake|V .|_|_
+He|he|PERS sees|see|UNKNOWN that|that|INDP be|be|V is|be|V hanging|hang|UNKNOWN on|on|PRP the|the|ART gallows|gallows|N ,|_|_ and|and|KC that|that|KS his|he|PERS hands|hand|N are|be|V-1/3S tied|tie|UNKNOWN behind|behind|PRP him|he|PERS ,|_|_ and|and|KC he|he|PERS hears|hear|V his|he|PERS wife's|wife|N laments|lament|N .|_|_
+]|_|_
+Jeppe|Jeppe|N .|_|_
+Be|be|V calm|calm|ADJ ,|_|_ my|I|PERS dear|dear|ADJ wife|wife|N ,|_|_ we|we|PERS must|must|V all|all|INDP go|go|UNKNOWN the|the|ART same|same|DET way|way|N .|_|_
+Go|go|UNKNOWN home|home|ADV and|and|KC look|look|UNKNOWN after|after|PRP the|the|ART house|house|N and|and|KC take|take|UNKNOWN good|good|ADJ care|care|N of|of|PRP my|I|PERS children|child|N .|_|_
+You|you|PERS can|can|V have|have|UNKNOWN my|I|PERS red|red|ADJ jacket|jacket|N made|make|UNKNOWN over|over|ADV for|for|PRP little|little|DET Christoffer|Christoffer|N ,|_|_ and|and|KC what's|what|N left|left|N will|will|V do|do|UNKNOWN for|for|PRP a|a|ART cap|cap|N for|for|PRP Marthe|Marthe|N .|_|_
+Above=all|above=all|ADV ,|_|_ see|see|UNKNOWN to|to|PRP it|it|PERS that|that|KS my|I|PERS piebald|piebald|N horse|horse|N is|be|V well|well|ADV cared|care|V for|for|PRP ,|_|_ for|for|KS I|I|PERS loved|love|UNKNOWN that|that|DET beast|beast|N as=if|as=if|KS he|he|PERS had|have|UNKNOWN been|be|V my|I|PERS own|own|DET brother|Brother|N .|_|_
+If|if|KS I|I|NUM were_|be|V-1/3S _n't|not|ADV dead|dead|ADJ ,|_|_ I_|I|PERS _d|will|V have|have|UNKNOWN more|much|INDP to|to|INFM say|say|V to|to|PRP you|you|PERS .|_|_
+Nille|Nille|N .|_|_
+O|O|N --|_|_ o|o|N --|_|_ o|o|N --|_|_ !|_|_
+What|what|INDP is|be|V that|that|INDP ?|_|_
+What|what|INDP do|do|UNKNOWN I|I|PERS hear|hear|V ?|_|_
+Can|can|V a|a|ART dead|dead|ADJ man|man|N talk|talk|V ?|_|_
+Jeppe|Jeppe|N .|_|_
+Do_|do|UNKNOWN _n't|not|ADV be|be|V afraid|afraid|ADJ ,|_|_ Nille|Nille|N ,|_|_ I|I|PERS shall_|shall|V _n't|not|ADV hurt|hurt|V you|you|PERS .|_|_
+Nille|Nille|N .|_|_
+But|but|KC ,|_|_ my|I|PERS dearest|dear|ADJ husband|husband|N ,|_|_ how|how|ADV can|can|V you|you|PERS talk|talk|V when|when|ADV you_|you|PERS _re|be|V-1/3S dead|dead|ADJ ?|_|_
+Jeppe|Jeppe|N .|_|_
+I|I|PERS do_|do|UNKNOWN _n't|not|ADV know|know|UNKNOWN myself|I|PERS how|how|ADV it|it|PERS happens|happen|V .|_|_
+But|but|KC listen|listen|V-3S ,|_|_ my|I|PERS dear|dear|ADJ wife|wife|N !|_|_
+Run|run|V like|like|PRP wildfire|wildfire|N and|and|KC bring|bring|UNKNOWN me|I|PERS eightpence|eightpence|N worth|worth|N of|of|PRP brandy|brandy|N ,|_|_ for|for|KS I|I|PERS am|be|V thirstier|thirsty|ADJ now|now|ADV than|than|KS I|I|PERS ever|ever|ADV was|be|V when|when|ADV I|I|PERS was|be|V alive|alive|ADJ .|_|_
+Nille|Nille|N .|_|_
+Shame|shame|N ,|_|_ you|you|PERS beast|beast|N !|_|_
+You|you|PERS scoundrel|scoundrel|N !|_|_
+You|you|PERS hopeless|hopeless|ADJ drunkard|drunkard|N !|_|_
+Have_|have|UNKNOWN _n't|not|ADV you|you|PERS drunk|drink|V enough|enough|DET brandy|brandy|N in|in|PRP your|you|PERS living|living|ADJ lifetime|lifetime|N ?|_|_
+Are|be|V-1/3S you|you|PERS still|still|ADV thirsty|thirsty|ADJ ,|_|_ you|you|PERS sot|sot|N ,|_|_ now|now|ADV that|that|INDP you|you|PERS are|be|V-1/3S dead|dead|ADJ ?|_|_
+I|I|PERS call|call|UNKNOWN that|that|KS being|be|V a|a|ART full-blown|full-blown|ADJ hog|hog|N .|_|_
+Jeppe|Jeppe|N .|_|_
+Shut|shut|UNKNOWN your|you|PERS mouth|mouth|N ,|_|_ you|you|PERS scum|scum|N of|of|PRP the|the|ART earth|earth|N !|_|_
+and|and|KC run|run|N for|for|PRP the|the|ART brandy|brandy|N .|_|_
+If|if|KS you|you|PERS do_|do|UNKNOWN _n't|not|ADV ,|_|_ devil|devil|N take|take|UNKNOWN me|I|PERS if|if|KS I|I|PERS do_|do|UNKNOWN _n't|not|ADV haunt|haunt|V you|you|PERS in|in|PRP the|the|ART house|house|N every|every|DET night|night|N .|_|_
+You|you|PERS shall|shall|V soon|soon|ADV find|find|V out|out|ADV that|that|KS I|I|PERS am|be|V not|not|ADV afraid|afraid|ADJ of|of|PRP Master|master|N Eric|Eric|N any=more|any=more|INDP ,|_|_ for|for|KS now|now|ADV I|I|PERS can_|can|V _n't|not|ADV feel|feel|UNKNOWN a|a|ART beating|beating|N .|_|_
+[|_|_ Nille|Nille|N runs|run|V home|home|ADV after|after|PRP Master|master|N Eric|Eric|N ,|_|_ comes|come|UNKNOWN out|out|ADV again|again|ADV ,|_|_ and|and|KC beats|beat|UNKNOWN him|he|PERS as|as|KS be|be|V hangs|hang|UNKNOWN .|_|_
+]|_|_
+Jeppe|Jeppe|N .|_|_
+Ow|ow|IN ,|_|_ ow|ow|IN ,|_|_ ow|ow|IN !|_|_
+Stop|stop|UNKNOWN it|it|PERS ,|_|_ Nille|Nille|N ,|_|_ stop|stop|N !|_|_
+You_|you|PERS _ll|will|V kill|kill|UNKNOWN me|I|PERS all-over|all=over|ADV again|again|ADV .|_|_ Ow|ow|IN !|_|_ ow|ow|IN !|_|_ ow|ow|IN !|_|_
+The|the|ART Judge|judge|N [|_|_ coming|come|UNKNOWN forward|forward|ADV ]|_|_ .|_|_
+Listen|listen|V ,|_|_ my|I|PERS good|good|ADJ woman|woman|N !|_|_
+You|you|PERS must|must|V not|not|ADV beat|beat|UNKNOWN him|he|PERS any=more|any=more|INDP .|_|_
+Be|be|V reassured|reassure|V ;|_|_
+for|for|PRP your|you|PERS sake|sake|N we|we|PERS will|will|V pardon|pardon|V your|you|PERS husband's|husband|N transgression|transgression|N ,|_|_ and|and|KC furthermore|furthermore|ADV sentence|sentence|V him|he|PERS back|back|ADV to|to|PRP life|life|N again|again|ADV .|_|_
+Nille|Nille|N .|_|_
+No|no|DET ,|_|_ no|no|DET ,|_|_ good|good|ADJ sir|sir|N !|_|_
+Let|let|V him|he|PERS hang|hang|UNKNOWN ,|_|_ for|for|KS he_|he|PERS _s|be|V not|not|ADV worth|worth|PRP letting|let|V live|live|ADJ .|_|_
+Judge|judge|N .|_|_
+Fie|Fie|N ,|_|_ you|you|PERS are|be|V-1/3S a|a|ART wicked|wicked|ADJ woman|woman|N ;|_|_
+away|away|ADV with|with|PRP you|you|PERS ,|_|_ or|or|KC we|we|PERS shall|shall|V have|have|UNKNOWN you|you|PERS hanged|hang|UNKNOWN alongside|alongside|ADV of|of|PRP him|he|PERS .|_|_
+[|_|_ Nille|Nille|N runs|run|V away|away|ADV .|_|_
+Scene|scene|N 2|2|NUM
+(|_|_ Enter|enter|UNKNOWN the|the|ART Judge's|judge|N servants|servant|N ,|_|_ who|who|INDP take|take|UNKNOWN Jeppe|Jeppe|N down|down|ADV from|from|PRP the|the|ART gallows|gallows|N .|_|_
+)|_|_
+Jeppe|Jeppe|N .|_|_
+Oh|oh|IN ,|_|_ kind|kind|ADJ judge|judge|N ,|_|_ am|be|V I|I|PERS surely|surely|ADV all|all|DET alive|alive|ADJ again|again|ADV ,|_|_ or|or|KC am|be|V I|I|PERS spooking|spooking|ADJ ?|_|_
+Judge|judge|N .|_|_
+You|you|PERS are|be|V-1/3S quite|quite|ADV alive|alive|ADJ ,|_|_ for|for|PRP the|the|ART law|law|N that|that|INDP can|can|V take|take|UNKNOWN away|away|ADV a|a|ART man's|man|N life|life|N can|can|V also|also|ADV give|give|UNKNOWN it|it|PERS back|back|ADV again|again|ADV .|_|_
+Can|can|V you|you|PERS not|not|ADV comprehend|comprehend|V that|that|INDP ?|_|_
+Jeppe|Jeppe|N .|_|_
+No|no|DET ,|_|_ indeed|indeed|ADV ,|_|_ I|I|PERS can_|can|V _n't|not|ADV get|get|UNKNOWN it|it|PERS through|through|PRP my|I|PERS head|head|N ,|_|_ but|but|KC I|I|PERS keep|keep|V-3S on|on|ADV thinking|think|V I_|I|PERS _m|be|V a|a|ART ghost|ghost|N ,|_|_ and|and|KC am|be|V spooking|spooking|ADJ .|_|_
+Judge|judge|N .|_|_
+Foolish|foolish|ADJ fellow|fellow|N !|_|_
+It_|it|PERS _s|be|V perfectly|perfectly|ADV easy|easy|ADJ to|to|INFM understand|understand|V .|_|_
+He|he|PERS who|who|INDP takes|take|UNKNOWN a|a|ART thing|thing|N away|away|ADV from|from|PRP you|you|PERS can|can|V give|give|UNKNOWN it|it|PERS back|back|ADV again|again|ADV .|_|_
+Jeppe|Jeppe|N .|_|_
+Then|then|ADV may|may|V I|I|PERS try|try|V it|it|PERS and|and|KC hang|hang|UNKNOWN the|the|ART judge|judge|N just|just|ADV for|for|PRP fun|fun|N to|to|INFM see|see|UNKNOWN if|if|KS I|I|PERS can|can|V sentence|sentence|V him|he|PERS back|back|ADV to|to|PRP life|life|N again|again|ADV ?|_|_
+Judge|judge|N .|_|_
+No|no|DET ,|_|_ that|that|INDP will_|will|V _n't|not|ADV work|work|UNKNOWN ,|_|_ because|because|KS you_|you|PERS _re|be|V-1/3S not|not|ADV a|a|ART judge|judge|N .|_|_
+Jeppe|Jeppe|N .|_|_
+But|but|KC am|be|V I|I|PERS really|really|ADV alive|alive|ADJ again|again|ADV ?|_|_
+Judge|judge|N .|_|_
+Yes|yes|IN ,|_|_ you|you|PERS are|be|V-1/3S .|_|_
+Jeppe|Jeppe|N .|_|_
+Then|then|ADV I_|I|PERS _m|be|V not|not|ADV just|just|ADV a|a|ART spook|spook|N ?|_|_
+Judge|judge|N .|_|_
+Certainly|certainly|ADV not|not|ADV .|_|_
+Jeppe|Jeppe|N .|_|_
+I_|I|PERS _m|be|V not|not|ADV a|a|ART ghost|ghost|N at=all|at=all|ADV ?|_|_
+Judge|judge|N .|_|_
+No.|no.|UNKNOWN
+Jeppe|Jeppe|N .|_|_
+Am|Am|N I|I|NUM the|the|ART same|same|DET Jeppe|Jeppe|N of|of|PRP the|the|ART Hill|hill|N as|as|PRP I|I|PERS was|be|V before|before|ADV ?|_|_
+Judge|Judge|N .|_|_
+Yes|yes|IN .|_|_
+Jeppe|Jeppe|N .|_|_
+I_|I|PERS _m|be|V no|no|DET mere|mere|ADJ spirit|spirit|N ?|_|_
+Judge|judge|N .|_|_
+No|no|DET ,|_|_ certainly|certainly|ADV not|not|ADV .|_|_
+Jeppe|Jeppe|N .|_|_
+Will|will|V you|you|PERS give|give|UNKNOWN me|I|PERS your|you|PERS oath|oath|N that_|that|INDP _s|be|V true|true|ADJ ?|_|_
+Judge|judge|N .|_|_
+Yes|yes|IN ,|_|_ I|I|PERS swear|swear|V-3S to|to|PRP it|it|PERS ;|_|_ you_|you|PERS _re|be|V-1/3S alive|alive|ADJ .|_|_
+Jeppe|Jeppe|N .|_|_
+Swear|swear|V that|that|KS the|the|ART devil|devil|N may|may|V split|split|UNKNOWN you|you|PERS if|if|KS it_|it|PERS _s|be|V not|not|ADV so|so|ADV .|_|_
+Judge|judge|N .|_|_
+Come|come|UNKNOWN ,|_|_ take|take|UNKNOWN our|we|PERS word|word|N for|for|PRP it|it|PERS ,|_|_ and|and|KC thank|thank|V-3S us|we|PERS for|for|PRP so|so|ADV graciously|graciously|ADV sentencing|sentence|V you|you|PERS back|back|ADV to|to|PRP life|life|N again|again|ADV .|_|_
+Jeppe|Jeppe|N .|_|_
+If|if|KS you|you|PERS had_|have|UNKNOWN _n't|not|ADV hanged|hang|UNKNOWN me|I|PERS yourselves|you|DET ,|_|_ I|I|PERS would|will|V gladly|gladly|ADV thank|thank|V you|you|PERS for|for|PRP taking|take|UNKNOWN me|I|PERS down|down|ADV from|from|PRP the|the|ART gallows|gallows|N .|_|_
+Judge|judge|N .|_|_
+Be|be|V satisfied|satisfy|V ,|_|_ Jeppe|Jeppe|N !|_|_ Tell|Tell|N us|we|PERS if|if|KS your|you|PERS good|good|ADJ wife|wife|N beats|beat|UNKNOWN you|you|PERS too|too|ADV often|often|ADV ,|_|_ and|and|KC we|we|PERS shall|shall|V find|find|V a|a|ART remedy|remedy|N .|_|_
+Here|here|ADV are|be|V-1/3S four|four|NUM rix-dollars|rix-dollar|N with|with|PRP which|which|INDP you|you|PERS can|can|V make|make|UNKNOWN merry|merry|ADJ for|for|PRP a|a|ART while|while|N ,|_|_ and|and|KC do_|do|UNKNOWN _n't|not|ADV forget|forget|V to|to|INFM drink|drink|V our|we|PERS health|health|N .|_|_
+[|_|_ Jeppe|Jeppe|N kisses|kiss|UNKNOWN his|he|PERS hand|hand|N and|and|KC thanks|thank|V him|he|PERS .|_|_
+]|_|_
+[|_|_ Exit|exit|N Judge|Judge|N ,|_|_ followed|follow|V by|by|PRP his|he|PERS servants|servant|N .|_|_ Scene|scene|N 3|3|NUM
+Jeppe|Jeppe|N .|_|_
+Now|now|ADV I_|I|PERS _ve|have|UNKNOWN lived|live|V half|half|DET a|a|ART hundred|hundred|N years|year|N ,|_|_ but|but|KC in|in|PRP all|all|DET that|that|DET time|time|N I|I|PERS have_|have|UNKNOWN _n't|not|ADV had|have|UNKNOWN so|so|ADV much|much|ADV happen|happen|V-3S to|to|PRP me|I|PERS as=in|as=in|PRP these|this|DET two|two|NUM days|day|UNKNOWN .|_|_
+It|it|PERS is|be|V a|a|ART devil|devil|N of|of|PRP a|a|ART story|story|N ,|_|_ now|now|ADV that|that|INDP I|I|PERS come|come|UNKNOWN to|to|INFM think|think|V of|of|PRP it|it|PERS :|_|_ one-hour|one-hour|ADJ a|a|ART drunken|drunken|ADJ peasant|peasant|N ,|_|_ the|the|ART next|next|DET a|a|ART baron|baron|N ,|_|_ then|then|ADV another|another|DET hour|hour|N a|a|ART peasant|peasant|N again|again|ADV ;|_|_ now|now|ADV dead|dead|ADJ ,|_|_ now|now|ADV alive|alive|ADJ on|on|PRP a|a|ART gallows|gallows|N ,|_|_ which|which|INDP is|be|V the|the|ART most|much|ADV wonderful|wonderful|ADJ of|of|PRP all|all|INDP .|_|_
+Perhaps|perhaps|ADV it|it|PERS is|be|V that|that|INDP when|when|ADV they|they|PERS hang|hang|UNKNOWN living|living|ADJ people|people|N they|they|PERS die|die|UNKNOWN ,|_|_ and|and|KC when|when|ADV they|they|PERS hang|hang|UNKNOWN dead|dead|ADJ people|people|N they|they|PERS come|come|UNKNOWN to|to|PRP life|life|N again|again|ADV .|_|_
+It|it|PERS seems|seem|V to|to|PRP me|I|PERS that|that|INDP ,|_|_ after|after|PRP all|all|INDP ,|_|_ a|a|ART glass|glass|N of|of|PRP brandy|brandy|N would|will|V taste|taste|V magnificent|magnificent|ADJ .|_|_
+Hey|hey|IN ,|_|_ Jacob|Jacob|N Shoemaker|Shoemaker|N !|_|_
+Come|come|UNKNOWN out|out|ADV here|here|ADV !|_|_
+Scene|scene|N 4|4|NUM [|_|_ Enter|enter|N Jacob=Shoemaker|Jacob=Shoemaker|N .|_|_ ]|_|_ Jacob|Jacob|N .|_|_
+Welcome|welcome|UNKNOWN back|back|ADV from|from|PRP town|town|N !|_|_
+Did|do|UNKNOWN you|you|PERS get|get|UNKNOWN the|the|ART soap|soap|N for|for|PRP your|you|PERS wife|wife|N ?|_|_
+Jeppe|Jeppe|N .|_|_
+You|you|PERS scoundrel|scoundrel|N !|_|_
+You|you|PERS shall|shall|V soon|soon|ADV find|find|V out|out|ADV what|what|DET sort|sort|N of|of|PRP people|people|N you_|you|PERS _re|be|V-1/3S talking|talk|V to|to|PRP .|_|_
+Take|take|UNKNOWN off|off|ADV your|you|PERS cap|cap|N ,|_|_ for|for|KS you_|you|PERS _re|be|V-1/3S no=more|no=more|INDP than|than|PRP carrion|carrion|N compared|compared|ADJ to|to|PRP the|the|ART likes|like|N of|of|PRP me|I|PERS .|_|_
+Jacob|Jacob|N .|_|_
+I|I|PERS would_|will|V _n't|not|ADV stand|stand|UNKNOWN such|such|DET words|word|N from|from|PRP any|any|DET one|one|NUM else|else|ADV ,|_|_ Jeppe|Jeppe|N ,|_|_ but|but|KC as|as|KS you|you|PERS bring|bring|UNKNOWN the|the|ART house|house|N a|a|ART good|good|ADJ penny|penny|N a|a|ART day|day|N ,|_|_ I|I|PERS do_|do|UNKNOWN _n't|not|ADV mind|mind|V it|it|PERS so|so|ADV much|much|ADV .|_|_
+Jeppe|Jeppe|N .|_|_
+Take|take|UNKNOWN off|off|ADV your|you|PERS cap|cap|N ,|_|_ I|I|PERS say|say|V-3S ,|_|_ you|you|PERS cobbler|cobbler|N !|_|_
+Jacob|Jacob|N .|_|_
+What's|What|N happened|happen|V to|to|PRP you|you|PERS on|on|PRP the|the|ART way|way|N to|to|INFM make|make|UNKNOWN you|you|PERS so|so|ADV lofty|lofty|ADJ ?|_|_
+Jeppe|Jeppe|N .|_|_
+I|I|PERS would|will|V have|have|UNKNOWN you|you|PERS know|know|UNKNOWN that|that|KS I_|I|PERS _ve|have|UNKNOWN been|be|V hanged|hang|UNKNOWN since|since|KS I|I|PERS saw|see|UNKNOWN you|you|PERS last|last|ADV .|_|_
+Jacob|Jacob|N .|_|_
+There's|There|N nothing|nothing|INDP so|so|ADV splendid|splendid|ADJ about|about|PRP that|that|INDP .|_|_
+I|I|PERS do_|do|UNKNOWN _n't|not|ADV grudge|grudge|V you|you|PERS your|you|PERS luck|luck|N .|_|_
+But|but|KC listen|listen|V-3S ,|_|_ Jeppe|Jeppe|N :|_|_ where|where|ADV you|you|PERS drink|drink|V-3S your|you|PERS liquor|liquor|N ,|_|_ there|there|ADV you|you|PERS pour|pour|V-3S out|out|ADV the|the|ART dregs|dreg|N ;|_|_
+you|you|PERS have|have|UNKNOWN gone|go|UNKNOWN and|and|KC got|get|UNKNOWN full|full|ADJ somewhere|somewhere|ADV else|else|ADV ,|_|_ and|and|KC now|now|ADV you|you|PERS come|come|UNKNOWN here|here|ADV to|to|INFM do|do|UNKNOWN your|you|PERS brawling|brawling|N .|_|_
+Jeppe|Jeppe|N .|_|_
+Quick|quick|ADJ ,|_|_ take|take|UNKNOWN off|off|ADV your|you|PERS cap|cap|N ,|_|_ scoundrel|scoundrel|N !|_|_
+Jacob|Jacob|N (|_|_ his|he|PERS cap|cap|N under|under|PRP his|he|PERS arm|arm|N )|_|_ .|_|_
+Heavens|heaven|N ,|_|_ man|man|N ,|_|_ where|where|ADV did|do|UNKNOWN you|you|PERS get|get|UNKNOWN the|the|ART money|money|N ?|_|_
+Jeppe|Jeppe|N .|_|_
+From|from|PRP my|I|PERS barony|barony|N ,|_|_ Jacob|Jacob|N .|_|_
+I|I|PERS will|will|V tell|tell|V you|you|PERS all|all|DET that_|that|INDP _s|be|V happened|happen|V to|to|PRP me|I|PERS ;|_|_
+but|but|KC get|get|UNKNOWN me|I|PERS a|a|ART glass|glass|N of|of|PRP mead|mead|N ,|_|_ for|for|KS I_|I|PERS _m|be|V much|much|ADV too|too|ADV high|high|ADJ and|and|KC mighty|mighty|ADJ to|to|INFM drink|drink|V Danish|Danish|ADJ brandy|brandy|N .|_|_
+Jacob|Jacob|N .|_|_
+Your|you|PERS health|health|N ,|_|_ Jeppe|Jeppe|N !|_|_
+Jeppe|Jeppe|N .|_|_
+Now|now|ADV I|I|NUM shall|shall|V tell|tell|V you|you|PERS all|all|DET that_|that|INDP _s|be|V happened|happen|V to|to|PRP me|I|PERS :|_|_ When|when|ADV I|I|NUM left|leave|V you|you|PERS ,|_|_ I|I|PERS fell|fall|UNKNOWN asleep|asleep|ADV .|_|_
+When|when|ADV I|I|NUM woke|wake|V up|up|ADV ,|_|_ I|I|PERS was|be|V a|a|ART baron|baron|N ,|_|_ and|and|KC got|get|UNKNOWN drunk|drink|V all|all|INDP over|over|PRP again|again|ADV on|on|PRP pork-wine|pork-wine|N .|_|_
+I|I|PERS woke|wake|V up|up|ADV on|on|PRP a|a|ART dungheap|dungheap|N and|and|KC went|go|UNKNOWN to|to|INFM sleep|sleep|UNKNOWN again|again|ADV ,|_|_ hoping|hope|V to|to|INFM sleep|sleep|UNKNOWN myself|I|PERS back|back|ADV to|to|PRP my|I|PERS baron's|baron|N estate|estate|N .|_|_
+I|I|PERS found|find|V it|it|PERS does_|do|UNKNOWN _n't|not|ADV always|always|ADV work|work|UNKNOWN ,|_|_ for|for|KS my|I|PERS wife|wife|N woke|wake|V me|I|PERS up|up|ADV again|again|ADV with|with|PRP Master|master|N Eric|Eric|N and|and|KC pulled|pull|UNKNOWN me|I|PERS home|home|ADV by|by|PRP the|the|ART hair|hair|N ,|_|_ not|not|ADV showing|show|V the|the|ART least|little|DET respect|respect|N for|for|PRP the|the|ART kind|kind|N of|of|PRP man|man|N I|I|PERS had|have|UNKNOWN been|be|V .|_|_
+When|when|ADV I|I|NUM got|get|UNKNOWN back|back|ADV to|to|PRP my|I|PERS room|room|N ,|_|_ I|I|PERS was|be|V thrown|throw|UNKNOWN out|out|ADV again|again|ADV by|by|PRP the|the|ART neck|neck|N ,|_|_ and|and|KC found|find|V myself|I|PERS in|in|PRP the|the|ART midst|midst|N of|of|PRP a=lot=of|a=lot=of|DET constables|constable|N ,|_|_ who|who|INDP sentenced|sentence|V me|I|PERS to|to|PRP death|death|N and|and|KC killed|kill|UNKNOWN me|I|PERS with|with|PRP poison|poison|N .|_|_
+When|when|ADV I|I|PERS was|be|V dead|dead|ADJ ,|_|_ I|I|PERS was|be|V hanged|hang|UNKNOWN ;|_|_
+and|and|KC when|when|ADV I|I|PERS was|be|V hanged|hang|UNKNOWN ,|_|_ I|I|PERS came|come|UNKNOWN to|to|PRP life|life|N again|again|ADV ;|_|_
+and|and|KC when|when|ADV I|I|PERS came|come|UNKNOWN to|to|PRP life|life|N again|again|ADV ,|_|_ I|I|PERS got|get|UNKNOWN four|four|NUM rix-dollars|rix-dollar|N .|_|_
+That|that|INDP is|be|V my|I|PERS story|story|N ,|_|_ but|but|KC as=to|as=to|PRP how|how|ADV it|it|PERS happened|happen|V ,|_|_ I|I|PERS leave|leave|V-3S that|that|INDP to|to|PRP you|you|PERS to|to|INFM think|think|V out|out|ADV .|_|_
+Jacob|Jacob|N .|_|_
+Ha|ha|IN ,|_|_ ha|ha|IN ,|_|_ ha|ha|IN !|_|_
+It_|it|PERS _s|be|V all|all|INDP a|a|ART dream|dream|N ,|_|_ Jeppe|Jeppe|N !|_|_
+Jeppe|Jeppe|N .|_|_
+If|if|KS it|it|PERS were_|be|V-1/3S _n't|not|ADV for|for|PRP my|I|PERS four|four|NUM rix-dollars|rix-dollar|N here|here|ADV ,|_|_ I|I|PERS might|may|V think|think|V it|it|PERS was|be|V a|a|ART dream|dream|N ,|_|_ too|too|ADV .|_|_
+Give|give|UNKNOWN me|I|PERS another|another|INDP ,|_|_ Jacob|Jacob|N !|_|_
+I|I|PERS shall_|shall|V _n't|not|ADV think|think|V about|about|PRP all|all|DET that|that|DET rubbish|rubbish|N any=more|any=more|INDP ,|_|_ but|but|KC get|get|UNKNOWN myself|I|PERS decently|decent|ADV drunk|drink|V .|_|_
+Jacob|Jacob|N .|_|_
+Your|you|PERS health|health|N ,|_|_ my|I|PERS lord|lord|N baron|baron|N !|_|_
+Ha|ha|IN ,|_|_ ha|ha|IN ,|_|_ ha|ha|IN !|_|_
+Jeppe|Jeppe|N .|_|_
+Perhaps|perhaps|ADV you|you|PERS can_|can|V _n't|not|ADV grasp|grasp|UNKNOWN it|it|PERS ,|_|_ Jacob|Jacob|N ?|_|_
+Jacob|Jacob|N .|_|_
+No|no|DET ,|_|_ not|not|ADV if|if|KS I|I|PERS stood|stand|UNKNOWN on|on|PRP my|I|PERS head|head|N .|_|_
+Jeppe|Jeppe|N .|_|_
+It|it|PERS can|can|V be|be|V true|true|ADJ for=all=that|for=all=that|ADV ,|_|_ Jacob|Jacob|N !|_|_
+For|for|PRP you_|you|PERS _re|be|V-1/3S a|a|ART dunce|dunce|N ,|_|_ and|and|KC there|there|ADV are|be|V-1/3S simpler|simple|ADJ things|thing|N than|than|KS this|this|INDP that|that|INDP you|you|PERS can_|can|V _n't|not|ADV understand|understand|V .|_|_
+Scene|scene|N 5|5|NUM
+[|_|_ Enter|enter|N Magnus|Magnus|N .|_|_
+]|_|_
+Magnus|Magnus|N .|_|_
+Ha|ha|IN ,|_|_ ha|ha|IN ,|_|_ ha|ha|IN !|_|_
+I|I|PERS nearly|nearly|ADV laughed|laugh|V myself|I|PERS to|to|PRP death|death|N when|when|ADV I|I|PERS heard|hear|V the|the|ART story|story|N from|from|PRP the|the|ART bailiff's|bailiff|N men|man|N .|_|_
+By|by|PRP the|the|ART Lord|Lord|N ,|_|_ I_|I|PERS _d|will|V give|give|UNKNOWN a|a|ART rix-dollar|rix-dollar|N to|to|INFM see|see|UNKNOWN the|the|ART fool|fool|N !|_|_
+Ha|ha|IN ,|_|_ ha|ha|IN ,|_|_ ha|ha|IN !|_|_
+Jeppe|Jeppe|N .|_|_
+What|what|INDP do|do|UNKNOWN I|I|PERS owe|owe|V ,|_|_ Jacob|Jacob|N ?|_|_
+Jacob|Jacob|N .|_|_
+Twelvepence|Twelvepence|N .|_|_
+Magnus|Magnus|N .|_|_
+Why|why|ADV is|be|V that|that|INDP fellow|fellow|N in|in|PRP such|such|DET a|a|ART hurry|hurry|N ?|_|_
+Jacob|Jacob|N .|_|_
+It_|it|PERS _s|be|V the|the|ART very|very|ADJ man|man|N they|they|PERS played|play|UNKNOWN the|the|ART joke|joke|N on|on|PRP .|_|_
+Mgnus|Mgnus|N .|_|_
+Is|be|V that|that|ADV possible|possible|ADJ ?|_|_
+I|I|PERS must|must|V run|run|V after|after|PRP him|he|PERS .|_|_
+Listen|listen|V ,|_|_ Jeppe|Jeppe|N !|_|_
+Just|just|ADV a|a|ART word|word|N --|_|_ How|how|ADV are|be|V-1/3S things|thing|N in|in|PRP the|the|ART other|other|DET world|world|N ?|_|_
+Jeppe|Jeppe|N .|_|_
+Let|let|V me|I|PERS be|be|V .|_|_
+Magnus|Magnus|N .|_|_
+Why|why|ADV did_|do|UNKNOWN _n't|not|ADV you|you|PERS stay|stay|UNKNOWN longer|long|ADJ ?|_|_
+Jeppe|Jeppe|N .|_|_
+What|what|DET business|business|N is|be|V that|that|INDP of|of|PRP yours|you|PERS ?|_|_
+Magnus|Magnus|N .|_|_
+Come|come|UNKNOWN ,|_|_ do|do|UNKNOWN tell|tell|V us|we|PERS a|a|ART little|little|ADJ about|about|PRP the|the|ART journey|journey|N .|_|_
+Jeppe|Jeppe|N .|_|_
+Let|let|V me|I|PERS be|be|V ,|_|_ I|I|PERS say|say|V-3S ,|_|_ or|or|KC there_|there|ADV _ll|will|V be|be|V a|a|ART calamity|calamity|N coming|come|UNKNOWN to|to|PRP you|you|PERS .|_|_
+Magnus|Magnus|N .|_|_
+But|but|KC ,|_|_ Jeppe|Jeppe|N ,|_|_ I|I|PERS am|be|V so|so|ADV anxious|anxious|ADJ to|to|INFM know|know|UNKNOWN about|about|PRP it|it|PERS .|_|_
+Jeppe|Jeppe|N .|_|_
+Jacob=Shoemaker|Jacob=Shoemaker|N ,|_|_ help|help|V-3S !|_|_
+Will|will|V you|you|PERS let|let|V this|this|DET man|man|N do|do|UNKNOWN me|I|PERS violence|violence|N in|in|PRP your|you|PERS house|house|N ?|_|_
+Magnus|Magnus|N .|_|_
+I_|I|PERS _m|be|V not|not|ADV doing|do|V you|you|PERS any|any|DET harm|harm|N ,|_|_ Jeppe|Jeppe|N ,|_|_ I_|I|PERS _m|be|V just|just|ADJ asking|ask|V you|you|PERS what|what|INDP you|you|PERS saw|see|UNKNOWN in|in|PRP the|the|ART other|other|DET world|world|N .|_|_
+Jeppe|Jeppe|N .|_|_
+Hey|hey|IN ,|_|_ help|help|N ,|_|_ help|help|V-3S !|_|_
+Magnus|Magnus|N .|_|_
+Did|do|UNKNOWN you|you|PERS see|see|UNKNOWN any|any|DET of|of|PRP my|I|PERS forefathers|forefathers|N there|there|ADV ?|_|_
+Jeppe|Jeppe|N .|_|_
+No|no|DET ,|_|_ your|you|PERS forefathers|forefathers|N must|must|V all|all|INDP be|be|V in|in|PRP the|the|ART other|other|DET place|place|N ,|_|_ where|where|ADV you|you|PERS and|and|KC all|all|DET the|the|ART rest|rest|N of|of|PRP the|the|ART carrion|carrion|N go|go|UNKNOWN when|when|ADV they|they|PERS die|die|UNKNOWN .|_|_
+[|_|_ Shakes|shake|UNKNOWN himself|he|PERS loose|loose|ADJ and|and|KC runs|run|V away|away|ADV .|_|_
+Scene|scene|N 6|6|NUM ,|_|_ Epilogue|Epilogue|N
+(|_|_ Enter|enter|UNKNOWN the|the|ART Baron|baron|N ,|_|_ his|he|PERS Secretary|secretary|N ,|_|_ Valet|Valet|N ,|_|_ and|and|KC Lackeys|lackey|N .|_|_
+)|_|_
+Baron|baron|N .|_|_
+Ha|ha|IN ,|_|_ ha|ha|IN ,|_|_ ha|ha|IN !|_|_
+That|that|INDP experiment|experiment|N was|be|V worth|worth|PRP money|money|N .|_|_
+I|I|PERS never|never|ADV thought|think|V it|it|PERS would|will|V work=out|work=out|V so|so|ADV well|well|ADV .|_|_
+If|if|KS you|you|PERS could|can|V amuse|amuse|V me|I|PERS like|like|PRP that|that|INDP more|much|ADV often|often|ADV ,|_|_ Eric|Eric|N ,|_|_ you|you|PERS would|will|V stand|stand|UNKNOWN even|even|ADV better|good|ADJ with|with|PRP me|I|PERS than|than|KS you|you|PERS do|do|UNKNOWN now|now|ADV .|_|_
+Eric|Eric|N .|_|_
+No|no|DET ,|_|_ my|I|PERS lord|lord|N !|_|_
+I|I|PERS should|shall|V not|not|ADV dare|dare|V to|to|INFM play|play|UNKNOWN that|that|DET kind|kind|N of|of|PRP comedy|comedy|N again|again|ADV .|_|_
+For|for|PRP if|if|KS he|he|PERS had|have|UNKNOWN beaten|beat|UNKNOWN your|you|PERS lordship|lordship|N as|as|KS he|he|PERS threatened|threaten|V ,|_|_ it|it|PERS would|will|V have|have|UNKNOWN turned|turn|UNKNOWN into|into|PRP an|a|ART ugly|ugly|ADJ tragedy|tragedy|N .|_|_
+Baron|baron|N .|_|_
+That's|That|N very|very|ADV true|true|ADJ .|_|_
+I|I|PERS was|be|V afraid|afraid|ADJ of|of|PRP that|that|INDP ,|_|_ but|but|KC I|I|PERS was|be|V so|so|ADV much|much|ADV engrossed|engrossed|ADJ in|in|PRP keeping|keep|V up|up|ADV the|the|ART deception|deception|N that|that|INDP I|I|PERS really|really|ADV think|think|V-3S I|I|PERS should|shall|V have|have|UNKNOWN let|let|V myself|I|PERS be|be|V pummelled|pummel|UNKNOWN ,|_|_ or|or|KC even|even|ADV let|let|V you|you|PERS be|be|V hanged|hang|UNKNOWN ,|_|_ Eric|Eric|N ,|_|_ as|as|KS he|he|PERS threatened|threaten|V ,|_|_ rather=than|rather=than|INFM give|give|UNKNOWN it|it|PERS away|away|ADV .|_|_
+Did_|do|UNKNOWN _n't|not|ADV you|you|PERS feel|feel|UNKNOWN the|the|ART same|same|INDP ?|_|_
+Eric|Eric|N .|_|_
+No|no|DET ,|_|_ indeed|indeed|ADV ,|_|_ my|I|PERS lord|lord|N !|_|_
+It|it|PERS would|will|V be|be|V an|a|ART odd|odd|ADJ sensation|sensation|N ,|_|_ to|to|INFM let|let|V yourself|you|PERS be|be|V hanged|hang|UNKNOWN for|for|PRP fun|fun|N ;|_|_
+that|that|DET sort|sort|N of|of|PRP fun|fun|N would|will|V be|be|V too|too|ADV expensive|expensive|ADJ .|_|_
+Baron|baron|N .|_|_
+Why|why|ADV ,|_|_ Eric|Eric|N ,|_|_ such|such|DET things|thing|N happen|happen|V-3S every-day|every-day|ADJ :|_|_ people|people|N throw-away|throw=away|V-3S their|they|PERS lives|life|N for|for|PRP fun|fun|N in|in|PRP one|one|NUM way|way|N or|or|KC another|another|INDP .|_|_
+For=instance|for=instance|ADV ,|_|_ a|a|ART man|man|N has|have|UNKNOWN a|a|ART weak|weak|ADJ nature|nature|N and|and|KC sees|see|UNKNOWN that|that|KS he|he|PERS is|be|V ruining|ruin|UNKNOWN his|he|PERS life|life|N and|and|KC his|he|PERS health|health|N by|by|PRP excessive|excessive|ADJ drinking|drinking|N ;|_|_
+yet|yet|ADV he|he|PERS still|still|ADV keeps|keep|V on|on|ADV maltreating|maltreat|V his|he|PERS body|body|N and|and|KC risks|risk|V his|he|PERS life|life|N for|for|PRP an|a|ART evening's|evening|N enjoyment|enjoyment|N .|_|_
+Then|then|ADV ,|_|_ again|again|ADV :|_|_ it|it|PERS often|often|ADV happens|happen|V in|in|PRP Turkey|Turkey|N that|that|INDP grand|grand|ADJ viziers|vizier|N are|be|V-1/3S strangled|strangle|UNKNOWN or|or|KC choked|choke|UNKNOWN to|to|PRP death|death|N with|with|PRP a|a|ART cord|cord|N the|the|ART very|very|ADJ day|day|N they|they|PERS are|be|V-1/3S made|make|UNKNOWN viziers|vizier|N ,|_|_ or|or|KC a=few|a=few|DET days|day|N after|after|PRP ;|_|_
+yet|yet|ADV every|every|DET one|one|PERS is|be|V eager|eager|ADJ to|to|INFM take|take|UNKNOWN the|the|ART office|office|N ,|_|_ just=so|just=so|ADJ that|that|KS he|he|PERS may|may|V be|be|V hanged|hang|UNKNOWN with|with|PRP a|a|ART great|great|ADJ title|title|N .|_|_
+Still|still|ADV another|another|DET instance|instance|N :|_|_ officers|officer|N gladly|gladly|ADV risk|risk|V-3S body|body|N and|and|KC soul|soul|N to|to|INFM get|get|UNKNOWN a|a|ART reputation|reputation|N for|for|PRP bravery|bravery|N ,|_|_ and|and|KC fight|fight|V duels|duel|V about|about|ADV anything|anything|INDP at=all|at=all|ADV even|even|ADV with|with|PRP men|man|N known|know|UNKNOWN to|to|INFM be|be|V their|they|PERS superiors|superior|N .|_|_
+I|I|PERS think|think|V-3S ,|_|_ too|too|ADV ,|_|_ that|that|DET one|one|PERS could|can|V find|find|V hundreds|hundred|N and|and|KC hundreds|hundred|N of|of|PRP men|man|N in=love|in=love|ADV who|who|INDP for=the=sake=of|for=the=sake=of|PRP a|a|ART night|night|N of|of|PRP pleasure|pleasure|N would|will|V let|let|V themselves|they|PERS be|be|V killed|kill|UNKNOWN in|in|PRP the|the|ART morning|morning|N .|_|_
+And|and|KC you|you|PERS see|see|UNKNOWN in|in|PRP sieges|siege|N how|how|ADV soldiers|soldier|N will|will|V desert|desert|V in|in|PRP droves|drove|N and|and|KC flock|flock|V to|to|PRP the|the|ART beleaguered|beleaguered|ADJ city|city|N ,|_|_ which|which|INDP they|they|PERS know|know|UNKNOWN must|must|V shortly|shortly|ADV surrender|surrender|V ,|_|_ and|and|KC in=order=to|in=order=to|INFM live|live|V in|in|PRP luxury|luxury|N for|for|PRP one-day|one-day|ADJ will|will|V get|get|UNKNOWN themselves|they|PERS hanged|hang|UNKNOWN the|the|ART next|next|DET .|_|_
+One|one|DET way|way|N is|be|V no=more|no=more|INDP rational|rational|ADJ than|than|PRP the|the|ART other|other|INDP .|_|_
+In|in|PRP olden|olden|ADJ times|time|N even|even|ADV philosophers|philosopher|N used|use|V to|to|INFM subject|subject|V themselves|they|PERS deliberately|deliberate|ADV to|to|PRP misfortune|misfortune|N in=order=that|in=order=that|KS after|after|PRP their|they|PERS death|death|N they|they|PERS might|may|V be|be|V praised|praise|V .|_|_
+Therefore|therefore|ADV ,|_|_ Eric|Eric|N ,|_|_ I|I|PERS thoroughly|thoroughly|ADV believe|believe|V-3S that|that|KS you|you|PERS would|will|V rather|rather|ADV have|have|UNKNOWN allowed|allow|V yourself|you|PERS to|to|INFM be|be|V hanged|hang|UNKNOWN than|than|PRP have|have|UNKNOWN spoiled|spoil|V our|we|PERS beautiful|beautiful|ADJ practical|practical|ADJ joke|joke|N .|_|_
+(|_|_ Spoken|speak|V by|by|PRP the|the|ART Baron|baron|N )|_|_
+Of|of|PRP this|this|DET adventure|adventure|N ,|_|_ children|child|N ,|_|_ the|the|ART moral|moral|N is|be|V quite|quite|ADV clear|clear|ADJ :|_|_ To|to|INFM elevate|elevate|V the|the|ART lowly|lowly|ADJ above|above|PRP their|they|PERS proper|proper|ADJ sphere|sphere|N Involves|involve|UNKNOWN no|no|DET less|little|ADV a|a|ART peril|peril|N than|than|PRP rashly|rashly|ADV tumbling|tumble|UNKNOWN down|down|ADV The|the|ART great|great|ADJ who|who|INDP rise|rise|V-3S to|to|PRP power|power|N by|by|PRP deeds|deed|N of|of|PRP just|just|ADJ renown|renown|N .|_|_
+Permit|permit|N the|the|ART base-born|base-bear|UNKNOWN yokel|yokel|N untutored|untutored|ADJ sway|sway|N to|to|INFM urge|urge|V ,|_|_ The|the|ART sceptre|sceptre|N of|of|PRP dominion|dominion|N as|as|PRP soon|soon|ADV becomes|become|V a|a|ART scourge|scourge|N .|_|_
+Let|let|V once|once|KS despotic|despotic|ADJ power|power|N drive|drive|N justice|justice|N from|from|PRP the|the|ART realm|realm|N ,|_|_ In|in|PRP every|every|DET peaceful|peaceful|ADJ hamlet|hamlet|N a|a|ART Nero|Nero|N grasps|grasp|UNKNOWN the|the|ART helm|helm|N .|_|_
+Could|can|V Phalaris|Phalaris|N or|or|KC Caius|Caius|N in|in|PRP days|day|N of|of|PRP yore|yore|N have|have|UNKNOWN been|be|V More|much|ADV merciless|merciless|ADJ a|a|ART tyrant|tyrant|N than|than|KS him|he|PERS we|we|PERS here|here|ADV have|have|UNKNOWN seen|see|UNKNOWN ?|_|_
+Before|before|PRP the|the|ART seat|seat|N of|of|PRP justice|justice|N had|have|UNKNOWN time|time|N his|he|PERS warmth|warmth|N to|to|INFM feel|feel|UNKNOWN He|he|PERS threatened|threaten|V us|we|PERS with|with|PRP torture|torture|N ,|_|_ the|the|ART gallows|gallows|N ,|_|_ and|and|KC the|the|ART wheel|wheel|N .|_|_
+Nay|nay|ADV ,|_|_ never|never|ADV shall|shall|V we|we|PERS tremble|tremble|V beneath|beneath|PRP a|a|ART boor's|boor|N dictates|dictate|N Or|or|KC set|set|UNKNOWN a|a|ART plowman|plowman|N over|over|PRP us|we|PERS ,|_|_ as|as|PRP oft|oft|ADV in|in|PRP ancient|ancient|ADJ states|state|N --|_|_ For|for|PRP if|if|KS we|we|PERS sought|seek|UNKNOWN to|to|INFM pattern|pattern|V us|we|PERS on|on|PRP follies|folly|N such=as|such=as|PRP those|that|INDP ,|_|_ Each|each|DET history|history|N of|of|PRP dominion|dominion|N in|in|PRP tyranny|tyranny|N would|will|V close|close|UNKNOWN .|_|_

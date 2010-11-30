@@ -1,0 +1,1245 @@
+Countess|countess|N Julie|Julie|N
+Characters|character|N Countess=julie|Countess=julie|N ,|_|_ twenty-five|twenty-five|NUM years|year|N old|old|ADJ Jean|Jean|N ,|_|_ a|a|ART valet|valet|N ,|_|_ thirty|thirty|NUM Kristin|Kristin|N ,|_|_ a|a|ART cook|cook|N ,|_|_ thirty-five|thirty-five|NUM [|_|_ Scene|Scene|N .|_|_
+--|_|_ A|a|ART large|large|ADJ kitchen|kitchen|N .|_|_ The|the|ART ceiling|ceiling|N and|and|KC walls|wall|N are|be|V-1/3S partially|partial|ADV covered|cover|UNKNOWN by|by|PRP draperies|drapery|N and|and|KC greens|green|N .|_|_
+The|the|ART back|back|N wall|wall|N slants|slant|N upward|upward|ADV from|from|PRP left|left|N side|side|N of|of|PRP scene|scene|N .|_|_
+On|on|PRP back|back|N wall|wall|N ,|_|_ left|leave|V ,|_|_ are|be|V-1/3S two|two|NUM shelves|shelf|N filled|fill|UNKNOWN with|with|PRP copper|copper|N kettles|kettle|N ,|_|_ iron|iron|N casseroles|casserole|N and|and|KC tin|tin|N pans|Pan|N .|_|_
+The|the|ART shelves|shelf|N are|be|V-1/3S trimmed|trim|UNKNOWN with|with|PRP fancy|fancy|N scalloped|scallop|UNKNOWN paper|paper|N .|_|_
+To|to|INFM right|right|V of|of|PRP middle|middle|N a|a|ART large|large|ADJ arched|arched|ADJ entrance|entrance|N with|with|PRP glass|glass|N doors|door|N through|through|PRP which|which|INDP one|one|PERS sees|see|UNKNOWN a|a|ART fountain|fountain|N with|with|PRP a|a|ART statue|statue|N of|of|PRP Cupid|Cupid|N ,|_|_ syringa|syringa|N bushes|bush|N in|in|PRP bloom|bloom|N and|and|KC tall|tall|ADJ poplars|poplar|N .|_|_
+To|to|PRP left|left|N corner|corner|N of|of|PRP scene|scene|N a|a|ART large|large|ADJ stove|stove|N with|with|PRP hood|hood|N decorated|decorate|UNKNOWN with|with|PRP birch|birch|N branches|branch|N .|_|_
+To|to|PRP right|right|ADJ ,|_|_ servants'|servant|N dining|dining|N table|table|N of|of|PRP white|white|ADJ pine|pine|N and|and|KC a=few|a=few|DET chairs|chair|N .|_|_
+On|on|PRP the|the|ART cud|cud|N of|of|PRP table|table|N stands|stand|UNKNOWN a|a|ART Japanese|Japanese|ADJ jar|jar|N filled|fill|UNKNOWN with|with|PRP syringa|syringa|N blossoms|blossom|N .|_|_
+[|_|_ Near|near|PRP stove|stove|N ,|_|_ an|a|ART ice-box|ice-box|N ,|_|_ sink|sink|N and|and|KC dish-table|dish-table|N .|_|_
+[|_|_ Kristin|Kristin|N stands|stand|UNKNOWN at|at|PRP stork|stork|N engaged|engage|UNKNOWN in|in|PRP cooking|cooking|N something|something|INDP .|_|_
+She|she|PERS wears|wear|UNKNOWN a|a|ART light|light|ADJ cotton|cotton|N dress|dress|N and|and|KC kitchen|kitchen|N apron|apron|N .|_|_ Jean|Jean|N comes|come|UNKNOWN in|in|PRP wearing|wear|UNKNOWN livery|livery|N ;|_|_
+Tonight|tonight|ADV Miss=Julie|Miss=Julie|N is|be|V crazy|crazy|ADJ again|again|ADV ,|_|_ perfectly|perfectly|ADV crazy|crazy|ADJ .|_|_
+Kristin|Kristin|N .|_|_
+So|so|ADV --|_|_ you_|you|PERS _re|be|V-1/3S back|back|ADV at=last|at=last|ADV .|_|_ Jean|Jean|N .|_|_
+I|I|PERS went|go|UNKNOWN to|to|PRP the|the|ART station|station|N with|with|PRP the|the|ART Count|count|N and|and|KC coming|coming|ADJ back|back|ADV I|I|PERS went|go|UNKNOWN in|in|ADV to|to|PRP the|the|ART barn|barn|N and|and|KC danced|dance|V and|and|KC then|then|ADV I|I|PERS discovered|discover|V Miss=Julie|Miss=Julie|N there|there|ADV leading|lead|V the|the|ART dance|dance|N with|with|PRP the|the|ART gamekeeper|gamekeeper|N .|_|_
+When|when|ADV she|she|PERS spied|spy|V me|I|PERS ,|_|_ she|she|PERS rushed|rush|V right|right|V toward|toward|PRP me|I|PERS and|and|KC asked|ask|V me|I|PERS to|to|INFM waltz|waltz|V ,|_|_ and|and|KC then|then|ADV she|she|PERS waltzed|waltz|V so|so|ADV --|_|_ never|never|ADV in|in|PRP my|I|PERS life|life|N have|have|UNKNOWN I|I|PERS seen|see|UNKNOWN anything|anything|INDP like|like|PRP it|it|PERS !|_|_
+Ah|ah|IN --|_|_ she|she|PERS is|be|V crazy|crazy|ADJ tonight|tonight|ADV .|_|_ Kristin|Kristin|N .|_|_
+She|she|PERS has|have|UNKNOWN always|always|ADV been|be|V .|_|_
+Yes|yes|IN ,|_|_ what|what|INDP about|about|PRP that|that|DET gossip|gossip|N ?|_|_
+He|he|PERS seemed|seem|V like|like|PRP a|a|ART fine|fine|ADJ fellow|fellow|N although|although|KS he|he|PERS was_|be|V _n't|not|ADV rich|rich|ADJ !|_|_
+Ach|ach|IN !|_|_
+they|they|PERS have|have|UNKNOWN so|so|ADV much|much|DET nonsense|nonsense|N about|about|PRP them|they|PERS .|_|_ [|_|_ Seats|seat|N himself|he|PERS at|at|PRP table|table|N .|_|_
+]|_|_ It_|it|PERS _s|be|V queer|queer|ADJ about|about|PRP Miss=Julie|Miss=Julie|N though|though|KS --|_|_ to|to|INFM prefer|prefer|V staying|stay|UNKNOWN here|here|ADV at|at|PRP home|home|N among|among|PRP these|this|DET people|people|N ,|_|_ eh|eh|IN ,|_|_ to|to|PRP going|go|V away|away|ADV with|with|PRP her|she|PERS father|father|N to|to|INFM visit|visit|V her|she|PERS relatives|relative|N ,|_|_ eh|eh|IN ?|_|_
+Kristin|Kristin|N .|_|_
+She_|she|PERS _s|be|V probably|probably|UNKNOWN shamefaced|shamefaced|ADJ about|about|PRP breaking|break|UNKNOWN off|off|ADV with|with|PRP her|she|PERS intended|intend|V .|_|_
+Jean|Jean|N .|_|_ No|no|DET doubt|doubt|N !|_|_
+but|but|KC he|he|PERS was|be|V a|a|ART likely|likely|ADJ sort|sort|N just|just|ADV the|the|ART same|same|INDP .|_|_
+Do|do|UNKNOWN you|you|PERS know|know|UNKNOWN ,|_|_ Kristin|Kristin|N ,|_|_ how|how|ADV it|it|PERS happened|happen|V ?|_|_
+I|I|PERS saw|see|UNKNOWN it|it|PERS ,|_|_ although|although|KS I|I|PERS did_|do|UNKNOWN _n't|not|ADV let|let|V on|on|ADV .|_|_
+Kristin|Kristin|N .|_|_
+No|no|DET --|_|_ did|do|UNKNOWN you|you|PERS see|see|UNKNOWN it|it|PERS ?|_|_
+Jean|Jean|N .|_|_ Yes|yes|IN ,|_|_ indeed|indeed|ADV ,|_|_ I|I|PERS did|do|UNKNOWN .|_|_
+They|they|PERS were|be|V-1/3S out|out|ADV in|in|PRP the|the|ART stable|stable|ADJ yard|yard|N one|one|NUM evening|evening|N and|and|KC she|she|PERS was|be|V «|_|_ training|train|V »|_|_ him|he|PERS as|as|PRP she|she|PERS called|call|UNKNOWN it|it|PERS .|_|_ Do|do|UNKNOWN you|you|PERS know|know|UNKNOWN what|what|INDP happened|happen|V ?|_|_
+She|she|PERS made|make|UNKNOWN him|he|PERS leap|leap|V over|over|PRP her|she|PERS riding|ride|UNKNOWN whip|whip|N ,|_|_ the|the|ART way|way|N you|you|PERS teach|teach|V-3S a|a|ART dog|dog|N to|to|INFM jump|jump|V .|_|_
+He|he|PERS jumped|jump|V it|it|PERS twice|twice|ADV and|and|KC got|get|UNKNOWN a|a|ART lash|lash|N each|each|DET time|time|N ;|_|_
+but|but|KC the|the|ART third|third|NUM time|time|N he|he|PERS snatched|snatch|UNKNOWN the|the|ART whip|whip|N from|from|PRP her|she|PERS hand|hand|N and|and|KC broke|break|UNKNOWN it|it|PERS into|into|PRP pieces|piece|N .|_|_
+And|and|KC then|then|ADV he|he|PERS vanished|vanish|V !|_|_
+Kristin|Kristin|N .|_|_ Was|be|V that|that|INDP the|the|ART way|way|N it|it|PERS happened|happen|V ?|_|_
+No|no|DET ,|_|_ you|you|PERS do_|do|UNKNOWN _n't|not|ADV say|say|V so|so|ADV !|_|_
+Jean|Jean|N .|_|_
+Yes|yes|IN ,|_|_ that_|that|INDP _s|be|V the|the|ART way|way|N the|the|ART thing|thing|N happened|happen|V .|_|_
+But|but|KC what|what|INDP have|have|UNKNOWN you|you|PERS got|get|UNKNOWN to|to|INFM give|give|UNKNOWN me|I|PERS that_|that|INDP _s|be|V good|good|ADJ ,|_|_ Kristin|Kristin|N ?|_|_
+Kristin|Kristin|N .|_|_ [|_|_ She|she|PERS takes|take|UNKNOWN things|thing|N from|from|PRP the|the|ART pans|Pan|N on|on|PRP stove|stove|N and|and|KC serves|serve|V them|they|PERS to|to|PRP him|he|PERS .|_|_ ]|_|_ Oh|oh|IN ,|_|_ it_|it|PERS _s|be|V only|only|ADV a=bit|a=bit|ADV of|of|PRP kidney|kidney|N that|that|INDP I|I|PERS cut|cut|UNKNOWN out=of|out=of|PRP the|the|ART veal|veal|N steak|steak|N for|for|PRP you|you|PERS .|_|_
+Jean|Jean|N [|_|_ Smelling|smell|V the|the|ART food|food|N ]|_|_ .|_|_ Splendid|splendid|ADJ !|_|_
+My|I|PERS favorite|favorite|N delicacy|delicacy|N .|_|_ [|_|_ Feeling|feeling|N of|of|PRP plate|plate|N ]|_|_ .|_|_
+But|but|KC you|you|PERS might|may|V have|have|UNKNOWN warmed|warm|V the|the|ART plate|plate|N .|_|_
+Kristin|Kristin|N .|_|_ You_|you|PERS _re|be|V-1/3S fussier|fussy|ADJ than|than|PRP the|the|ART Count|count|N ,|_|_ when|when|ADV you|you|PERS get|get|UNKNOWN started|start|V .|_|_ [|_|_ Tweaks|tweak|UNKNOWN his|he|PERS hair|hair|N .|_|_
+]|_|_
+Jean|Jean|N .|_|_
+Do_|do|UNKNOWN _n't|not|ADV pull|pull|UNKNOWN my|I|PERS hair|hair|N !|_|_
+You|you|PERS know|know|UNKNOWN how|how|ADV sensitive|sensitive|ADJ I|I|PERS am|be|V .|_|_ Kristin|Kristin|N .|_|_
+Oh|oh|IN --|_|_ there|there|ADV ,|_|_ there|there|ADV !|_|_
+you|you|PERS know|know|UNKNOWN I|I|PERS was|be|V only|only|ADV loving|love|UNKNOWN you|you|PERS .|_|_
+[|_|_ Jean|Jean|N eats|eat|V ,|_|_ and|and|KC Kristin|Kristin|N opens|open|UNKNOWN bottle|bottle|N of|of|PRP beer|beer|N .|_|_
+]|_|_ Jean|Jean|N .|_|_
+Beer|beer|N on|on|PRP midsummer|midsummer|N night|night|N --|_|_ thank|thank|V you|you|PERS ,|_|_ no|no|DET !|_|_
+I|I|PERS have|have|UNKNOWN something|something|INDP better|good|ADV than|than|PRP that|that|DET myself|I|DET .|_|_ [|_|_ Takes|take|UNKNOWN bottle|bottle|N of|of|PRP wine|wine|N from|from|PRP drawer|drawer|N of|of|PRP table|table|N .|_|_
+]|_|_ Yellow|yellow|ADJ seal|seal|N ,|_|_ how's|how|N that|that|INDP ?|_|_
+Now|now|ADV give|give|UNKNOWN me|I|PERS a|a|ART glass|glass|N --|_|_ a|a|ART wine|wine|N glass|glass|N you|you|PERS understand|understand|V-3S ,|_|_ of|of|PRP course|course|N ,|_|_ when|when|ADV one|one|PERS drinks|drink|V the|the|ART genuine|genuine|ADJ .|_|_
+Kristin|Kristin|N .|_|_ [|_|_ Fetches|fetch|UNKNOWN a|a|ART glass|glass|N .|_|_
+Then|then|ADV goes|go|UNKNOWN to|to|PRP stove|stove|N and|and|KC puts|put|UNKNOWN on|on|ADV casserole|casserole|N .|_|_
+]|_|_ Heaven|Heaven|N help|help|N the|the|ART woman|woman|N who|who|INDP gets|get|UNKNOWN you|you|PERS for|for|PRP her|she|PERS husband|husband|N .|_|_
+Such|such|DET a|a|ART fuss|fuss|N budget|budget|N !|_|_
+Jean|Jean|N .|_|_ Oh|oh|IN ,|_|_ talk|talk|V-3S !|_|_
+You|you|PERS ought=to|ought=to|V be|be|V glad|glad|ADJ to|to|INFM get|get|UNKNOWN such|such|DET a|a|ART fine|fine|ADJ fellow|fellow|N as|as|KS I|I|PERS am|be|V .|_|_
+And|and|KC I|I|PERS do_|do|UNKNOWN _n't|not|ADV think|think|V it_|it|PERS _s|be|V done|do|UNKNOWN you|you|PERS any|any|DET harm|harm|N because|because|KS I_|I|PERS _m|be|V considered|consider|V your|you|PERS intended|intended|ADJ .|_|_ [|_|_ Tastes|taste|N wine|wine|V-3S .|_|_
+]|_|_ Excellent|excellent|ADJ ,|_|_ very|very|ADV excellent|excellent|ADJ !|_|_
+Just|just|ADV a|a|ART little|little|ADJ too|too|ADV cold|cold|ADJ .|_|_ [|_|_ Warms|warm|V glass|glass|N with|with|PRP hands|hand|N ]|_|_ .|_|_
+We|we|PERS bought|buy|V this|this|INDP at|at|PRP Dijon|Dijon|N .|_|_
+It|it|PERS stood|stand|UNKNOWN at|at|PRP four|four|NUM francs|franc|N a|a|ART litre|litre|N in|in|PRP the|the|ART bulk|bulk|N ;|_|_
+then|then|ADV of=course|of=course|ADV there|there|ADV was|be|V the|the|ART duty|duty|N besides|besides|ADV .|_|_
+What|what|INDP are|be|V-1/3S you|you|PERS cooking|cook|V now|now|ADV that|that|INDP smells|smell|N so|so|ADV infernally|infernal|ADV ?|_|_
+Kristin|Kristin|N .|_|_ Oh|oh|IN ,|_|_ it_|it|PERS _s|be|V some|some|DET devil's|devil|N mess|mess|N that|that|INDP Miss=Julie|Miss=Julie|N must|must|V have|have|UNKNOWN for|for|PRP Diana|Diana|N .|_|_
+Jean|Jean|N .|_|_ Take|take|UNKNOWN care|care|N of|of|PRP your|you|PERS words|word|N ,|_|_ Kristin|Kristin|N .|_|_
+But|but|KC why|why|ADV should|shall|V you|you|PERS stand|stand|UNKNOWN there|there|ADV cooking|cook|V for|for|PRP that|that|INDP damned|damned|N dog|dog|N on|on|PRP a|a|ART holiday|holiday|N evening|evening|N ?|_|_
+Is|be|V it|it|PERS sick|sick|ADJ ,|_|_ eh|eh|IN ?|_|_
+Kristin|Kristin|N .|_|_ Yes|yes|IN ,|_|_ it_|it|PERS _s|be|V sick|sick|ADJ .|_|_
+Miss=Julie|Miss=Julie|N has|have|UNKNOWN a|a|ART great|great|ADJ deal|deal|N of|of|PRP pride|pride|N about|about|PRP some|some|DET things|thing|N --|_|_ but|but|KC not|not|ADV enough|enough|ADV about|about|ADV others|other|INDP !|_|_ Just|just|ADV like|like|V her|she|PERS mother|mother|N in|in|PRP her|she|PERS lifetime|lifetime|N ;|_|_
+she|she|PERS thrived|thrive|V best|good|ADV in|in|PRP the|the|ART kitchen|kitchen|N or|or|KC the|the|ART stable|stable|N ,|_|_ but|but|KC she|she|PERS must|must|V always|always|ADV drive|drive|UNKNOWN tandem|tandem|N --|_|_ never|never|ADV one-horse|one-horse|ADJ !|_|_
+She|she|PERS would|will|V go|go|UNKNOWN about|about|ADV with|with|PRP soiled|soiled|ADJ cuffs|cuff|N but|but|KC she|she|PERS had|have|UNKNOWN to|to|INFM have|have|UNKNOWN the|the|ART Count's|count|N crest|crest|N on|on|PRP her|she|PERS cuff|cuff|N buttons|button|N .|_|_
+And|and|KC as=for|as=for|PRP Miss|Miss|N Julie|Julie|N ,|_|_ she|she|PERS does_|do|UNKNOWN _n't|not|ADV take|take|UNKNOWN much|much|DET care|care|N of|of|PRP her|she|PERS appearance|appearance|N either|either|ADV .|_|_
+I|I|PERS should|shall|V say|say|V she|she|PERS is_|be|V _n't|not|ADV refined|refined|ADJ .|_|_
+Why|why|ADV just|just|ADV now|now|ADV out=there|out=there|ADV she|she|PERS pulled|pull|UNKNOWN the|the|ART forester|forester|N from|from|PRP Anna's|Anna|N side|side|N and|and|KC asked|ask|V him|he|PERS to|to|INFM dance|dance|V with|with|PRP her|she|PERS .|_|_
+We|we|PERS would_|will|V _n't|not|ADV do|do|UNKNOWN things|thing|N that|that|DET way|way|N .|_|_
+But|but|KC when|when|ADV the|the|ART highborn|highborn|ADJ wish|wish|N to|to|INFM unbend|unbend|UNKNOWN they|they|PERS become|become|V-3S vulgar|vulgar|ADJ .|_|_
+Splendid|splendid|ADJ she|she|PERS is|be|V though|though|KS !|_|_
+Magnificent|magnificent|ADJ !|_|_
+Ah|ah|IN ,|_|_ such|such|DET shoulders|shoulder|N and|and|KC --|_|_
+Kristin|Kristin|N .|_|_
+Oh|oh|IN ,|_|_ do_|do|UNKNOWN _n't|not|ADV exaggerate|exaggerate|V .|_|_
+I_|I|PERS _ve|have|UNKNOWN heard|hear|V what|what|DET Clara|Clara|N says|say|V who|who|INDP dresses|dress|UNKNOWN her|she|PERS sometimes|sometimes|ADV ,|_|_ I|I|PERS have|have|UNKNOWN .|_|_
+Jean|Jean|N .|_|_ Ha|ha|IN !|_|_
+Clara|Clara|N --|_|_ you|you|PERS women|woman|N are|be|V-1/3S always|always|ADV jealous|jealous|ADJ of|of|PRP each=other|each=other|INDP .|_|_
+I|I|PERS who've|who've|N been|be|V out|out|ADV riding|ride|UNKNOWN with|with|PRP her|she|PERS --|_|_ !|_|_ !|_|_ !|_|_
+And|and|KC such|such|DET a|a|ART dancer|dancer|N !|_|_
+Kristin|Kristin|N .|_|_
+Come|come|UNKNOWN now|now|ADV ,|_|_ Jean|Jean|N ,|_|_ do_|do|UNKNOWN _n't|not|ADV you|you|PERS want|want|UNKNOWN to|to|INFM dance|dance|V with|with|PRP me|I|PERS when|when|ADV I_|I|PERS _m|be|V through|through|PRP ?|_|_
+Jean|Jean|N .|_|_ Of=course|of=course|ADV I|I|PERS want|want|UNKNOWN to|to|INFM .|_|_
+Kristin|Kristin|N .|_|_
+That|that|INDP is|be|V a|a|ART promise|promise|N ?|_|_
+Jean|Jean|N .|_|_ Promise|promise|N !|_|_ When|when|ADV I|I|PERS say|say|V-3S I|I|PERS will|will|V do|do|UNKNOWN a|a|ART thing|thing|N I|I|PERS do|do|UNKNOWN it|it|PERS !|_|_ Thanks|thanks|IN for|for|PRP the|the|ART supper|supper|N --|_|_ it|it|PERS was|be|V excellent|excellent|ADJ .|_|_
+[|_|_ Pushes|push|N cork|cork|UNKNOWN in|in|PRP the|the|ART bottle|bottle|N with|with|PRP a|a|ART bang|bang|N .|_|_
+Miss=Julie|Miss=Julie|N appears|appear|V in|in|PRP doorway|doorway|N ,|_|_ speaking|speak|V to|to|PRP someone|someone|INDP outside|outside|ADV .|_|_ ]|_|_ Julie|Julie|N .|_|_
+I_|I|PERS _ll|will|V be|be|V back|back|ADV soon|soon|ADV ,|_|_ but|but|KC do_|do|UNKNOWN _n't|not|ADV let|let|V things|thing|N wait|wait|V for|for|PRP me|I|PERS .|_|_
+[|_|_ Enter|enter|N Miss=Julie|Miss=Julie|N and|and|KC goes|go|N to|to|PRP Kristin|Kristin|N .|_|_ ]|_|_ Julie|Julie|N .|_|_
+Is|be|V it|it|PERS done|do|UNKNOWN ?|_|_
+[|_|_ Kristin|Kristin|N indicating|indicate|V Jean's|Jean|N presence|presence|N .|_|_ ]|_|_
+Jean|Jean|N [|_|_ Gallantly|gallant|ADV ]|_|_ .|_|_
+Have|have|UNKNOWN you|you|PERS secrets|secret|N between|between|PRP you|you|PERS ?|_|_
+Julie|Julie|N .|_|_ [|_|_ Flipping|flip|UNKNOWN handkerchief|handkerchief|N in|in|PRP his|he|PERS face|face|N ]|_|_ .|_|_
+Curious|curious|ADJ ,|_|_ are|be|V-1/3S you|you|PERS ?|_|_
+Jean|Jean|N .|_|_ How|how|ADV sweet|sweet|ADJ that|that|INDP violet|violet|ADJ perfume|perfume|N is|be|V !|_|_
+Julie|Julie|N [|_|_ Coquettishly|coquettish|ADV ]|_|_ .|_|_ Impudence|impudence|N !|_|_
+Do|do|UNKNOWN you|you|PERS appreciate|appreciate|V perfumes|perfume|N too|too|ADV ?|_|_
+Dance|dance|N --|_|_ that|that|INDP you|you|PERS can|can|V do|do|UNKNOWN splendidly|splendid|ADV .|_|_ [|_|_ Jean|Jean|N looks|look|UNKNOWN towards|towards|PRP the|the|ART cooking|cooking|ADJ store|store|N ]|_|_ .|_|_
+Do_|do|UNKNOWN _n't|not|ADV look|look|UNKNOWN .|_|_
+Away|away|ADV with|with|PRP you|you|PERS .|_|_
+Jean|Jean|N [|_|_ Inquisitive|inquisitive|ADJ but|but|KC polite|polite|ADJ ]|_|_ .|_|_ Is|be|V it|it|PERS some|some|DET troll's|troll|N dish|dish|N that|that|INDP you|you|PERS are|be|V-1/3S both|both|INDP concocting|concoct|UNKNOWN for|for|PRP midsummer|midsummer|N night|night|N ?|_|_ Something|something|INDP to|to|INFM pierce|pierce|UNKNOWN the|the|ART future|future|N with|with|PRP and|and|KC evoke|evoke|V the|the|ART face|face|N of|of|PRP your|you|PERS intended|intended|ADJ ?|_|_
+Julie|Julie|N [|_|_ Sharply|sharply|ADV ]|_|_ .|_|_
+To|to|INFM see|see|UNKNOWN him|he|PERS one|one|PERS must|must|V have|have|UNKNOWN sharp|sharp|ADJ eyes|eye|N .|_|_ [|_|_ To|to|PRP Kristin|Kristin|N ]|_|_ .|_|_ Put|put|UNKNOWN it|it|PERS into|into|PRP a|a|ART bottle|bottle|N and|and|KC cork|cork|UNKNOWN it|it|PERS tight|tight|ADJ .|_|_
+Jean|Jean|N .|_|_ I|I|PERS do_|do|UNKNOWN _n't|not|ADV wish|wish|V to|to|INFM be|be|V impolite|impolite|ADJ to|to|PRP anyone|anyone|INDP but|but|KC --|_|_ this|this|DET dance|dance|N I|I|PERS promised|promise|V to|to|PRP Kristin|Kristin|N .|_|_
+Julie|Julie|N .|_|_ Oh|oh|IN ,|_|_ she|she|PERS can|can|V have|have|UNKNOWN another|another|INDP --|_|_ is_|be|V _n't|not|ADV that|that|INDP so|so|ADV ,|_|_ Kristin|Kristin|N ?|_|_ Will_|will|V _n't|not|ADV you|you|PERS lend|lend|V Jean|Jean|N to|to|PRP me|I|PERS .|_|_
+Kristin|Kristin|N .|_|_
+It_|it|PERS _s|be|V not|not|ADV for|for|PRP me|I|PERS to|to|INFM say|say|V ,|_|_ if|if|KS Miss=Julie|Miss=Julie|N is|be|V so|so|ADV gracious|gracious|ADJ it_|it|PERS _s|be|V not|not|ADV for|for|PRP me|I|PERS to|to|INFM say|say|V no.|no.|UNKNOWN [|_|_ To|to|PRP Jean|Jean|N ]|_|_ .|_|_
+Go|go|UNKNOWN you|you|PERS and|and|KC be|be|V grateful|grateful|ADJ for|for|PRP the|the|ART honor|honor|N .|_|_
+Jean|Jean|N .|_|_
+Well|well|ADV said|say|V --|_|_ but|but|KC not|not|ADV wishing|wish|V any|any|DET offense|offense|N I|I|NUM wonder|wonder|N if|if|KS it|it|PERS is|be|V prudent|prudent|ADJ for|for|PRP Miss=Julie|Miss=Julie|N to|to|INFM dance|dance|V twice|twice|ADV in|in|PRP succession|succession|N with|with|PRP her|she|PERS servant|servant|N ,|_|_ especially|especially|ADV as|as|KS people|people|N are|be|V-1/3S never|never|ADV slow|slow|ADJ to|to|INFM find|find|V meaning|meaning|ADJ in|in|PRP --|_|_ Julie|Julie|N [|_|_ Breaking|break|UNKNOWN out|out|ADV ]|_|_ .|_|_
+In|in|PRP what|what|INDP ?|_|_
+What|what|DET sort|sort|N of|of|PRP meaning|meaning|N ?|_|_
+What|what|INDP were|be|V-1/3S you|you|PERS going|go|V to|to|INFM say|say|V ?|_|_
+Jean|Jean|N [|_|_ Taken|take|UNKNOWN aback|aback|ADV ]|_|_ .|_|_ Since|since|KS Miss=Julie|Miss=Julie|N does|do|UNKNOWN not|not|ADV understand|understand|V I|I|PERS must|must|V speak|speak|V plainly|plainly|ADV .|_|_
+It|it|PERS may|may|V look|look|UNKNOWN strange|strange|ADJ to|to|INFM prefer|prefer|V one|one|NUM of|of|PRP your|you|PERS --|_|_ underlings|underling|N --|_|_ to|to|PRP others|other|INDP who|who|INDP covet|covet|V-3S the|the|ART same|same|DET honor|honor|N --|_|_
+Julie|Julie|N .|_|_
+To|to|INFM prefer|prefer|V --|_|_ what|what|DET a|a|ART thought|thought|N !|_|_
+I|I|PERS ,|_|_ the|the|ART lady|Lady|N of|of|PRP the|the|ART house|house|N !|_|_
+As|as|PRP Miss=Julie|Miss=Julie|N commands|command|N .|_|_ I_|I|PERS _m|be|V here|here|ADV to|to|INFM serve|serve|V .|_|_
+Julie|Julie|N [|_|_ Mildly|mildly|ADV ]|_|_ .|_|_
+You|you|PERS must_|must|V _n't|not|ADV look|look|UNKNOWN upon|upon|PRP that|that|INDP as|as|PRP a|a|ART command|command|N .|_|_
+Tonight|tonight|ADV we|we|PERS are|be|V-1/3S all|all|INDP in|in|PRP holiday|holiday|N spirits|spirit|N --|_|_ full|full|ADJ of|of|PRP gladness|gladness|N and|and|KC rank|rank|N is|be|V flung|fling|UNKNOWN aside|aside|ADV .|_|_
+So|so|ADV ,|_|_ give|give|UNKNOWN me|I|PERS your|you|PERS arm|arm|N !|_|_
+Do_|do|UNKNOWN _n't|not|ADV be|be|V alarmed|alarm|V ,|_|_ Kristin|Kristin|N ,|_|_ I|I|PERS shall|shall|V not|not|ADV take|take|UNKNOWN your|you|PERS sweetheart|sweetheart|N away|away|ADV from|from|PRP you|you|PERS .|_|_
+[|_|_ Jean|Jean|N offers|offer|V arm.|arm.|N They|they|PERS exit|exit|V-3S .|_|_
+]|_|_ [|_|_ Pantomime|pantomime|N .|_|_
+--|_|_ Played|play|UNKNOWN as=though|as=though|KS the|the|ART actress|actress|N were|be|V-1/3S really|really|ADV alone|alone|ADJ .|_|_
+Turns|turn|N her|she|PERS back|back|N to|to|PRP the|the|ART audience|audience|N when|when|ADV necessary|necessary|ADJ .|_|_
+Does|do|UNKNOWN not|not|ADV look|look|UNKNOWN out|out|ADV into|into|PRP the|the|ART auditorium|auditorium|N .|_|_
+Does|do|UNKNOWN not|not|ADV hurry|hurry|V as=though|as=though|KS fearing|fear|V the|the|ART audience|audience|N might|may|V grow|grow|V restless|restless|ADJ .|_|_
+Soft|soft|ADJ violin|violin|N music|music|N from|from|PRP the|the|ART distance|distance|N ,|_|_ schottische|schottische|N time|time|N .|_|_
+Kristin|Kristin|N hums|hum|V with|with|PRP the|the|ART music|music|N .|_|_
+She|she|PERS cleans|clean|UNKNOWN the|the|ART table|table|N ;|_|_ washes|wash|N plate|plate|UNKNOWN ,|_|_ wipes|wipe|UNKNOWN it|it|PERS and|and|KC puts|put|UNKNOWN it|it|PERS in|in|PRP the|the|ART china|china|N closet|closet|N .|_|_
+Takes|take|UNKNOWN off|off|ADV her|she|PERS apron|apron|N and|and|KC then|then|ADV opens|open|UNKNOWN drawer|drawer|N of|of|PRP table|table|N and|and|KC takes|take|UNKNOWN a|a|ART small|small|ADJ hand|hand|N glass|glass|N and|and|KC strands|strand|N it|it|PERS against|against|PRP a|a|ART flower|flower|N pot|pot|N on|on|PRP table|table|N .|_|_
+Lights|light|V a|a|ART candle|candle|N and|and|KC heats|heat|V a|a|ART hair|hair|N pin|pin|N with|with|PRP which|which|INDP she|she|PERS crimps|crimp|UNKNOWN her|she|PERS hair|hair|N around|around|PRP her|she|PERS forehead|forehead|N .|_|_
+After|after|PRP that|that|INDP she|she|PERS goes|go|UNKNOWN to|to|PRP door|door|N at|at|PRP back|back|N and|and|KC listens|listen|V .|_|_
+Then|then|ADV she|she|PERS returns|return|UNKNOWN to|to|INFM table|table|V and|and|KC sees|see|UNKNOWN the|the|ART Countess'|countess|N handkerchief|handkerchief|N ,|_|_ picks|pick|UNKNOWN it|it|PERS up|up|ADV ,|_|_ smells|smell|V of|of|PRP it|it|PERS ,|_|_ then|then|ADV smooths|smooth|UNKNOWN it|it|PERS out|out|ADV and|and|KC folds|fold|UNKNOWN it|it|PERS .|_|_
+Enter|enter|UNKNOWN Jean|Jean|N .|_|_ ]|_|_ Jean|Jean|N .|_|_ She|she|PERS is|be|V crazy|crazy|ADJ I|I|PERS tell|tell|V-3S you|you|PERS !|_|_
+To|to|INFM dance|dance|V like|like|PRP that|that|INDP !|_|_
+And|and|KC the|the|ART people|people|N stand|stand|UNKNOWN grinning|grin|V at|at|PRP her|she|PERS behind|behind|PRP the|the|ART doors|door|N .|_|_
+What|what|INDP do|do|UNKNOWN you|you|PERS say|say|V to|to|PRP that|that|INDP ,|_|_ Kristin|Kristin|N ?|_|_
+Kristin|Kristin|N .|_|_ Oh|oh|IN ,|_|_ did_|do|UNKNOWN _n't|not|ADV I|I|PERS say|say|V she_|she|PERS _s|be|V been|be|V acting|acting|ADJ queer|queer|N lately|lately|ADV ?|_|_
+But|but|KC is_|be|V _n't|not|ADV it|it|PERS my|I|PERS turn|turn|N to|to|INFM dance|dance|V now|now|ADV ?|_|_ Jean|Jean|N .|_|_
+You|you|PERS are|be|V-1/3S not|not|ADV angry|angry|ADJ because|because|KS I|I|PERS let|let|V myself|I|PERS be|be|V led|lead|V by|by|PRP the|the|ART forelock|forelock|N ?|_|_
+Kristin|Kristin|N .|_|_
+No|no|DET ,|_|_ not|not|ADV for|for|PRP such|such|DET a|a|ART little|little|ADJ thing|thing|N .|_|_ That|that|INDP you|you|PERS know|know|UNKNOWN well|well|ADV enough|enough|ADV .|_|_
+And|and|KC I|I|PERS know|know|UNKNOWN my|I|PERS place|place|N too|too|ADV --|_|_
+Jean|Jean|N [|_|_ Puts|put|UNKNOWN arm|arm|V-3S around|around|PRP her|she|PERS waist|waist|N ]|_|_ .|_|_ You_|you|PERS _re|be|V-1/3S a|a|ART pretty|pretty|ADV smart|smart|ADJ girl|girl|N ,|_|_ Kristin|Kristin|N ,|_|_ and|and|KC you|you|PERS ought=to|ought=to|V make|make|UNKNOWN a|a|ART good|good|ADJ wife|wife|N .|_|_
+[|_|_ Enter|enter|N Miss=Julie|Miss=Julie|N .|_|_
+]|_|_ Julie|Julie|N [|_|_ Disagreeably|disagreeably|UNKNOWN surprised|surprise|V ,|_|_ but|but|KC with|with|PRP forced|forced|ADJ gaiety|gaiety|N ]|_|_ .|_|_
+You_|you|PERS _re|be|V-1/3S a|a|ART charming|charming|ADJ cavalier|Cavalier|N to|to|INFM run|run|V away|away|ADV from|from|PRP your|you|PERS partner|partner|N .|_|_ Jean|Jean|N .|_|_
+On=the=contrary|on=the=contrary|ADV ,|_|_ Miss=Julie|Miss=Julie|N ,|_|_ I|I|PERS have|have|UNKNOWN hastened|hasten|V to|to|PRP my|I|PERS neglected|neglected|ADJ one|one|NUM as|as|KS you|you|PERS see|see|UNKNOWN .|_|_
+Julie|Julie|N [|_|_ Changing|changing|ADJ subject|subject|N ]|_|_ .|_|_ Do|do|UNKNOWN you|you|PERS know|know|UNKNOWN ,|_|_ you|you|PERS dance|dance|V-3S wonderfully|wonderfully|ADV well|well|ADV !|_|_
+But|but|KC why|why|ADV are|be|V-1/3S you|you|PERS in|in|PRP livery|livery|N on|on|PRP a|a|ART holiday|holiday|N night|night|N ?|_|_
+Take|take|UNKNOWN it|it|PERS off|off|ADV immediately|immediately|ADV .|_|_
+Does|do|UNKNOWN it|it|PERS embarrass|embarrass|V you|you|PERS to|to|INFM change|change|V your|you|PERS coat|coat|N in|in|PRP my|I|PERS presence|presence|N ?|_|_
+Go|go|UNKNOWN to|to|PRP your|you|PERS room|room|N then|then|ADV --|_|_ or=else|or=else|KC stay|stay|UNKNOWN and|and|KC I_|I|PERS _ll|will|V turn|turn|UNKNOWN my|I|PERS back|back|N .|_|_
+Jean|Jean|N .|_|_ With|with|PRP your|you|PERS permission|permission|N ,|_|_ Miss=Julie|Miss=Julie|N .|_|_
+[|_|_ Exit|exit|N Jean=R.=One|Jean=R.=One|N sees|see|UNKNOWN his|he|PERS arm|arm|N as|as|PRP he|he|PERS changes|change|V coat|coat|N .|_|_ ]|_|_
+Julie|Julie|N [|_|_ To|to|PRP Kristin|Kristin|N ]|_|_ .|_|_
+Is|be|V Jean|Jean|N your|you|PERS sweetheart|sweetheart|N ,|_|_ that|that|KS he|he|PERS is|be|V so|so|ADV devoted|devoted|ADJ ?|_|_ Kristin|Kristin|N .|_|_
+Sweetheart|sweetheart|N ?|_|_
+Yes|yes|IN ,|_|_ may|may|V it|it|PERS please|please|V you|you|PERS .|_|_
+Sweetheart|sweetheart|N --|_|_ that_|that|INDP _s|be|V what|what|INDP they|they|PERS call|call|UNKNOWN it|it|PERS .|_|_
+Julie|Julie|N .|_|_ Call|Call|N it|it|PERS ?|_|_
+Kristin|Kristin|N .|_|_ Oh|oh|IN Miss=Julie|Miss=Julie|N has|have|UNKNOWN herself|she|PERS had|have|UNKNOWN a|a|ART sweetheart|sweetheart|N and|and|KC --|_|_ Julie|Julie|N .|_|_
+Yes|yes|IN ,|_|_ we|we|PERS were|be|V-1/3S engaged|engage|UNKNOWN --|_|_
+Kristin|Kristin|N .|_|_ But|but|KC it|it|PERS came|come|UNKNOWN to|to|PRP nothing|nothing|INDP .|_|_
+[|_|_ Enter|enter|N Jean|Jean|N in|in|PRP black|black|ADJ frock|frock|N coat|coat|N .|_|_ ]|_|_
+Julie|Julie|N .|_|_ Tres|Tres|N gentil|gentil|N ,|_|_ Monsieur=Jean|Monsieur=Jean|N ,|_|_ tres|tre|N gentil|gentil|N .|_|_
+Jean|Jean|N .|_|_
+Vous|vous|ADJ voulez|voulez|N plaisanter|plaisanter|N ,|_|_ Mademoiselle|mademoiselle|N .|_|_
+Julie|Julie|N .|_|_ Et|et|KC vous|vous|ADJ voulez|voulez|N parler|parler|N francais|francais|N ?|_|_
+Where|where|ADV did|do|UNKNOWN you|you|PERS learn|learn|V that|that|INDP ?|_|_
+Jean|Jean|N .|_|_ In|in|PRP Switzerland|Switzerland|N where|where|ADV I|I|PERS was|be|V butler|butler|N in|in|PRP the|the|ART largest|large|ADJ hotel|hotel|N at|at|PRP Lucerne|Lucerne|N .|_|_
+Julie|Julie|N .|_|_ Why|why|ADV ,|_|_ you|you|PERS look|look|UNKNOWN like|like|PRP a|a|ART gentleman|gentleman|N in|in|PRP your|you|PERS frock|frock|N coat|coat|N .|_|_
+Charmant|Charmant|N !|_|_ [|_|_ Seats|seat|N herself|she|PERS by|by|PRP table|table|N .|_|_ ]|_|_ Jean|Jean|N .|_|_
+You|you|PERS flatter|flatter|V-3S me|I|PERS !|_|_ Julie|Julie|N .|_|_
+Flatter|flatter|V !|_|_ [|_|_ Picking|pick|UNKNOWN him|he|PERS up|up|ADV on|on|PRP the|the|ART word|word|N .|_|_ ]|_|_
+Jean|Jean|N .|_|_ My|I|PERS natural|natural|ADJ modesty|modesty|N forbids|forbid|V me|I|PERS to|to|INFM believe|believe|V that|that|KS you|you|PERS could|can|V mean|mean|V these|this|DET pleasant|pleasant|ADJ things|thing|N that|that|KS you|you|PERS say|say|V-3S to|to|PRP a|a|ART --|_|_ such|such|DET its|it|PERS I|I|PERS am|be|V --|_|_ and|and|KC therefore|therefore|ADV I|I|PERS allowed|allow|V myself|I|PERS to|to|PRP fancy|fancy|ADJ that|that|INDP you|you|PERS overrate|overrate|V-3S or|or|KC ,|_|_ as|as|KS it|it|PERS is|be|V called|call|UNKNOWN ,|_|_ flatter|flat|ADJ .|_|_
+Julie|Julie|N .|_|_ Where|where|ADV did|do|UNKNOWN you|you|PERS learn|learn|V to|to|INFM use|use|V words|word|N like|like|PRP that|that|INDP ?|_|_
+Have|have|UNKNOWN you|you|PERS frequented|frequent|V the|the|ART theatres|theatre|N much|much|ADV ?|_|_ Jean|Jean|N .|_|_
+I|I|PERS have|have|UNKNOWN frequented|frequent|V many|many|DET places|place|N ,|_|_ I|I|PERS have|have|UNKNOWN !|_|_
+Julie|Julie|N .|_|_
+But|but|KC you|you|PERS were|be|V-1/3S born|bear|UNKNOWN here|here|ADV in|in|PRP this|this|DET neighborhood|neighborhood|N ?|_|_ Jean|Jean|N .|_|_
+My|I|PERS father|father|N was|be|V a|a|ART deputy|deputy|N under|under|PRP the|the|ART public|public|N prosecutor|prosecutor|N ,|_|_ and|and|KC I|I|PERS saw|see|UNKNOWN Miss|Miss|N Julie|Julie|N as|as|PRP a|a|ART child|child|N --|_|_ although|although|KS she|she|PERS did_|do|UNKNOWN _n't|not|ADV see|see|UNKNOWN me|I|PERS !|_|_
+Julie|Julie|N .|_|_ No|no|DET ,|_|_ really|really|ADV ?|_|_
+Jean|Jean|N .|_|_ Yes|yes|IN ,|_|_ I|I|PERS remember|remember|V-3S one|one|NUM time|time|N in=particular|in=particular|ADV .|_|_
+But|but|KC I|I|NUM must_|must|V _n't|not|ADV talk|talk|V about|about|PRP that|that|INDP .|_|_
+Julie|Julie|N .|_|_
+Oh|oh|IN yes|yes|IN ,|_|_ do|do|UNKNOWN ,|_|_ when|when|ADV was|be|V it|it|PERS ?|_|_
+Jean|Jean|N .|_|_
+No|no|DET really|really|ADV --|_|_ not|not|ADV now|now|ADV ,|_|_ another|another|DET time|time|N perhaps|perhaps|ADV .|_|_
+Julie|Julie|N .|_|_
+«|_|_ Another=time|Another=time|N »|_|_ is|be|V a|a|ART good|good|ADJ for|for|PRP nothing|nothing|INDP .|_|_
+Is|be|V it|it|PERS so|so|ADV dreadful|dreadful|ADJ then|then|ADV ?|_|_
+Jean|Jean|N .|_|_
+Not|not|ADV dreadful|dreadful|ADJ --|_|_ but|but|KC it|it|PERS goes|go|UNKNOWN against|against|PRP the|the|ART grain|grain|N .|_|_ [|_|_ Turns|turn|N and|and|KC points|point|N to|to|PRP Kristin|Kristin|N ,|_|_ who|who|INDP has|have|UNKNOWN fallen|fall|UNKNOWN asleep|asleep|ADV in|in|PRP a|a|ART chair|chair|N near|near|PRP stove|stove|N ]|_|_ .|_|_
+Look|look|UNKNOWN at|at|PRP her|she|PERS .|_|_ Julie|Julie|N .|_|_ She_|she|PERS _ll|will|V make|make|UNKNOWN a|a|ART charming|charming|ADJ wife|wife|N !|_|_
+Does|do|UNKNOWN she|she|PERS snore|snore|V too|too|ADV ?|_|_ Jean|Jean|N .|_|_
+No|no|DET ,|_|_ but|but|KC she|she|PERS talks|talk|V in|in|PRP her|she|PERS sleep|sleep|N .|_|_ Julie|Julie|N [|_|_ Cynically|cynical|ADV ]|_|_ .|_|_
+How|how|ADV do|do|UNKNOWN you|you|PERS know|know|UNKNOWN that|that|KS she|she|PERS talks|talk|V in|in|PRP her|she|PERS sleep|sleep|N ?|_|_
+Jean|Jean|N [|_|_ Boldly|bold|ADV ]|_|_ .|_|_
+I|I|PERS have|have|UNKNOWN heard|hear|V her|she|PERS .|_|_ [|_|_ Pause|pause|N and|and|KC they|they|PERS look|look|UNKNOWN at|at|PRP each=other|each=other|INDP .|_|_ ]|_|_
+Julie|Julie|N .|_|_ Why|why|ADV do_|do|UNKNOWN _n't|not|ADV you|you|PERS sit|sit|UNKNOWN down|down|ADV ?|_|_
+Jean|Jean|N .|_|_ I|I|PERS can_|can|V _n't|not|ADV allow|allow|V myself|I|PERS to|to|INFM do|do|UNKNOWN so|so|ADV in|in|PRP your|you|PERS presence|presence|N .|_|_
+Julie|Julie|N .|_|_ But|but|KC if|if|KS I|I|PERS command|command|V-3S you|you|PERS ?|_|_
+Jean|Jean|N .|_|_ Then|then|ADV I|I|PERS obey|obey|V-3S .|_|_
+Julie|Julie|N .|_|_
+Sit|sit|UNKNOWN down|down|ADV then|then|ADV .|_|_
+But|but|KC wait|wait|N --|_|_ can_|can|V _n't|not|ADV you|you|PERS get|get|UNKNOWN me|I|PERS something|something|INDP to|to|INFM drink|drink|V first|first|ADV ?|_|_
+Jean|Jean|N .|_|_ I|I|PERS do_|do|UNKNOWN _n't|not|ADV know|know|UNKNOWN what|what|INDP there|there|ADV is|be|V in|in|PRP the|the|ART icebox|icebox|N .|_|_
+Nothing|nothing|INDP but|but|KC beer|beer|N ,|_|_ probably|probably|UNKNOWN .|_|_
+Julie|Julie|N .|_|_ Is|be|V beer|beer|N nothing|nothing|INDP ?|_|_
+My|I|PERS taste|taste|N is|be|V so|so|ADV simple|simple|ADJ that|that|KS I|I|PERS prefer|prefer|V-3S it|it|PERS to|to|INFM wine|wine|V .|_|_
+[|_|_ Jean|Jean|N takes|take|UNKNOWN out|out|ADV beer|beer|N and|and|KC serves|serve|V it|it|PERS on|on|PRP plate|plate|N .|_|_
+]|_|_ Jean|Jean|N .|_|_ Allow|allow|V me|I|PERS .|_|_
+Julie|Julie|N .|_|_
+Will_|will|V _n't|not|ADV you|you|PERS drink|drink|V too|too|ADV ?|_|_
+Jean|Jean|N .|_|_ I|I|PERS am|be|V no|no|DET friend|friend|N to|to|PRP beer|beer|N --|_|_ but|but|KC if|if|KS Miss=Julie|Miss=Julie|N commands|command|V .|_|_
+Julie|Julie|N [|_|_ Gaily|gaily|ADV ]|_|_ .|_|_ Commands|command|N !|_|_
+Looking|look|UNKNOWN at|at|PRP it|it|PERS in|in|PRP that|that|DET way|way|N you|you|PERS are|be|V-1/3S quite|quite|ADV right|right|ADJ .|_|_ [|_|_ Opens|open|UNKNOWN another|another|DET bottle|bottle|N of|of|PRP beer|beer|N and|and|KC fills|fill|UNKNOWN glass|glass|N .|_|_ ]|_|_ Julie|Julie|N .|_|_ Give|give|UNKNOWN me|I|PERS a|a|ART toast|toast|N !|_|_
+[|_|_ Jean|Jean|N hesitates|hesitate|V .|_|_
+]|_|_ Julie|Julie|N [|_|_ Mockingly|mockingly|ADV ]|_|_ .|_|_
+Old|old|N as|as|KS he|he|PERS is|be|V ,|_|_ I|I|PERS believe|believe|V-3S the|the|ART man|man|N is|be|V bashful|bashful|ADJ !|_|_
+Jean|Jean|N [|_|_ On|on|PRP his|he|PERS knee|knee|N with|with|PRP mock|mock|ADJ gallantry|gallantry|N ,|_|_ raises|raise|V glass|glass|N ]|_|_ .|_|_
+A|a|ART health|health|N to|to|PRP my|I|PERS lady|Lady|N of|of|PRP the|the|ART house|house|N !|_|_
+Julie|Julie|N .|_|_ Bravo|bravo|IN !|_|_
+Now|now|ADV you|you|PERS must|must|V kiss|kiss|UNKNOWN my|I|PERS slipper|slipper|N .|_|_ Then|then|ADV the|the|ART thing|thing|N is|be|V perfect|perfect|ADJ .|_|_
+Julie|Julie|N .|_|_ Splendid|splendid|ADJ !|_|_
+You|you|PERS should|shall|V have|have|UNKNOWN been|be|V an|a|ART actor|actor|N .|_|_
+Jean|Jean|N [|_|_ Rising|rising|N ]|_|_ .|_|_ But|but|KC this|this|INDP must_|must|V _n't|not|ADV go|go|UNKNOWN any|any|DET further|further|DET ,|_|_ Miss=Julie|Miss=Julie|N .|_|_
+What|what|INDP if|if|KS someone|someone|INDP should|shall|V come|come|UNKNOWN in|in|ADV and|and|KC see|see|UNKNOWN us|we|PERS ?|_|_
+Julie|Julie|N .|_|_ What|what|DET harm|harm|N would|will|V that|that|INDP do|do|UNKNOWN ?|_|_
+Jean|Jean|N .|_|_ Simply|simply|ADV that|that|INDP it|it|PERS would|will|V give|give|UNKNOWN them|they|PERS a|a|ART chance|chance|N to|to|INFM gossip|gossip|V .|_|_
+What|what|INDP did|do|UNKNOWN they|they|PERS say|say|V ?|_|_
+Tell|Tell|N me|I|PERS .|_|_
+And|and|KC sit|sit|UNKNOWN down|down|ADV now|now|ADV .|_|_
+Jean|Jean|N [|_|_ Sitting|sit|UNKNOWN ]|_|_ .|_|_ I|I|PERS do_|do|UNKNOWN _n't|not|ADV wish|wish|V to|to|INFM hurt|hurt|V you|you|PERS ,|_|_ but|but|KC they|they|PERS used|use|V an|a|ART expression|expression|N --|_|_ threw|throw|UNKNOWN hints|hint|N of|of|PRP a|a|ART certain|certain|ADJ kind|kind|N --|_|_ but|but|KC you|you|PERS are|be|V-1/3S not|not|ADV a|a|ART child|child|N ,|_|_ you|you|PERS can|can|V understand|understand|V .|_|_
+Then|then|ADV what|what|INDP ?|_|_
+And|and|KC for|for|PRP that|that|DET matter|matter|N ,|_|_ we|we|PERS are|be|V-1/3S not|not|ADV alone|alone|ADJ .|_|_
+Kristin|Kristin|N is|be|V here|here|ADV .|_|_ Jean|Jean|N .|_|_ Sleeping|sleep|UNKNOWN !|_|_
+Yes|yes|IN .|_|_ Julie|Julie|N .|_|_
+Then|then|ADV I|I|NUM shall|shall|V wake|wake|V her|she|PERS .|_|_ [|_|_ Rises|rise|N ]|_|_ .|_|_
+Kristin|Kristin|N ,|_|_ are|be|V-1/3S you|you|PERS asleep|asleep|ADV ?|_|_
+Kristin|Kristin|N .|_|_ [|_|_ In|in|PRP her|she|PERS sleep|sleep|N ]|_|_ .|_|_
+Bla|bla|IN --|_|_ bla|bla|IN --|_|_ bla|bla|IN --|_|_ bla|bla|IN .|_|_
+Julie|Julie|N .|_|_ Kristin|Kristin|N !|_|_
+She|she|PERS certainly|certainly|ADV can|can|V sleep|sleep|UNKNOWN .|_|_ [|_|_ Goes|go|UNKNOWN to|to|PRP Kristin|Kristin|N .|_|_
+]|_|_ Kristin|Kristin|N .|_|_ [|_|_ In|in|PRP her|she|PERS sleep|sleep|N ]|_|_ .|_|_ The|the|ART Count's|count|N boots|boot|N are|be|V-1/3S polished|polish|UNKNOWN --|_|_ put|put|UNKNOWN on|on|ADV the|the|ART coffee|coffee|N --|_|_ soon|soon|ADV --|_|_ soon|soon|ADV --|_|_ soon|soon|ADV .|_|_
+Oh|oh|IN --|_|_ h-h-h|h-h-h|N --|_|_ puh|puh|N !|_|_ [|_|_ Breathes|breathe|V heavily|heavily|ADV .|_|_ Julie|Julie|N takes|take|UNKNOWN her|she|PERS by|by|PRP the|the|ART nose|nose|N .|_|_ ]|_|_ Julie|Julie|N .|_|_
+Will_|will|V _n't|not|ADV you|you|PERS wake|wake|V up|up|ADV ?|_|_ Jean|Jean|N [|_|_ Sternly|stern|ADV ]|_|_ .|_|_ Do_|do|UNKNOWN _n't|not|ADV disturb|disturb|UNKNOWN the|the|ART sleeping|sleep|UNKNOWN .|_|_
+Julie|Julie|N [|_|_ Sharply|sharply|ADV ]|_|_ .|_|_ What|what|INDP ?|_|_
+Jean|Jean|N .|_|_ Anyone|anyone|INDP who|who|INDP has|have|UNKNOWN stood|stand|UNKNOWN over|over|PRP the|the|ART hot|hot|ADJ stove|stove|N all|all|DET day|day|N long|long|ADV is|be|V tired|tired|ADJ when|when|ADV night|night|N comes|come|UNKNOWN .|_|_
+One|one|PERS should|shall|V respect|respect|V the|the|ART weary|weary|ADJ .|_|_
+Julie|Julie|N .|_|_ That's|That|N a|a|ART kind|kind|N thought|think|V --|_|_ and|and|KC I|I|PERS honor|honor|V-3S it|it|PERS .|_|_ [|_|_ Offers|offer|N her|she|PERS hand|hand|N .|_|_ ]|_|_ Thanks|thanks|N for|for|PRP the|the|ART suggestion|suggestion|N .|_|_
+Come|come|UNKNOWN out|out|ADV with|with|PRP me|I|PERS now|now|ADV and|and|KC pick|pick|UNKNOWN some|some|DET syringas|syringa|N .|_|_
+Jean|Jean|N .|_|_ With|with|PRP Miss=Julie|Miss=Julie|N ?|_|_
+Julie|Julie|N .|_|_ With|with|PRP me|I|PERS .|_|_
+Jean|Jean|N .|_|_ But|but|KC that|that|INDP would_|will|V _n't|not|ADV do|do|UNKNOWN --|_|_ decidedly|decidedly|ADV not|not|ADV .|_|_
+Julie|Julie|N .|_|_
+I|I|PERS do_|do|UNKNOWN _n't|not|ADV understand|understand|V you|you|PERS .|_|_
+Is|be|V it|it|PERS possible|possible|ADJ that|that|INDP you|you|PERS fancy|fancy|V-3S that|that|INDP I|I|PERS --|_|_
+Jean|Jean|N .|_|_
+No|no|DET --|_|_ not|not|ADV I|I|PERS ,|_|_ but|but|KC people|people|N .|_|_
+Julie|Julie|N .|_|_ What|what|INDP ?|_|_
+That|that|INDP I_|I|PERS _m|be|V in=love|in=love|ADJ with|with|PRP my|I|PERS coachman|coachman|N ?|_|_
+Jean|Jean|N .|_|_ I|I|PERS am|be|V not|not|ADV presumptuous|presumptuous|ADJ ,|_|_ but|but|KC we|we|PERS have|have|UNKNOWN seen|see|UNKNOWN instances|instance|N --|_|_ and|and|KC with|with|PRP the|the|ART people|people|N nothing|nothing|INDP is|be|V sacred|sacred|ADJ .|_|_
+Julie|Julie|N .|_|_ I|I|PERS believe|believe|V-3S he|he|PERS is|be|V an|a|ART aristocrat|aristocrat|N !|_|_
+Jean|Jean|N .|_|_ Yes|yes|IN ,|_|_ I|I|PERS am|be|V .|_|_
+Julie|Julie|N .|_|_ But|but|KC I|I|PERS step|step|V-3S down|down|ADV --|_|_ --|_|_
+Jean|Jean|N .|_|_ Do_|do|UNKNOWN _n't|not|ADV step|step|V down|down|ADV ,|_|_ Miss=Julie|Miss=Julie|N .|_|_
+Listen|listen|V to|to|PRP me|I|PERS --|_|_ no=one|no=one|INDP would|will|V believe|believe|V that|that|KS you|you|PERS stepped|step|V down|down|ADV of|of|PRP your|you|PERS own|own|DET accord|accord|N ;|_|_
+people|people|N always|always|ADV say|say|V-3S that|that|DET one|one|NUM falls|fall|N down|down|ADV .|_|_ Julie|Julie|N .|_|_
+I|I|PERS think|think|V-3S better|good|ADV of|of|PRP the|the|ART people|people|N than|than|KS you|you|PERS do|do|UNKNOWN .|_|_
+Come|come|UNKNOWN --|_|_ and|and|KC try|try|V them|they|PERS --|_|_ come|come|UNKNOWN !|_|_
+[|_|_ Dares|dare|V him|he|PERS with|with|PRP a|a|ART look|look|N .|_|_ ]|_|_ Jean|Jean|N .|_|_
+Do|do|UNKNOWN you|you|PERS know|know|UNKNOWN that|that|KS you|you|PERS are|be|V-1/3S wonderful|wonderful|ADJ ?|_|_
+Julie|Julie|N .|_|_ Perhaps|perhaps|ADV .|_|_
+But|but|KC you|you|PERS are|be|V-1/3S too|too|ADV .|_|_
+Everything|everything|INDP is|be|V wonderful|wonderful|ADJ for|for|PRP that|that|DET matter|matter|N .|_|_
+Life|life|N ,|_|_ people|people|N --|_|_ everything|everything|INDP .|_|_
+Everything|everything|INDP is|be|V wreckage|wreckage|N ,|_|_ that|that|DET drifts|drift|N over|over|PRP the|the|ART water|water|N until|until|KS it|it|PERS sinks|sink|N ,|_|_ sinks|sink|N .|_|_
+I|I|PERS have|have|UNKNOWN the|the|ART same|same|DET dream|dream|V-3S every|every|DET now|now|ADV and|and|KC then|then|ADV and|and|KC at|at|PRP this|this|DET moment|moment|N I|I|PERS am|be|V reminded|remind|V of|of|PRP it|it|PERS .|_|_
+I|I|PERS find|find|V-3S myself|I|PERS seated|seated|ADJ at|at|PRP the|the|ART top|top|N of|of|PRP a|a|ART high|high|ADJ pillar|pillar|N and|and|KC I|I|PERS see|see|UNKNOWN no|no|DET possible|possible|ADJ way|way|N to|to|INFM get|get|UNKNOWN down|down|ADV .|_|_
+I|I|PERS grow|grow|V-3S dizzy|dizzy|ADJ when|when|ADV I|I|PERS look|look|UNKNOWN down|down|ADV ,|_|_ but|but|KC down|down|ADV I|I|PERS must|must|V .|_|_
+But|but|KC I_|I|PERS _m|be|V not|not|ADV brave|brave|ADJ enough|enough|ADV to|to|INFM throw|throw|UNKNOWN myself|I|PERS ;|_|_
+I|I|PERS can_|can|V _not|not|ADV hold|hold|UNKNOWN fast|fast|ADV and|and|KC I|I|PERS long|long|ADJ to|to|INFM fall|fall|UNKNOWN --|_|_ but|but|KC I|I|PERS do_|do|UNKNOWN _n't|not|ADV fall|fall|UNKNOWN .|_|_
+And|and|KC yet|yet|ADV I|I|PERS can|can|V find|find|V no|no|DET rest|rest|N or|or|KC peace|peace|N until|until|KS I|I|PERS shall|shall|V come|come|UNKNOWN down=to=earth|down=to=earth|ADJ ;|_|_
+and|and|KC if|if|KS I|I|PERS came|come|UNKNOWN down=to=earth|down=to=earth|ADJ I|I|PERS would|will|V wish|wish|V myself|I|PERS down|down|ADV in|in|PRP the|the|ART ground|ground|N .|_|_
+Have|have|UNKNOWN you|you|PERS ever|ever|ADV felt|feel|UNKNOWN like|like|PRP that|that|INDP ?|_|_
+Jean|Jean|N .|_|_
+No|no|DET ,|_|_ I|I|PERS dream|dream|V-3S that|that|INDP I_|I|PERS _m|be|V lying|lying|ADJ in|in|PRP a|a|ART dark|dark|ADJ wood|wood|N under|under|PRP a|a|ART tall|tall|ADJ tree|tree|N and|and|KC I|I|PERS would|will|V up|up|ADV --|_|_ up=to|up=to|ADV the|the|ART top|top|N ,|_|_ where|where|ADV I|I|PERS can|can|V look|look|UNKNOWN far|far|ADJ over|over|PRP the|the|ART fair|fair|ADJ landscape|landscape|N ,|_|_ where|where|ADV the|the|ART sun|sun|N is|be|V shining|shine|UNKNOWN .|_|_
+I|I|PERS climb|climb|V-3S --|_|_ climb|climb|N ,|_|_ to|to|INFM plunder|plunder|UNKNOWN the|the|ART birds'|bird|N nests|nest|N up|up|ADV there|there|ADV where|where|ADV the|the|ART golden|golden|ADJ eggs|egg|N lie|lie|UNKNOWN ,|_|_ but|but|KC the|the|ART tree|tree|N trunk|trunk|N is|be|V so|so|ADV thick|thick|ADJ ,|_|_ so|so|ADV smooth|smooth|ADJ ,|_|_ and|and|KC the|the|ART first|first|NUM limb|limb|N is|be|V so|so|ADV high|high|ADJ !|_|_
+But|but|KC I|I|PERS know|know|UNKNOWN if|if|KS I|I|PERS reached|reach|UNKNOWN the|the|ART first|first|NUM limb|limb|N I|I|PERS should|shall|V climb|climb|V as=though|as=though|KS on|on|PRP a|a|ART ladder|ladder|N ,|_|_ to|to|PRP the|the|ART top|top|N .|_|_
+I|I|PERS have_|have|UNKNOWN _n't|not|ADV reached|reach|UNKNOWN it|it|PERS yet|yet|ADV ,|_|_ but|but|KC I|I|PERS shall|shall|V reach|reach|UNKNOWN it|it|PERS ,|_|_ if|if|KS only|only|ADV in|in|PRP the|the|ART dream|dream|N .|_|_
+Julie|Julie|N .|_|_ Here|here|ADV I|I|PERS stand|stand|UNKNOWN talking|talk|V about|about|PRP dreams|dream|N with|with|PRP you|you|PERS .|_|_
+Come|come|UNKNOWN now|now|ADV ,|_|_ just|just|ADV out|out|ADV in|in|PRP the|the|ART park|park|N .|_|_
+Jean|Jean|N .|_|_ We|we|PERS should|shall|V sleep|sleep|UNKNOWN on|on|PRP nine|nine|NUM midsummer|midsummer|N flowers|flower|N tonight|tonight|ADV and|and|KC then|then|ADV our|we|PERS dreams|dream|N would|will|V come|come|UNKNOWN true|true|ADJ .|_|_
+[|_|_ She|she|PERS turns|turn|UNKNOWN ,|_|_ Jean|Jean|N quickly|quickly|ADV holds|hold|UNKNOWN a|a|ART hand|hand|N over|over|PRP his|he|PERS eye|eye|N .|_|_
+]|_|_ Julie|Julie|N .|_|_
+What|what|INDP is|be|V it|it|PERS ,|_|_ something|something|INDP in|in|PRP your|you|PERS eye|eye|N ?|_|_
+Jean|Jean|N .|_|_ Oh|oh|IN ,|_|_ it|it|PERS is|be|V nothing|nothing|INDP --|_|_ just|just|ADV a|a|ART speck|speck|N .|_|_
+It|it|PERS will|will|V be|be|V all=right|all=right|ADV in|in|PRP a|a|ART moment|moment|N .|_|_ Julie|Julie|N .|_|_
+It|it|PERS was|be|V some|some|DET dust|dust|N from|from|PRP my|I|PERS sleeve|sleeve|N that|that|DET brushed|brush|UNKNOWN against|against|PRP you|you|PERS .|_|_
+Now|now|ADV sit|sit|UNKNOWN down|down|ADV and|and|KC let|let|V me|I|PERS look|look|UNKNOWN for|for|PRP it|it|PERS .|_|_ [|_|_ Pulls|pull|UNKNOWN him|he|PERS into|into|PRP a|a|ART chair|chair|N ,|_|_ looks|look|UNKNOWN into|into|PRP his|he|PERS eye|eye|N .|_|_
+]|_|_ Now|now|ADV sit|sit|UNKNOWN still|still|ADV ,|_|_ perfectly|perfectly|ADV still|still|ADV .|_|_ [|_|_ Uses|use|N corner|corner|V-3S of|of|PRP her|she|PERS handkerchief|handkerchief|N in|in|PRP his|he|PERS eye|eye|N .|_|_
+Strikes|strike|UNKNOWN his|he|PERS hand|hand|N .|_|_
+]|_|_ So|so|ADV --|_|_ will|will|V you|you|PERS mind|mind|V ?|_|_
+I|I|PERS believe|believe|V-3S you|you|PERS are|be|V-1/3S trembling|tremble|V ,|_|_ strong|strong|ADJ man|man|N that|that|INDP you|you|PERS are|be|V-1/3S .|_|_ [|_|_ Touching|touch|UNKNOWN his|he|PERS arm.|arm.|N ]|_|_ And|and|KC such|such|DET arms|arm|N !|_|_
+Jean|Jean|N [|_|_ Warningly|warning|ADV .|_|_
+]|_|_ Miss=Julie|Miss=Julie|N !|_|_
+Julie|Julie|N .|_|_
+Yes|yes|IN ,|_|_ Monsieur=Jean|Monsieur=Jean|N !|_|_ Jean|Jean|N .|_|_
+Attention|attention|N .|_|_
+Je|Je|N ne|ne|ADV suis|suis|N qu'un|qu'un|N homme|homme|N !|_|_
+Julie|Julie|N .|_|_
+Will|will|V you|you|PERS sit|sit|UNKNOWN Still|still|ADV !|_|_ So|so|ADV ,|_|_ now|now|ADV it|it|PERS is|be|V gone|go|UNKNOWN !|_|_
+Kiss|kiss|UNKNOWN my|I|PERS hand|hand|N and|and|KC thank|thank|V me|I|PERS !|_|_
+[|_|_ Jean|Jean|N rises|rise|V .|_|_
+]|_|_ Jean|Jean|N .|_|_
+Miss=Julie|Miss=Julie|N ,|_|_ listen|listen|V-3S to|to|PRP me|I|PERS .|_|_ Kristin|Kristin|N has|have|UNKNOWN gone|go|UNKNOWN to|to|PRP bed|bed|N now|now|ADV --|_|_ will|will|V you|you|PERS listen|listen|V to|to|PRP me|I|PERS --|_|_
+Julie|Julie|N .|_|_ Kiss|kiss|UNKNOWN my|I|PERS hand|hand|N first|first|ADV .|_|_
+Jean|Jean|N .|_|_ Listen|listen|V to|to|PRP me|I|PERS --|_|_
+Julie|Julie|N .|_|_
+Kiss|kiss|UNKNOWN my|I|PERS hand|hand|N first|first|ADV .|_|_ Jean|Jean|N .|_|_
+Yes|yes|IN ,|_|_ but|but|KC blame|blame|N yourself|you|DET .|_|_ Julie|Julie|N .|_|_
+For|for|PRP what|what|INDP ?|_|_ Jean|Jean|N .|_|_
+For|for|PRP what|what|INDP ?|_|_
+Are|be|V-1/3S you|you|PERS a|a|ART child|child|N at|at|PRP twenty-five|twenty-five|NUM ?|_|_
+Do_|do|UNKNOWN _n't|not|ADV you|you|PERS know|know|UNKNOWN that|that|KS it|it|PERS is|be|V dangerous|dangerous|ADJ to|to|INFM play|play|UNKNOWN with|with|PRP fire|fire|N ?|_|_
+Julie|Julie|N .|_|_ Not|not|ADV for|for|PRP me|I|PERS .|_|_
+I|I|PERS am|be|V insured|insured|ADJ !|_|_
+Jean|Jean|N .|_|_ No|no|DET ,|_|_ you|you|PERS are|be|V-1/3S not|not|ADV .|_|_
+But|but|KC even=if|even=if|KS you|you|PERS are|be|V-1/3S ,|_|_ there|there|ADV is|be|V inflammable|inflammable|ADJ material|material|N in|in|PRP the|the|ART neighborhood|neighborhood|N .|_|_
+Julie|Julie|N .|_|_ Might|might|N that|that|INDP be|be|V you|you|PERS ?|_|_
+Jean|Jean|N .|_|_
+Yes|yes|IN ,|_|_ not|not|ADV because|because|KS it|it|PERS is|be|V I|I|PERS ,|_|_ but|but|KC because|because|KS I_|I|PERS _m|be|V a|a|ART young|young|ADJ man|man|N --|_|_
+Julie|Julie|N [|_|_ Scornfully|scornful|ADV ]|_|_ .|_|_ With|with|PRP a|a|ART grand|grand|ADJ opportunity|opportunity|N --|_|_ what|what|INDP inconceivable|inconceivable|ADJ presumption|presumption|N !|_|_
+A|a|ART Don=Juan|Don=Juan|N perhaps|perhaps|ADV !|_|_
+Or|or|KC a|a|ART Joseph|Joseph|N !|_|_
+On|on|PRP my|I|PERS soul|soul|N ,|_|_ I|I|PERS believe|believe|V-3S he|he|PERS is|be|V a|a|ART Joseph|Joseph|N !|_|_ Jean|Jean|N .|_|_
+You|you|PERS do|do|UNKNOWN ?|_|_
+Julie|Julie|N .|_|_ Almost|almost|ADV .|_|_
+[|_|_ Jean|Jean|N rushes|rush|V towards|towards|PRP her|she|PERS and|and|KC tries|try|V to|to|INFM take|take|UNKNOWN her|she|PERS in|in|PRP his|he|PERS arms|arm|N to|to|INFM kiss|kiss|UNKNOWN her|she|PERS .|_|_
+]|_|_ Julie|Julie|N [|_|_ Gives|give|UNKNOWN him|he|PERS a|a|ART box|box|N on|on|PRP the|the|ART ear|ear|N ]|_|_ .|_|_ Shame|shame|N on|on|PRP you|you|PERS .|_|_
+Jean|Jean|N .|_|_ Are|be|V-1/3S you|you|PERS in|in|PRP earnest|earnest|ADJ ,|_|_ or|or|KC fooling|fool|V ?|_|_
+Julie|Julie|N .|_|_ In|in|PRP earnest|earnest|ADJ .|_|_
+Jean|Jean|N .|_|_ Then|then|ADV you|you|PERS were|be|V-1/3S in|in|PRP earnest|earnest|ADJ a|a|ART moment|moment|N ago|ago|ADV ,|_|_ too|too|ADV .|_|_
+You|you|PERS play|play|UNKNOWN too|too|ADV seriously|seriously|ADV with|with|PRP what|what|INDP is|be|V dangerous|dangerous|ADJ .|_|_
+Now|now|ADV I_|I|PERS _m|be|V tired|tired|ADJ of|of|PRP playing|playing|N and|and|KC beg|beg|V-3S to|to|INFM be|be|V excused|excuse|V that|that|KS I|I|PERS may|may|V go|go|UNKNOWN on|on|ADV with|with|PRP my|I|PERS work|work|N .|_|_
+Julie|Julie|N .|_|_ Put|put|UNKNOWN those|that|DET boots|boot|N away|away|ADV .|_|_
+Jean|Jean|N .|_|_
+No|no|DET ,|_|_ that|that|INDP is|be|V my|I|PERS work|work|N which|which|INDP it|it|PERS is|be|V my|I|PERS duty|duty|N to|to|INFM do|do|UNKNOWN ,|_|_ but|but|KC I|I|PERS was|be|V not|not|ADV hired|hire|V to|to|INFM be|be|V your|you|PERS play|play|N thing|thing|N and|and|KC that|that|INDP I|I|PERS shall|shall|V never|never|ADV be|be|V .|_|_ I|I|PERS think|think|V-3S too|too|ADV well|well|ADV of|of|PRP myself|I|PERS for|for|PRP that|that|INDP .|_|_
+Julie|Julie|N .|_|_ You|you|PERS are|be|V-1/3S proud|proud|ADJ .|_|_ Jean|Jean|N .|_|_
+In|in|PRP some|some|DET things|thing|N --|_|_ not|not|ADV in|in|PRP others|other|INDP .|_|_
+Julie|Julie|N .|_|_
+Were|be|V-1/3S you|you|PERS ever|ever|ADV in=love|in=love|ADV ?|_|_
+Jean|Jean|N .|_|_ We|we|PERS do|do|UNKNOWN not|not|ADV use|use|V that|that|DET word|word|N ,|_|_ but|but|KC I|I|PERS have|have|UNKNOWN liked|like|V many|many|DET girls|girl|N .|_|_
+One-time|one-time|ADJ I|I|PERS was|be|V sick|sick|ADJ because|because|KS I|I|PERS could_|can|V _n't|not|ADV have|have|UNKNOWN the|the|ART one|one|NUM I|I|PERS wanted|want|UNKNOWN --|_|_ sick|sick|ADJ ,|_|_ you|you|PERS understand|understand|V-3S ,|_|_ like|like|V the|the|ART princesses|princess|N in|in|PRP the|the|ART Arabian|Arabian|ADJ Nights|night|N who|who|INDP could|can|V not|not|ADV eat|eat|V nor|nor|KC drink|drink|V for|for|PRP love|love|N sickness|sickness|N .|_|_ Julie|Julie|N .|_|_
+Who|who|INDP was|be|V she|she|PERS ?|_|_ [|_|_ Jean|Jean|N is|be|V silent|silent|ADJ .|_|_
+]|_|_ Who|who|INDP was|be|V she|she|PERS ?|_|_ Jean|Jean|N .|_|_
+That|that|INDP you|you|PERS could|can|V not|not|ADV make|make|UNKNOWN me|I|PERS tell|tell|V .|_|_
+Julie|Julie|N .|_|_ Not|not|ADV if|if|KS I|I|PERS ask|ask|V-3S you|you|PERS as|as|PRP an|a|ART equal|equal|N ,|_|_ as|as|PRP a|a|ART --|_|_ friend|friend|N ?|_|_
+Who|who|INDP was|be|V she|she|PERS ?|_|_
+Jean|Jean|N .|_|_ It|it|PERS was|be|V you|you|PERS !|_|_
+[|_|_ Julie|Julie|N seats|seat|UNKNOWN herself|she|PERS .|_|_ ]|_|_ Julie|Julie|N .|_|_ How|how|ADV extravagant|extravagant|ADJ !|_|_ Jean|Jean|N .|_|_
+Yes|yes|IN ,|_|_ if|if|KS you|you|PERS will|will|V ,|_|_ it|it|PERS was|be|V ridiculous|ridiculous|ADJ .|_|_
+That|that|INDP was|be|V the|the|ART story|story|N I|I|PERS hesitated|hesitate|V to|to|INFM tell|tell|V ,|_|_ but|but|KC now|now|ADV I_|I|PERS _m|be|V going|go|V to|to|INFM tell|tell|V it|it|PERS .|_|_
+Do|do|UNKNOWN you|you|PERS know|know|UNKNOWN how|how|ADV people|people|N in|in|PRP high|high|ADJ life|life|N look|look|UNKNOWN from|from|PRP the|the|ART under|under|PRP world|world|N ?|_|_
+No|no|DET ,|_|_ of=course|of=course|ADV you|you|PERS do_|do|UNKNOWN _n't|not|ADV .|_|_ They|they|PERS look|look|UNKNOWN like|like|PRP hawks|hawk|N and|and|KC eagles|eagle|N whose|who|DET backs|back|N one|one|PERS seldom|seldom|ADV sees|see|UNKNOWN ,|_|_ for|for|KS they|they|PERS soar|soar|V-3S up|up|ADV above|above|ADV .|_|_
+I|I|PERS lived|live|V in|in|PRP a|a|ART hovel|hovel|N provided|provide|V by|by|PRP the|the|ART state|state|N ,|_|_ with|with|PRP seven|seven|NUM brothers|Brother|N and|and|KC sisters|sister|N and|and|KC a|a|ART pig|pig|N ;|_|_
+out|out|ADV on|on|PRP a|a|ART barren|barren|ADJ stretch|stretch|N where|where|ADV nothing|nothing|INDP grew|grow|V ,|_|_ not|not|ADV even|even|ADV a|a|ART tree|tree|N ,|_|_ but|but|KC from|from|PRP the|the|ART window|window|N I|I|PERS could|can|V see|see|UNKNOWN the|the|ART Count's|count|N park|park|N walls|wall|N with|with|PRP apple|apple|N trees|tree|N rising|rise|V above|above|PRP them|they|PERS .|_|_
+That|that|INDP was|be|V the|the|ART garden|garden|N of|of|PRP paradise|paradise|N ;|_|_
+and|and|KC there|there|ADV stood|stand|UNKNOWN many|many|DET angry|angry|ADJ angels|angel|N with|with|PRP flaming|flame|V swords|sword|N protecting|protect|V it|it|PERS ;|_|_
+but|but|KC for=all=that|for=all=that|ADV I|I|PERS and|and|KC other|other|DET boys|boy|N found|find|V the|the|ART way|way|N to|to|PRP the|the|ART tree|tree|N of|of|PRP life|life|N --|_|_ now|now|ADV you|you|PERS despise|despise|V-3S me|I|PERS .|_|_
+Julie|Julie|N .|_|_ Oh|oh|IN ,|_|_ all|all|DET boys|boy|N steal|steal|V-3S apples|apple|N .|_|_
+Jean|Jean|N .|_|_ You|you|PERS say|say|V-3S that|that|KS ,|_|_ but|but|KC you|you|PERS despise|despise|V-3S me|I|PERS all=the=same|all=the=same|ADV .|_|_
+No=matter|no=matter|PRP !|_|_
+One-time|one-time|ADJ I|I|NUM entered|enter|UNKNOWN the|the|ART garden|garden|N of|of|PRP paradise|paradise|N --|_|_ it|it|PERS was|be|V to|to|INFM weed|weed|V the|the|ART onion|onion|N beds|bed|N with|with|PRP my|I|PERS mother|mother|N !|_|_
+Near|near|PRP the|the|ART orchard|orchard|N stood|stand|UNKNOWN a|a|ART Turkish|Turkish|ADJ pavilion|pavilion|N ,|_|_ shaded|shade|UNKNOWN and|and|KC overgrown|overgrown|ADJ with|with|PRP jessamine|jessamine|N and|and|KC honeysuckle|honeysuckle|N .|_|_
+I|I|PERS did_|do|UNKNOWN _n't|not|ADV know|know|UNKNOWN what|what|INDP it|it|PERS was|be|V used|use|V for|for|PRP and|and|KC I|I|PERS had|have|UNKNOWN never|never|ADV seen|see|UNKNOWN anything|anything|INDP so|so|ADV beautiful|beautiful|ADJ .|_|_
+People|people|N passed|pass|UNKNOWN in=and=out|in=and=out|ADV and|and|KC one|one|NUM day|day|N --|_|_ the|the|ART door|door|N was|be|V left|left|ADJ open|open|ADJ .|_|_
+I|I|PERS sneaked|sneak|V in|in|PRP and|and|KC beheld|beheld|N walls|wall|N covered|cover|UNKNOWN with|with|PRP pictures|picture|N of|of|PRP kings|King|N and|and|KC emperors|emperor|N and|and|KC there|there|ADV were|be|V-1/3S red-fringed|red-fringed|ADJ curtains|curtain|N at|at|PRP the|the|ART windows|window|N --|_|_ now|now|ADV you|you|PERS understand|understand|V-3S what|what|INDP I|I|PERS mean|mean|V-3S --|_|_ I|I|PERS --|_|_ [|_|_ Breaks|break|UNKNOWN off|off|ADV a|a|ART spray|spray|N of|of|PRP syringes|syringe|N and|and|KC puts|put|UNKNOWN it|it|PERS to|to|PRP her|she|PERS nostrils|nostril|N .|_|_
+]|_|_ I|I|PERS had|have|UNKNOWN never|never|ADV been|be|V in|in|PRP the|the|ART castle|castle|N and|and|KC how|how|ADV my|I|PERS thoughts|thought|N leaped|leap|V --|_|_ and|and|KC there|there|ADV they|they|PERS returned|return|UNKNOWN ever|ever|ADV after|after|PRP .|_|_
+Little|little|ADJ by|by|PRP little|little|ADJ the|the|ART longing|longing|N came|come|UNKNOWN over|over|PRP me|I|PERS to|to|INFM experience|experience|V for|for|PRP once|once|KS the|the|ART pleasure|pleasure|N of|of|PRP --|_|_ enfin|enfin|N ,|_|_ I|I|PERS sneaked|sneak|V in|in|PRP and|and|KC was|be|V bewildered|bewilder|V .|_|_
+But|but|KC then|then|ADV I|I|PERS heard|hear|V someone|someone|INDP coming|come|UNKNOWN --|_|_ there|there|ADV was|be|V only|only|ADV one|one|NUM exit|exit|N for|for|PRP the|the|ART great|great|ADJ folk|folk|N ,|_|_ but=for|but=for|PRP me|I|PERS there|there|ADV was|be|V another|another|INDP ,|_|_ and|and|KC I|I|PERS had|have|UNKNOWN to|to|INFM choose|choose|V that|that|INDP .|_|_ [|_|_ Julie|Julie|N who|who|INDP has|have|UNKNOWN taken|take|UNKNOWN the|the|ART syringa|syringa|N lets|let|V it|it|PERS fall|fall|UNKNOWN on|on|PRP table|table|N .|_|_
+]|_|_ Once|once|KS out|out|ADV I|I|PERS started|start|V to|to|INFM run|run|V ,|_|_ scrambled|scramble|UNKNOWN through|through|PRP a|a|ART raspberry|raspberry|ADJ hedge|hedge|N ,|_|_ rushed|rush|V over|over|PRP a|a|ART strawberry|strawberry|N bed|bed|N and|and|KC came|come|UNKNOWN to|to|PRP a|a|ART stop|stop|N on|on|PRP the|the|ART rose|rose|N terrace|terrace|N .|_|_
+For|for|PRP there|there|ADV I|I|PERS saw|see|UNKNOWN a|a|ART figure|figure|N in|in|PRP a|a|ART white|white|ADJ dress|dress|N and|and|KC white|white|ADJ slippers|slippers|N and|and|KC stockings|stocking|N --|_|_ it|it|PERS was|be|V you|you|PERS !|_|_
+I|I|PERS hid|hide|UNKNOWN under|under|PRP a|a|ART heap|heap|N of|of|PRP weeds|weed|N ,|_|_ under|under|PRP ,|_|_ you|you|PERS understand|understand|V-3S ,|_|_ where|where|ADV the|the|ART thistles|thistle|N pricked|prick|UNKNOWN me|I|PERS ,|_|_ and|and|KC lay|lie|UNKNOWN on|on|PRP the|the|ART damp|damp|ADJ ,|_|_ rank|rank|V-3S earth|earth|N .|_|_
+I|I|PERS gazed|gaze|V at|at|PRP you|you|PERS walking|walk|V among|among|PRP the|the|ART roses|rose|N .|_|_ And|and|KC I|I|NUM thought|thought|N if|if|KS it|it|PERS is|be|V true|true|ADJ that|that|KS the|the|ART thief|thief|N on|on|PRP the|the|ART cross|cross|N could|can|V enter|enter|UNKNOWN heaven|heaven|N and|and|KC dwell|dwell|V among|among|PRP the|the|ART angels|angel|N it|it|PERS was|be|V strange|strange|ADJ that|that|KS a|a|ART pauper|pauper|N child|child|N on|on|PRP God's|God|N earth|earth|N could|can|V not|not|ADV go|go|UNKNOWN into|into|PRP the|the|ART castle|castle|N park|park|N and|and|KC play|play|UNKNOWN with|with|PRP the|the|ART Countess'|countess|N daughter|daughter|N .|_|_
+Julie|Julie|N [|_|_ Pensively|pensive|ADV ]|_|_ .|_|_ Do|do|UNKNOWN you|you|PERS believe|believe|V that|that|KS all|all|DET poor|poor|ADJ children|child|N would|will|V have|have|UNKNOWN such|such|DET thoughts|thought|N under|under|PRP those|that|DET conditions|condition|N ?|_|_
+Jean|Jean|N [|_|_ Hesitates|hesitate|V ,|_|_ then|then|ADV in|in|PRP a|a|ART positive|positive|ADJ voice|voice|N ]|_|_ .|_|_ That|that|DET all|all|DET poor|poor|ADJ children|child|N --|_|_ yes|yes|IN ,|_|_ of=course|of=course|ADV ,|_|_ of=course|of=course|ADV !|_|_
+Julie|Julie|N .|_|_
+It|it|PERS must|must|V be|be|V a|a|ART terrible|terrible|ADJ misfortune|misfortune|N to|to|INFM be|be|V poor|poor|ADJ .|_|_
+Jean|Jean|N [|_|_ With|with|PRP deep|deep|ADJ pain|pain|N and|and|KC great|great|ADJ chagrin|chagrin|N ]|_|_ .|_|_
+Oh|oh|IN ,|_|_ Miss=Julie|Miss=Julie|N ,|_|_ a|a|ART dog|dog|N may|may|V lie|lie|UNKNOWN on|on|PRP the|the|ART couch|couch|N of|of|PRP a|a|ART Countess|countess|N ,|_|_ a|a|ART horse|horse|N may|may|V be|be|V caressed|caress|UNKNOWN by|by|PRP a|a|ART lady's|Lady|N hand|hand|N ,|_|_ but|but|KC a|a|ART servant|servant|N --|_|_ yes|yes|IN ,|_|_ yes|yes|IN ,|_|_ sometimes|sometimes|ADV there|there|ADV is|be|V stuff|stuff|N enough|enough|ADV in|in|PRP a|a|ART man|man|N ,|_|_ whatever|whatever|INDP he|he|PERS be|be|V ,|_|_ to|to|INFM swing|swing|UNKNOWN himself|he|PERS up|up|ADV in|in|PRP the|the|ART world|world|N ,|_|_ but|but|KC how|how|ADV often|often|ADV does|do|UNKNOWN that|that|INDP happen|happen|V !|_|_
+But|but|KC to|to|INFM return|return|UNKNOWN to|to|PRP the|the|ART story|story|N ,|_|_ do|do|UNKNOWN you|you|PERS know|know|UNKNOWN what|what|INDP I|I|PERS did|do|UNKNOWN ?|_|_
+I|I|PERS ran|run|V down|down|ADV to|to|PRP the|the|ART mill|mill|N dam|dam|N and|and|KC threw|throw|UNKNOWN myself|I|PERS in|in|ADV with|with|PRP my|I|PERS clothes|clothes|N on|on|PRP --|_|_ and|and|KC was|be|V pulled|pull|UNKNOWN out|out|ADV and|and|KC got|get|UNKNOWN a|a|ART thrashing|thrashing|N .|_|_
+But|but|KC the|the|ART following|following|ADJ Sunday|Sunday|N when|when|ADV all|all|DET the|the|ART family|family|N went|go|UNKNOWN to|to|INFM visit|visit|V my|I|PERS grandmother|grandmother|N I|I|PERS contrived|contrive|V to|to|INFM stay|stay|UNKNOWN at-home|at-home|ADJ ;|_|_
+I|I|PERS scrubbed|scrub|UNKNOWN myself|I|PERS well|well|ADV ,|_|_ put|put|UNKNOWN on|on|ADV my|I|PERS best|good|ADJ dollies|dolly|N ,|_|_ such|such|DET its|it|PERS they|they|PERS were|be|V-1/3S ,|_|_ and|and|KC went|go|UNKNOWN to|to|PRP church|church|N so=that|so=that|KS I|I|PERS might|may|V see|see|UNKNOWN you|you|PERS .|_|_
+I|I|PERS saw|see|UNKNOWN you|you|PERS .|_|_
+Then|then|ADV I|I|NUM went|go|UNKNOWN home|home|ADV with|with|PRP my|I|PERS mind|mind|N made|make|UNKNOWN up|up|ADV to|to|INFM put|put|UNKNOWN ,|_|_ an|a|ART cud|cud|N to|to|PRP myself|I|PERS .|_|_
+But|but|KC I|I|NUM wanted|want|UNKNOWN to|to|INFM do|do|UNKNOWN it|it|PERS beautifully|beautifully|ADV and|and|KC without|without|PRP pain|pain|N .|_|_
+Then|then|ADV I|I|NUM happened|happen|V to|to|INFM remember|remember|V that|that|KS elderberry|elderberry|N blossoms|blossom|N are|be|V-1/3S poisonous|poisonous|ADJ .|_|_
+I|I|PERS knew|know|UNKNOWN where|where|ADV there|there|ADV was|be|V a|a|ART big|big|ADJ elderberry|elderberry|N bush|bush|N in|in|PRP full|full|ADJ bloom|bloom|N and|and|KC I|I|PERS stripped|strip|UNKNOWN it|it|PERS of|of|PRP its|it|PERS riches|riches|N and|and|KC made|make|UNKNOWN a|a|ART bed|bed|N of|of|PRP it|it|PERS in|in|PRP the|the|ART oat-bin|oat-bin|N .|_|_
+Have|have|UNKNOWN you|you|PERS ever|ever|ADV noticed|notice|V how|how|ADV smooth|smooth|ADJ and|and|KC glossy|glossy|ADJ oats|oat|N are|be|V-1/3S ?|_|_
+As|as|ADV soft|soft|ADJ as|as|PRP a|a|ART woman's|woman|N arm.--|arm.--|N Well|well|ADV ,|_|_ I|I|PERS got|get|UNKNOWN in|in|ADV and|and|KC let|let|V down|down|ADV the|the|ART cover|cover|N ,|_|_ fell|fall|UNKNOWN asleep|asleep|ADV ,|_|_ and|and|KC when|when|ADV I|I|PERS awoke|awake|V I|I|PERS was|be|V very|very|ADV ill|ill|ADJ ,|_|_ but|but|KC did_|do|UNKNOWN _n't|not|ADV die|die|UNKNOWN --|_|_ as|as|KS you|you|PERS see|see|UNKNOWN .|_|_
+What|what|INDP I|I|NUM wanted|want|UNKNOWN --|_|_ I|I|PERS do_|do|UNKNOWN _n't|not|ADV know|know|UNKNOWN .|_|_
+You|you|PERS were|be|V-1/3S unattainable|unattainable|ADJ ,|_|_ but|but|KC through|through|PRP the|the|ART vision|vision|N of|of|PRP you|you|PERS I|I|PERS was|be|V made|make|UNKNOWN to|to|INFM realize|realize|V how|how|ADV hopeless|hopeless|ADJ it|it|PERS was|be|V to|to|INFM rise|rise|V above|above|PRP the|the|ART conditions|condition|N of|of|PRP my|I|PERS birth|birth|N .|_|_
+Julie|Julie|N .|_|_ You|you|PERS tell|tell|V-3S it|it|PERS well|well|ADV !|_|_
+Were|be|V-1/3S you|you|PERS ever|ever|ADV at|at|PRP school|school|N ?|_|_
+Jean|Jean|N .|_|_
+A|a|ART little|little|ADJ ,|_|_ but|but|KC I|I|PERS have|have|UNKNOWN read|read|V a|a|ART good|good|ADJ deal|deal|N and|and|KC gone|go|UNKNOWN to|to|PRP the|the|ART theatres|theatre|N .|_|_
+And|and|KC besides|besides|ADV ,|_|_ I|I|PERS have|have|UNKNOWN always|always|ADV heard|hear|V the|the|ART talk|talk|N of|of|PRP fine|fine|ADJ folks|folk|N and|and|KC from|from|PRP them|they|PERS I|I|PERS have|have|UNKNOWN learned|learn|V most|much|INDP .|_|_
+Julie|Julie|N .|_|_ Do|do|UNKNOWN you|you|PERS listen|listen|V then|then|ADV to|to|PRP what|what|INDP we|we|PERS are|be|V-1/3S saying|say|V ?|_|_
+Jean|Jean|N .|_|_
+Yes|yes|IN ,|_|_ indeed|indeed|ADV ,|_|_ I|I|PERS do|do|UNKNOWN .|_|_
+And|and|KC I|I|PERS have|have|UNKNOWN heard|hear|V much|much|INDP when|when|ADV I_|I|PERS _ve|have|UNKNOWN been|be|V on|on|PRP the|the|ART coachbox|coachbox|N .|_|_
+One-time|one-time|ADJ I|I|NUM heard|hear|V Miss=Julie|Miss=Julie|N and|and|KC a|a|ART lady|Lady|N --|_|_
+Julie|Julie|N .|_|_
+Oh|oh|IN ,|_|_ what|what|INDP was|be|V it|it|PERS you|you|PERS heard|hear|V ?|_|_
+Jean|Jean|N .|_|_ Hm|hm|IN !|_|_ that_|that|INDP _s|be|V not|not|ADV so|so|ADV easy|easy|ADJ to|to|INFM tell|tell|V .|_|_
+But|but|KC I|I|PERS was|be|V astonished|astonish|V and|and|KC could|can|V not|not|ADV understand|understand|V where|where|ADV you|you|PERS had|have|UNKNOWN heard|hear|V such|such|DET things|thing|N .|_|_
+Well|well|ADV ,|_|_ perhaps|perhaps|ADV at|at|PRP bottom|bottom|N there_|there|ADV _s|be|V not|not|ADV so|so|ADV much|much|DET difference|difference|N between|between|PRP people|people|N and|and|KC --|_|_ people|people|N .|_|_
+Julie|Julie|N .|_|_ Oh|oh|IN ,|_|_ shame|shame|N !|_|_
+We|we|PERS do_|do|UNKNOWN _n't|not|ADV behave|behave|V as|as|ADV you|you|PERS do|do|UNKNOWN when|when|ADV we|we|PERS are|be|V-1/3S engaged|engaged|ADJ .|_|_
+Jean|Jean|N .|_|_ [|_|_ Eyeing|eye|V her|she|PERS ]|_|_ .|_|_ Are|be|V-1/3S you|you|PERS sure|sure|ADJ of|of|PRP that|that|INDP ?|_|_
+It|it|PERS is_|be|V _n't|not|ADV worthwhile|worthwhile|ADJ to|to|INFM play|play|UNKNOWN the|the|ART innocent|innocent|N with|with|PRP me|I|PERS .|_|_
+Julie|Julie|N .|_|_ I|I|PERS gave|give|UNKNOWN my|I|PERS love|love|N to|to|PRP a|a|ART rascal|rascal|N .|_|_ Jean|Jean|N .|_|_
+That's|That|N what|what|INDP they|they|PERS always|always|ADV say|say|V-3S afterward|afterward|ADV .|_|_
+Julie|Julie|N .|_|_ Always|always|ADV ?|_|_
+What|what|DET circumstances|circumstance|N ?|_|_
+Jean|Jean|N .|_|_ Those|that|INDP we_|we|PERS _ve|have|UNKNOWN been|be|V talking|talk|V about|about|PRP .|_|_
+The|the|ART last|last|ADJ time|time|N I|I|NUM --|_|_ --|_|_
+Julie|Julie|N .|_|_ Silence|silence|N .|_|_
+I|I|PERS do_|do|UNKNOWN _n't|not|ADV wish|wish|V to|to|INFM hear|hear|V any=more|any=more|INDP .|_|_
+Jean|Jean|N .|_|_ Well|well|ADV ,|_|_ then|then|ADV I|I|PERS beg|beg|V-3S to|to|INFM be|be|V excused|excuse|V so|so|ADV I|I|PERS may|may|V go|go|UNKNOWN to|to|PRP bed|bed|N .|_|_
+Julie|Julie|N .|_|_ Go|go|UNKNOWN to|to|PRP bed|bed|N !|_|_
+On|on|PRP midsummer|midsummer|N night|night|N ?|_|_
+Jean|Jean|N .|_|_
+Yes|yes|IN ,|_|_ for|for|PRP dancing|dance|V out=there|out=there|ADV with|with|PRP that|that|INDP pack|pack|N has|have|UNKNOWN not|not|ADV amused|amuse|V me|I|PERS .|_|_
+Julie|Julie|N .|_|_ Then|then|ADV get|get|UNKNOWN the|the|ART key|key|N for|for|PRP the|the|ART boat|boat|N and|and|KC row|row|V me|I|PERS out|out|ADV over|over|PRP the|the|ART lake|lake|N .|_|_ I|I|PERS want|want|UNKNOWN to|to|INFM see|see|UNKNOWN the|the|ART sun|sun|N rise|rise|V .|_|_
+Jean|Jean|N .|_|_ Is|be|V that|that|ADV prudent|prudent|ADJ ?|_|_
+Julie|Julie|N .|_|_ One|one|PERS would|will|V think|think|V that|that|KS ,|_|_ you|you|PERS were|be|V-1/3S afraid|afraid|ADJ of|of|PRP your|you|PERS reputation|reputation|N .|_|_ Jean|Jean|N .|_|_
+Why|why|ADV not|not|ADV ?|_|_
+I|I|PERS do_|do|UNKNOWN _n't|not|ADV want|want|UNKNOWN to|to|INFM be|be|V made|make|UNKNOWN ridiculous|ridiculous|ADJ .|_|_ I|I|PERS am|be|V not|not|ADV willing|willing|ADJ to|to|INFM be|be|V driven|drive|UNKNOWN out|out|ADV without|without|PRP references|reference|N ,|_|_ now|now|ADV that|that|INDP I|I|PERS am|be|V going|go|V to|to|INFM settle|settle|UNKNOWN down|down|ADV .|_|_
+And|and|KC I|I|PERS feel|feel|UNKNOWN I|I|PERS owe|owe|V-3S something|something|INDP to|to|PRP Kristin|Kristin|N .|_|_
+Julie|Julie|N .|_|_ Oh|oh|IN ,|_|_ so|so|KS it_|it|PERS _s|be|V Kristin|Kristin|N now|now|ADV --|_|_
+Jean|Jean|N .|_|_ Yes|yes|IN ,|_|_ but|but|KC you|you|PERS too|too|ADV .|_|_
+Take|take|UNKNOWN my|I|PERS advice|advice|N ,|_|_ go|go|UNKNOWN up|up|ADV and|and|KC go|go|UNKNOWN to|to|PRP bed|bed|N .|_|_
+Julie|Julie|N .|_|_ Shall|shall|V I|I|NUM obey|obey|V you|you|PERS ?|_|_
+Jean|Jean|N .|_|_ For|for|PRP once|once|ADV --|_|_ for|for|PRP your|you|PERS own|own|DET sake|sake|N .|_|_
+I|I|PERS beg|beg|V-3S of|of|PRP you|you|PERS .|_|_
+Night|night|N is|be|V crawling|crawl|V along|along|ADV ,|_|_ sleepiness|sleepiness|N makes|make|UNKNOWN one|one|NUM irresponsible|irresponsible|ADJ and|and|KC the|the|ART brain|brain|N grows|grow|V hot|hot|ADJ .|_|_
+Go|go|UNKNOWN to|to|PRP your|you|PERS room|room|N .|_|_
+In=fact|in=fact|ADV --|_|_ if|if|KS I|I|PERS hear|hear|V-3S rightly|rightly|ADV some|some|DET of|of|PRP the|the|ART people|people|N are|be|V-1/3S coming|come|UNKNOWN for|for|PRP me|I|PERS .|_|_
+If|if|KS they|they|PERS find|find|V-3S us|we|PERS here|here|ADV --|_|_ then|then|ADV you|you|PERS are|be|V-1/3S lost|lost|ADJ .|_|_
+[|_|_ Chorus|chorus|N is|be|V heard|hear|V approaching|approach|V ,|_|_ singing|sing|V .|_|_ ]|_|_ "|_|_ There|there|ADV came|come|UNKNOWN two|two|NUM ladies|Lady|N out=of|out=of|PRP the|the|ART woods|woods|N Tridiridi-ralla|Tridiridi-ralla|N tridiridi-ra|tridiridi-ra|N .|_|_ One|one|NUM of|of|PRP them|they|PERS had|have|UNKNOWN wet|wet|V her|she|PERS foot|foot|N ,|_|_ Tridiridi-ralla-la|tridiridi-ralla-la|N .|_|_ "|_|_ They|they|PERS talked|talk|V of|of|PRP a|a|ART hundred|hundred|N dollars|dollar|N ,|_|_ Tridiridi-ralla|Tridiridi-ralla|N tridiridi-ra|tridiridi-ra|N .|_|_
+But|but|KC neither|neither|INDP had|have|UNKNOWN hardly|hardly|ADV a|a|ART dollar|dollar|N ,|_|_ Tridiridi-ralla-la|tridiridi-ralla-la|N .|_|_
+"|_|_ The|the|ART mitten|mitten|N I_|I|PERS _m|be|V going|go|V to|to|INFM send|send|UNKNOWN you|you|PERS ,|_|_ Tridirichi-ralla|Tridirichi-ralla|N tridiridi-ra|tridiridi-ra|N .|_|_ For|for|PRP another|another|INDP I_|I|PERS _m|be|V going|go|V to|to|INFM jilt|jilt|V you|you|PERS ,|_|_ Tridiridi-ralla|Tridiridi-ralla|N tridiridi-ra|tridiridi-ra|N .|_|_ "|_|_ Julie|Julie|N .|_|_ I|I|PERS know|know|UNKNOWN the|the|ART people|people|N and|and|KC I|I|PERS love|love|UNKNOWN them|they|PERS and|and|KC they|they|PERS respect|respect|V-3S me|I|PERS .|_|_
+Let|let|V them|they|PERS come|come|UNKNOWN ,|_|_ you|you|PERS shall|shall|V see|see|UNKNOWN .|_|_
+Jean|Jean|N .|_|_ No|no|DET ,|_|_ Miss=Julie|Miss=Julie|N ,|_|_ they|they|PERS do_|do|UNKNOWN _n't|not|ADV love|love|UNKNOWN you|you|PERS .|_|_
+They|they|PERS take|take|UNKNOWN your|you|PERS food|food|N and|and|KC spit|spit|UNKNOWN upon|upon|PRP your|you|PERS kindness|kindness|N ,|_|_ believe|believe|V me|I|PERS .|_|_
+Listen|listen|V to|to|PRP them|they|PERS ,|_|_ listen|listen|V-3S to|to|PRP what|what|INDP they_|they|PERS _re|be|V-1/3S singing|sing|V !|_|_
+No|no|DET !|_|_ Do_|do|UNKNOWN _n't|not|ADV listen|listen|V !|_|_
+Julie|Julie|N [|_|_ Listening|listen|V ]|_|_ .|_|_ What|what|INDP are|be|V-1/3S they|they|PERS singing|sing|V ?|_|_ Jean|Jean|N .|_|_
+It_|it|PERS _s|be|V something|something|INDP suggestive|suggestive|ADJ ,|_|_ about|about|PRP you|you|PERS and|and|KC me|I|PERS .|_|_
+Julie|Julie|N .|_|_
+Infamous|infamous|ADJ !|_|_
+Oh|oh|IN horrible|horrible|ADJ !|_|_
+And|and|KC how|how|ADV cowardly|cowardly|ADJ !|_|_
+Jean|Jean|N .|_|_ The|the|ART pack|pack|N is|be|V always|always|ADV cowardly|cowardly|ADJ .|_|_
+And|and|KC in|in|PRP such|such|DET a|a|ART battle|battle|N one|one|PERS can|can|V only|only|ADV run|run|V away|away|ADV .|_|_
+Julie|Julie|N .|_|_ Run-away|run-away|ADJ ?|_|_
+Where|where|ADV ?|_|_
+We|we|PERS can_|can|V _n't|not|ADV get|get|UNKNOWN out|out|ADV and|and|KC we|we|PERS can_|can|V _n't|not|ADV go|go|UNKNOWN to|to|PRP Kristin|Kristin|N .|_|_
+Jean|Jean|N .|_|_
+Into|into|PRP my|I|PERS room|room|N then|then|ADV .|_|_
+Necessity|necessity|N knows|know|UNKNOWN no|no|DET law|law|N .|_|_
+But|but|KC think|think|V-3S if|if|KS they|they|PERS found|find|V you|you|PERS there|there|ADV .|_|_
+Jean|Jean|N .|_|_ I|I|PERS will|will|V turn|turn|UNKNOWN the|the|ART key|key|N and|and|KC if|if|KS they|they|PERS try|try|V-3S to|to|INFM break|break|UNKNOWN in|in|ADV I_|I|PERS _ll|will|V shoot|shoot|UNKNOWN .|_|_
+Come|come|UNKNOWN --|_|_ come|come|UNKNOWN !|_|_
+Julie|Julie|N .|_|_ [|_|_ Meaningly|meaning|ADV ]|_|_ .|_|_
+You|you|PERS promise|promise|V-3S me|I|PERS --|_|_ ?|_|_ Jean|Jean|N .|_|_ I|I|PERS swear|swear|V-3S .|_|_ .|_|_ .|_|_
+[|_|_ She|she|PERS exits|exit|V R.=Jean|R.=Jean|N follows|follow|V her|she|PERS .|_|_ ]|_|_
+[|_|_ Ballet|ballet|N .|_|_
+--|_|_ The|the|ART farm|farm|N folk|folk|N enter|enter|N in|in|PRP holiday|holiday|N dress|dress|N with|with|PRP flowers|flower|N in|in|PRP their|they|PERS hats|hat|N ,|_|_ a|a|ART fiddler|fiddler|N in|in|PRP the|the|ART lead|lead|N .|_|_
+They|they|PERS carry|carry|UNKNOWN a|a|ART keg|keg|N of|of|PRP home-brewed|home-brewed|ADJ beer|beer|N and|and|KC a|a|ART smaller|small|ADJ keg|keg|N of|of|PRP gin|gin|N ,|_|_ both|both|INDP decorated|decorate|UNKNOWN with|with|PRP greens|green|N which|which|INDP are|be|V-1/3S placed|place|UNKNOWN on|on|PRP the|the|ART table|table|N .|_|_
+They|they|PERS help|help|V-3S themselves|they|PERS to|to|PRP glasses|glass|N and|and|KC drink|drink|V-3S .|_|_
+Then|then|ADV they|they|PERS sing|sing|V-3S and|and|KC dance|dance|V-3S a|a|ART country|country|N dance|dance|N to|to|PRP the|the|ART melody|melody|N of|of|PRP "|_|_ There|there|ADV came|come|UNKNOWN two|two|NUM ladies|Lady|N out=of|out=of|PRP the|the|ART woods|woods|N .|_|_
+"|_|_ When|when|ADV that|that|INDP is|be|V over|over|PRP they|they|PERS go|go|UNKNOWN out|out|ADV ,|_|_ singing|sing|V .|_|_ ]|_|_
+[|_|_ Enter|enter|N Julie|Julie|N alone|alone|ADV ,|_|_ sees|see|UNKNOWN the|the|ART havoc|havoc|N the|the|ART visitors|visitor|N have|have|UNKNOWN made|make|UNKNOWN ,|_|_ clasps|clasp|UNKNOWN her|she|PERS hands|hand|N ,|_|_ takes|take|UNKNOWN out|out|ADV powder|powder|N box|box|N and|and|KC powders|powder|V her|she|PERS face|face|N .|_|_
+Enter|enter|UNKNOWN Jean|Jean|N exuberant|exuberant|ADJ .|_|_
+]|_|_ Jean|Jean|N .|_|_
+There|there|ADV ,|_|_ you|you|PERS see|see|UNKNOWN ,|_|_ and|and|KC you|you|PERS heard|hear|V them|they|PERS .|_|_
+Do|do|UNKNOWN you|you|PERS think|think|V it_|it|PERS _s|be|V possible|possible|ADJ for|for|PRP us|we|PERS to|to|INFM remain|remain|V here|here|ADV any|any|DET longer|long|ADV ?|_|_
+Julie|Julie|N .|_|_
+No|no|DET ,|_|_ I|I|PERS do_|do|UNKNOWN _n't|not|ADV .|_|_
+But|but|KC what's|what|N to|to|INFM be|be|V done|do|UNKNOWN ?|_|_ Jean|Jean|N .|_|_
+Fly|fly|UNKNOWN !|_|_ Travel|travel|N --|_|_ far|far|ADV from|from|PRP here|here|ADV !|_|_ Julie|Julie|N .|_|_
+Travel|travel|N --|_|_ yes|yes|IN --|_|_ but|but|KC where|where|ADV ?|_|_
+Jean|Jean|N .|_|_
+To|to|PRP Switzerland|Switzerland|N --|_|_ to|to|PRP the|the|ART Italian|Italian|ADJ lakes|lake|N .|_|_
+You|you|PERS have|have|UNKNOWN never|never|ADV been|be|V there|there|ADV ?|_|_
+Julie|Julie|N .|_|_ No|no|DET --|_|_ is|be|V it|it|PERS beautiful|beautiful|ADJ there|there|ADV ?|_|_
+Jean|Jean|N .|_|_ Oh|oh|IN ,|_|_ an|a|ART eternal|eternal|ADJ summer|summer|N !|_|_
+Oranges|orange|N ,|_|_ trees|tree|N ,|_|_ laurels|laurel|N --|_|_ oh|oh|IN !|_|_
+Julie|Julie|N .|_|_ But|but|KC what|what|INDP shall|shall|V we|we|PERS do|do|UNKNOWN there|there|ADV ?|_|_
+Jean|Jean|N .|_|_ I_|I|PERS _ll|will|V open|open|UNKNOWN a|a|ART first-class|first-class|ADJ hotel|hotel|N for|for|PRP first-class|first-class|ADJ patrons|patron|N .|_|_ Julie|Julie|N .|_|_
+Hotel|hotel|N ?|_|_ Jean|Jean|N .|_|_
+That|that|INDP is|be|V life|life|N --|_|_ you|you|PERS shall|shall|V see|see|UNKNOWN !|_|_
+New|new|ADJ faces|face|N constantly|constantly|ADV ,|_|_ different|different|ADJ languages|language|N .|_|_
+Not|not|ADV a|a|ART moment|moment|N for|for|PRP boredom|boredom|N .|_|_
+Always|always|ADV something|something|INDP to|to|INFM do|do|UNKNOWN night|night|N and|and|KC day|day|N --|_|_ the|the|ART bell|Bell|N ringing|ringing|N ,|_|_ the|the|ART trains|train|N whistling|whistling|ADJ ,|_|_ the|the|ART omnibus|omnibus|N coming|come|UNKNOWN and|and|KC going|go|V and|and|KC all=the=time|all=the=time|ADV the|the|ART gold|gold|N pieces|piece|N rolling|roll|UNKNOWN into|into|PRP the|the|ART till|till|N --|_|_ that|that|INDP is|be|V life|life|N !|_|_
+Julie|Julie|N .|_|_
+Yes|yes|IN ,|_|_ that|that|INDP is|be|V life|life|N .|_|_
+And|and|KC I|I|NUM --|_|_ ?|_|_
+Jean|Jean|N .|_|_ The|the|ART mistress|mistress|N of|of|PRP the|the|ART establishment|establishment|N --|_|_ the|the|ART ornament|ornament|N of|of|PRP the|the|ART house|house|N .|_|_
+With|with|PRP your|you|PERS looks|look|N --|_|_ and|and|KC your|you|PERS manners|manners|N --|_|_ oh|oh|IN ,|_|_ it_|it|PERS _s|be|V a|a|ART sure|sure|ADJ success|success|N !|_|_
+Colossal|colossal|ADJ !|_|_
+You|you|PERS could|can|V sit|sit|UNKNOWN like|like|PRP a|a|ART queen|queen|N in|in|PRP the|the|ART office|office|N and|and|KC set|set|UNKNOWN the|the|ART slaves|slave|N in|in|PRP action|action|N by|by|PRP touching|touch|UNKNOWN an|a|ART electric|electric|ADJ button|button|N .|_|_
+The|the|ART guests|guest|N line|line|UNKNOWN up|up|ADV before|before|PRP your|you|PERS throne|throne|N and|and|KC shyly|shy|ADV lay|lie|UNKNOWN their|they|PERS riches|riches|N on|on|PRP your|you|PERS desk|desk|N .|_|_
+You|you|PERS can_|can|V _n't|not|ADV believe|believe|V how|how|ADV people|people|N tremble|tremble|V-3S when|when|ADV they|they|PERS get|get|UNKNOWN their|they|PERS bills|bill|N --|_|_ I|I|PERS can|can|V salt|salt|N the|the|ART bills|bill|N and|and|KC you|you|PERS can|can|V sweeten|sweeten|V them|they|PERS with|with|PRP your|you|PERS most|much|INDP bewitching|bewitch|V smile|smile|N --|_|_ ha|ha|IN ,|_|_ let|let|V us|we|PERS get|get|UNKNOWN away|away|ADV from|from|PRP here|here|ADV --|_|_ [|_|_ Takes|take|UNKNOWN a|a|ART time|time|N table|table|N from|from|PRP his|he|PERS pocket|pocket|N ]|_|_ immediately|immediately|ADV --|_|_ by|by|PRP the|the|ART next|next|DET train|train|N .|_|_
+We|we|PERS can|can|V be|be|V at|at|PRP Malmö|Malmö|N at|at|PRP 6.30|6.30|NUM ,|_|_ Hamburg|Hamburg|N at|at|PRP 8.40|8.40|NUM tomorrow|tomorrow|N morning|morning|N ,|_|_ Frankfort|Frankfort|N the|the|ART day|day|N after|after|KS and|and|KC at|at|PRP Como|Como|N by|by|PRP the|the|ART St.=Gothard|St.=Gothard|N route|route|N in|in|PRP about|about|ADV --|_|_ let|let|V me|I|PERS see|see|UNKNOWN ,|_|_ three|three|NUM days|day|N .|_|_
+Three|three|NUM days|day|N !|_|_
+Julie|Julie|N .|_|_ All|all|DET that|that|INDP is|be|V well|well|ADV enough|enough|ADV ,|_|_ but|but|KC Jean|Jean|N --|_|_ you|you|PERS must|must|V give|give|UNKNOWN me|I|PERS courage|courage|N .|_|_
+Take|take|UNKNOWN me|I|PERS in|in|PRP your|you|PERS arms|arm|N and|and|KC tell|tell|V me|I|PERS that|that|KS you|you|PERS love|love|UNKNOWN me|I|PERS .|_|_
+Jean|Jean|N [|_|_ Hesitatingly|hesitating|ADV ]|_|_ .|_|_
+I|I|PERS will|will|V --|_|_ but|but|KC I|I|PERS dare_|dare_|N _n't|not|ADV --|_|_ not|not|ADV again|again|ADV in|in|PRP this|this|DET house|house|V .|_|_
+I|I|PERS love|love|UNKNOWN you|you|PERS of=course|of=course|ADV --|_|_ do|do|UNKNOWN you|you|PERS doubt|doubt|V that|that|INDP ?|_|_
+Julie|Julie|N [|_|_ Shyly|shy|ADV and|and|KC with|with|PRP womanliness|womanliness|N ]|_|_ .|_|_ You|you|PERS !|_|_
+Say|say|N thou|you|PERS to|to|PRP me|I|PERS !|_|_
+Between|between|PRP us|we|PERS there|there|ADV can|can|V be|be|V no=more|no=more|INDP formality|formality|N .|_|_
+Say|say|N thou|you|PERS .|_|_
+Jean|Jean|N .|_|_
+I|I|PERS have|have|UNKNOWN never|never|ADV known|know|UNKNOWN anyone=else|anyone=else|INDP for|for|PRP whom|who|INDP I|I|PERS have|have|UNKNOWN such|such|DET respect|respect|N .|_|_ I|I|PERS need|need|V-3S only|only|ADV to|to|INFM see|see|UNKNOWN his|he|PERS gloves|glove|N lying|lying|ADJ in|in|PRP a|a|ART chair|chair|N to|to|INFM feel|feel|UNKNOWN my|I|PERS own|own|DET insignificance|insignificance|N .|_|_
+I|I|PERS have|have|UNKNOWN only|only|ADV to|to|INFM hear|hear|V his|he|PERS bell|Bell|N to|to|INFM start|start|V like|like|PRP a|a|ART nervous|nervous|ADJ horse|horse|N --|_|_ and|and|KC now|now|ADV as|as|KS I|I|PERS see|see|UNKNOWN his|he|PERS boots|boot|N standing|stand|UNKNOWN there|there|ADV so|so|ADV stiff|stiff|ADJ and|and|KC proper|proper|ADJ I|I|PERS feel|feel|UNKNOWN like|like|PRP bowing|bowing|N and|and|KC scraping|scraping|N .|_|_ [|_|_ Gives|give|UNKNOWN boots|boot|N a|a|ART kick|kick|N ]|_|_ .|_|_ Superstitions|superstition|N and|and|KC prejudices|prejudice|N taught|teach|V in|in|PRP childhood|childhood|N can_|can|V _n't|not|ADV be|be|V uprooted|uproot|UNKNOWN in|in|PRP a|a|ART moment|moment|N .|_|_
+Let|let|V us|we|PERS go|go|UNKNOWN to|to|PRP a|a|ART country|country|N that|that|INDP is|be|V it|it|PERS republic|republic|N where|where|ADV they_|they|PERS _ll|will|V stand|stand|UNKNOWN on|on|PRP their|they|PERS heads|head|N for|for|PRP my|I|PERS coachman's|coachman|N livery|livery|N --|_|_ on|on|PRP their|they|PERS heads|head|N shall|shall|V they|they|PERS stand|stand|UNKNOWN --|_|_ but|but|KC I|I|PERS shall|shall|V not|not|ADV .|_|_ I|I|PERS am|be|V not|not|ADV ,|_|_ born|bear|UNKNOWN to|to|INFM bow|bow|V and|and|KC scrape|scrape|UNKNOWN ,|_|_ for|for|PRP there_|there|ADV _s|be|V stuff|stuff|N in|in|PRP me|I|PERS --|_|_ character|character|N .|_|_
+If|if|KS I|I|PERS only|only|ADV get|get|UNKNOWN hold|hold|N of|of|PRP the|the|ART first|first|NUM limb|limb|N ,|_|_ you|you|PERS shall|shall|V see|see|UNKNOWN me|I|PERS climb|climb|V .|_|_ I_|I|PERS _m|be|V a|a|ART coachman|coachman|N today|today|ADV ,|_|_ but|but|KC next|next|DET year|year|N I|I|PERS shall|shall|V be|be|V a|a|ART proprietor|proprietor|N ,|_|_ in|in|PRP two|two|NUM years|year|UNKNOWN a|a|ART gentleman|gentleman|N of|of|PRP income|income|N ;|_|_
+Beautiful|beautiful|ADJ ,|_|_ beautiful|beautiful|ADJ !|_|_
+Jean|Jean|N .|_|_ Oh|oh|IN ,|_|_ in|in|PRP Roumania|Roumania|N ,|_|_ one|one|PERS can|can|V buy|buy|V a|a|ART title|title|N cheap|cheap|ADJ --|_|_ and|and|KC so|so|ADV you|you|PERS can|can|V be|be|V a|a|ART countess|countess|N just|just|ADV the|the|ART same|same|INDP --|_|_ my|I|PERS countess|countess|N !|_|_
+Julie|Julie|N .|_|_
+What|what|INDP do|do|UNKNOWN I|I|PERS care|care|V for=all=that|for=all=that|ADV --|_|_ which|which|INDP I|I|PERS now|now|ADV cast|cast|UNKNOWN behind|behind|PRP me|I|PERS .|_|_
+Say|say|V that|that|KS you|you|PERS love|love|UNKNOWN me|I|PERS --|_|_ else|else|ADV ,|_|_ what|what|INDP am|be|V I|I|PERS ,|_|_ without|without|PRP it|it|PERS ?|_|_
+Jean|Jean|N .|_|_
+I_|I|PERS _ll|will|V say|say|V it|it|PERS a|a|ART thousand|thousand|N times|time|N afterwards|afterwards|ADV ,|_|_ but|but|KC not|not|ADV here|here|ADV .|_|_
+Above=all|above=all|ADV ,|_|_ let|let|V us|we|PERS have|have|UNKNOWN no|no|DET sentimentality|sentimentality|N now|now|ADV or|or|KC everything|everything|INDP will|will|V fall|fall|UNKNOWN through|through|ADV .|_|_
+We|we|PERS must|must|V look|look|UNKNOWN at|at|PRP this|this|DET matter|matter|N coldly|coldly|ADV like|like|PRP sensible|sensible|ADJ people|people|N .|_|_ [|_|_ Takes|take|UNKNOWN out|out|ADV a|a|ART cigar|cigar|N and|and|KC lights|light|V it|it|PERS .|_|_
+]|_|_ Now|now|ADV sit|sit|UNKNOWN down|down|ADV there|there|ADV and|and|KC I_|I|PERS _ll|will|V sit|sit|UNKNOWN here|here|ADV and|and|KC we_|we|PERS _ll|will|V take|take|UNKNOWN it|it|PERS over|over|ADV as=if|as=if|KS nothing|nothing|INDP had|have|UNKNOWN happened|happen|V .|_|_
+Julie|Julie|N [|_|_ Staggered|stagger|UNKNOWN ]|_|_ .|_|_
+Oh|oh|IN ,|_|_ my|I|PERS God|God|N ,|_|_ have|have|UNKNOWN you|you|PERS no|no|DET feeling|feeling|N ?|_|_
+Jean|Jean|N .|_|_ I|I|PERS ?|_|_
+No|no|DET one|one|NUM living|living|N has|have|UNKNOWN more|much|INDP feeling|feel|UNKNOWN than|than|KS I|I|PERS but|but|KC I|I|PERS can|can|V restrain|restrain|UNKNOWN myself|I|PERS .|_|_
+Julie|Julie|N .|_|_
+A|a|ART moment|moment|N ago|ago|ADV you|you|PERS could|can|V kiss|kiss|UNKNOWN my|I|PERS slipper|slipper|N and|and|KC now|now|ADV --|_|_
+Jean|Jean|N [|_|_ Harshly|harsh|ADV ]|_|_ .|_|_ That|that|INDP was|be|V --|_|_ then|then|ADV .|_|_
+Now|now|ADV we|we|PERS have|have|UNKNOWN other|other|DET things|thing|N to|to|INFM think|think|V about|about|PRP .|_|_
+Julie|Julie|N .|_|_ Do_|do|UNKNOWN _n't|not|ADV speak|speak|V harshly|harsh|ADV to|to|PRP me|I|PERS .|_|_
+Jean|Jean|N .|_|_
+Not|not|ADV harshly|harsh|ADV ,|_|_ but|but|KC wisely|wisely|ADV .|_|_
+One|one|NUM folly|folly|N has|have|UNKNOWN been|be|V committed|commit|V --|_|_ commit|commit|V-3S no|no|DET more|much|ADV .|_|_
+The|the|ART Count|count|N may|may|V be|be|V here|here|ADV at|at|PRP any|any|DET moment|moment|N ,|_|_ and|and|KC before|before|ADV he|he|PERS comes|come|UNKNOWN ,|_|_ our|we|PERS fate|fate|N must|must|V be|be|V settled|settle|UNKNOWN .|_|_
+How|how|ADV do|do|UNKNOWN my|I|PERS plans|plan|N for|for|PRP the|the|ART future|future|N strike|strike|UNKNOWN you|you|PERS ?|_|_
+Do|do|UNKNOWN you|you|PERS approve|approve|V of|of|PRP them|they|PERS ?|_|_
+Julie|Julie|N .|_|_ They|they|PERS seem|seem|V-3S acceptable|acceptable|ADJ enough|enough|ADV .|_|_
+But|but|KC one|one|NUM question|question|N .|_|_
+For|for|PRP such|such|DET a|a|ART great|great|ADJ undertaking|undertaking|N a|a|ART large|large|ADJ capital|capital|N is|be|V necessary|necessary|ADJ ,|_|_ have|have|UNKNOWN you|you|PERS that|that|INDP ?|_|_ Jean|Jean|N [|_|_ Chewing|chew|V his|he|PERS cigar|cigar|N ]|_|_ .|_|_ I|I|PERS ?|_|_
+To|to|INFM be|be|V sure|sure|ADJ .|_|_
+I|I|PERS have|have|UNKNOWN my|I|PERS regular|regular|ADJ occupation|occupation|N ,|_|_ my|I|PERS unusual|unusual|ADJ experience|experience|N ,|_|_ my|I|PERS knowledge|knowledge|N of|of|PRP different|different|ADJ languages|language|N --|_|_ that|that|INDP is|be|V capital|capital|N that|that|INDP counts|count|V ,|_|_ I|I|PERS should|shall|V say|say|V .|_|_
+Julie|Julie|N .|_|_
+But|but|KC with|with|PRP all|all|DET that|that|INDP you|you|PERS could|can|V not|not|ADV buy|buy|V a|a|ART railway|railway|N ticket|ticket|N .|_|_
+Jean|Jean|N .|_|_ That's|That|N true|true|ADJ ,|_|_ and|and|KC for|for|PRP that|that|DET reason|reason|N I_|I|PERS _m|be|V looking|look|UNKNOWN for|for|PRP a|a|ART backer|backer|N who|who|INDP can|can|V furnish|furnish|V the|the|ART funds|fund|N .|_|_
+Julie|Julie|N .|_|_ How|how|ADV can|can|V that|that|INDP be|be|V done|do|UNKNOWN at|at|PRP a|a|ART moment's|moment|N notice|notice|N ?|_|_
+Jean|Jean|N .|_|_ That|that|INDP is|be|V for|for|PRP you|you|PERS to|to|INFM say|say|V ,|_|_ if|if|KS you|you|PERS wish|wish|V-3S to|to|INFM be|be|V my|I|PERS companion|companion|N .|_|_ Julie|Julie|N .|_|_
+I|I|PERS can_|can|V _n't|not|ADV --|_|_ as|as|KS I|I|PERS have|have|UNKNOWN nothing|nothing|INDP myself|I|DET .|_|_
+[|_|_ A|A|N pause|pause|N .|_|_ ]|_|_
+Jean|Jean|N .|_|_ Then|then|ADV the|the|ART whole|whole|ADJ matter|matter|N drops|drop|UNKNOWN --|_|_ --|_|_
+Julie|Julie|N .|_|_ And|and|KC --|_|_ --|_|_ Jean|Jean|N .|_|_
+Things|thing|N remain|remain|V-3S as|as|KS they|they|PERS are|be|V-1/3S .|_|_ Julie|Julie|N .|_|_
+Do|do|UNKNOWN you|you|PERS think|think|V I|I|PERS could|can|V remain|remain|V under|under|PRP this|this|DET roof|roof|N after|after|PRP ----|_|_ Do|do|UNKNOWN you|you|PERS think|think|V I|I|PERS will|will|V allow|allow|V the|the|ART people|people|N to|to|INFM point|point|V at|at|PRP me|I|PERS in|in|PRP scorn|scorn|N ,|_|_ or|or|KC that|that|INDP I|I|PERS can|can|V ever|ever|ADV look|look|UNKNOWN my|I|PERS father|father|N in|in|PRP the|the|ART face|face|N again|again|ADV ?|_|_
+Never|never|ADV !|_|_
+Take|take|UNKNOWN me|I|PERS away|away|ADV from|from|PRP this|this|DET humiliation|humiliation|N and|and|KC dishonor|dishonor|N .|_|_
+Oh|oh|IN ,|_|_ what|what|INDP have|have|UNKNOWN I|I|PERS done|do|UNKNOWN !|_|_ Oh|oh|IN ,|_|_ my|I|PERS God|God|N ,|_|_ what|what|INDP have|have|UNKNOWN I|I|PERS done|do|UNKNOWN !|_|_ [|_|_ Weeping|weeping|N .|_|_
+]|_|_ Jean|Jean|N .|_|_ So|so|ADV ,|_|_ you|you|PERS are|be|V-1/3S beginning|begin|V in|in|PRP that|that|DET tune|tune|N now|now|ADV .|_|_
+What|what|INDP have|have|UNKNOWN you|you|PERS done|do|UNKNOWN ?|_|_
+The|the|ART same|same|INDP as|as|PRP many|many|INDP before|before|ADV you|you|PERS .|_|_ Julie|Julie|N .|_|_
+And|and|KC now|now|ADV you|you|PERS despise|despise|V-3S me|I|PERS .|_|_
+I|I|PERS am|be|V falling|fall|UNKNOWN !|_|_
+I|I|PERS am|be|V falling|fall|UNKNOWN !|_|_ Jean|Jean|N .|_|_
+Fall|Fall|N down|down|ADV to|to|PRP my|I|PERS level|level|N ,|_|_ I_|I|PERS _ll|will|V lift|lift|UNKNOWN you|you|PERS up|up|ADV afterwards|afterwards|ADV .|_|_
+Julie|Julie|N .|_|_ What|what|DET strange|strange|ADJ power|power|N drew|draw|UNKNOWN me|I|PERS to|to|PRP you|you|PERS --|_|_ the|the|ART weak|weak|ADJ to|to|PRP the|the|ART strong|strong|ADJ --|_|_ the|the|ART falling|falling|N to|to|PRP the|the|ART rising|rising|N ,|_|_ or|or|KC is|be|V this|this|DET love|love|N !|_|_
+This|this|INDP --|_|_ love|love|N !|_|_
+Do|do|UNKNOWN you|you|PERS know|know|UNKNOWN what|what|DET love|love|N is|be|V ?|_|_
+Jean|Jean|N .|_|_
+I|I|PERS ?|_|_ Yes|yes|IN !|_|_
+Do|do|UNKNOWN you|you|PERS think|think|V it_|it|PERS _s|be|V the|the|ART first-time|first-time|ADJ ?|_|_
+Julie|Julie|N .|_|_ What|what|DET language|language|N ,|_|_ what|what|DET thoughts|thought|N .|_|_
+Jean|Jean|N .|_|_ I|I|PERS am|be|V what|what|DET life|life|N has|have|UNKNOWN made|make|UNKNOWN me|I|PERS .|_|_
+Do_|do|UNKNOWN _n't|not|ADV be|be|V nervous|nervous|ADJ and|and|KC play|play|UNKNOWN the|the|ART high|high|ADJ and|and|KC mighty|mighty|ADJ ,|_|_ for|for|KS now|now|ADV we|we|PERS are|be|V-1/3S on|on|PRP the|the|ART same|same|DET level|level|N .|_|_
+Look|look|UNKNOWN here|here|ADV ,|_|_ my|I|PERS little|little|ADJ girl|girl|N ,|_|_ let|let|V me|I|PERS offer|offer|V you|you|PERS a|a|ART glass|glass|N of|of|PRP something|something|INDP extra|extra|ADJ fine|fine|N .|_|_ [|_|_ Opens|open|UNKNOWN drawer|drawer|N of|of|PRP table|table|N and|and|KC takes|take|UNKNOWN out|out|ADV wine|wine|N bottle|bottle|N ,|_|_ then|then|ADV fills|fill|UNKNOWN two|two|NUM glasses|glass|N that|that|INDP have|have|UNKNOWN been|be|V already|already|ADV used|use|V .|_|_
+]|_|_ Julie|Julie|N .|_|_
+Where|where|ADV did|do|UNKNOWN you|you|PERS get|get|UNKNOWN that|that|DET wine|wine|N ?|_|_ Jean|Jean|N .|_|_
+From|from|PRP the|the|ART cellar|cellar|N .|_|_
+Julie|Julie|N .|_|_ My|I|PERS father's|father|N Burgundy|Burgundy|N .|_|_ Jean|Jean|N .|_|_
+What's|What|N the|the|ART matter|matter|N ,|_|_ is_|be|V _n't|not|ADV that|that|DET good|good|ADJ enough|enough|ADV for|for|PRP the|the|ART son-in-law|son-in-law|N ?|_|_
+Julie|Julie|N .|_|_ And|and|KC I|I|PERS drink|drink|V-3S beer|beer|N --|_|_ I|I|PERS !|_|_
+Jean|Jean|N .|_|_
+That|that|ADV only|only|ADV goes|go|UNKNOWN to|to|INFM prove|prove|V that|that|KS your|you|PERS taste|taste|N is|be|V poorer|poor|ADJ than|than|PRP mine|I|PERS .|_|_
+Julie|Julie|N .|_|_ Thief|thief|N !|_|_
+Jean|Jean|N .|_|_ Do|do|UNKNOWN you|you|PERS intend|intend|V to|to|INFM tattle|tattle|V ?|_|_
+Julie|Julie|N .|_|_ Oh|oh|IN ho|ho|IN !|_|_
+Accomplice|accomplice|N to|to|PRP a|a|ART house|house|N thief|thief|N .|_|_
+Was|be|V I|I|NUM intoxicated|intoxicate|V --|_|_ have|have|UNKNOWN I|I|PERS been|be|V walking|walk|V in|in|PRP my|I|PERS sleep|sleep|N this|this|DET night|night|N --|_|_ midsummer|midsummer|N night|night|N ,|_|_ the|the|ART night|night|N for|for|PRP innocent|innocent|ADJ play|play|N --|_|_
+Jean|Jean|N .|_|_
+Innocent|innocent|ADJ ,|_|_ eh|eh|IN !|_|_
+Julie|Julie|N [|_|_ Pacing|pacing|N back=and=forth|back=and=forth|ADV ]|_|_ .|_|_
+Is|be|V there|there|ADV a|a|ART being|being|N on|on|PRP earth|earth|N so|so|ADV miserable|miserable|N as|as|PRP I|I|PERS .|_|_
+Jean|Jean|N .|_|_
+Why|why|ADV are|be|V-1/3S you|you|PERS ,|_|_ after|after|PRP such|such|DET a|a|ART conquest|conquest|N .|_|_
+Think|think|V of|of|PRP Kristin|Kristin|N in=there|in=there|ADV ,|_|_ do_|do|UNKNOWN _n't|not|ADV you|you|PERS think|think|V she|she|PERS has|have|UNKNOWN feelings|feeling|N too|too|ADV ?|_|_
+Julie|Julie|N .|_|_
+I|I|PERS thought|think|V so|so|ADV a|a|ART little|little|ADJ while|while|N ago|ago|ADV ,|_|_ but|but|KC I|I|PERS do_|do|UNKNOWN _n't|not|ADV any=more|any=more|INDP .|_|_
+A|a|ART servant|servant|N is|be|V a|a|ART servant|servant|N .|_|_
+Jean|Jean|N .|_|_
+And|and|KC a|a|ART whore|whore|N is|be|V a|a|ART whore|whore|N .|_|_
+Julie|Julie|N [|_|_ Falls|fall|V on|on|PRP her|she|PERS knees|knee|N with|with|PRP clasped|clasp|UNKNOWN hands|hand|N ]|_|_ .|_|_
+Oh|oh|IN ,|_|_ God|God|N in|in|PRP heaven|heaven|N ,|_|_ end|end|V-3S my|I|PERS wretched|wretched|ADJ life|life|N ,|_|_ save|save|PRP me|I|PERS from|from|PRP this|this|DET mire|mire|N into|into|PRP which|which|INDP I_|I|PERS _m|be|V sinking|sink|UNKNOWN --|_|_ Oh|oh|IN save|save|V-3S me|I|PERS ,|_|_ save|save|V-3S me|I|PERS .|_|_
+Jean|Jean|N .|_|_
+I|I|PERS can_|can|V _n't|not|ADV deny|deny|V that|that|KS it|it|PERS hurts|hurt|V me|I|PERS to|to|INFM see|see|UNKNOWN you|you|PERS like|like|V this|this|INDP .|_|_
+Julie|Julie|N .|_|_ And|and|KC you|you|PERS who|who|INDP wanted|want|UNKNOWN to|to|INFM die|die|UNKNOWN for|for|PRP me|I|PERS .|_|_
+Jean|Jean|N .|_|_ In|in|PRP the|the|ART oat-bin|oat-bin|N ?|_|_
+Oh|oh|IN ,|_|_ that|that|INDP was|be|V only|only|ADV talk|talk|N .|_|_
+Julie|Julie|N .|_|_ That|that|INDP is|be|V to|to|INFM say|say|V --|_|_ a|a|ART lie|lie|N !|_|_
+Jean|Jean|N [|_|_ Beginning|begin|V to|to|INFM show|show|V sleepiness|sleepiness|N ]|_|_ .|_|_
+Er|Er|N --|_|_ er|er|IN almost|almost|ADV .|_|_ I|I|PERS believe|believe|V-3S I|I|PERS read|read|V something|something|INDP of|of|PRP the|the|ART sort|sort|N in|in|PRP a|a|ART newspaper|newspaper|N about|about|PRP a|a|ART chimney-sweep|chimney-sweep|N who|who|INDP made|make|UNKNOWN a|a|ART death|death|N bed|bed|N for|for|PRP himself|he|PERS of|of|PRP syringa|syringa|N blossoms|blossom|N in|in|PRP a|a|ART wood-bin|wood-bin|N --|_|_ [|_|_ laughs|laugh|V ]|_|_ because|because|KS they|they|PERS were|be|V-1/3S going|go|V to|to|INFM arrest|arrest|UNKNOWN him|he|PERS for|for|PRP non-support|non-support|N of|of|PRP his|he|PERS children|child|N .|_|_
+Julie|Julie|N .|_|_
+So|so|ADV you|you|PERS are|be|V-1/3S such|such|DET a|a|ART --|_|_ Jean|Jean|N .|_|_
+What|what|INDP better|good|ADV could|can|V I|I|PERS have|have|UNKNOWN hit|hit|UNKNOWN on|on|PRP !|_|_
+One|one|PERS must|must|V always|always|ADV be|be|V romantic|romantic|ADJ to|to|INFM capture|capture|UNKNOWN a|a|ART woman|woman|N .|_|_
+Julie|Julie|N .|_|_
+Wretch|wretch|N !|_|_
+Now|now|ADV you|you|PERS have|have|UNKNOWN seen|see|UNKNOWN the|the|ART eagle's|eagle|N back|back|ADV ,|_|_ and|and|KC I|I|PERS suppose|suppose|V-3S I|I|PERS am|be|V to|to|INFM be|be|V the|the|ART first|first|NUM limb|limb|N --|_|_
+Jean|Jean|N .|_|_ And|and|KC the|the|ART limb|limb|N is|be|V rotten|rotten|ADJ --|_|_
+Julie|Julie|N [|_|_ Without|without|PRP seeming|seem|V to|to|INFM hear|hear|V ]|_|_ .|_|_
+And|and|KC I|I|PERS am|be|V to|to|INFM be|be|V the|the|ART hotel's|hotel|N signboard|signboard|N --|_|_ Jean|Jean|N .|_|_
+And|and|KC I|I|NUM the|the|ART hotel|hotel|N --|_|_ Julie|Julie|N .|_|_
+And|and|KC sit|sit|UNKNOWN behind|behind|PRP the|the|ART desk|desk|N and|and|KC allure|allure|N guests|guest|N and|and|KC overcharge|overcharge|UNKNOWN them|they|PERS --|_|_
+Jean|Jean|N .|_|_ Oh|oh|IN ,|_|_ that_|that|INDP _ll|will|V be|be|V my|I|PERS business|business|N .|_|_
+Julie|Julie|N .|_|_ That|that|KS a|a|ART soul|soul|N can|can|V be|be|V so|so|ADV degraded|degrade|UNKNOWN !|_|_
+Jean|Jean|N .|_|_
+Look|look|UNKNOWN to|to|PRP your|you|PERS own|own|DET soul|soul|N .|_|_
+Julie|Julie|N .|_|_ Lackey|Lackey|N !|_|_ Servant|Servant|N !|_|_
+Stand|stand|UNKNOWN up|up|ADV when|when|ADV I|I|PERS speak|speak|V-3S .|_|_
+Jean|Jean|N .|_|_ Do_|do|UNKNOWN _n't|not|ADV you|you|PERS dare|dare|V to|to|INFM moralize|moralize|V to|to|PRP me|I|PERS .|_|_ Lackey|Lackey|N ,|_|_ eh|eh|IN !|_|_ Do|do|UNKNOWN you|you|PERS think|think|V you|you|PERS have|have|UNKNOWN shown|show|V yourself|you|PERS finer|fine|ADV than|than|PRP any|any|DET maid-servant|maid-servant|N tonight|tonight|ADV ?|_|_ Julie|Julie|N [|_|_ Crushed|crush|UNKNOWN ]|_|_ .|_|_ That|that|INDP is|be|V right|right|ADJ ,|_|_ strike|strike|UNKNOWN me|I|PERS ,|_|_ trample|trample|V-3S on|on|PRP me|I|PERS ,|_|_ I|I|PERS deserve|deserve|V-3S nothing|nothing|INDP better|good|ADV .|_|_ I|I|PERS have|have|UNKNOWN done|do|UNKNOWN wrong|wrong|ADV ,|_|_ but|but|KC help|help|V-3S me|I|PERS now|now|ADV .|_|_
+Help|help|V-3S me|I|PERS out=of|out=of|PRP this|this|INDP if|if|KS there|there|ADV is|be|V any|any|DET possible|possible|ADJ way|way|N .|_|_
+Jean|Jean|N [|_|_ Softens|soften|UNKNOWN somewhat|somewhat|ADV ]|_|_ .|_|_ I|I|PERS do_|do|UNKNOWN _n't|not|ADV care|care|V to|to|INFM shirk|shirk|V my|I|PERS share|share|N of|of|PRP the|the|ART blame|blame|N ,|_|_ but|but|KC do|do|UNKNOWN you|you|PERS think|think|V any|any|DET one|one|NUM of|of|PRP my|I|PERS position|position|N would|will|V ever|ever|ADV have|have|UNKNOWN dared|dare|V to|to|INFM raise|raise|V his|he|PERS eyes|eye|N to|to|PRP you|you|PERS if|if|KS you|you|PERS yourself|you|DET had|have|UNKNOWN not|not|ADV invited|invite|UNKNOWN it|it|PERS ?|_|_
+Jean|Jean|N .|_|_ Why|why|ADV not|not|ADV ?|_|_
+Go|go|UNKNOWN on|on|ADV ,|_|_ strike|strike|UNKNOWN me|I|PERS again|again|ADV --|_|_
+Jean|Jean|N [|_|_ Rising|rising|N ]|_|_ .|_|_
+No|no|DET ,|_|_ forgive|forgive|V-3S me|I|PERS ,|_|_ rather|rather|ADV ,|_|_ for|for|PRP what|what|INDP I|I|PERS said|say|V .|_|_
+I|I|PERS do|do|UNKNOWN not|not|ADV strike|strike|UNKNOWN the|the|ART unarmed|unarmed|ADJ ,|_|_ least=of=all|least=of=all|ADV ,|_|_ a|a|ART woman|woman|N .|_|_
+On=the=other=hand|on=the=other=hand|ADV ,|_|_ I_|I|PERS _m|be|V sorry|sorry|ADJ to|to|INFM have|have|UNKNOWN to|to|INFM realize|realize|V that|that|KS all|all|DET that|that|INDP I|I|PERS have|have|UNKNOWN looked|look|UNKNOWN up=to|up=to|ADV is|be|V not|not|ADV worth-while|worth-while|ADJ ,|_|_ and|and|KC it|it|PERS pains|pain|V me|I|PERS to|to|INFM see|see|UNKNOWN you|you|PERS fallen|fallen|ADJ lower=than|lower=than|PRP your|you|PERS cook|cook|N as|as|PRP it|it|PERS pains|pains|N me|I|PERS to|to|INFM see|see|UNKNOWN autumn|autumn|N blossoms|blossom|N whipped|whip|UNKNOWN to|to|PRP pieces|piece|N by|by|PRP the|the|ART cold|cold|ADJ rain|rain|N and|and|KC transformed|transform|V into|into|PRP --|_|_ dirt|dirt|N !|_|_
+Julie|Julie|N .|_|_ You|you|PERS speak|speak|V-3S as=though|as=though|KS you|you|PERS were|be|V-1/3S already|already|ADV my|I|PERS superior|superior|N .|_|_
+Jean|Jean|N .|_|_ And|and|KC so|so|ADV I|I|PERS am|be|V !|_|_ For|for|PRP I|I|NUM can|can|V make|make|UNKNOWN you|you|PERS a|a|ART countess|countess|N and|and|KC you|you|PERS could|can|V never|never|ADV make|make|UNKNOWN me|I|PERS a|a|ART count|count|N .|_|_
+Julie|Julie|N .|_|_ But|but|KC I|I|PERS am|be|V born|bear|UNKNOWN of|of|PRP a|a|ART count|count|N ,|_|_ that|that|KS you|you|PERS can|can|V never|never|ADV be|be|V .|_|_
+Jean|Jean|N .|_|_ That|that|INDP is|be|V true|true|ADJ ,|_|_ but|but|KC I|I|PERS can|can|V be|be|V the|the|ART father|father|N of|of|PRP counts|count|N --|_|_ if|if|KS --|_|_
+Julie|Julie|N .|_|_
+But|but|KC you|you|PERS are|be|V-1/3S a|a|ART thief|thief|N --|_|_ that|that|INDP I|I|PERS am|be|V not|not|ADV .|_|_
+Jean|Jean|N .|_|_ There|there|ADV are|be|V-1/3S worse|bad|ADJ things|thing|N than|than|PRP that|that|INDP ,|_|_ and|and|KC for|for|PRP that|that|DET matter|matter|N when|when|ADV I|I|PERS serve|serve|V-3S in|in|PRP a|a|ART house|house|N I|I|PERS regard|regard|V-3S myself|I|PERS as|as|PRP a|a|ART member|member|N of|of|PRP the|the|ART family|family|N ,|_|_ a|a|ART child|child|N of|of|PRP the|the|ART house|house|N as|as|KS it|it|PERS were|be|V-1/3S .|_|_ And|and|KC one|one|PERS does_|do|UNKNOWN _n't|not|ADV consider|consider|V it|it|PERS theft|theft|N if|if|KS children|child|N snoop|snoop|V-3S a|a|ART berry|berry|N from|from|PRP full|full|ADJ bushes|bush|N .|_|_ [|_|_ With|with|PRP renewed|renewed|ADJ passion|passion|N ]|_|_ .|_|_
+Miss=Julie|Miss=Julie|N ,|_|_ you|you|PERS are|be|V-1/3S a|a|ART glorious|glorious|ADJ woman|woman|N --|_|_ too|too|ADV good|good|ADJ for|for|KS such=as|such=as|PRP I.=You|I.=You|N have|have|UNKNOWN been|be|V the|the|ART victim|victim|N of|of|PRP an|a|ART infatuation|infatuation|N and|and|KC you|you|PERS want|want|UNKNOWN to|to|INFM disguise|disguise|V this|this|DET fault|fault|N by|by|PRP fancying|fancy|V that|that|INDP you|you|PERS love|love|UNKNOWN me|I|PERS .|_|_
+But|but|KC you|you|PERS do|do|UNKNOWN not|not|ADV --|_|_ unless|unless|KS perhaps|perhaps|ADV my|I|PERS outer|outer|ADJ self|self|N attracts|attract|UNKNOWN you|you|PERS .|_|_ And|and|KC then|then|ADV your|you|PERS love|love|N is|be|V no|no|DET better|better|N than|than|PRP mine|I|PERS .|_|_
+But|but|KC I|I|NUM can_|can|V _not|not|ADV be|be|V satisfied|satisfy|V with|with|PRP that|that|INDP ,|_|_ and|and|KC your|you|PERS real|real|ADJ love|love|N I|I|NUM can|can|V never|never|ADV awaken|awaken|V .|_|_
+Julie|Julie|N .|_|_ Are|be|V-1/3S you|you|PERS sure|sure|ADJ of|of|PRP that|that|INDP ?|_|_ Jean|Jean|N .|_|_
+You|you|PERS mean|mean|V-3S that|that|KS we|we|PERS could|can|V get|get|UNKNOWN along=with|along=with|PRP such|such|DET an|a|ART arrangement|arrangement|N ?|_|_
+There's|There|N no|no|DET doubt|doubt|N about|about|PRP my|I|PERS loving|love|UNKNOWN you|you|PERS --|_|_ you|you|PERS are|be|V-1/3S beautiful|beautiful|ADJ ,|_|_ you|you|PERS are|be|V-1/3S elegant|elegant|ADJ --|_|_ [|_|_ Goes|go|UNKNOWN to|to|PRP her|she|PERS and|and|KC takes|take|UNKNOWN her|she|PERS hand|hand|N ]|_|_ accomplished|accomplish|V ,|_|_ lovable|lovable|ADJ when|when|ADV you|you|PERS wish|wish|V-3S to|to|INFM be|be|V ,|_|_ and|and|KC the|the|ART flame|flame|N that|that|INDP you|you|PERS awaken|awaken|V-3S in|in|PRP man|man|N does|do|UNKNOWN not|not|ADV die|die|UNKNOWN easily|easily|ADV .|_|_ [|_|_ Puts|put|UNKNOWN arm|arm|V-3S around|around|PRP her|she|PERS .|_|_
+]|_|_ You|you|PERS are|be|V-1/3S like|like|PRP hot|hot|ADJ wine|wine|N with|with|PRP strong|strong|ADJ spices|spice|N ,|_|_ and|and|KC your|you|PERS lips|lip|N --|_|_
+[|_|_ Tries|try|V to|to|INFM kiss|kiss|UNKNOWN her|she|PERS .|_|_
+Julie|Julie|N pulls|pull|UNKNOWN herself|she|PERS away|away|ADV slowly|slowly|ADV .|_|_
+]|_|_ Julie|Julie|N .|_|_
+Leave|leave|V me|I|PERS --|_|_ I_|I|PERS _m|be|V not|not|ADV to|to|INFM be|be|V won|win|V this|this|DET way|way|N .|_|_
+Jean|Jean|N .|_|_ How|how|ADV then|then|ADV ?|_|_
+Not|not|ADV with|with|PRP caresses|caress|N and|and|KC beautiful|beautiful|ADJ words|word|N ?|_|_
+Not|not|ADV by|by|PRP thoughts|thought|N for|for|PRP the|the|ART future|future|N ,|_|_ to|to|INFM save|save|V humiliation|humiliation|N ?|_|_
+How|how|ADV then|then|ADV ?|_|_
+Julie|Julie|N .|_|_
+How|how|ADV ?|_|_
+I|I|PERS do_|do|UNKNOWN _n't|not|ADV know|know|UNKNOWN .|_|_
+I|I|PERS do_|do|UNKNOWN _n't|not|ADV know|know|UNKNOWN !|_|_
+I|I|PERS shrink|shrink|V-3S from|from|PRP you|you|PERS as|as|KS I|I|PERS would|will|V from|from|PRP a|a|ART rat|rat|N .|_|_ But|but|KC I|I|NUM can_|can|V _not|not|ADV escape|escape|N from|from|PRP you|you|PERS .|_|_
+Jean|Jean|N .|_|_ Escape|escape|N with|with|PRP me|I|PERS .|_|_
+Julie|Julie|N .|_|_ Escape|escape|N ?|_|_
+Yes|yes|IN ,|_|_ we|we|PERS must|must|V escape|escape|V .|_|_
+--|_|_ But|but|KC I'm|I'm|N so|so|ADV tired|tire|V .|_|_
+Give|give|UNKNOWN me|I|PERS a|a|ART glass|glass|N of|of|PRP wine|wine|N .|_|_ [|_|_ Jean|Jean|N fills|fill|UNKNOWN a|a|ART glass|glass|N with|with|PRP wine|wine|N ,|_|_ Julie|Julie|N looks|look|UNKNOWN at|at|PRP her|she|PERS watch|watch|N .|_|_
+]|_|_ We|we|PERS must|must|V talk|talk|V it|it|PERS over|over|ADV first|first|ADV for|for|KS we|we|PERS have|have|UNKNOWN still|still|ADV a|a|ART little|little|ADJ time|time|N left|left|N .|_|_
+[|_|_ She|she|PERS empties|empty|UNKNOWN the|the|ART glass|glass|N and|and|KC puts|put|UNKNOWN it|it|PERS out|out|ADV for|for|PRP more|much|INDP .|_|_
+]|_|_ Jean|Jean|N .|_|_
+Do_|do|UNKNOWN _n't|not|ADV drink|drink|V too|too|ADV much|much|ADV .|_|_
+It|it|PERS will|will|V go|go|UNKNOWN to|to|PRP your|you|PERS head|head|N .|_|_ Julie|Julie|N .|_|_
+What|what|INDP harm|harm|V-3S will|will|N that|that|INDP do|do|UNKNOWN ?|_|_
+Jean|Jean|N .|_|_ What|what|INDP harm|harm|V-3S ?|_|_
+It_|it|PERS _s|be|V foolish|foolish|ADJ to|to|INFM get|get|UNKNOWN intoxicated|intoxicated|ADJ .|_|_
+But|but|KC what|what|INDP did|do|UNKNOWN you|you|PERS want|want|UNKNOWN to|to|INFM say|say|V ?|_|_ Julie|Julie|N .|_|_
+We|we|PERS must|must|V go|go|UNKNOWN away|away|ADV ,|_|_ but|but|KC we|we|PERS must|must|V talk|talk|V first|first|ADV .|_|_
+That|that|INDP is|be|V ,|_|_ I|I|PERS must|must|V speak|speak|V ,|_|_ for|for|KS until|until|PRP now|now|ADV you|you|PERS have|have|UNKNOWN done|do|UNKNOWN all|all|DET the|the|ART talking|talking|N .|_|_
+You|you|PERS have|have|UNKNOWN told|tell|V me|I|PERS about|about|PRP your|you|PERS life|life|N --|_|_ now|now|ADV I|I|PERS will|will|V tell|tell|V you|you|PERS about|about|ADV mine|I|PERS ,|_|_ then|then|ADV we|we|PERS will|will|V know|know|UNKNOWN each=other|each=other|INDP through|through|PRP and|and|KC through|through|PRP before|before|KS we|we|PERS start|start|V-3S on|on|PRP our|we|PERS wandering|wander|V together|together|ADV .|_|_
+Jean|Jean|N .|_|_
+One|one|NUM moment|moment|N ,|_|_ pardon|pardon|N .|_|_
+Are_|be|V-1/3S _n't|not|ADV you|you|PERS my|I|PERS friend|friend|N ?|_|_ Jean|Jean|N .|_|_
+Yes|yes|IN .|_|_ Sometimes|sometimes|ADV .|_|_
+But|but|KC do_|do|UNKNOWN _n't|not|ADV depend|depend|V on|on|PRP me|I|PERS .|_|_
+Julie|Julie|N .|_|_ You|you|PERS only|only|ADV say|say|V-3S that|that|INDP .|_|_
+And|and|KC for|for|PRP that|that|DET matter|matter|N I|I|PERS have|have|UNKNOWN no|no|DET secrets|secret|N .|_|_
+You|you|PERS see|see|UNKNOWN ,|_|_ my|I|PERS mother|mother|N was|be|V not|not|ADV of|of|PRP noble|noble|ADJ birth|birth|N .|_|_
+She|she|PERS was|be|V brought|bring|UNKNOWN up|up|ADV with|with|PRP ideas|idea|UNKNOWN of|of|PRP equality|equality|N ,|_|_ woman's|woman|N freedom|freedom|N and|and|KC all|all|DET that|that|INDP .|_|_
+She|she|PERS had|have|UNKNOWN very|very|ADV decided|decide|V opinions|opinion|N against|against|PRP matrimony|matrimony|N ,|_|_ and|and|KC when|when|ADV my|I|PERS father|father|N courted|court|V her|she|PERS she|she|PERS declared|declare|V that|that|KS she|she|PERS would|will|V never|never|ADV be|be|V his|he|PERS wife|wife|N --|_|_ but|but|KC she|she|PERS did|do|UNKNOWN so|so|ADV for=all=that|for=all=that|ADV .|_|_
+I|I|PERS came|come|UNKNOWN into|into|PRP the|the|ART world|world|N against|against|PRP my|I|PERS mother's|mother|N wishes|wish|N ,|_|_ I|I|PERS discovered|discover|V ,|_|_ and|and|KC was|be|V brought|bring|UNKNOWN up|up|ADV like|like|PRP a|a|ART child|child|N of|of|PRP nature|nature|N by|by|PRP my|I|PERS mother|mother|N ,|_|_ and|and|KC taught|teach|V everything|everything|INDP that|that|INDP a|a|ART boy|boy|N must|must|V know|know|UNKNOWN as=well|as=well|ADV ;|_|_
+I|I|PERS was|be|V to|to|INFM be|be|V an|a|ART example|example|N of|of|PRP a|a|ART woman|woman|N being|be|V as|as|ADV good|good|ADJ as|as|PRP a|a|ART man|man|N --|_|_ I|I|PERS was|be|V made|make|UNKNOWN to|to|INFM go|go|UNKNOWN about|about|ADV in|in|PRP boy's|boy|N clothes|clothes|N and|and|KC take|take|UNKNOWN care|care|N of|of|PRP the|the|ART horses|horse|N and|and|KC harness|harness|UNKNOWN and|and|KC saddle|saddle|UNKNOWN and|and|KC hunt|hunt|V ,|_|_ and|and|KC all=such|all=such|DET things|thing|N ;|_|_
+in=fact|in=fact|ADV ,|_|_ all-over|all=over|PRP the|the|ART estate|estate|N women|woman|N servants|servant|N were|be|V-1/3S taught|teach|V to|to|INFM do|do|UNKNOWN men's|man|N work|work|N ,|_|_ with|with|PRP the|the|ART result|result|N that|that|KS the|the|ART property|property|N came|come|UNKNOWN near|near|PRP being|be|V ruined|ruin|UNKNOWN --|_|_ and|and|KC so|so|ADV we|we|PERS became|become|V the|the|ART laughing|laugh|V stock|stock|N of|of|PRP the|the|ART countryside|countryside|N .|_|_
+At=last|at=last|ADV my|I|PERS father|father|N must|must|V have|have|UNKNOWN awakened|awaken|V from|from|PRP his|he|PERS bewitched|bewitched|ADJ condition|condition|N ,|_|_ for|for|KS he|he|PERS revolted|revolt|V ,|_|_ and|and|KC ran|run|V things|thing|N according=to|according=to|PRP his|he|PERS ideas|idea|UNKNOWN .|_|_
+My|I|PERS mother|mother|N became|become|V ill|ill|ADJ --|_|_ what|what|INDP it|it|PERS was|be|V I|I|PERS do_|do|UNKNOWN _n't|not|ADV know|know|UNKNOWN ,|_|_ but|but|KC she|she|PERS often|often|ADV had|have|UNKNOWN cramps|cramp|N and|and|KC acted|act|V queerly|queer|ADV --|_|_ sometimes|sometimes|ADV hiding|hide|UNKNOWN in|in|PRP the|the|ART attic|attic|N or|or|KC the|the|ART orchard|orchard|N ,|_|_ and|and|KC would|will|V even|even|ADV be|be|V gone|go|UNKNOWN all|all|DET night|night|N at|at|PRP times|time|N .|_|_
+Then|then|ADV came|come|UNKNOWN the|the|ART big|big|ADJ fire|fire|N which|which|INDP of=course|of=course|ADV you|you|PERS have|have|UNKNOWN heard|hear|V about|about|PRP .|_|_
+The|the|ART house|house|N ,|_|_ the|the|ART stables|stable|N --|_|_ everything|everything|INDP was|be|V burned|burn|V ,|_|_ under|under|PRP circumstances|circumstance|N that|that|INDP pointed|point|V strongly|strongly|ADV to|to|PRP an|a|ART incendiary|incendiary|ADJ ,|_|_ for|for|KS the|the|ART misfortune|misfortune|N happened|happen|V the|the|ART day|day|N after|after|KS the|the|ART quarterly|quarterly|ADJ insurance|insurance|N was|be|V due|due|ADJ and|and|KC the|the|ART premiums|premium|N sent|send|UNKNOWN in|in|ADV by|by|PRP father|father|N were|be|V-1/3S strangely|strangely|ADV delayed|delay|V by|by|PRP his|he|PERS messenger|messenger|N so=that|so=that|KS they|they|PERS arrived|arrive|V too|too|ADV late|late|ADV .|_|_ [|_|_ She|she|PERS fills|fill|UNKNOWN a|a|ART wine|wine|N glass|glass|N and|and|KC drinks|drink|V .|_|_
+]|_|_ Jean|Jean|N .|_|_
+Do_|do|UNKNOWN _n't|not|ADV drink|drink|V any=more|any=more|INDP .|_|_
+Julie|Julie|N .|_|_ Oh|oh|IN ,|_|_ what|what|INDP does|do|UNKNOWN it|it|PERS matter|matter|V ?|_|_
+My|I|PERS father|father|N was|be|V utterly|utterly|ADJ at|at|PRP a|a|ART loss|loss|N to|to|INFM know|know|UNKNOWN where|where|ADV to|to|INFM get|get|UNKNOWN money|money|N to|to|INFM rebuild|rebuild|V with|with|PRP .|_|_
+Then|then|ADV my|I|PERS mother|mother|N suggested|suggest|V that|that|KS he|he|PERS try|try|N to|to|INFM borrow|borrow|V from|from|PRP a|a|ART man|man|N who|who|INDP had|have|UNKNOWN been|be|V her|she|PERS friend|friend|N in|in|PRP her|she|PERS youth|youth|N --|_|_ a|a|ART brick|brick|N manufacturer|manufacturer|N here|here|ADV in|in|PRP the|the|ART neighborhood|neighborhood|N .|_|_
+My|I|PERS father|father|N made|make|UNKNOWN the|the|ART loan|loan|N ,|_|_ but|but|KC was_|be|V _n't|not|ADV allowed|allow|V to|to|INFM pay|pay|V any|any|DET interest|interest|N ,|_|_ which|which|INDP surprised|surprise|V him|he|PERS .|_|_
+Then|then|ADV the|the|ART house|house|N was|be|V rebuilt|rebuilt|ADJ .|_|_ [|_|_ Julie|Julie|N drinks|drink|V again|again|ADV .|_|_
+]|_|_ Do|do|UNKNOWN you|you|PERS know|know|UNKNOWN who|who|INDP burned|burn|V the|the|ART house|house|N ?|_|_ Jean|Jean|N .|_|_
+Her|she|PERS ladyship|ladyship|N ,|_|_ your|you|PERS mother|mother|N ?|_|_
+Julie|Julie|N .|_|_ Do|do|UNKNOWN you|you|PERS know|know|UNKNOWN who|who|INDP the|the|ART brick|brick|N manufacturer|manufacturer|N was|be|V ?|_|_
+Jean|Jean|N .|_|_ Your|you|PERS mother's|mother|N lover|lover|N ?|_|_
+Julie|Julie|N .|_|_ Do|do|UNKNOWN you|you|PERS know|know|UNKNOWN whose|who|DET money|money|N it|it|PERS was|be|V ?|_|_ Jean|Jean|N .|_|_
+Just|just|ADV a|a|ART moment|moment|N ,|_|_ that|that|INDP I|I|PERS do_|do|UNKNOWN _n't|not|ADV know|know|UNKNOWN .|_|_
+Julie|Julie|N .|_|_
+It|it|PERS was|be|V my|I|PERS mother's|mother|N .|_|_ Jean|Jean|N .|_|_
+The|the|ART Count's|count|N --|_|_ that|that|INDP is|be|V to|to|INFM say|say|V ,|_|_ unless|unless|KS there|there|ADV was|be|V a|a|ART contract|contract|N .|_|_
+Julie|Julie|N .|_|_ There|there|ADV was|be|V no|no|DET contract|contract|N .|_|_
+My|I|PERS mother|mother|N had|have|UNKNOWN some|some|DET money|money|N which|which|INDP she|she|PERS had|have|UNKNOWN not|not|ADV wished|wish|V to|to|INFM have|have|UNKNOWN in|in|PRP my|I|PERS father's|father|N keeping|keeping|N and|and|KC therefore|therefore|ADV ,|_|_ she|she|PERS had|have|UNKNOWN entrusted|entrust|V it|it|PERS to|to|PRP her|she|PERS friend's|Friend|N care|care|N .|_|_
+Jean|Jean|N .|_|_ Who|who|INDP kept|keep|V it|it|PERS .|_|_
+Julie|Julie|N .|_|_
+Quite|quite|ADV right|right|ADJ --|_|_ he|he|PERS held|hold|UNKNOWN on|on|ADV to|to|PRP it|it|PERS .|_|_
+All|all|DET this|this|INDP came|come|UNKNOWN to|to|PRP my|I|PERS father's|father|N knowledge|knowledge|N .|_|_
+He|he|PERS could_|can|V _n't|not|ADV proceed|proceed|V against|against|PRP him|he|PERS ,|_|_ was_|be|V _n't|not|ADV allowed|allow|V to|to|INFM pay|pay|V his|he|PERS wife's|wife|N friend|friend|N ,|_|_ and|and|KC could_|can|V _n't|not|ADV prove|prove|V that|that|KS it|it|PERS was|be|V his|he|PERS wife's|wife|N money|money|N .|_|_
+That|that|INDP was|be|V my|I|PERS mother's|mother|N revenge|revenge|N for|for|PRP his|he|PERS taking|take|UNKNOWN the|the|ART reins|reins|N of|of|PRP the|the|ART establishment|establishment|N into|into|PRP his|he|PERS own|own|DET hands|hand|N .|_|_
+At|at|PRP that|that|DET time|time|N he|he|PERS was|be|V ready|ready|ADJ to|to|INFM shoot|shoot|UNKNOWN himself|he|PERS .|_|_
+Gossip|gossip|N had|have|UNKNOWN it|it|PERS that|that|INDP he|he|PERS had|have|UNKNOWN tried|try|V and|and|KC failed|fail|V .|_|_
+Well|well|ADV ,|_|_ he|he|PERS lived|live|V it|it|PERS down|down|ADV --|_|_ and|and|KC my|I|PERS mother|mother|N paid|pay|V full|full|ADJ penalty|penalty|N for|for|PRP her|she|PERS misdeed|misdeed|N .|_|_
+Those|that|INDP were|be|V-1/3S five|five|NUM terrible|terrible|ADJ years|year|N for|for|PRP me|I|PERS ,|_|_ as|as|KS you|you|PERS can|can|V fancy|fancy|V .|_|_
+I|I|PERS sympathized|sympathize|V with|with|PRP my|I|PERS father|father|N ,|_|_ but|but|KC I|I|PERS took|take|UNKNOWN my|I|PERS mother's|mother|N part|part|N ,|_|_ for|for|KS I|I|PERS did_|do|UNKNOWN _n't|not|ADV know|know|UNKNOWN the|the|ART true|true|ADJ circumstances|circumstance|N .|_|_
+But|but|KC you|you|PERS became|become|V engaged|engaged|ADJ to|to|PRP the|the|ART Lieutenant|lieutenant|N Governor|governor|N .|_|_
+Julie|Julie|N .|_|_ Just|just|ADV to|to|INFM make|make|UNKNOWN him|he|PERS my|I|PERS slave|slave|N .|_|_ Jean|Jean|N .|_|_
+But|but|KC that|that|INDP he|he|PERS did_|do|UNKNOWN _n't|not|ADV care|care|V to|to|INFM be|be|V .|_|_
+Julie|Julie|N .|_|_ He|he|PERS wanted|want|UNKNOWN to|to|INFM be|be|V ,|_|_ fast|fast|ADV enough|enough|ADV ,|_|_ but|but|KC I|I|PERS grew|grow|V tired|tired|ADJ of|of|PRP him|he|PERS .|_|_
+Jean|Jean|N .|_|_
+Yes|yes|IN --|_|_ I|I|PERS noticed|notice|V that|that|INDP --|_|_ in|in|PRP the|the|ART stable-yard|stable-yard|N !|_|_
+Julie|Julie|N .|_|_ What|what|INDP do|do|UNKNOWN you|you|PERS mean|mean|V ?|_|_
+Jean|Jean|N .|_|_ I|I|PERS saw|see|UNKNOWN how|how|ADV he|he|PERS broke|break|UNKNOWN the|the|ART engagement|engagement|N .|_|_
+Julie|Julie|N .|_|_ That's|That|N a|a|ART lie|lie|N .|_|_
+It|it|PERS was|be|V I|I|PERS who|who|INDP broke|break|UNKNOWN it|it|PERS .|_|_
+Did|do|UNKNOWN he|he|PERS say|say|V he|he|PERS broke|break|UNKNOWN it|it|PERS --|_|_ the|the|ART wretch|wretch|N !|_|_ Jean|Jean|N .|_|_
+I|I|PERS do_|do|UNKNOWN _n't|not|ADV believe|believe|V that|that|KS he|he|PERS was|be|V a|a|ART wretch|wretch|N .|_|_
+You|you|PERS hate|hate|V-3S men|man|N ,|_|_ Miss=Julie|Miss=Julie|N .|_|_
+Julie|Julie|N .|_|_
+Most|much|INDP of|of|PRP them|they|PERS .|_|_
+Sometimes|sometimes|ADV one|one|PERS is|be|V weak|weak|ADJ --|_|_ Jean|Jean|N .|_|_
+You|you|PERS hate|hate|V-3S me|I|PERS ?|_|_
+Julie|Julie|N .|_|_ Excessively|excessively|ADV .|_|_
+I|I|PERS could|can|V see|see|UNKNOWN you|you|PERS shot|shoot|UNKNOWN --|_|_ Jean|Jean|N .|_|_
+Like|like|PRP a|a|ART mad|mad|ADJ dog|dog|N ?|_|_
+Julie|Julie|N .|_|_ Exactly|exactly|ADV !|_|_
+Jean|Jean|N .|_|_ But|but|KC there|there|ADV is|be|V nothing|nothing|INDP here|here|ADV to|to|INFM shoot|shoot|UNKNOWN with|with|PRP .|_|_
+What|what|INDP shall|shall|V we|we|PERS do|do|UNKNOWN then|then|ADV ?|_|_
+Julie|Julie|N [|_|_ Rousing|rouse|V herself|she|PERS ]|_|_ .|_|_
+We|we|PERS must|must|V get|get|UNKNOWN away|away|ADV from|from|PRP here|here|ADV --|_|_ travel|travel|N .|_|_ Jean|Jean|N .|_|_ And|and|KC torture|torture|V-3S each=other|each=other|INDP to|to|PRP death|death|N ?|_|_
+Julie|Julie|N .|_|_ No|no|DET --|_|_ to|to|INFM enjoy|enjoy|V ,|_|_ a=few|a=few|DET days|day|N ,|_|_ a|a|ART week|week|N --|_|_ as=long=as|as=long=as|KS we|we|PERS can|can|V .|_|_
+And|and|KC then|then|ADV to|to|INFM die|die|UNKNOWN .|_|_
+Jean|Jean|N .|_|_ Die|die|UNKNOWN !|_|_ How|how|ADV silly|silly|ADJ .|_|_
+I|I|PERS think|think|V-3S it_|it|PERS _s|be|V better|good|ADJ to|to|INFM start|start|V the|the|ART hotel|hotel|N .|_|_
+Julie|Julie|N [|_|_ Not|not|ADV heeding|heed|V him|he|PERS ]|_|_ .|_|_ By|by|PRP the|the|ART Lake=of=Como|Lake=of=Como|N where|where|ADV the|the|ART sun|sun|N is|be|V always|always|ADV shining|shine|UNKNOWN ,|_|_ where|where|ADV the|the|ART laurel|laurel|N is|be|V green|green|ADJ at|at|PRP Christmas|Christmas|N and|and|KC the|the|ART oranges|orange|N glow|glow|N .|_|_
+Jean|Jean|N .|_|_ The|the|ART Lake=of=Como|Lake=of=Como|N is|be|V it|it|PERS rain|rain|N hole|hole|N ,|_|_ I|I|PERS never|never|ADV saw|see|UNKNOWN any|any|DET oranges|orange|N there|there|ADV except|except|PRP on|on|PRP fruit|fruit|N stands|stand|N .|_|_
+But|but|KC it_|it|PERS _s|be|V a|a|ART good|good|ADJ resort|resort|N ,|_|_ and|and|KC there|there|ADV are|be|V-1/3S many|many|DET villas|villa|N to|to|INFM rent|rent|V to|to|PRP loving|loving|ADJ couples|couple|N .|_|_
+That's|That|N a|a|ART very|very|ADV paying|paying|ADJ industry|industry|N .|_|_
+You|you|PERS know|know|UNKNOWN why|why|ADV ?|_|_
+They|they|PERS take|take|UNKNOWN leases|lease|N for|for|PRP half|half|DET a|a|ART year|year|N at=least|at=least|ADV ,|_|_ but|but|KC they|they|PERS usually|usually|ADV leave|leave|V-3S in|in|PRP three|three|NUM weeks|week|N .|_|_
+Julie|Julie|N [|_|_ Naively|naive|ADV ]|_|_ .|_|_
+Why|why|ADV after|after|PRP three|three|NUM weeks|week|N ?|_|_ Jean|Jean|N .|_|_
+Why|why|ADV ?|_|_ They|they|PERS quarrel|quarrel|V-3S of=course|of=course|ADV ,|_|_ but|but|KC the|the|ART rent|rent|N must|must|V be|be|V paid|pay|V all|all|DET the|the|ART same|same|INDP .|_|_ Then|then|ADV you|you|PERS re-let|re-let|V-3S ,|_|_ and|and|KC so|so|ADV one|one|PERS after|after|PRP another|another|INDP they|they|PERS come|come|UNKNOWN and|and|KC go|go|UNKNOWN ,|_|_ for|for|PRP there|there|ADV is|be|V plenty=of|plenty=of|DET love|love|N ,|_|_ although|although|KS it|it|PERS does_|do|UNKNOWN _n't|not|ADV last|last|V long|long|ADV .|_|_
+Julie|Julie|N .|_|_ Then|then|ADV you|you|PERS do_|do|UNKNOWN _n't|not|ADV want|want|UNKNOWN to|to|INFM die|die|UNKNOWN with|with|PRP me|I|PERS ?|_|_
+Jean|Jean|N .|_|_
+I|I|PERS do_|do|UNKNOWN _n't|not|ADV want|want|UNKNOWN to|to|INFM die|die|UNKNOWN at=all|at=all|ADV ,|_|_ both|both|INDP because|because|KS I|I|PERS enjoy|enjoy|V-3S living|live|V and|and|KC because|because|KS I|I|PERS regard|regard|V-3S suicide|suicide|N as|as|PRP a|a|ART crime|crime|N to|to|PRP Him|he|PERS who|who|INDP has|have|UNKNOWN given|give|UNKNOWN us|we|PERS life|life|N .|_|_
+Julie|Julie|N .|_|_ Then|then|ADV you|you|PERS believe|believe|V-3S in|in|PRP God|God|N ?|_|_
+Jean|Jean|N .|_|_ Yes|yes|IN .|_|_
+Do|do|UNKNOWN you|you|PERS think|think|V I|I|PERS would|will|V allow|allow|V myself|I|PERS to|to|INFM be|be|V satisfied|satisfy|V with|with|PRP such|such|DET an|a|ART ending|ending|N ?|_|_
+Do|do|UNKNOWN you|you|PERS know|know|UNKNOWN what|what|DET a|a|ART man|man|N owes|owe|V to|to|PRP a|a|ART woman|woman|N he|he|PERS hits|hit|UNKNOWN --|_|_ --|_|_
+Jean|Jean|N [|_|_ Takes|take|UNKNOWN out|out|ADV a|a|ART silver|silver|N coin|coin|N and|and|KC throws|throw|UNKNOWN it|it|PERS on|on|PRP the|the|ART table|table|N ]|_|_ .|_|_ Allow|allow|V me|I|PERS ,|_|_ I|I|PERS do_|do|UNKNOWN _n't|not|ADV want|want|UNKNOWN to|to|INFM owe|owe|V anything|anything|INDP to|to|PRP anyone|anyone|INDP .|_|_
+Julie|Julie|N [|_|_ Pretending|pretend|V not|not|ADV to|to|INFM notice|notice|V the|the|ART insult|insult|N ]|_|_ .|_|_
+Do|do|UNKNOWN you|you|PERS know|know|UNKNOWN what|what|INDP the|the|ART law|law|N demands|demand|V ?|_|_ Jean|Jean|N .|_|_
+I|I|PERS know|know|UNKNOWN that|that|KS the|the|ART law|law|N demands|demand|V nothing|nothing|INDP of|of|PRP a|a|ART woman|woman|N who|who|INDP seduces|seduce|UNKNOWN a|a|ART man|man|N .|_|_
+And|and|KC if|if|KS I|I|PERS protest|protest|N against|against|PRP this|this|DET misalliance|misalliance|N ?|_|_
+Julie|Julie|N .|_|_ Misalliance|misalliance|N !|_|_
+Jean|Jean|N .|_|_
+Yes|yes|IN ,|_|_ for|for|PRP me|I|PERS .|_|_ For|for|PRP you|you|PERS see|see|UNKNOWN I|I|PERS have|have|UNKNOWN a|a|ART finer|fine|ADJ ancestry|ancestry|N than|than|PRP you|you|PERS ,|_|_ for|for|KS I|I|PERS have|have|UNKNOWN no|no|DET fire-bug|fire-bug|N in|in|PRP my|I|PERS family|family|N .|_|_
+Julie|Julie|N .|_|_ How|how|ADV do|do|UNKNOWN you|you|PERS know|know|UNKNOWN ?|_|_
+Jean|Jean|N .|_|_ You|you|PERS can_|can|V _n't|not|ADV prove|prove|V the|the|ART contrary|contrary|N .|_|_ We|we|PERS have|have|UNKNOWN no|no|DET family|family|N record|record|N except=that|except=that|KS which|which|INDP the|the|ART police|police|N keep|keep|N .|_|_
+But|but|KC your|you|PERS pedigree|pedigree|N I|I|NUM have|have|UNKNOWN read|read|V in|in|PRP a|a|ART book|book|N on|on|PRP the|the|ART drawing|drawing|N room|room|N table|table|N .|_|_
+Do|do|UNKNOWN you|you|PERS know|know|UNKNOWN who|who|INDP the|the|ART founder|founder|N of|of|PRP your|you|PERS family|family|N was|be|V ?|_|_
+It|it|PERS was|be|V a|a|ART miller|miller|N whose|who|DET wife|wife|N found|find|V favor|favor|N with|with|PRP the|the|ART king|King|N during|during|PRP the|the|ART Danish=War|Danish=War|N .|_|_
+Such|such|DET ancestry|ancestry|N I|I|NUM have|have|UNKNOWN not|not|ADV .|_|_ Julie|Julie|N .|_|_
+This|this|INDP is|be|V my|I|PERS reward|reward|N for|for|PRP opening|open|UNKNOWN my|I|PERS heart|heart|N to|to|PRP anyone|anyone|INDP so|so|ADV unworthy|unworthy|ADJ ,|_|_ with|with|PRP whom|who|INDP I|I|PERS have|have|UNKNOWN talked|talk|V about|about|PRP my|I|PERS family|family|N honor|honor|N .|_|_
+Jean|Jean|N .|_|_
+Dishonor|dishonor|N --|_|_ yes|yes|IN ,|_|_ I|I|PERS said|say|V it|it|PERS .|_|_
+I|I|PERS told|tell|V you|you|PERS not|not|ADV to|to|INFM drink|drink|V because|because|KS then|then|ADV one|one|NUM talks|talk|N too|too|ADV freely|freely|ADV and|and|KC one|one|PERS should|shall|V never|never|ADV talk|talk|V .|_|_ Julie|Julie|N .|_|_
+Oh|oh|IN ,|_|_ how|how|ADV I|I|PERS repent|repent|V-3S all|all|DET this|this|INDP .|_|_
+If|if|KS at=least|at=least|ADV you|you|PERS loved|love|UNKNOWN me|I|PERS !|_|_
+Jean|Jean|N .|_|_
+For|for|PRP the|the|ART last|last|ADJ time|time|N --|_|_ what|what|INDP do|do|UNKNOWN you|you|PERS mean|mean|V ?|_|_
+Shall|shall|V I|I|PERS weep|weep|V ,|_|_ shall|shall|V I|I|PERS jump|jump|V over|over|PRP your|you|PERS riding|riding|ADJ whip|whip|N ,|_|_ shall|shall|V I|I|PERS kiss|kiss|UNKNOWN you|you|PERS ,|_|_ lure|lure|V you|you|PERS to|to|PRP Lake=Como|Lake=Como|N for|for|PRP three|three|NUM weeks|week|N ,|_|_ and|and|KC then|then|ADV --|_|_ what|what|INDP do|do|UNKNOWN you|you|PERS want|want|UNKNOWN anyway|anyway|ADV ?|_|_
+This|this|INDP is|be|V getting|get|UNKNOWN tiresome|tiresome|ADJ .|_|_
+But|but|KC that_|that|INDP _s|be|V the|the|ART way|way|N it|it|PERS always|always|ADV is|be|V when|when|ADV you|you|PERS get|get|UNKNOWN mixed=up|mixed=up|ADJ in|in|PRP women's|woman|N affairs|affair|N .|_|_
+Miss=Julie|Miss=Julie|N ,|_|_ I|I|PERS see|see|UNKNOWN that|that|KS you|you|PERS are|be|V-1/3S unhappy|unhappy|ADJ ,|_|_ I|I|PERS know|know|UNKNOWN that|that|KS you|you|PERS suffer|suffer|V-3S ,|_|_ but|but|KC I|I|PERS can_|can|V _n't|not|ADV understand|understand|V you|you|PERS .|_|_
+Among|among|PRP my|I|PERS kind|kind|N there|there|ADV is|be|V no|no|DET nonsense|nonsense|N of|of|PRP this|this|DET sort|sort|N ;|_|_
+we|we|PERS love|love|UNKNOWN as|as|KS we|we|PERS play|play|UNKNOWN when|when|ADV work|work|N gives|give|UNKNOWN us|we|PERS time|time|N .|_|_
+We|we|PERS have_|have|UNKNOWN _n't|not|ADV the|the|ART whole|whole|ADJ day|day|N and|and|KC night|night|N for|for|PRP it|it|PERS like|like|PRP you|you|PERS .|_|_
+Julie|Julie|N .|_|_
+You|you|PERS must|must|V be|be|V good|good|ADJ to|to|PRP me|I|PERS and|and|KC speak|speak|V to|to|PRP me|I|PERS as=though|as=though|KS I|I|PERS were|be|V-1/3S a|a|ART human|human|N being|be|V .|_|_
+Jean|Jean|N .|_|_ Be|be|V one|one|PERS yourself|you|DET .|_|_
+You|you|PERS spit|spit|UNKNOWN on|on|PRP me|I|PERS and|and|KC expect|expect|V-3S me|I|PERS to|to|INFM stand|stand|UNKNOWN it|it|PERS .|_|_
+Julie|Julie|N .|_|_ Help|help|V me|I|PERS ,|_|_ help|help|V me|I|PERS .|_|_
+Only|only|ADV tell|Tell|N me|I|PERS what|what|INDP to|to|INFM do|do|UNKNOWN --|_|_ show|show|V me|I|PERS a|a|ART way|way|N out=of|out=of|PRP this|this|INDP !|_|_
+Jean|Jean|N .|_|_ In|in|PRP heaven's|heaven|N name|name|N ,|_|_ if|if|KS I|I|PERS only|only|ADV knew|know|UNKNOWN myself|I|PERS .|_|_
+Stay|stay|UNKNOWN here|here|ADV at|at|PRP home|home|N and|and|KC say|say|V nothing|nothing|INDP .|_|_
+No=one|no=one|INDP knows|know|UNKNOWN .|_|_
+Julie|Julie|N .|_|_ Impossible|impossible|ADJ .|_|_
+These|this|DET people|people|N know|know|UNKNOWN it|it|PERS ,|_|_ and|and|KC Kristin|Kristin|N .|_|_ Jean|Jean|N .|_|_
+They|they|PERS do_|do|UNKNOWN _n't|not|ADV know|know|UNKNOWN it|it|PERS and|and|KC could|can|V never|never|ADV suspect|suspect|V such|such|DET a|a|ART thing|thing|N .|_|_
+Julie|Julie|N [|_|_ Hesitating|hesitating|N ]|_|_ .|_|_ But|but|KC --|_|_ it|it|PERS might|may|V happen|happen|V again|again|ADV .|_|_ Jean|Jean|N .|_|_
+That|that|INDP is|be|V true|true|ADJ .|_|_ Julie|Julie|N .|_|_
+And|and|KC the|the|ART consequences|consequence|N ?|_|_
+Jean|Jean|N [|_|_ Frightened|frighten|V ]|_|_ .|_|_
+Consequences|consequence|N --|_|_ where|where|ADV were|be|V-1/3S my|I|PERS wits|wits|N not|not|ADV to|to|INFM have|have|UNKNOWN thought|think|V of|of|PRP that|that|INDP !|_|_
+There|there|ADV is|be|V only|only|ADV one|one|NUM thing|thing|N to|to|INFM do|do|UNKNOWN .|_|_ Get|get|UNKNOWN away|away|ADV from|from|PRP here|here|ADV immediately|immediately|ADV .|_|_
+I|I|PERS can_|can|V _n't|not|ADV go|go|UNKNOWN with|with|PRP you|you|PERS or|or|KC they|they|PERS will|will|V suspect|suspect|V .|_|_ You|you|PERS must|must|V go|go|UNKNOWN alone|alone|ADV --|_|_ away|away|ADV from|from|PRP here|here|ADV --|_|_ anywhere|anywhere|ADV .|_|_
+Julie|Julie|N .|_|_ Alone|alone|ADV ?|_|_
+Where|where|ADV ?|_|_
+I|I|PERS can_|can|V _not|not|ADV .|_|_
+Jean|Jean|N .|_|_
+You|you|PERS must|must|V --|_|_ and|and|KC before|before|PRP the|the|ART Count|count|N returns|return|UNKNOWN .|_|_
+If|if|KS you|you|PERS stay|stay|UNKNOWN ,|_|_ we|we|PERS know|know|UNKNOWN how|how|ADV it|it|PERS will|will|V be|be|V .|_|_
+If|if|KS one|one|PERS has|have|UNKNOWN taken|take|UNKNOWN a|a|ART false|false|ADJ step|step|N it_|it|PERS _s|be|V likely|likely|ADJ to|to|INFM happen|happen|V again|again|ADV as|as|KS the|the|ART harm|harm|N has|have|UNKNOWN already|already|ADV been|be|V done|do|UNKNOWN ,|_|_ and|and|KC one|one|PERS grows|grow|V more=and=more|more=and=more|ADJ daring|daring|N until|until|PRP at=last|at=last|ADV all|all|INDP is|be|V discovered|discover|V .|_|_
+Write|write|V the|the|ART Count|count|N afterward|afterward|ADV and|and|KC confess|confess|V all|all|INDP --|_|_ except=that|except=that|KS it|it|PERS was|be|V I.=That|I.=That|N he|he|PERS could|can|V never|never|ADV guess|guess|V ,|_|_ and|and|KC I|I|PERS do_|do|UNKNOWN _n't|not|ADV think|think|V he_|he|PERS _ll|will|V be|be|V so|so|ADV anxious|anxious|ADJ to|to|INFM know|know|UNKNOWN who|who|INDP it|it|PERS was|be|V ,|_|_ anyway|anyway|ADV .|_|_ Julie|Julie|N .|_|_
+I|I|PERS will|will|V go|go|UNKNOWN if|if|KS you_|you|PERS _ll|will|V go|go|UNKNOWN with|with|PRP me|I|PERS .|_|_
+Jean|Jean|N .|_|_
+Are|be|V-1/3S you|you|PERS raving|rave|V again|again|ADV ?|_|_
+Miss=Julie|Miss=Julie|N running|run|V away|away|ADV with|with|PRP her|she|PERS coachman|coachman|N ?|_|_
+All|all|DET the|the|ART papers|paper|N would|will|V be|be|V full|full|ADJ of|of|PRP it|it|PERS and|and|KC that|that|KS the|the|ART Count|count|N could|can|V never|never|ADV live|live|V through|through|ADV .|_|_
+Julie|Julie|N .|_|_
+I|I|PERS can_|can|V _n't|not|ADV go|go|UNKNOWN --|_|_ I|I|PERS can_|can|V _n't|not|ADV stay|stay|UNKNOWN .|_|_
+Help|help|V-3S me|I|PERS ,|_|_ I_|I|PERS _m|be|V so|so|ADV tired|tired|ADJ --|_|_ so|so|ADV weary|weary|V .|_|_
+Command|command|V me|I|PERS ,|_|_ set|set|UNKNOWN me|I|PERS in|in|PRP motion|motion|N --|_|_ I|I|PERS can_|can|V _n't|not|ADV think|think|V any=more|any=more|INDP ,|_|_ --|_|_ can_|can|V _n't|not|ADV act|act|V --|_|_ Jean|Jean|N .|_|_
+See|see|UNKNOWN now|now|ADV ,|_|_ what|what|DET creatures|creature|N you|you|PERS aristocrats|aristocrat|N are|be|V-1/3S !|_|_
+Why|why|ADV do|do|UNKNOWN you|you|PERS bristle|bristle|V up|up|ADV and|and|KC stick|stick|UNKNOWN up|up|PRP your|you|PERS noses|nose|N as=though|as=though|KS you|you|PERS were|be|V-1/3S the|the|ART lords|lord|N of|of|PRP creation|creation|N .|_|_
+Very|very|ADV well|well|ADV --|_|_ I|I|PERS will|will|V command|command|V you|you|PERS !|_|_
+Go|go|UNKNOWN up|up|ADV and|and|KC dress|dress|UNKNOWN yourself|you|PERS and|and|KC see|see|UNKNOWN to|to|PRP it|it|PERS that|that|KS you|you|PERS have|have|UNKNOWN travelling|travel|V money|money|N and|and|KC then|then|ADV come|come|UNKNOWN down|down|ADV .|_|_ [|_|_ She|she|PERS hesitates|hesitate|V .|_|_
+]|_|_ Go|go|UNKNOWN immediately|immediately|ADV .|_|_
+[|_|_ She|she|PERS still|still|ADV hesitates|hesitate|V .|_|_
+He|he|PERS takes|take|UNKNOWN her|she|PERS hand|hand|N and|and|KC leads|lead|V her|she|PERS to|to|PRP door|door|N .|_|_ ]|_|_
+Julie|Julie|N .|_|_
+Speak|speak|V gently|gently|ADV to|to|PRP me|I|PERS ,|_|_ Jean|Jean|N .|_|_
+Jean|Jean|N .|_|_
+A|a|ART command|command|N always|always|ADV sounds|sound|V harsh|harsh|ADJ .|_|_
+Feel|feel|UNKNOWN it|it|PERS yourself|you|DET now|now|ADV .|_|_
+[|_|_ Exit|exit|N Julie|Julie|N .|_|_ ]|_|_
+[|_|_ Jean|Jean|N draws|draw|UNKNOWN a|a|ART sigh|sigh|N of|of|PRP relief|relief|N ,|_|_ seats|seat|N himself|he|PERS by|by|PRP the|the|ART table|table|N ,|_|_ takes|take|UNKNOWN out|out|ADV a|a|ART notebook|notebook|N and|and|KC pencil|pencil|N and|and|KC counts|count|N aloud|aloud|ADV now=and=then|now=and=then|ADV until|until|KS ,|_|_ Kristin|Kristin|N comes|come|UNKNOWN in|in|ADV ,|_|_ dressed|dress|UNKNOWN for|for|PRP church|church|N .|_|_
+]|_|_ Kristin|Kristin|N .|_|_ My|I|PERS heavens|heaven|N ,|_|_ how|how|ADV it|it|PERS looks|look|UNKNOWN here|here|ADV .|_|_
+What's|What|N been|be|V going|go|V on|on|ADV ?|_|_
+Jean|Jean|N .|_|_ Oh|oh|IN ,|_|_ Miss=Julie|Miss=Julie|N dragged|drag|UNKNOWN in|in|PRP the|the|ART people|people|N .|_|_
+Have|have|UNKNOWN you|you|PERS been|be|V sleeping|sleep|UNKNOWN so|so|ADV soundly|soundly|ADV that|that|KS you|you|PERS did_|do|UNKNOWN _n't|not|ADV hear|hear|V anything|anything|INDP ?|_|_
+Kristin|Kristin|N .|_|_ I_|I|PERS _ve|have|UNKNOWN slept|sleep|UNKNOWN like|like|PRP a|a|ART log|log|N .|_|_
+Jean|Jean|N .|_|_ And|and|KC already|already|ADV dressed|dress|UNKNOWN for|for|PRP church|church|N !|_|_
+Kristin|Kristin|N .|_|_
+Ye-es|ye-es|N ,|_|_ [|_|_ Sleepily|sleepily|ADV ]|_|_ did_|do|UNKNOWN _n't|not|ADV you|you|PERS promise|promise|V to|to|INFM go|go|UNKNOWN to|to|PRP early|early|ADJ service|service|N with|with|PRP me|I|PERS ?|_|_ Jean|Jean|N .|_|_
+Yes|yes|IN ,|_|_ quite|quite|ADV so|so|ADV ,|_|_ and|and|KC there|there|ADV you|you|PERS have|have|UNKNOWN my|I|PERS stock|stock|N and|and|KC front|front|V-3S .|_|_
+All=right|all=right|ADV .|_|_
+[|_|_ He|he|PERS seats|seat|UNKNOWN himself|he|PERS .|_|_
+Kristin|Kristin|N putting|putt|UNKNOWN on|on|PRP his|he|PERS stock|stock|N .|_|_ ]|_|_ Jean|Jean|N [|_|_ Sleepily|sleepily|ADV ]|_|_ .|_|_ What|what|INDP is|be|V the|the|ART text|text|N today|today|ADV ?|_|_ Kristin|Kristin|N .|_|_
+St.=John's|St.=John|N Day|day|N !|_|_
+It|it|PERS is|be|V of=course|of=course|ADV about|about|PRP the|the|ART beheading|beheading|N of|of|PRP John|John|N the|the|ART Baptist|Baptist|N .|_|_
+Jean|Jean|N .|_|_ I_|I|PERS _m|be|V afraid|afraid|ADJ it|it|PERS will|will|V be|be|V terribly|terribly|UNKNOWN long|long|ADV drawn|draw|UNKNOWN out|out|ADV --|_|_ that|that|INDP .|_|_
+Hey|hey|IN ,|_|_ you_|you|PERS _re|be|V-1/3S choking|choke|UNKNOWN me|I|PERS .|_|_
+I_|I|PERS _m|be|V so|so|ADV sleepy|sleepy|ADJ ,|_|_ so|so|ADV sleepy|sleepy|ADJ .|_|_
+Kristin|Kristin|N .|_|_
+What|what|INDP have|have|UNKNOWN you|you|PERS been|be|V doing|do|V up|up|PRP all-night|all-night|ADJ ?|_|_
+You|you|PERS are|be|V-1/3S actually|actually|ADV green|green|ADJ in|in|PRP the|the|ART face|face|N .|_|_
+Jean|Jean|N .|_|_ I|I|PERS have|have|UNKNOWN been|be|V sitting|sit|UNKNOWN here|here|ADV talking|talk|V to|to|PRP Miss=Julie|Miss=Julie|N .|_|_
+Kristin|Kristin|N .|_|_ Oh|oh|IN you|you|PERS do_|do|UNKNOWN _n't|not|ADV know|know|UNKNOWN your|you|PERS place|place|N .|_|_ [|_|_ Pause|pause|N .|_|_ ]|_|_ Jean|Jean|N .|_|_
+Listen|listen|V ,|_|_ Kristin|Kristin|N .|_|_ Kristin|Kristin|N .|_|_
+Well|well|IN ?|_|_
+Jean|Jean|N .|_|_ It_|it|PERS _s|be|V queer|queer|ADJ about|about|PRP her|she|PERS when|when|ADV you|you|PERS think|think|V-3S it|it|PERS over|over|PRP .|_|_
+Kristin|Kristin|N .|_|_ What|what|INDP is|be|V queer|queer|ADJ ?|_|_ Jean|Jean|N .|_|_
+The|the|ART whole|whole|ADJ thing|thing|N .|_|_
+Kristin|Kristin|N .|_|_
+Have|have|UNKNOWN you|you|PERS been|be|V drinking|drink|V together|together|ADV ,|_|_ too|too|ADV ?|_|_ Jean|Jean|N .|_|_ Yes|yes|IN !|_|_
+Kristin|Kristin|N .|_|_ For|for|PRP shame|shame|N .|_|_ Look|look|UNKNOWN me|I|PERS in|in|PRP the|the|ART eye|eye|N .|_|_
+Jean|Jean|N .|_|_ Yes|yes|IN .|_|_ Kristin|Kristin|N .|_|_
+Is|be|V it|it|PERS possible|possible|ADJ ?|_|_
+Is|be|V it|it|PERS possible|possible|ADJ ?|_|_
+Jean|Jean|N [|_|_ After|after|PRP reflecting|reflect|V ]|_|_ .|_|_
+Yes|yes|IN ,|_|_ it|it|PERS is|be|V .|_|_
+Kristin|Kristin|N .|_|_ Ugh|ugh|IN !|_|_
+That|that|DET I|I|NUM would|will|V never|never|ADV have|have|UNKNOWN believed|believe|V .|_|_
+For|for|PRP shame|shame|N ,|_|_ for|for|PRP shame|shame|N !|_|_ Jean|Jean|N .|_|_
+You|you|PERS are|be|V-1/3S not|not|ADV jealous|jealous|ADJ of|of|PRP her|she|PERS ?|_|_ Kristin|Kristin|N .|_|_
+No|no|DET ,|_|_ not|not|ADV of|of|PRP her|she|PERS .|_|_
+But|but|KC if|if|KS it|it|PERS had|have|UNKNOWN been|be|V Clara|Clara|N or|or|KC Sophie|Sophie|N --|_|_ then|then|ADV I|I|PERS would|will|V have|have|UNKNOWN scratched|scratch|UNKNOWN your|you|PERS eyes|eye|N out|out|ADV .|_|_
+So=that|so=that|KS is|be|V what|what|INDP has|have|UNKNOWN happened|happen|V --|_|_ how|how|ADV I|I|PERS can_|can|V _n't|not|ADV understand|understand|V !|_|_
+No|no|DET ,|_|_ that|that|INDP was_|be|V _n't|not|ADV very|very|ADV nice|nice|ADJ !|_|_
+Jean|Jean|N .|_|_
+Are|be|V-1/3S you|you|PERS mad|mad|ADJ at|at|PRP her|she|PERS ?|_|_
+Kristin|Kristin|N .|_|_
+No|no|DET ,|_|_ but|but|KC with|with|PRP you|you|PERS .|_|_
+That|that|INDP was|be|V bad|bad|ADJ of|of|PRP you|you|PERS ,|_|_ very|very|ADV bad|bad|ADJ .|_|_
+Poor|poor|ADJ girl|girl|N .|_|_
+Do|do|UNKNOWN you|you|PERS know|know|UNKNOWN what|what|INDP --|_|_ I|I|PERS do_|do|UNKNOWN _n't|not|ADV want|want|UNKNOWN to|to|INFM be|be|V here|here|ADV in|in|PRP this|this|DET house|house|N any|any|DET longer|long|ADV where|where|ADV one|one|PERS can_|can|V _not|not|ADV respect|respect|V one's|one|PERS betters|better|N .|_|_
+Jean|Jean|N .|_|_ Why|why|ADV should|shall|V one|one|PERS respect|respect|V them|they|PERS ?|_|_
+Kristin|Kristin|N .|_|_ Yes|yes|IN ,|_|_ you|you|PERS can|can|V say|say|V that|that|KS ,|_|_ you|you|PERS are|be|V-1/3S so|so|ADV smart|smart|ADJ .|_|_
+But|but|KC I|I|PERS do_|do|UNKNOWN _n't|not|ADV want|want|UNKNOWN to|to|INFM serve|serve|V people|people|N who|who|INDP behave|behave|V-3S so|so|ADV .|_|_
+It|it|PERS reflects|reflect|V on|on|PRP oneself|one|PERS ,|_|_ I|I|PERS think|think|V-3S .|_|_ Jean|Jean|N .|_|_
+Yes|yes|IN ,|_|_ but|but|KC it_|it|PERS _s|be|V a|a|ART comfort|comfort|N that|that|KS they_|they|PERS _re|be|V-1/3S not|not|ADV a=bit|a=bit|ADV better|good|ADJ than|than|PRP we|we|PERS .|_|_
+Kristin|Kristin|N .|_|_
+No|no|DET ,|_|_ I|I|PERS do_|do|UNKNOWN _n't|not|ADV ,|_|_ think|think|V-3S so|so|ADV ,|_|_ for|for|PRP if|if|KS they|they|PERS are|be|V-1/3S not|not|ADV better|good|ADJ there_|there|ADV _s|be|V no|no|DET use|use|N in|in|PRP our|we|PERS trying|try|V to|to|INFM better|better|V ourselves|we|PERS in|in|PRP this|this|DET world|world|N .|_|_
+And|and|KC to|to|INFM think|think|V of|of|PRP the|the|ART Count|count|N !|_|_
+Think|think|V of|of|PRP him|he|PERS who|who|INDP has|have|UNKNOWN had|have|UNKNOWN so|so|ADV much|much|DET sorrow|sorrow|N all|all|DET his|he|PERS days|day|N ?|_|_
+No|no|DET ,|_|_ I|I|PERS do_|do|UNKNOWN _n't|not|ADV want|want|UNKNOWN to|to|INFM stay|stay|UNKNOWN in|in|PRP this|this|DET house|house|N any|any|DET longer|long|ADJ !|_|_
+And|and|KC to|to|INFM think|think|V of|of|PRP it|it|PERS being|be|V with|with|PRP such=as|such=as|PRP you|you|PERS !|_|_
+If|if|KS it|it|PERS had|have|UNKNOWN been|be|V the|the|ART Lieutenant|lieutenant|N --|_|_
+Jean|Jean|N .|_|_
+What's|What|N that|that|INDP ?|_|_
+Kristin|Kristin|N .|_|_ Yes|yes|IN !|_|_
+He|he|PERS was|be|V good|good|ADJ enough|enough|ADV ,|_|_ to|to|INFM be|be|V sure|sure|ADJ ,|_|_ but|but|KC there_|there|ADV _s|be|V a|a|ART difference|difference|N between|between|PRP people|people|N just|just|ADV the|the|ART same|same|INDP .|_|_
+No|no|DET ,|_|_ this|this|INDP I|I|PERS can|can|V never|never|ADV forget|forget|V .|_|_
+Miss=Julie|Miss=Julie|N who|who|INDP was|be|V always|always|ADV so|so|ADV proud|proud|ADJ and|and|KC indifferent|indifferent|ADJ to|to|PRP men|man|N !|_|_ One|one|PERS never|never|ADV would|will|V believe|believe|V that|that|KS she|she|PERS would|will|V give|give|UNKNOWN herself|she|PERS --|_|_ and|and|KC to|to|PRP one|one|PERS like|like|PRP you|you|PERS !|_|_
+She|she|PERS who|who|INDP was|be|V ready|ready|ADJ to|to|INFM have|have|UNKNOWN Diana|Diana|N shot|shoot|UNKNOWN because|because|KS she|she|PERS would|will|V run|run|V after|after|PRP the|the|ART gatekeeper's|gatekeeper|N mongrels|mongrel|N .|_|_
+Yes|yes|IN ,|_|_ I|I|PERS say|say|V-3S it|it|PERS --|_|_ and|and|KC here|here|ADV I|I|PERS will_|will|V _n't|not|ADV stay|stay|UNKNOWN any|any|DET longer|long|ADJ and|and|KC on|on|PRP the|the|ART twenty-fourth|twenty-fourth|NUM of|of|PRP October|October|N I|I|PERS go|go|UNKNOWN my|I|PERS way|way|N .|_|_
+Jean|Jean|N .|_|_ And|and|KC then|then|ADV ?|_|_
+Well|well|ADV ,|_|_ what'll|what'll|N I|I|NUM look|look|N for|for|PRP ?|_|_
+A|a|ART married|married|ADJ man|man|N could_|can|V _n't|not|ADV get|get|UNKNOWN a|a|ART place|place|N like|like|PRP this|this|INDP .|_|_
+Kristin|Kristin|N .|_|_ No|no|DET ,|_|_ of=course|of=course|ADV not|not|ADV .|_|_
+But|but|KC you|you|PERS could|can|V take|take|UNKNOWN a|a|ART gatekeeper's|gatekeeper|N job|job|N or|or|KC look|look|UNKNOWN for|for|PRP it|it|PERS watchman's|watchman|N place|place|N in|in|PRP some|some|DET factory|factory|N .|_|_
+The|the|ART government's|government|N plums|plum|N are|be|V-1/3S few|few|INDP ,|_|_ but|but|KC they|they|PERS are|be|V-1/3S sure|sure|ADJ .|_|_ And|and|KC then|then|ADV the|the|ART wife|wife|N and|and|KC children|child|N get|get|UNKNOWN a|a|ART pension|pension|N --|_|_
+Jean|Jean|N [|_|_ With|with|PRP a|a|ART grimace|grimace|N ]|_|_ .|_|_ That's|That|N all|all|DET very|very|ADV fine|fine|ADJ --|_|_ all|all|DET that|that|INDP ,|_|_ but|but|KC it_|it|PERS _s|be|V not|not|ADV exactly|exactly|ADJ in|in|PRP my|I|PERS line|line|N to|to|INFM think|think|V about|about|PRP dying|dye|V for|for|PRP my|I|PERS wife|wife|N and|and|KC children|child|N just|just|ADV now|now|ADV .|_|_
+I|I|PERS must|must|V confess|confess|V that|that|KS I|I|PERS have|have|UNKNOWN slightly|slight|ADV different|different|ADJ aspirations|aspiration|N .|_|_
+Kristin|Kristin|N .|_|_
+Aspirations|aspiration|N ?|_|_
+Aspirations|aspiration|N --|_|_ anyway|anyway|ADV you|you|PERS have|have|UNKNOWN obligations|obligation|N .|_|_ Think|think|V of|of|PRP those|that|INDP ,|_|_ you|you|PERS .|_|_
+Jean|Jean|N .|_|_ Do_|do|UNKNOWN _n't|not|ADV irritate|irritate|V me|I|PERS with|with|PRP talk|talk|N about|about|PRP my|I|PERS obligations|obligation|N .|_|_ I|I|PERS know|know|UNKNOWN my|I|PERS own|own|DET business|business|N .|_|_ [|_|_ He|he|PERS listens|listen|V .|_|_
+]|_|_ We_|we|PERS _ll|will|V have|have|UNKNOWN plenty=of|plenty=of|DET time|time|N for|for|PRP all|all|DET this|this|DET some|some|DET other|other|DET day|day|N .|_|_
+Go|go|UNKNOWN and|and|KC get|get|UNKNOWN ready|ready|ADJ and|and|KC we_|we|PERS _ll|will|V be|be|V off|off|ADV to|to|INFM church|church|V .|_|_
+Kristin|Kristin|N [|_|_ Listening|listen|V ]|_|_ .|_|_ Who's|who|INDP that|that|DET walking|walk|V upstairs|upstairs|ADV ?|_|_ Jean|Jean|N .|_|_
+I|I|PERS do_|do|UNKNOWN _n't|not|ADV know|know|UNKNOWN --|_|_ unless|unless|KS it_|it|PERS _s|be|V Clara|Clara|N .|_|_
+Kristin|Kristin|N [|_|_ Starting|start|V to|to|INFM go|go|UNKNOWN ]|_|_ .|_|_
+It|it|PERS could|can|V never|never|ADV be|be|V the|the|ART Count|count|N who|who|INDP has|have|UNKNOWN come|come|UNKNOWN home|home|ADV without|without|PRP anyone|anyone|INDP hearing|hear|V him|he|PERS ?|_|_
+Jean|Jean|N [|_|_ Frightened|frighten|V ]|_|_ .|_|_
+The|the|ART Count|count|N !|_|_ I|I|PERS can_|can|V _n't|not|ADV believe|believe|V that|that|INDP .|_|_
+He|he|PERS would|will|V have|have|UNKNOWN rung|ring|UNKNOWN the|the|ART bell|Bell|N .|_|_ Kristin|Kristin|N .|_|_
+God|God|N help|help|N us|we|PERS !|_|_ Never|never|ADV have|have|UNKNOWN I|I|PERS been|be|V mixed=up|mixed=up|ADJ in|in|PRP anything|anything|INDP like|like|PRP this|this|INDP !|_|_
+[|_|_ Exit|exit|N Kristin|Kristin|N .|_|_ The|the|ART sun|sun|N has|have|UNKNOWN risen|rise|V and|and|KC lights|light|V up|up|ADV the|the|ART scene|scene|N .|_|_ Presently|presently|ADV the|the|ART sunshine|sunshine|N comes|come|UNKNOWN in|in|ADV through|through|PRP windows|window|N at|at|PRP an|a|ART angle|angle|N .|_|_
+Jean|Jean|N goes|go|UNKNOWN to|to|PRP door|door|N and|and|KC motions|motion|V .|_|_
+Julie|Julie|N .|_|_ I|I|PERS am|be|V ready|ready|ADJ !|_|_
+Jean|Jean|N .|_|_
+Hush|hush|N ,|_|_ Kristin|Kristin|N is|be|V stirring|stir|UNKNOWN !|_|_
+[|_|_ Julie|Julie|N frightened|frighten|V and|and|KC nervous|nervous|ADJ throughout|throughout|PRP following|follow|V scene|scene|N .|_|_ ]|_|_ Julie|Julie|N .|_|_ Does|do|UNKNOWN she|she|PERS suspect|suspect|V anything|anything|INDP ?|_|_
+Jean|Jean|N .|_|_ She|she|PERS knows|know|UNKNOWN nothing|nothing|INDP .|_|_
+But|but|KC ,|_|_ good=heavens|good=heavens|ADV ,|_|_ how|how|ADV you|you|PERS look|look|UNKNOWN !|_|_
+Julie|Julie|N .|_|_
+Why|why|ADV ?|_|_
+Jean|Jean|N .|_|_ You|you|PERS are|be|V-1/3S pale|pale|ADJ as|as|PRP a|a|ART ghost|ghost|N .|_|_
+Julie|Julie|N [|_|_ Sighs|sigh|V ]|_|_ .|_|_
+Am|Am|N I|I|NUM ?|_|_
+Oh|oh|IN ,|_|_ the|the|ART sun|sun|N is|be|V rising|rise|V ,|_|_ the|the|ART sun|sun|N !|_|_
+Jean|Jean|N .|_|_
+And|and|KC now|now|ADV the|the|ART troll's|troll|N spell|spell|N is|be|V broken|break|UNKNOWN .|_|_
+Julie|Julie|N .|_|_ The|the|ART trolls|troll|N have|have|UNKNOWN indeed|indeed|ADV been|be|V at|at|PRP work|work|N this|this|DET night|night|N .|_|_
+But|but|KC ,|_|_ Jean|Jean|N ,|_|_ listen|listen|V-3S --|_|_ come|come|UNKNOWN with|with|PRP me|I|PERS ,|_|_ I|I|PERS have|have|UNKNOWN money|money|N enough|enough|ADV .|_|_
+Jean|Jean|N .|_|_
+Plenty|plenty|N ?|_|_ Julie|Julie|N .|_|_
+Enough|enough|ADV to|to|INFM start|start|V with|with|PRP .|_|_
+Go|go|UNKNOWN with|with|PRP me|I|PERS for|for|KS I|I|PERS can_|can|V _n't|not|ADV go|go|UNKNOWN alone|alone|ADV --|_|_ today|today|ADV ,|_|_ midsummer|midsummer|N day|day|N .|_|_
+Think|think|V of|of|PRP the|the|ART stuffy|stuffy|ADJ train|train|N ,|_|_ packed|pack|UNKNOWN in|in|ADV with|with|PRP the|the|ART crowds|crowd|N of|of|PRP people|people|N staring|stare|V at|at|PRP one|one|PERS ;|_|_
+the|the|ART long|long|ADJ stops|stop|N at|at|PRP the|the|ART stations|station|N when|when|ADV one|one|PERS would|will|V be|be|V speeding|speed|V away|away|ADV .|_|_
+No|no|DET ,|_|_ I|I|PERS can_|can|V _not|not|ADV ,|_|_ I|I|PERS can_|can|V _not|not|ADV !|_|_
+And|and|KC then|then|ADV the|the|ART memories|memory|N ,|_|_ childhood's|childhood|N memories|memory|N of|of|PRP midsummer|midsummer|N day|day|N --|_|_ the|the|ART church|church|N decorated|decorate|UNKNOWN with|with|PRP birch|birch|N branches|branch|N and|and|KC syringa|syringa|N blossoms|blossom|N ;|_|_
+the|the|ART festive|festive|ADJ dinner|dinner|N table|table|N with|with|PRP relations|relation|N and|and|KC friends|friend|N ,|_|_ afternoon|afternoon|N in|in|PRP the|the|ART park|park|N ,|_|_ music|music|N ,|_|_ dancing|dancing|N ,|_|_ flowers|flower|N and|and|KC games|game|N --|_|_ oh|oh|IN ,|_|_ one|one|PERS may|may|V fly|fly|UNKNOWN ,|_|_ fly|fly|UNKNOWN ,|_|_ but|but|KC anguish|anguish|N and|and|KC remorse|remorse|N follow|follow|V in|in|PRP the|the|ART pack|pack|N wagon|wagon|N .|_|_ Jean|Jean|N .|_|_
+I_|I|PERS _ll|will|V go|go|UNKNOWN with|with|PRP you|you|PERS --|_|_ if|if|KS we|we|PERS leave|leave|V-3S instantly|instantly|ADV --|_|_ before|before|KS it_|it|PERS _s|be|V too|too|ADV late|late|ADJ .|_|_
+Julie|Julie|N .|_|_
+Go|go|UNKNOWN and|and|KC dress|dress|UNKNOWN then|then|ADV .|_|_ [|_|_ She|she|PERS takes|take|UNKNOWN up|up|ADV bird|bird|N cage|cage|N .|_|_
+]|_|_ Jean|Jean|N .|_|_ But|but|KC no|no|DET baggage|baggage|N !|_|_
+That|that|INDP would|will|V betray|betray|V us|we|PERS .|_|_
+Julie|Julie|N .|_|_
+Nothing|nothing|INDP but|but|KC what|what|INDP we|we|PERS can|can|V take|take|UNKNOWN in|in|ADV the|the|ART coupé|coupé|UNKNOWN .|_|_
+[|_|_ Jean|Jean|N has|have|UNKNOWN picked|pick|UNKNOWN up|up|ADV his|he|PERS hat|hat|N .|_|_
+]|_|_ Jean|Jean|N .|_|_
+What|what|INDP have|have|UNKNOWN you|you|PERS there|there|ADV ?|_|_
+Julie|Julie|N .|_|_
+It_|it|PERS _s|be|V only|only|ADV my|I|PERS canary|canary|N .|_|_
+I|I|PERS can_|can|V _not|not|ADV ,|_|_ will|will|V not|not|ADV ,|_|_ leave|leave|V it|it|PERS behind|behind|ADV .|_|_
+Jean|Jean|N .|_|_
+So|so|ADV we|we|PERS are|be|V-1/3S to|to|INFM lug|lug|UNKNOWN a|a|ART bird|bird|N cage|cage|N with|with|PRP us|we|PERS .|_|_
+Are|be|V-1/3S you|you|PERS crazy|crazy|ADJ ?|_|_
+Let|let|V go|go|UNKNOWN of|of|PRP it|it|PERS .|_|_ Julie|Julie|N .|_|_
+It|it|PERS is|be|V all|all|INDP I|I|PERS take|take|N from|from|PRP home|home|ADV .|_|_ The|the|ART only|only|ADV living|living|ADJ creature|creature|N that|that|INDP cares|care|V for|for|PRP me|I|PERS .|_|_
+Do_|do|UNKNOWN _n't|not|ADV be|be|V hard|hard|ADJ --|_|_ let|let|V me|I|PERS take|take|UNKNOWN it|it|PERS with|with|PRP me|I|PERS .|_|_
+Jean|Jean|N .|_|_
+Let|let|V go|go|UNKNOWN the|the|ART cage|cage|N and|and|KC do_|do|UNKNOWN _n't|not|ADV talk|talk|V so|so|ADV loud|loud|ADJ .|_|_
+No|no|DET ,|_|_ I|I|PERS will|will|V not|not|ADV leave|leave|V it|it|PERS to|to|PRP strange|strange|ADJ hands|hand|N .|_|_
+I|I|PERS would|will|V rather|rather|ADV see|see|UNKNOWN it|it|PERS dead|dead|ADJ .|_|_
+Jean|Jean|N .|_|_ Give|give|UNKNOWN me|I|PERS the|the|ART creature|creature|N .|_|_ I_|I|PERS _ll|will|V fix|fix|UNKNOWN it|it|PERS .|_|_
+Julie|Julie|N .|_|_ Yes|yes|IN ,|_|_ but|but|KC do_|do|UNKNOWN _n't|not|ADV hurt|hurt|V it|it|PERS .|_|_
+Do_|do|UNKNOWN _n't|not|ADV --|_|_ no|no|DET ,|_|_ I|I|PERS can_|can|V _not|not|ADV .|_|_
+Jean|Jean|N .|_|_ Let|let|V go|go|UNKNOWN .|_|_
+I|I|PERS can|can|V .|_|_
+Julie|Julie|N [|_|_ Takes|take|UNKNOWN the|the|ART canary|canary|N from|from|PRP cage|cage|N ]|_|_ .|_|_
+Oh|oh|IN ,|_|_ my|I|PERS little|little|ADJ siren|siren|N .|_|_
+Must|must|V your|you|PERS mistress|mistress|N part|part|UNKNOWN with|with|PRP you|you|PERS ?|_|_
+Jean|Jean|N .|_|_ Be|be|V so|so|ADV good|good|ADJ as|as|PRP not|not|ADV to|to|INFM make|make|UNKNOWN a|a|ART scene|scene|N .|_|_
+Your|you|PERS welfare|welfare|N ,|_|_ your|you|PERS life|life|N ,|_|_ is|be|V at|at|PRP stake|stake|N .|_|_
+So|so|ADV --|_|_ quickly|quickly|ADV .|_|_ [|_|_ Snatches|snatch|N bird|bird|V-3S from|from|PRP her|she|PERS and|and|KC goes|go|UNKNOWN to|to|PRP chopping|chopping|N block|block|N and|and|KC takes|take|UNKNOWN up|up|ADV meat|meat|N chopper|chopper|N ]|_|_ .|_|_
+You|you|PERS should|shall|V have|have|UNKNOWN learned|learn|V how|how|ADV to|to|INFM chop|chop|UNKNOWN off|off|ADV a|a|ART chicken's|chicken|N head|head|N instead=of|instead=of|PRP shooting|shooting|N with|with|PRP a|a|ART revolver|revolver|N .|_|_ [|_|_ He|he|PERS chops|chop|UNKNOWN off|off|ADV the|the|ART bird's|bird|N head|head|N ]|_|_ .|_|_
+Then|then|ADV you|you|PERS would_|will|V _n't|not|ADV swoon|swoon|V at|at|PRP a|a|ART drop|drop|N of|of|PRP blood|blood|N .|_|_
+Julie|Julie|N [|_|_ Shrieks|shriek|V ]|_|_ .|_|_ Kill|kill|UNKNOWN me|I|PERS ,|_|_ too|too|ADV .|_|_
+Kill|kill|UNKNOWN me|I|PERS !|_|_ You|you|PERS who|who|INDP can|can|V butcher|butcher|N an|a|ART innocent|innocent|ADJ bird|bird|N without|without|PRP a|a|ART tremble|tremble|N .|_|_
+Oh|oh|IN ,|_|_ how|how|ADV I|I|PERS shrink|shrink|V-3S from|from|PRP you|you|PERS .|_|_
+I|I|PERS curse|curse|V-3S the|the|ART moment|moment|N I|I|PERS first|first|ADV saw|see|UNKNOWN you|you|PERS .|_|_
+I|I|PERS curse|curse|V-3S the|the|ART moment|moment|N I|I|PERS was|be|V conceived|conceive|V in|in|PRP my|I|PERS mother's|mother|N womb|womb|N .|_|_ Jean|Jean|N .|_|_ Come|come|UNKNOWN now|now|ADV !|_|_
+What|what|DET good|good|N is|be|V your|you|PERS cursing|cursing|N ,|_|_ let_|let|V _s|we|PERS be|be|V off|off|PRP .|_|_
+Julie|Julie|N [|_|_ Looks|look|UNKNOWN toward|toward|PRP chopping|chopping|N block|block|N as=though|as=though|KS obsessed|obsess|V by|by|PRP thought|thought|N of|of|PRP the|the|ART slain|slay|V bird|bird|N ]|_|_ .|_|_ No|no|DET ,|_|_ I|I|PERS can_|can|V _not|not|ADV .|_|_
+I|I|PERS must|must|V see|see|UNKNOWN --|_|_ --|_|_ hush|hush|N ,|_|_ a|a|ART carriage|carriage|N is|be|V passing|pass|UNKNOWN .|_|_
+Do_|do|UNKNOWN _n't|not|ADV you|you|PERS think|think|V I|I|PERS can|can|V stand|stand|UNKNOWN the|the|ART sight|sight|N of|of|PRP blood|blood|N ?|_|_
+You|you|PERS think|think|V-3S I|I|PERS am|be|V weak|weak|ADJ .|_|_
+Oh|oh|IN ,|_|_ I|I|PERS should|shall|V like|like|V to|to|INFM see|see|UNKNOWN your|you|PERS blood|blood|N flowing|flow|UNKNOWN --|_|_ to|to|INFM see|see|UNKNOWN your|you|PERS brain|brain|N on|on|PRP the|the|ART chopping|chopping|N block|block|N ,|_|_ all|all|DET your|you|PERS sex|sex|N swimming|swimming|ADJ in|in|PRP a|a|ART sea|sea|N of|of|PRP blood|blood|N .|_|_ I|I|PERS believe|believe|V-3S I|I|PERS could|can|V drink|drink|V out=of|out=of|PRP your|you|PERS skull|skull|N ,|_|_ bathe|bathe|UNKNOWN my|I|PERS feet|foot|N in|in|PRP your|you|PERS breast|breast|N and|and|KC eat|eat|V your|you|PERS heart|heart|N cooked|cook|V whole|whole|N .|_|_
+You|you|PERS think|think|V-3S I|I|PERS am|be|V weak|weak|ADJ ;|_|_
+you|you|PERS believe|believe|V-3S that|that|KS I|I|PERS love|love|UNKNOWN you|you|PERS because|because|KS my|I|PERS life|life|N has|have|UNKNOWN mingled|mingle|UNKNOWN with|with|PRP yours|you|PERS ;|_|_
+you|you|PERS think|think|V-3S that|that|KS I|I|PERS would|will|V carry|carry|UNKNOWN your|you|PERS offspring|offspring|N under|under|PRP my|I|PERS heart|heart|N ,|_|_ and|and|KC nourish|nourish|V it|it|PERS with|with|PRP my|I|PERS blood|blood|N --|_|_ give|give|UNKNOWN birth|birth|N to|to|PRP your|you|PERS child|child|N and|and|KC take|take|UNKNOWN your|you|PERS name|name|N !|_|_
+Hear|hear|V ,|_|_ you|you|PERS ,|_|_ what|what|INDP are|be|V-1/3S you|you|PERS called|call|UNKNOWN ,|_|_ what|what|INDP is|be|V your|you|PERS family|family|N name|name|N ?|_|_
+But|but|KC I_|I|PERS _m|be|V sure|sure|ADJ you|you|PERS have|have|UNKNOWN none|none|INDP .|_|_ I|I|PERS should|shall|V be|be|V "|_|_ Mrs.|Mrs.|N Gate-Keeper|gate-keeper|N ,|_|_ «|_|_ perhaps|perhaps|ADV ,|_|_ or|or|KC »|_|_ Madame=Dumpheap|Madame=Dumpheap|N .|_|_
+"|_|_ You|you|PERS dog|dog|V-3S with|with|PRP my|I|PERS collar|collar|N on|on|PRP ,|_|_ you|you|PERS lackey|lackey|V-3S with|with|PRP my|I|PERS father's|father|N hallmark|hallmark|N on|on|PRP your|you|PERS buttons|button|N .|_|_ I|I|PERS play|play|UNKNOWN rival|rival|ADJ to|to|PRP my|I|PERS cook|cook|N --|_|_ oh|oh|IN --|_|_ oh|oh|IN --|_|_ oh|oh|IN !|_|_
+You|you|PERS believe|believe|V-3S that|that|KS I|I|PERS am|be|V cowardly|cowardly|ADJ and|and|KC want|want|UNKNOWN to|to|PRP run-away|run-away|ADJ .|_|_
+No|no|DET ,|_|_ now|now|ADV I|I|PERS shall|shall|V stay|stay|UNKNOWN .|_|_ The|the|ART thunder|thunder|N may|may|V roll|roll|UNKNOWN .|_|_
+My|I|PERS father|father|N will|will|V return|return|UNKNOWN --|_|_ and|and|KC find|find|V his|he|PERS desk|desk|N broken|break|UNKNOWN into|into|PRP --|_|_ his|he|PERS money|money|N gone|gone|ADV !|_|_
+Then|then|ADV he|he|PERS will|will|V ring|ring|UNKNOWN --|_|_ that|that|DET bell|Bell|N .|_|_ A|a|ART scuffle|scuffle|N with|with|PRP his|he|PERS servant|servant|N --|_|_ then|then|ADV sends|send|UNKNOWN for|for|PRP the|the|ART police|police|N --|_|_ and|and|KC then|then|ADV I|I|PERS tell|tell|V-3S all|all|INDP --|_|_ everything|everything|INDP !|_|_
+Oh|oh|IN ,|_|_ it|it|PERS will|will|V be|be|V beautiful|beautiful|ADJ to|to|INFM have|have|UNKNOWN it|it|PERS all=over|all=over|ADV with|with|PRP --|_|_ if|if|KS only|only|ADV that|that|INDP were|be|V-1/3S the|the|ART end|end|N !|_|_
+And|and|KC my|I|PERS father|father|N --|_|_ he_|he|PERS _ll|will|V have|have|UNKNOWN a|a|ART shock|shock|N and|and|KC die|die|UNKNOWN ,|_|_ and|and|KC then|then|ADV that|that|INDP will|will|V be|be|V the|the|ART end|end|N .|_|_
+Then|then|ADV they|they|PERS will|will|V place|place|UNKNOWN his|he|PERS swords|sword|N across|across|PRP the|the|ART coffin|coffin|N --|_|_ and|and|KC the|the|ART Count's|count|N line|line|N is|be|V extinct|extinct|ADJ .|_|_
+Now|now|ADV it|it|PERS is|be|V the|the|ART king's|King|N blood|blood|N talking|talk|V .|_|_
+Splendid|splendid|ADJ ,|_|_ Miss=Julie|Miss=Julie|N !|_|_
+Only|only|ADV keep|keep|N the|the|ART miller|miller|N in|in|PRP his|he|PERS sack|sack|N .|_|_
+Julie|Julie|N [|_|_ Hastening|hasten|V to|to|PRP Kristin|Kristin|N and|and|KC falls|fall|N in|in|PRP her|she|PERS arms|arm|N as=though|as=though|KS seeking|seek|UNKNOWN protection|protection|N ]|_|_ .|_|_
+Help|help|V-3S me|I|PERS ,|_|_ Kristin|Kristin|N ,|_|_ help|help|V me|I|PERS against|against|PRP this|this|DET man|man|N .|_|_
+Kristin|Kristin|N [|_|_ Cold|cold|ADJ and|and|KC unmoved|unmoved|ADJ ]|_|_ .|_|_
+What|what|DET kind|kind|N of|of|PRP performance|performance|N is|be|V this|this|INDP for|for|PRP a|a|ART holy|holy|ADJ day|day|N morning|morning|N ?|_|_
+What|what|INDP does|do|UNKNOWN this|this|INDP mean|mean|V --|_|_ this|this|DET noise|noise|N and|and|KC fuss|fuss|N ?|_|_
+Julie|Julie|N .|_|_
+Kristin|Kristin|N ,|_|_ you|you|PERS are|be|V-1/3S a|a|ART woman|woman|N ,|_|_ --|_|_ and|and|KC my|I|PERS friend|friend|N .|_|_
+Beware|beware|V of|of|PRP this|this|DET wretch|wretch|N .|_|_
+Jean|Jean|N [|_|_ A|a|ART little|little|ADJ embarrassed|embarrass|V and|and|KC surprised|surprised|ADJ ]|_|_ .|_|_
+While|while|KS the|the|ART ladies|Lady|N are|be|V-1/3S arguing|argue|V I_|I|PERS _ll|will|V go|go|UNKNOWN and|and|KC shave|shave|UNKNOWN myself|I|PERS .|_|_ [|_|_ Jean|Jean|N goes|go|UNKNOWN ,|_|_ R|R|N .|_|_ ]|_|_ Julie|Julie|N .|_|_
+You|you|PERS must|must|V understand|understand|V me|I|PERS --|_|_ you|you|PERS must|must|V listen|listen|V to|to|PRP me|I|PERS .|_|_
+Kristin|Kristin|N .|_|_
+No|no|DET --|_|_ I|I|PERS can_|can|V _n't|not|ADV understand|understand|V all|all|DET this|this|DET bosh|bosh|N .|_|_
+Where|where|ADV may|may|V you|you|PERS be|be|V going|go|V in|in|PRP your|you|PERS traveling|travel|V dress|dress|N ?|_|_ --|_|_ and|and|KC he|he|PERS had|have|UNKNOWN his|he|PERS hat|hat|N on|on|PRP !|_|_
+Hey|hey|IN ?|_|_
+Julie|Julie|N .|_|_ Listen|listen|V to|to|PRP me|I|PERS ,|_|_ Kristin|Kristin|N ,|_|_ listen|listen|V-3S to|to|PRP me|I|PERS and|and|KC I_|I|PERS _ll|will|V tell|tell|V you|you|PERS everything|everything|INDP .|_|_ Kristin|Kristin|N .|_|_
+Is|be|V it|it|PERS that|that|DET foolishness|foolishness|N with|with|PRP Jean|Jean|N ?|_|_
+That|that|INDP does_|do|UNKNOWN _n't|not|ADV concern|concern|V me|I|PERS at=all|at=all|ADV .|_|_
+That|that|DET I|I|NUM will_|will|V _n't|not|ADV be|be|V mixed=up|mixed=up|ADJ with|with|PRP ,|_|_ but|but|KC if|if|KS you_|you|PERS _re|be|V-1/3S trying|try|V to|to|INFM lure|lure|V him|he|PERS to|to|INFM run|run|V away|away|ADV with|with|PRP you|you|PERS then|then|ADV we|we|PERS must|must|V put|put|UNKNOWN a|a|ART stop|stop|N to|to|PRP it|it|PERS .|_|_
+Julie|Julie|N [|_|_ Nervously|nervous|ADV ]|_|_ .|_|_ Try|try|N to|to|INFM be|be|V calm|calm|ADJ now|now|ADV Kristin|Kristin|N ,|_|_ and|and|KC listen|listen|V to|to|PRP me|I|PERS .|_|_
+I|I|PERS can_|can|V _n't|not|ADV stay|stay|UNKNOWN here|here|ADV and|and|KC Jean|Jean|N can_|can|V _n't|not|ADV stay|stay|UNKNOWN here|here|ADV .|_|_ That|that|INDP being|be|V true|true|ADJ ,|_|_ we|we|PERS must|must|V leave|leave|V --|_|_ --|_|_ Kristin|Kristin|N .|_|_
+Kristin|Kristin|N .|_|_ Hm|hm|IN ,|_|_ hm|hm|IN !|_|_
+Julie|Julie|N [|_|_ Brightening|brighten|V up|up|ADV ]|_|_ .|_|_ But|but|KC I|I|PERS have|have|UNKNOWN an|a|ART idea|idea|UNKNOWN --|_|_ what|what|INDP if|if|KS we|we|PERS three|three|NUM should|shall|V go|go|UNKNOWN --|_|_ away|away|ADV --|_|_ to|to|PRP foreign|foreign|ADJ parts|part|N .|_|_ To|to|PRP Switzerland|Switzerland|N and|and|KC set|set|UNKNOWN up|up|ADV a|a|ART hotel|hotel|N together|together|ADV --|_|_ I|I|PERS have|have|UNKNOWN money|money|N you|you|PERS see|see|UNKNOWN --|_|_ and|and|KC Jean|Jean|N and|and|KC I|I|PERS would|will|V back|back|UNKNOWN the|the|ART whole|whole|ADJ thing|thing|N ,|_|_ you|you|PERS could|can|V run|run|V the|the|ART kitchen|kitchen|N .|_|_
+Will_|will|V _n't|not|ADV that|that|INDP be|be|V fine|fine|ADJ ?|_|_
+Say|say|V yes|yes|IN ,|_|_ now|now|ADV --|_|_ and|and|KC come|come|UNKNOWN with|with|PRP us|we|PERS --|_|_ there|there|ADV everything|everything|INDP would|will|V be|be|V arranged|arrange|UNKNOWN --|_|_ say|say|V yes|yes|IN !|_|_ [|_|_ Throws|throw|N her|she|PERS arms|arm|N around|around|PRP Kristin|Kristin|N and|and|KC coaxes|coax|V her|she|PERS ]|_|_ .|_|_ Kristin|Kristin|N [|_|_ Cold|cold|ADJ and|and|KC reflecting|reflect|V ]|_|_ .|_|_ Hm|hm|IN --|_|_ hm|hm|IN !|_|_
+Julie|Julie|N [|_|_ Presto|presto|ADV tempo|tempo|N ]|_|_ .|_|_
+You|you|PERS leave|leave|V-3S never|never|ADV been|be|V out|out|ADV and|and|KC traveled|travel|V ,|_|_ Kristin|Kristin|N .|_|_
+You|you|PERS shall|shall|V look|look|UNKNOWN about|about|PRP you|you|PERS in|in|PRP the|the|ART world|world|N .|_|_
+Then|then|ADV we_|we|PERS _ll|will|V see|see|UNKNOWN his|he|PERS palace|palace|N --|_|_ a|a|ART palace|palace|N like|like|PRP those|that|INDP in|in|PRP the|the|ART Sagas|saga|N --|_|_ and|and|KC from|from|PRP there|there|ADV it|it|PERS is_|be|V _n't|not|ADV far|far|ADJ to|to|PRP Switzerland|Switzerland|N --|_|_ and|and|KC the|the|ART Alps|Alps|N ,|_|_ the|the|ART Alps|Alps|N mind|mind|N you|you|PERS with|with|PRP snow|snow|N in|in|PRP mid-summer|mid-summer|N .|_|_
+And|and|KC there|there|ADV oranges|orange|N grow|grow|V-3S and|and|KC laurel|laurel|N --|_|_ green|green|ADJ all|all|DET the|the|ART year|year|N round|round|N if|if|KS --|_|_ [|_|_ Jean|Jean|N is|be|V seen|see|UNKNOWN in|in|PRP the|the|ART doorway|doorway|N R.|R.|UNKNOWN stropping|strop|UNKNOWN his|he|PERS razor|razor|N on|on|PRP the|the|ART strop|strop|N which|which|INDP he|he|PERS holds|hold|UNKNOWN between|between|PRP his|he|PERS teeth|tooth|N and|and|KC left-hand|left=hand|N .|_|_
+He|he|PERS listens|listen|V and|and|KC nods|nod|V his|he|PERS head|head|N favorably|favorably|UNKNOWN now=and=then|now=and=then|ADV .|_|_
+Kristin|Kristin|N .|_|_ Listen|listen|V now|now|ADV .|_|_
+Does|do|UNKNOWN Miss=Julie|Miss=Julie|N believe|believe|V in|in|PRP all|all|DET this|this|INDP ?|_|_
+[|_|_ Julie|Julie|N going|go|V to|to|PRP pieces|piece|N .|_|_ ]|_|_ Julie|Julie|N .|_|_
+Do|do|UNKNOWN I|I|NUM believe|believe|V in|in|PRP it|it|PERS ?|_|_ Kristin|Kristin|N .|_|_
+Yes|yes|IN .|_|_ Julie|Julie|N [|_|_ Tired|tire|V ]|_|_ .|_|_
+I|I|PERS do_|do|UNKNOWN _n't|not|ADV know|know|UNKNOWN .|_|_
+I|I|PERS do_|do|UNKNOWN _n't|not|ADV believe|believe|V in|in|PRP anything|anything|INDP any=more|any=more|INDP .|_|_ [|_|_ Sinks|sink|N down|down|ADV on|on|PRP bench|bench|N ,|_|_ and|and|KC takes|take|UNKNOWN head|head|N in|in|PRP her|she|PERS hand|hand|N on|on|PRP table|table|N .|_|_
+]|_|_ In|in|PRP nothing|nothing|INDP --|_|_ nothing|nothing|INDP !|_|_
+Kristin|Kristin|N [|_|_ Turns|turn|UNKNOWN to|to|PRP R.|R.|UNKNOWN and|and|KC looks|look|UNKNOWN toward|toward|PRP Jean|Jean|N ]|_|_ .|_|_
+So|so|ADV --|_|_ you|you|PERS intended|intend|V to|to|INFM run|run|V away|away|ADV ?|_|_
+Jean|Jean|N [|_|_ Rather|rather|ADV shamefaced|shamefaced|ADJ comes|come|UNKNOWN forward|forward|ADV and|and|KC puts|put|UNKNOWN razor|razor|N on|on|ADV table|table|N ]|_|_ .|_|_ Run|run|V away|away|ADV ?|_|_
+That's|That|N putting|putt|UNKNOWN it|it|PERS rather|rather|ADV strong|strong|ADJ .|_|_
+Now|now|ADV listen|listen|V to|to|PRP that|that|INDP !|_|_
+Was|be|V it|it|PERS meant|mean|V that|that|KS I|I|PERS should|shall|V be|be|V her|she|PERS cook|cook|N --|_|_ Jean|Jean|N [|_|_ Sharply|sharply|ADV ]|_|_ .|_|_
+Be|be|V so|so|ADV good|good|ADJ as=to|as=to|INFM use|use|V proper|proper|ADJ language|language|N when|when|ADV you|you|PERS speak|speak|V-3S of|of|PRP your|you|PERS mistress|mistress|N .|_|_
+Kristin|Kristin|N .|_|_
+Mistress|Mistress|N ?|_|_
+Jean|Jean|N .|_|_ Yes|yes|IN .|_|_
+Kristin|Kristin|N .|_|_ No|no|DET --|_|_ hear|hear|V !|_|_
+Listen|listen|V to|to|PRP him|he|PERS !|_|_
+Jean|Jean|N .|_|_ Yes|yes|IN ,|_|_ you|you|PERS listen|listen|V-3S --|_|_ you|you|PERS need|need|V-3S to|to|PRP ,|_|_ and|and|KC talk|talk|V-3S less|little|ADV .|_|_
+Miss=Julie|Miss=Julie|N is|be|V your|you|PERS mistress|mistress|N and|and|KC for|for|PRP the|the|ART same|same|DET reason|reason|N that|that|KS you|you|PERS do|do|UNKNOWN not|not|ADV respect|respect|V her|she|PERS now|now|ADV you|you|PERS should|shall|V not|not|ADV respect|respect|V yourself|you|PERS .|_|_
+Kristin|Kristin|N .|_|_ I|I|PERS have|have|UNKNOWN always|always|ADV had|have|UNKNOWN so|so|ADV much|much|DET respect|respect|N for|for|PRP myself|I|PERS --|_|_ Jean|Jean|N .|_|_ That|that|INDP you|you|PERS never|never|ADV had|have|UNKNOWN any|any|DET left|left|N for|for|PRP others|other|INDP !|_|_
+Kristin|Kristin|N .|_|_ I|I|PERS have|have|UNKNOWN never|never|ADV lowered|lower|UNKNOWN my|I|PERS position|position|N .|_|_
+Let|let|V any|any|DET one|one|NUM say|say|V ,|_|_ if|if|KS they|they|PERS can|can|V ,|_|_ that|that|KS the|the|ART Count's|count|N cook|cook|N has|have|UNKNOWN had|have|UNKNOWN anything|anything|INDP to|to|INFM do|do|UNKNOWN with|with|PRP the|the|ART riding|riding|N master|master|N or|or|KC the|the|ART swineherd|swineherd|N .|_|_
+Let|let|V them|they|PERS come|come|UNKNOWN and|and|KC say|say|V it|it|PERS !|_|_
+Jean|Jean|N .|_|_ Yes|yes|IN ,|_|_ you|you|PERS happened|happen|V to|to|INFM get|get|UNKNOWN a|a|ART fine|fine|ADJ fellow|fellow|N .|_|_ That|that|INDP was|be|V your|you|PERS good|good|ADJ luck|luck|N .|_|_ Kristin|Kristin|N .|_|_ Yes|yes|IN ,|_|_ a|a|ART fine|fine|ADJ fellow|fellow|N --|_|_ who|who|INDP sells|sell|V the|the|ART Count's|count|N oats|oats|N from|from|PRP his|he|PERS stable|stable|N .|_|_ Jean|Jean|N .|_|_
+What's|What|N that|that|INDP ?|_|_
+Jean|Jean|N .|_|_ And|and|KC you|you|PERS can_|can|V _n't|not|ADV have|have|UNKNOWN respect|respect|N for|for|PRP your|you|PERS master|master|N and|and|KC mistress|mistress|N any|any|DET longer|long|ADV --|_|_ you|you|PERS ,|_|_ you|you|PERS !|_|_
+Kristin|Kristin|N [|_|_ Glad|glad|ADJ to|to|INFM change|change|V the|the|ART subject|subject|N ]|_|_ .|_|_
+Are|be|V-1/3S you|you|PERS coming|come|UNKNOWN to|to|INFM church|church|V with|with|PRP me|I|PERS ?|_|_
+You|you|PERS need|need|V-3S a|a|ART good|good|ADJ sermon|sermon|N for|for|PRP your|you|PERS actions|action|N .|_|_
+Jean|Jean|N .|_|_ No|no|DET ,|_|_ I_|I|PERS _m|be|V not|not|ADV going|go|V to|to|PRP church|church|N today|today|ADV .|_|_
+You|you|PERS can|can|V go|go|UNKNOWN alone|alone|ADV --|_|_ and|and|KC confess|confess|V your|you|PERS doings|doings|N .|_|_
+Kristin|Kristin|N .|_|_ Yes|yes|IN ,|_|_ that|that|KS I|I|PERS shall|shall|V do|do|UNKNOWN ,|_|_ and|and|KC I|I|PERS shall|shall|V return|return|UNKNOWN with|with|PRP so|so|ADV much|much|DET forgiveness|forgiveness|N that|that|INDP there|there|ADV will|will|V be|be|V enough|enough|INDP for|for|PRP you|you|PERS too|too|ADV .|_|_
+Do|do|UNKNOWN you|you|PERS believe|believe|V that|that|INDP ,|_|_ Kristin|Kristin|N ?|_|_ Kristin|Kristin|N .|_|_
+That|that|INDP is|be|V my|I|PERS life's|life|N belief|belief|N ,|_|_ as|as|ADV true|true|ADJ as|as|KS I|I|PERS stand|stand|UNKNOWN here|here|ADV .|_|_ And|and|KC that|that|INDP was|be|V my|I|PERS childhood's|childhood|N belief|belief|N that|that|KS I|I|PERS have|have|UNKNOWN kept|keep|V since|since|PRP my|I|PERS youth|youth|N ,|_|_ Miss=Julie|Miss=Julie|N .|_|_
+And|and|KC where|where|ADV sin|sin|N overflows|overflow|V ,|_|_ there|there|ADV mercy|mercy|N overflows|overflow|V also|also|ADV .|_|_ Julie|Julie|N .|_|_
+Oh|oh|IN ,|_|_ if|if|KS I|I|PERS only|only|ADV had|have|UNKNOWN your|you|PERS faith|faith|N .|_|_ Oh|oh|IN ,|_|_ if|if|KS --|_|_
+Who|who|INDP are|be|V-1/3S the|the|ART chosen|chosen|N ?|_|_
+Kristin|Kristin|N .|_|_ That|that|INDP is|be|V the|the|ART great|great|ADJ secret|secret|N of|of|PRP the|the|ART Kingdom=of=Grace|Kingdom=of=Grace|N ,|_|_ and|and|KC the|the|ART Lord|Lord|N has|have|UNKNOWN no|no|DET respect|respect|N for|for|PRP persons|person|N .|_|_
+But|but|KC there|there|ADV the|the|ART last|last|ADV shall|shall|V be|be|V first|first|NUM .|_|_
+Julie|Julie|N .|_|_
+But|but|KC then|then|ADV has|have|UNKNOWN he|he|PERS respect|respect|N for|for|PRP the|the|ART last|last|ADJ --|_|_ the|the|ART lowliest|lowly|ADJ person|person|N ?|_|_
+Kristin|Kristin|N [|_|_ Continuing|continuing|N ]|_|_ .|_|_
+It|it|PERS is|be|V easier|easy|ADJ for|for|PRP a|a|ART camel|camel|N to|to|INFM pass|pass|UNKNOWN through|through|PRP the|the|ART eye|eye|N of|of|PRP a|a|ART needle|needle|N than|than|PRP for|for|PRP a|a|ART rich|rich|ADJ man|man|N to|to|INFM enter|enter|UNKNOWN the|the|ART Kingdom=of=Heaven|Kingdom=of=Heaven|N .|_|_ That's|That|N the|the|ART way|way|N it|it|PERS is|be|V ,|_|_ Miss=Julie|Miss=Julie|N .|_|_
+However|however|ADV --|_|_ now|now|ADV I|I|PERS am|be|V going|go|V --|_|_ alone|alone|ADV .|_|_
+And|and|KC on|on|PRP any|any|DET way|way|N I|I|PERS shall|shall|V stop|stop|UNKNOWN in|in|PRP and|and|KC tell|tell|V the|the|ART stable|stable|N boy|boy|N not|not|ADV to|to|INFM let|let|V any|any|DET horses|horse|N go|go|UNKNOWN out|out|ADV in=case|in=case|KS any|any|DET one|one|NUM wants|want|UNKNOWN to|to|INFM get|get|UNKNOWN away|away|ADV before|before|KS the|the|ART Count|count|N comes|come|UNKNOWN home|home|ADV .|_|_
+Good|good|ADJ bye|bye|IN .|_|_ [|_|_ Exit|exit|N Kristin|Kristin|N .|_|_
+]|_|_ Jean|Jean|N .|_|_ Such|such|DET a|a|ART devil|devil|N .|_|_
+And|and|KC all|all|DET this|this|INDP on=account=of|on=account=of|PRP your|you|PERS confounded|confounded|ADJ canary|canary|N !|_|_
+Julie|Julie|N [|_|_ Tired|tire|V ]|_|_ .|_|_ Oh|oh|IN ,|_|_ do_|do|UNKNOWN _n't|not|ADV speak|speak|V of|of|PRP the|the|ART canary|canary|N --|_|_ do|do|UNKNOWN you|you|PERS see|see|UNKNOWN any|any|DET way|way|N out|out|ADV --|_|_ any|any|DET end|end|N to|to|PRP this|this|INDP ?|_|_ Jean|Jean|N [|_|_ Thinking|think|V ]|_|_ .|_|_ No.|no.|UNKNOWN Julie|Julie|N .|_|_
+What|what|INDP would|will|V you|you|PERS do|do|UNKNOWN in|in|ADV my|I|PERS place|place|N ?|_|_
+Jean|Jean|N .|_|_ In|in|PRP your|you|PERS place|place|N --|_|_ wait|wait|V-3S .|_|_
+As|as|PRP a|a|ART noble|noble|ADJ lady|Lady|N ,|_|_ as|as|PRP a|a|ART woman|woman|N --|_|_ fallen|fallen|ADJ --|_|_ I|I|PERS do_|do|UNKNOWN _n't|not|ADV know|know|UNKNOWN .|_|_
+Yes|yes|IN ,|_|_ now|now|ADV I|I|PERS know|know|UNKNOWN .|_|_
+Julie|Julie|N [|_|_ She|she|PERS takes|take|UNKNOWN up|up|ADV razor|razor|N from|from|PRP table|table|N and|and|KC makes|make|UNKNOWN gestures|gesture|N saying|say|V ]|_|_ This|this|INDP ?|_|_
+Jean|Jean|N .|_|_ Yes|yes|IN .|_|_
+But|but|KC _I_|_I_|N should|shall|V not|not|ADV do|do|UNKNOWN it|it|PERS ,|_|_ mark|mark|UNKNOWN you|you|PERS ,|_|_ for|for|PRP there|there|ADV is|be|V a|a|ART difference|difference|N between|between|PRP us|we|PERS .|_|_
+Julie|Julie|N .|_|_ Because|because|KS you|you|PERS are|be|V-1/3S a|a|ART man|man|N and|and|KC I|I|PERS am|be|V a|a|ART woman|woman|N ?|_|_
+What|what|INDP other|other|DET difference|difference|N is|be|V there|there|ADV ?|_|_
+Jean|Jean|N .|_|_ That|that|DET very|very|ADJ difference|difference|N --|_|_ of|of|PRP man|man|N and|and|KC woman|woman|N .|_|_
+Julie|Julie|N [|_|_ Razor|razor|N in-hand|in-hand|ADV ]|_|_ .|_|_
+I|I|PERS want|want|UNKNOWN to|to|INFM do|do|UNKNOWN it|it|PERS --|_|_ but|but|KC I|I|PERS can_|can|V _n't|not|ADV .|_|_
+My|I|PERS father|father|N could_|can|V _n't|not|ADV either|either|ADV that|that|DET time|time|N when|when|ADV he|he|PERS should|shall|V have|have|UNKNOWN done|do|UNKNOWN it|it|PERS .|_|_ Jean|Jean|N .|_|_
+No|no|DET ,|_|_ he|he|PERS was|be|V right|right|ADJ ,|_|_ not|not|ADV to|to|INFM do|do|UNKNOWN it|it|PERS --|_|_ he|he|PERS had|have|UNKNOWN to|to|INFM avenge|avenge|V himself|he|PERS first|first|ADV .|_|_
+Julie|Julie|N .|_|_
+And|and|KC now|now|ADV my|I|PERS mother|mother|N revenges|revenge|V herself|she|PERS again|again|ADV through|through|PRP me|I|PERS .|_|_ Jean|Jean|N .|_|_
+Have_|have|UNKNOWN _n't|not|ADV you|you|PERS loved|love|UNKNOWN your|you|PERS father|father|N ,|_|_ Miss=Julie|Miss=Julie|N ?|_|_
+Julie|Julie|N .|_|_ Yes|yes|IN ,|_|_ deeply|deeply|ADV .|_|_
+But|but|KC I|I|PERS have|have|UNKNOWN probably|probably|UNKNOWN hated|hate|V him|he|PERS too|too|ADV ,|_|_ I|I|PERS must|must|V have|have|UNKNOWN --|_|_ without|without|PRP being|be|V aware|aware|ADJ of|of|PRP it|it|PERS .|_|_
+And|and|KC it|it|PERS is|be|V due=to|due=to|PRP my|I|PERS father's|father|N training|train|V that|that|INDP I|I|PERS have|have|UNKNOWN learned|learn|V to|to|INFM scorn|scorn|V my|I|PERS own|own|DET sex|sex|N .|_|_
+Between|between|PRP them|they|PERS both|both|INDP they|they|PERS have|have|UNKNOWN made|make|UNKNOWN me|I|PERS half|half|DET man|man|N ,|_|_ half|half|N woman|woman|N .|_|_
+Whose|who|DET is|be|V the|the|ART fault|fault|N for|for|PRP what|what|INDP has|have|UNKNOWN happened|happen|V --|_|_ my|I|PERS father's|father|N ?|_|_
+My|I|PERS mother's|mother|N ?|_|_
+My|I|PERS own|own|DET ?|_|_
+I|I|PERS have_|have|UNKNOWN _n't|not|ADV anything|anything|INDP of|of|PRP my|I|PERS own|own|DET .|_|_ I|I|PERS have_|have|UNKNOWN _n't|not|ADV a|a|ART thought|thought|N which|which|DET was|be|V not|not|ADV nay|nay|N father's|father|N --|_|_ not|not|ADV a|a|ART passion|passion|N that|that|INDP was_|be|V _n't|not|ADV my|I|PERS mother's|mother|N .|_|_ And|and|KC last=of=all|last=of=all|ADV from|from|PRP my|I|PERS betrothed|betrothed|N the|the|ART idea|idea|UNKNOWN that|that|KS all|all|DET people|people|N are|be|V-1/3S equal|equal|ADJ .|_|_ For|for|PRP that|that|INDP I|I|PERS now|now|ADV call|call|UNKNOWN him|he|PERS a|a|ART wretch|wretch|N .|_|_
+How|how|ADV can|can|V it|it|PERS be|be|V my|I|PERS own|own|DET fault|fault|N then|then|ADV ?|_|_
+Throw|throw|UNKNOWN the|the|ART burden|burden|N on|on|PRP Jesus|Jesus|N as|as|KS Kristin|Kristin|N did|do|UNKNOWN ?|_|_ No|no|DET ,|_|_ I|I|PERS am|be|V too|too|ADV proud|proud|ADJ ,|_|_ too|too|ADV intelligent|intelligent|ADJ ,|_|_ thanks=to|thanks=to|PRP my|I|PERS father's|father|N teaching|teaching|N .|_|_ --|_|_ --|_|_ And|and|KC that|that|KS a|a|ART rich|rich|ADJ man|man|N can_|can|V _not|not|ADV enter|enter|UNKNOWN the|the|ART Kingdom=of=Heaven|Kingdom=of=Heaven|N --|_|_ that|that|INDP is|be|V a|a|ART lie|lie|N ,|_|_ and|and|KC Kristin|Kristin|N ,|_|_ who|who|INDP has|have|UNKNOWN money|money|N in|in|PRP the|the|ART savings|savings|N bank|bank|N --|_|_ she|she|PERS surely|surely|ADV can_|can|V _not|not|ADV enter|enter|UNKNOWN there|there|ADV .|_|_
+Whose|who|DET is|be|V the|the|ART fault|fault|N ?|_|_
+What|what|INDP does|do|UNKNOWN it|it|PERS concern|concern|V us|we|PERS whose|who|DET fault|fault|N it|it|PERS is|be|V ?|_|_
+It|it|PERS is|be|V I|I|PERS who|who|INDP must|must|V bear|bear|UNKNOWN the|the|ART burden|burden|N and|and|KC the|the|ART consequences|consequence|N .|_|_ Jean|Jean|N .|_|_
+Yes|yes|IN ,|_|_ but|but|KC --|_|_ --|_|_ [|_|_ Two|two|NUM sharp|sharp|ADJ rings|ring|N on|on|PRP bell|Bell|N are|be|V-1/3S heard|hear|V .|_|_
+Julie|Julie|N starts|start|V to|to|PRP her|she|PERS feet|foot|N .|_|_
+Jean|Jean|N changes|change|V his|he|PERS coat|coat|N .|_|_ ]|_|_
+Jean|Jean|N .|_|_ The|the|ART Count|count|N --|_|_ has|have|UNKNOWN returned|return|UNKNOWN .|_|_
+Julie|Julie|N .|_|_ Now|now|ADV he|he|PERS has|have|UNKNOWN seen|see|UNKNOWN the|the|ART desk|desk|N !|_|_
+Jean|Jean|N [|_|_ Speaking|speaking|N in|in|PRP the|the|ART tube|tube|N ]|_|_ .|_|_ It|it|PERS is|be|V Jean|Jean|N ,|_|_ Excellency|Excellency|N .|_|_ [|_|_ Listens|listen|V ]|_|_ .|_|_
+Yes|yes|IN ,|_|_ Excellency|Excellency|N .|_|_ [|_|_ Listens|listen|V ]|_|_ .|_|_
+Yes|yes|IN ,|_|_ Excellency|Excellency|N ,|_|_ --|_|_ right=away|right=away|ADV --|_|_ immediately|immediately|ADV ,|_|_ Excellency|Excellency|N .|_|_
+Yes|yes|IN --|_|_ in|in|PRP half|half|DET an|a|ART hour|hour|N .|_|_
+Julie|Julie|N [|_|_ In|in|PRP great|great|ADJ agitation|agitation|N ]|_|_ .|_|_
+What|what|INDP did|do|UNKNOWN he|he|PERS say|say|V ?|_|_
+In|in|PRP Heaven's|Heaven|N name|name|N ,|_|_ what|what|INDP did|do|UNKNOWN he|he|PERS say|say|V ?|_|_
+Jean|Jean|N .|_|_ He|he|PERS wants|want|UNKNOWN his|he|PERS boots|boot|N and|and|KC coffee|coffee|N in|in|PRP a|a|ART half|half|N hour|hour|N .|_|_
+Julie|Julie|N .|_|_ In|in|PRP half|half|DET an|a|ART hour|hour|N then|then|ADV .|_|_
+Oh|oh|IN ,|_|_ I_|I|PERS _m|be|V so|so|ADV tired|tired|ADJ --|_|_ I_|I|PERS _m|be|V incapable|incapable|ADJ of|of|PRP feeling|feeling|N ,|_|_ not|not|ADV able|able|ADJ to|to|INFM be|be|V sorry|sorry|ADJ ,|_|_ not|not|ADV able|able|ADJ to|to|INFM go|go|UNKNOWN ,|_|_ not|not|ADV able|able|ADJ to|to|INFM stay|stay|UNKNOWN ,|_|_ not|not|ADV able|able|ADJ to|to|INFM live|live|V --|_|_ not|not|ADV able|able|ADJ to|to|INFM die|die|UNKNOWN .|_|_
+Help|help|V me|I|PERS now|now|ADV .|_|_
+Command|command|V me|I|PERS --|_|_ I|I|PERS will|will|V obey|obey|V like|like|PRP a|a|ART dog|dog|N .|_|_
+Do|do|UNKNOWN me|I|PERS this|this|DET last|last|V service|service|N save|save|V my|I|PERS honor|honor|N .|_|_ Save|save|V his|he|PERS name|name|N .|_|_
+You|you|PERS know|know|UNKNOWN what|what|INDP I|I|PERS have|have|UNKNOWN the|the|ART will|will|N to|to|INFM do|do|UNKNOWN --|_|_ but|but|KC can_|can|V _not|not|ADV do|do|UNKNOWN .|_|_
+You|you|PERS will|will|V it|it|PERS and|and|KC command|command|V-3S me|I|PERS to|to|INFM execute|execute|V your|you|PERS will|will|N .|_|_
+Jean|Jean|N .|_|_ I|I|PERS do_|do|UNKNOWN _n't|not|ADV know|know|UNKNOWN why|why|ADV --|_|_ but|but|KC now|now|ADV I|I|PERS can_|can|V _n't|not|ADV either|either|ADV .|_|_ --|_|_ I|I|PERS do_|do|UNKNOWN _n't|not|ADV understand|understand|V myself|I|PERS .|_|_ It|it|PERS is|be|V absolutely|absolutely|ADV as=though|as=though|KS this|this|DET coat|coat|N does|do|UNKNOWN it|it|PERS --|_|_ but|but|KC I|I|PERS can_|can|V _n't|not|ADV command|command|V you|you|PERS now|now|ADV .|_|_
+And|and|KC since|since|PRP the|the|ART Count|count|N spoke|speak|V to|to|PRP me|I|PERS --|_|_ --|_|_ I|I|PERS can_|can|V _n't|not|ADV account|account|V for|for|PRP it|it|PERS --|_|_ but|but|KC oh|oh|IN ,|_|_ it|it|PERS is|be|V that|that|DET damned|damned|ADJ servant|servant|N in|in|PRP my|I|PERS back|back|N --|_|_ I|I|PERS believe|believe|V-3S if|if|KS the|the|ART Count|count|N came|come|UNKNOWN in|in|ADV here|here|ADV now|now|ADV and|and|KC told|tell|V me|I|PERS to|to|INFM cut|cut|UNKNOWN my|I|PERS throat|throat|N I|I|PERS would|will|V do|do|UNKNOWN it|it|PERS on|on|PRP the|the|ART spot|spot|N .|_|_
+Julie|Julie|N .|_|_ Make=believe|make=believe|ADJ you|you|PERS are|be|V-1/3S he|he|PERS --|_|_ and|and|KC I|I|PERS you|you|PERS .|_|_
+You|you|PERS could|can|V act|act|V so|so|ADV well|well|ADV a|a|ART little|little|INDP while|while|KS ago|ago|ADV when|when|ADV you|you|PERS knelt|kneel|UNKNOWN at|at|PRP my|I|PERS feet|foot|N .|_|_
+Then|then|ADV you|you|PERS were|be|V-1/3S a|a|ART nobleman|nobleman|N --|_|_ or|or|KC have_|have|UNKNOWN _n't|not|ADV you|you|PERS ever|ever|ADV been|be|V at|at|PRP the|the|ART theatre|theatre|N and|and|KC seen|see|UNKNOWN the|the|ART hypnotist|hypnotist|N --|_|_ [|_|_ Jean|Jean|N nods|nod|N ]|_|_ He|he|PERS says|say|V to|to|PRP his|he|PERS subject|subject|N «|_|_ Take=the=broom|Take=the=broom|N ,|_|_ »|_|_ and|and|KC he|he|PERS takes|take|UNKNOWN it|it|PERS ;|_|_
+he|he|PERS says|say|V ,|_|_ «|_|_ Sweep|sweep|N ,|_|_ »|_|_ and|and|KC he|he|PERS sweeps|sweep|UNKNOWN .|_|_ Jean|Jean|N .|_|_
+Then|then|ADV the|the|ART subject|subject|N must|must|V be|be|V asleep|asleep|ADV !|_|_ Julie|Julie|N [|_|_ Ecstatically|ecstatical|ADV ]|_|_ .|_|_ I|I|PERS sleep|sleep|UNKNOWN already|already|ADV .|_|_
+Jean|Jean|N [|_|_ Takes|take|UNKNOWN razor|razor|N and|and|KC puts|put|UNKNOWN it|it|PERS in|in|PRP her|she|PERS hand|hand|N ]|_|_ .|_|_
+There|there|ADV is|be|V the|the|ART broom|broom|N ,|_|_ go|go|UNKNOWN now|now|ADV while|while|KS it_|it|PERS _s|be|V bright|bright|ADJ --|_|_ out|out|ADV to|to|PRP the|the|ART hay|hay|N loft|loft|N --|_|_ and|and|KC --|_|_ [|_|_ He|he|PERS whispers|whisper|V in|in|PRP her|she|PERS ear|ear|N .|_|_
+]|_|_ Julie|Julie|N [|_|_ Rousing|rouse|V herself|she|PERS ]|_|_ .|_|_ Thanks|thanks|IN .|_|_
+And|and|KC now|now|ADV I|I|PERS go|go|UNKNOWN to|to|INFM rest|rest|UNKNOWN .|_|_
+But|but|KC tell|tell|V-3S me|I|PERS this|this|INDP --|_|_ the|the|ART foremost|foremost|ADV may|may|V receive|receive|UNKNOWN the|the|ART gift|gift|N of|of|PRP Grace|grace|N ?|_|_
+Say|say|V it|it|PERS ,|_|_ even=if|even=if|KS you|you|PERS do_|do|UNKNOWN _n't|not|ADV believe|believe|V it|it|PERS .|_|_
+Jean|Jean|N .|_|_ The|the|ART foremost|foremost|ADJ ?|_|_
+No|no|DET ,|_|_ I|I|PERS can_|can|V _n't|not|ADV say|say|V that|that|INDP .|_|_
+But|but|KC wait|wait|N ,|_|_ Miss=Julie|Miss=Julie|N --|_|_ you|you|PERS are|be|V-1/3S no=longer|no=longer|ADV among|among|PRP the|the|ART foremost|foremost|ADJ since|since|KS you|you|PERS are|be|V-1/3S of|of|PRP the|the|ART lowliest|lowly|ADJ .|_|_
+Julie|Julie|N .|_|_ That's|That|N true|true|ADJ ,|_|_ I|I|PERS am|be|V the|the|ART lowliest|lowly|ADJ --|_|_ the|the|ART lowliest|lowly|ADJ of|of|PRP the|the|ART lowly|lowly|ADJ .|_|_
+Oh|oh|IN ,|_|_ now|now|ADV I|I|PERS can_|can|V _n't|not|ADV go|go|UNKNOWN .|_|_
+Tell|Tell|N me|I|PERS once=more|once=more|ADV that|that|INDP I|I|PERS must|must|V go|go|UNKNOWN .|_|_
+Jean|Jean|N .|_|_
+No|no|DET ,|_|_ now|now|ADV I|I|PERS can_|can|V _not|not|ADV either|either|ADV --|_|_ I|I|PERS can_|can|V _not|not|ADV .|_|_
+Julie|Julie|N .|_|_
+And|and|KC the|the|ART first|first|NUM shall|shall|V be|be|V last|last|ADJ --|_|_ --|_|_ --|_|_
+Jean|Jean|N .|_|_ Do_|do|UNKNOWN _n't|not|ADV think|think|V .|_|_
+You|you|PERS take|take|UNKNOWN my|I|PERS strength|strength|N from|from|PRP me|I|PERS ,|_|_ too|too|ADV ,|_|_ so=that|so=that|KS I|I|PERS become|become|V-3S cowardly|cowardly|ADJ .|_|_
+--|_|_ What|what|INDP --|_|_ --|_|_ I|I|PERS thought|think|V I|I|PERS heard|hear|V the|the|ART bell|Bell|N !|_|_
+--|_|_ --|_|_ No|no|DET !|_|_
+To|to|INFM be|be|V afraid|afraid|ADJ of|of|PRP the|the|ART sound|sound|N of|of|PRP is|be|V bell|Bell|N !|_|_
+But|but|KC it_|it|PERS _s|be|V not|not|ADV the|the|ART bell|Bell|N --|_|_ it_|it|PERS _s|be|V someone|someone|INDP behind|behind|PRP the|the|ART bell|Bell|N ,|_|_ the|the|ART hand|hand|N that|that|INDP sets|set|UNKNOWN the|the|ART lull|lull|N in|in|PRP motion|motion|N --|_|_ and|and|KC something=else|something=else|INDP that|that|INDP sets|set|UNKNOWN the|the|ART land|land|N in|in|PRP motion|motion|N .|_|_ But|but|KC stop|stop|UNKNOWN your|you|PERS cars|car|N ,|_|_ stop|stop|UNKNOWN your|you|PERS ears|ear|N .|_|_
+Then|then|ADV he|he|PERS will|will|V only|only|ADV ring|ring|UNKNOWN louder|loud|ADJ and|and|KC keep|keep|V on|on|ADV ringing|ring|UNKNOWN until|until|KS it_|it|PERS _s|be|V answered|answer|V --|_|_ and|and|KC then|then|ADV it|it|PERS is|be|V too|too|ADV late|late|ADJ !|_|_
+Then|then|ADV come|come|UNKNOWN the|the|ART police|police|N and|and|KC then|then|ADV --|_|_ [|_|_ Two|two|NUM loud|loud|ADJ rings|ring|N on|on|PRP bell|Bell|N are|be|V-1/3S heard|hear|V ,|_|_ Jean|Jean|N falls|fall|V in|in|PRP a|a|ART heap|heap|N for|for|PRP a|a|ART moment|moment|N ,|_|_ but|but|KC straightens|straighten|UNKNOWN up|up|ADV immediately|immediately|ADV .|_|_
+]|_|_ It|it|PERS is|be|V horrible|horrible|ADJ !|_|_
+But|but|KC there|there|ADV is|be|V no|no|DET other|other|DET way|way|N .|_|_
+Go|go|UNKNOWN !|_|_
