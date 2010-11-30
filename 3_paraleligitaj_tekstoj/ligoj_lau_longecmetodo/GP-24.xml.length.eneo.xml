@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE cesAlign PUBLIC "-//CES//DTD XML cesAlign//EN" "">
+
+<cesAlign toDoc="eo/GP-24.xml" version="1.0" fromDoc="GP-24.xml">
+ <linkGrp targType="s" toDoc="eo/GP-24.xml" fromDoc="GP-24.xml">
+<link certainty="36" xtargets="47848;41112" id="SL0.1" />
+<link certainty="-204" xtargets="47849 47850;41113" id="SL0.2" />
+<link certainty="27" xtargets="47851;41114" id="SL0.3" />
+<link certainty="38" xtargets="47852;41115" id="SL0.4" />
+<link certainty="40" xtargets="47853;41116" id="SL0.5" />
+<link certainty="34" xtargets="47854;41117" id="SL0.6" />
+<link certainty="45" xtargets="47855;41118" id="SL0.7" />
+<link certainty="24" xtargets="47856;41119" id="SL0.8" />
+<link certainty="7" xtargets="47857;41120" id="SL0.9" />
+<link certainty="24" xtargets="47858;41121" id="SL0.10" />
+<link certainty="67" xtargets="47859;41122" id="SL0.11" />
+<link certainty="-1349" xtargets="47860 47861;41123" id="SL0.12" />
+<link certainty="-1024" xtargets="47862;" id="SL0.13" />
+<link certainty="-911" xtargets="47863 47864;41124" id="SL0.14" />
+<link certainty="-870" xtargets="47865 47866;41125" id="SL0.15" />
+<link certainty="55" xtargets="47867;41126" id="SL0.16" />
+<link certainty="97" xtargets="47868;41127 41128" id="SL0.17" />
+<link certainty="19" xtargets="47869;41129" id="SL0.18" />
+<link certainty="24" xtargets="47870;41130" id="SL0.19" />
+<link certainty="296" xtargets="47871;41131" id="SL0.20" />
+<link certainty="189" xtargets="47872;41132" id="SL0.21" />
+<link certainty="2" xtargets="47873;41133" id="SL0.22" />
+<link certainty="9" xtargets="47874;41134" id="SL0.23" />
+<link certainty="-34" xtargets="47875 47876;41135 41136" id="SL0.24" />
+<link certainty="-769" xtargets="47877 47878;41137 41138" id="SL0.25" />
+<link certainty="16" xtargets="47879;41139" id="SL0.26" />
+<link certainty="82" xtargets="47880;41140" id="SL0.27" />
+<link certainty="18" xtargets="47881;41141" id="SL0.28" />
+<link certainty="5" xtargets="47882;41142" id="SL0.29" />
+<link certainty="37" xtargets="47883;41143" id="SL0.30" />
+<link certainty="25" xtargets="47884;41144" id="SL0.31" />
+<link certainty="-411" xtargets="47885 47886;41145" id="SL0.32" />
+<link certainty="98" xtargets="47887;41146" id="SL0.33" />
+<link certainty="157" xtargets="47888;41147" id="SL0.34" />
+<link certainty="10" xtargets="47889;41148" id="SL0.35" />
+<link certainty="-328" xtargets="47890 47891;41149" id="SL0.36" />
+<link certainty="76" xtargets="47892;41150" id="SL0.37" />
+<link certainty="19" xtargets="47893;41151" id="SL0.38" />
+<link certainty="52" xtargets="47894;41152" id="SL0.39" />
+<link certainty="16" xtargets="47895;41153" id="SL0.40" />
+<link certainty="-150" xtargets="47896 47897;41154" id="SL0.41" />
+<link certainty="-374" xtargets="47898;41155 41156" id="SL0.42" />
+<link certainty="7" xtargets="47899;41157" id="SL0.43" />
+<link certainty="-424" xtargets="47900;41158 41159" id="SL0.44" />
+<link certainty="29" xtargets="47901;41160" id="SL0.45" />
+<link certainty="61" xtargets="47902;41161" id="SL0.46" />
+<link certainty="52" xtargets="47903;41162" id="SL0.47" />
+<link certainty="22" xtargets="47904;41163" id="SL0.48" />
+<link certainty="27" xtargets="47905;41164" id="SL0.49" />
+<link certainty="27" xtargets="47906;41165" id="SL0.50" />
+<link certainty="-835" xtargets="47907 47908;41166" id="SL0.51" />
+<link certainty="-911" xtargets="47909 47910;41167" id="SL0.52" />
+<link certainty="47" xtargets="47911;41168" id="SL0.53" />
+<link certainty="8" xtargets="47912;41169" id="SL0.54" />
+<link certainty="7" xtargets="47913;41170" id="SL0.55" />
+<link certainty="12" xtargets="47914;41171" id="SL0.56" />
+<link certainty="-1617" xtargets="47915;41172 41173" id="SL0.57" />
+<link certainty="47" xtargets="47916;41174" id="SL0.58" />
+<link certainty="-466" xtargets="47917;41175 41176" id="SL0.59" />
+<link certainty="-270" xtargets="47918 47919;41177 41178" id="SL0.60" />
+<link certainty="29" xtargets="47920;41179" id="SL0.61" />
+<link certainty="144" xtargets="47921;41180" id="SL0.62" />
+<link certainty="-468" xtargets="47922;41181 41182" id="SL0.63" />
+<link certainty="-1024" xtargets="47923;41183 41184" id="SL0.64" />
+<link certainty="-773" xtargets="47924;41185 41186" id="SL0.65" />
+<link certainty="8" xtargets="47925;41187" id="SL0.66" />
+<link certainty="10" xtargets="47926;41188" id="SL0.67" />
+<link certainty="35" xtargets="47927;41189" id="SL0.68" />
+<link certainty="61" xtargets="47928;41190" id="SL0.69" />
+<link certainty="48" xtargets="47929;41191" id="SL0.70" />
+<link certainty="25" xtargets="47930;41192" id="SL0.71" />
+<link certainty="106" xtargets="47931;41193" id="SL0.72" />
+<link certainty="-440" xtargets="47932;41194 41195" id="SL0.73" />
+<link certainty="174" xtargets="47933;41196" id="SL0.74" />
+<link certainty="14" xtargets="47934;41197" id="SL0.75" />
+<link certainty="3" xtargets="47935;41198" id="SL0.76" />
+<link certainty="-76" xtargets="47936 47937;41199" id="SL0.77" />
+<link certainty="95" xtargets="47938;41200" id="SL0.78" />
+<link certainty="38" xtargets="47939;41201" id="SL0.79" />
+<link certainty="166" xtargets="47940;41202" id="SL0.80" />
+<link certainty="-83" xtargets="47941 47942;41203 41204" id="SL0.81" />
+<link certainty="214" xtargets="47943 47944;41205 41206" id="SL0.82" />
+<link certainty="26" xtargets="47945;41207" id="SL0.83" />
+<link certainty="33" xtargets="47946;41208" id="SL0.84" />
+<link certainty="-377" xtargets="47947 47948;41209" id="SL0.85" />
+<link certainty="7" xtargets="47949;41210" id="SL0.86" />
+<link certainty="11" xtargets="47950;41211" id="SL0.87" />
+<link certainty="2" xtargets="47951;41212" id="SL0.88" />
+<link certainty="-558" xtargets="47952 47953;41213" id="SL0.89" />
+<link certainty="40" xtargets="47954;41214" id="SL0.90" />
+<link certainty="55" xtargets="47955;41215" id="SL0.91" />
+<link certainty="8" xtargets="47956;41216" id="SL0.92" />
+<link certainty="26" xtargets="47957;41217" id="SL0.93" />
+<link certainty="14" xtargets="47958;41218" id="SL0.94" />
+<link certainty="35" xtargets="47959;41219" id="SL0.95" />
+<link certainty="30" xtargets="47960;41220" id="SL0.96" />
+<link certainty="15" xtargets="47961;41221" id="SL0.97" />
+<link certainty="45" xtargets="47962;41222" id="SL0.98" />
+<link certainty="100" xtargets="47963;41223" id="SL0.99" />
+<link certainty="-567" xtargets="47964;41224 41225" id="SL0.100" />
+<link certainty="30" xtargets="47965;41226" id="SL0.101" />
+<link certainty="102" xtargets="47966;41227" id="SL0.102" />
+<link certainty="-801" xtargets="47967;41228 41229" id="SL0.103" />
+<link certainty="-804" xtargets="47968;41230 41231" id="SL0.104" />
+<link certainty="65" xtargets="47969;41232" id="SL0.105" />
+<link certainty="9" xtargets="47970;41233" id="SL0.106" />
+<link certainty="49" xtargets="47971;41234" id="SL0.107" />
+<link certainty="4" xtargets="47972;41235" id="SL0.108" />
+<link certainty="-679" xtargets="47973 47974;41236" id="SL0.109" />
+<link certainty="-617" xtargets="47975 47976;41237" id="SL0.110" />
+<link certainty="0" xtargets="47977;41238" id="SL0.111" />
+<link certainty="17" xtargets="47978;41239" id="SL0.112" />
+<link certainty="25" xtargets="47979;41240" id="SL0.113" />
+<link certainty="15" xtargets="47980;41241" id="SL0.114" />
+<link certainty="63" xtargets="47981;41242" id="SL0.115" /></linkGrp>
+</cesAlign>
